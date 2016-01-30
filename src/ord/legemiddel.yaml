@@ -1,0 +1,32 @@
+!Concept
+label:
+  hidden:
+  - Legemidler @nb
+  - Legemiddel @nn
+  - Reseptfornyelse @nb
+  - Reseptfornying @nn
+  - Blå resept @nb
+  - Blå resept @nn
+  - Medisinutsalg @nb
+  - Medisinutsal @nn
+  - Apotek @nb
+  - Apotek @nn
+  - Reseptbestilling @nb
+  - Reseptbestilling @nn
+  - Medisin @nb
+  - Medisin @nn
+  - Medisinering @nb
+  - Medisinering @nn
+  preferred:
+  - Medicines @en
+  - Legemiddel @nb
+  - Lækjemiddel @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre sjukdom, symptom, skade eller smerte hos menneske og dyr. @nn
+relation:
+  broader:
+  - tema/helsetjenester

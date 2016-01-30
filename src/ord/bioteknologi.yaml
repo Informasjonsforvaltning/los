@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Genetiske undersøkelser @nb
+  - Genetiske undersøkingar @nn
+  - Fosterdiagnostikk @nb
+  - Fosterdiagnostikk @nn
+  - Genmodifisert mat @nb
+  - Genmodifisert mat @nn
+  - Genteknologi @nb
+  - Genteknologi @nn
+  preferred:
+  - Biotechnology @en
+  - Bioteknologi @nb
+  - Bioteknologi @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller eller delar av slike celler til å framstille produkt, eller til å modifisere og forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi. @nn
+relation:
+  broader:
+  - tema/folkehelse

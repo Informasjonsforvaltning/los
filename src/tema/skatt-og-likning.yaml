@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Taxation @en
+  - Skatt og likning @nb
+  - Skatt og likning @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skatter-og-avgifter

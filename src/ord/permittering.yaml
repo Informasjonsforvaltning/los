@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Temporary redundancy @en
+  - Permittering @nb
+  - Permittering @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Permittering inneber at arbeidstakaren vert heilt eller delvis løyst frå arbeidet på grunn av innskrenking i drifta eller arbeidsstans bestemt av arbeidsgjevar. @nn
+relation:
+  broader:
+  - tema/arbeidsliv

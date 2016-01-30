@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Kommunearkiv @nb
+  - Kommunearkiv @nn
+  - Lokalhistorisk arkiv @nb
+  - Lokalhistorisk arkiv @nn
+  - Riksarkivet @nb
+  - Riksarkivet @nn
+  - Statsarkiv @nb
+  - Statsarkiv @nn
+  - Byarkiv @nb
+  - Byarkiv @nn
+  preferred:
+  - Archives @en
+  - Arkiv @nb
+  - Arkiv @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid. @nn
+relation:
+  broader:
+  - tema/kultur

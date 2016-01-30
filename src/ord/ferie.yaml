@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Fellesferie @nb
+  - Fellesferie @nn
+  preferred:
+  - Holidays @en
+  - Ferie @nb
+  - Ferie @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før. Feriepengar er eige emneord. @nn
+relation:
+  broader:
+  - tema/arbeidsliv
+  related:
+  - ord/feriepenger

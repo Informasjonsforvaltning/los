@@ -1,0 +1,21 @@
+!Concept
+label:
+  hidden:
+  - Helsetrygdekort @nb
+  - Helsetrygdekort @nn
+  - Helseforsikring @nb
+  - Helseforsikring @nn
+  preferred:
+  - European Health Insurance @en
+  - Europeisk helsetrygdkort @nb
+  - Europeisk helsetrygdkort @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits. @nn
+relation:
+  broader:
+  - tema/utenlandsreiser
+  - tema/helsetjenester

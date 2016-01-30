@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - Kommunal utleiebolig @nb
+  - Kommunal utleigebustad @nn
+  - Midlertidig husvære @nb
+  - Mellombels husvære @nn
+  - Kommunal leilighet @nb
+  - Kommunal leilegheit @nn
+  - Midlertidig botilbud @nb
+  - Mellombels butilbod @nn
+  - Midlertidig bolig @nb
+  - Mellombels bustad @nn
+  preferred:
+  - Municipal housing @en
+  - Kommunal bolig @nb
+  - Kommunal bustad @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Bustad eigd av kommunen. Gjeld også utleige og ev. sal av kommunal bustad. @nn
+relation:
+  broader:
+  - tema/leie-og-utleie
+  - tema/botilbud

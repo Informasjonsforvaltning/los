@@ -1,0 +1,30 @@
+!Concept
+label:
+  hidden:
+  - Skifterett @nb
+  - Skifterett @nn
+  - Dødsboskifte @nb
+  - Dødsbuskifte @nn
+  - Dødsbo @nb
+  - Dødsbu @nn
+  - Uskifte @nb
+  - Uskifte @nn
+  - Uskiftet bo @nb
+  - Uskifta bu @nn
+  - Offentlig skifte @nb
+  - Offentleg skifte @nn
+  preferred:
+  - Division of inheritance @en
+  - Skifte @nb
+  - Skifte @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte. @nn
+relation:
+  broader:
+  - tema/doedsfall
+  related:
+  - ord/samlivsbrudd

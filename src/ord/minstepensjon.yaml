@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Basic pension @en
+  - Minstepensjon @nb
+  - Minstepensjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ei garantert minste pensjonsyting frå folketrygda. Gjeld for pensjonistar som har full trygdetid (40 år) og får ugraderte ytingar. Blir utbetalt uavhengig av tidlegare inntekt. @nn
+relation:
+  broader:
+  - tema/pensjon

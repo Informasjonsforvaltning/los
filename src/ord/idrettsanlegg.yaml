@@ -1,0 +1,58 @@
+!Concept
+label:
+  hidden:
+  - Hall @nb
+  - Hall @nn
+  - Skileikanlegg @nb
+  - Skileikanlegg @nn
+  - O-kart @nb
+  - O-kart @nn
+  - Badeanlegg @nb
+  - Badeanlegg @nn
+  - Idrettshall @nb
+  - Idrettshall @nn
+  - Fotballbane @nb
+  - Fotballbane @nn
+  - Skileikområde @nb
+  - Skileikområde @nn
+  - Lysanlegg @nb
+  - Lysanlegg @nn
+  - Skianlegg @nb
+  - Skianlegg @nn
+  - Idrettsplass @nb
+  - Idrettsplass @nn
+  - Uteanlegg @nb
+  - Uteanlegg @nn
+  - Treningstid @nb
+  - Treningstid @nn
+  - Alpinanlegg @nb
+  - Alpinanlegg @nn
+  - Idrettsbane @nb
+  - Idrettsbane @nn
+  - Lysløype @nb
+  - Lysløype @nn
+  - Ballbinge @nb
+  - Ballbinge @nn
+  - Ishall @nb
+  - Ishall @nn
+  - Skiløype @nb
+  - Skiløype @nn
+  - Skøytebane @nb
+  - Skøytebane @nn
+  - Gymnastikksal @nb
+  - Gymnastikksal @nn
+  - Orienteringskart @nb
+  - Orienteringskart @nn
+  preferred:
+  - Sports facilities @en
+  - Idrettsanlegg @nb
+  - Idrettsanlegg @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Anlegg som er lagt til rette for idrettsaktivitetar. @nn
+relation:
+  broader:
+  - tema/idrett

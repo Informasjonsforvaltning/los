@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Arbeidskontrakt @nb
+  - Arbeidskontrakt @nn
+  - Ansettelseskontrakt @nb
+  - Tilsetjingskontrakt @nn
+  - Ansettelsesforhold @nb
+  - Tilsetjingsforhold @nn
+  preferred:
+  - Work contracts @en
+  - Arbeidsavtale @nb
+  - Arbeidsavtale @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avtale som omtalar rettane og pliktene til arbeidsgjevar og arbeidstakar. @nn
+relation:
+  broader:
+  - tema/arbeidsliv

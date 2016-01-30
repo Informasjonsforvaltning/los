@@ -1,0 +1,30 @@
+!Concept
+label:
+  hidden:
+  - Billettbestilling @nb
+  - Billettbestilling @nn
+  - Danseskole @nb
+  - Danseskule @nn
+  - Dansekurs @nb
+  - Dansekurs @nn
+  - Folkedans @nb
+  - Folkedans @nn
+  - Ballett @nb
+  - Ballett @nn
+  - Leikarring @nb
+  - Leikarring @nn
+  preferred:
+  - Dance @en
+  - Dans @nb
+  - Dans @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kulturtilbod, dans, ballett o.l. @nn
+relation:
+  broader:
+  - tema/kultur
+  related:
+  - ord/musikk-og-kulturskole

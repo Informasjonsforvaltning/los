@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Parkplass @nb
+  - Parkplass @nn
+  preferred:
+  - Outdoor crèche @en
+  - Barnepark @nb
+  - Barnepark @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein barnepark er ei verksemd med ein eller fleire tilsette, utan krav til pedagogisk personale. Opningstid på maksimalt 20 timar pr. veke. Barneparkane fell utanfor lov om barnehagar. @nn
+relation:
+  broader:
+  - tema/barnehage

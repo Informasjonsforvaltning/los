@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Forced marriage @en
+  - Tvangsekteskap @nb
+  - Tvangsekteskap @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av partane er motvillig. @nn
+relation:
+  broader:
+  - tema/barnevern-og-familievern

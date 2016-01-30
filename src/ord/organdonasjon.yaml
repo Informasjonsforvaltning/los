@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Donorkort @nb
+  - Donorkort @nn
+  - Organdonor @nb
+  - Organdonor @nn
+  - Donor @nb
+  - Donor @nn
+  preferred:
+  - Organ donation @en
+  - Organdonasjon @nb
+  - Organdonasjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Organdonasjon er når ein organdonor gjev eitt eller fleire organ til andre. Som oftast skjer dette når donor er død, men ein levande person kan også avgje ei nyre og ein del av levera. @nn
+relation:
+  broader:
+  - tema/folkehelse

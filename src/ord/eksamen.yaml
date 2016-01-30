@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Sensor @nb
+  - Sensor @nn
+  - Avgangsprøve @nb
+  - Avgangsprøve @nn
+  - Fagprøve @nb
+  - Fagprøve @nn
+  - Svenneprøve @nb
+  - Sveineprøve @nn
+  - Kompetanseprøve @nb
+  - Kompetanseprøve @nn
+  preferred:
+  - Exams @en
+  - Eksamen @nb
+  - Eksamen @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avgangsprøve i grunnskule, vidaregåande skule, universitet og høgskular m.fl. @nn
+relation:
+  broader:
+  - tema/karakterer-og-evaluering

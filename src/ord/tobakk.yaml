@@ -1,0 +1,34 @@
+!Concept
+label:
+  hidden:
+  - Tobakksskade @nb
+  - Tobakksskade @nn
+  - Røykeslutt @nb
+  - Røykeslutt @nn
+  - Røykfri @nb
+  - Røykfri @nn
+  - Røyking @nb
+  - Røyking @nn
+  - Røyketelefonen @nb
+  - Røyketelefonen @nn
+  - Nikotin @nb
+  - Nikotin @nn
+  - Røykestopp @nb
+  - Røykestopp @nn
+  - Røykeavvenning @nb
+  - Røykeavvenning @nn
+  - Snus @nb
+  - Snus @nn
+  preferred:
+  - Tobacco @en
+  - Tobakk @nb
+  - Tobakk @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk. @nn
+relation:
+  broader:
+  - tema/folkehelse

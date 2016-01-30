@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - MinID digital identity @en
+  - MinID @nb
+  - MinID @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/personopplysninger

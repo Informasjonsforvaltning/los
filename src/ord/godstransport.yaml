@@ -1,0 +1,32 @@
+!Concept
+label:
+  hidden:
+  - Enkeltturtillatelse @nb
+  - Einskildturløyve @nn
+  - Spesialtransport @nb
+  - Spesialtransport @nn
+  - Transportbevilling @nb
+  - Transportbevilling @nn
+  - Vegliste @nb
+  - Vegliste @nn
+  - Fellesskapstillatelse @nb
+  - Fellesskapsløyve @nn
+  - Tungtransport @nb
+  - Tungtransport @nn
+  - Transportløyve @nb
+  - Transportløyve @nn
+  - Godsløyve @nb
+  - Godsløyve @nn
+  preferred:
+  - Freight transport @en
+  - Godstransport @nb
+  - Godstransport @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunane har det administrative ansvaret for løyveordningane. Privatpersonar eller t.d. eit idrettslag kan i einskildshøve gjennomføre transportoppdrag utan løyve. @nn
+relation:
+  broader:
+  - tema/yrkestransport

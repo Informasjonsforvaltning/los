@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Gatebelysning @nb
+  - Gatelys @nn
+  - Veglys @nb
+  - Veglys @nn
+  - Vegbelysning @nb
+  - Veglys @nn
+  - Veilys @nb
+  - Veglys @nn
+  - Veibelysning @nb
+  - Veglys @nn
+  preferred:
+  - Street lighting @en
+  - Gatelys @nb
+  - Gatelys @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/veg-og-vegtrafikk
+  - tema/tekniske-tjenester

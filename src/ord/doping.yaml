@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Doping @en
+  - Doping @nb
+  - Doping @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar. @nn
+relation:
+  broader:
+  - tema/idrett
+  related:
+  - ord/rustiltak

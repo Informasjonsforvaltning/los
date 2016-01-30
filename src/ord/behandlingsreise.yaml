@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Journey required to receive medical treatment @en
+  - Behandlingsreise @nb
+  - Behandlingsreise @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg. @nn
+relation:
+  broader:
+  - tema/helsetjenester
+  related:
+  - ord/syketransport

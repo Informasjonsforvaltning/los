@@ -1,0 +1,31 @@
+!Concept
+label:
+  hidden:
+  - Kjørekontor @nb
+  - Køyrekontor @nn
+  - Helseekspress @nb
+  - Helseekspress @nn
+  - Ambulanse @nb
+  - Ambulanse @nn
+  - Sykebil @nb
+  - Sjukebil @nn
+  - Sykehusbuss @nb
+  - Sjukehusbuss @nn
+  - Helsebuss @nb
+  - Helsebuss @nn
+  - Pasientreise @nb
+  - Pasientreise @nn
+  preferred:
+  - Patient transport @en
+  - Syketransport @nb
+  - Sjuketransport @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/transporttjenester
+  - tema/pasientrettigheter
+  related:
+  - ord/behandlingsreise
+  - ord/reiseutgifter

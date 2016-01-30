@@ -1,0 +1,19 @@
+!Concept
+label:
+  hidden:
+  - Rasisme @nb
+  - Rasisme @nn
+  - Antirasisme @nb
+  - Antirasisme @nn
+  - Diskriminering @nb
+  - Diskriminering @nn
+  preferred:
+  - Inclusion @en
+  - Inkludering @nb
+  - Inkludering @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/integrering

@@ -1,0 +1,36 @@
+!Concept
+label:
+  hidden:
+  - Deponi @nb
+  - Deponi @nn
+  - Elektrisk avfall @nb
+  - Elektrisk avfall @nn
+  - EE-avfall @nb
+  - EE-avfall @nn
+  - Giftig avfall @nb
+  - Giftig avfall @nn
+  - Spillolje @nb
+  - Spillolje @nn
+  - Miljøvern @nb
+  - Miljøvern @nn
+  - Miljøstasjon @nb
+  - Miljøstasjon @nn
+  - Elektronisk avfall @nb
+  - Elektronisk avfall @nn
+  - Spesialavfall @nb
+  - Spesialavfall @nn
+  preferred:
+  - Hazardous waste @en
+  - Farlig avfall @nb
+  - Farleg avfall @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avfall som det ikkje er tilrådeleg å behandle saman med anna hushaldsavfall eller næringsavfall på grunn av storleiken eller fordi det kan medføre alvorlig forureining eller fare for skade på menneske eller dyr. @nn
+relation:
+  broader:
+  - tema/avfallshaandtering
+  related:
+  - ord/renovasjon

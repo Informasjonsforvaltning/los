@@ -1,0 +1,39 @@
+!Concept
+label:
+  hidden:
+  - Skolebibliotek @nb
+  - Skulebibliotek @nn
+  - Universitetsbibliotek @nb
+  - Universitetsbibliotek @nn
+  - Bokbuss @nb
+  - Bokbuss @nn
+  - Høgskolebibliotek @nb
+  - Høgskulebibliotek @nn
+  - Bokbåt @nb
+  - Bokbåt @nn
+  - Folkeboksamling @nb
+  - Folkeboksamling @nn
+  - Folkebibliotek @nb
+  - Folkebibliotek @nn
+  - Høyskolebibliotek @nb
+  - Høgskulebibliotek @nn
+  - Fagbibliotek @nb
+  - Fagbibliotek @nn
+  - Læringssenter @nb
+  - Læringssenter @nn
+  - Fylkesbibliotek @nb
+  - Fylkesbibliotek @nn
+  preferred:
+  - Library services @en
+  - Bibliotektjenester @nb
+  - Bibliotektenester @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/bibliotek
+  - tema/hoeyere-utdanning
+  - tema/kultur
+  - tema/videregaaende-opplaering
+  - tema/grunnskoleopplaering

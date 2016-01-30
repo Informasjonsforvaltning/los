@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Lisensavgift @nb
+  - Lisensavgift @nn
+  - TV-lisens @nb
+  - TV-lisens @nn
+  preferred:
+  - Broadcasting licence fee @en
+  - Kringkastingsavgift @nb
+  - Kringkastingsavgift @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avgift som skal betalast av alle som har kringkastingsmottakar. Blir fastsett av Stortinget. @nn
+relation:
+  broader:
+  - tema/offentlige-avgifter
+  related:
+  - ord/kringkasting

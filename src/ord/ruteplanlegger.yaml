@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Veikart @nb
+  - Vegkart @nn
+  - Vegkart @nb
+  - Vegkart @nn
+  preferred:
+  - Route planner @en
+  - Ruteplanlegger @nb
+  - Ruteplanleggjar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og og informasjon om reistider mellom ulike reisemål. @nn
+relation:
+  broader:
+  - tema/veg-og-vegtrafikk

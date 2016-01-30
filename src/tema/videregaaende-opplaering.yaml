@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Upper secondary education @en
+  - Videregående opplæring @nb
+  - Vidaregåande opplæring @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skole-og-utdanning

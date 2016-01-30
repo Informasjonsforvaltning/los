@@ -1,0 +1,42 @@
+!Concept
+label:
+  hidden:
+  - Orkester @nb
+  - Orkester @nn
+  - Konsert @nb
+  - Konsert @nn
+  - Rockeverksted @nb
+  - Rockeverkstad @nn
+  - Kor @nb
+  - Kor @nn
+  - Korps @nb
+  - Korps @nn
+  - Opera @nb
+  - Opera @nn
+  - Billettbestilling @nb
+  - Billettbestilling @nn
+  - Konsertbillett @nb
+  - Konsertbillett @nn
+  - Sangkor @nb
+  - Songkor @nn
+  - Musikkverksted @nb
+  - Musikkverkstad @nn
+  - Skolekor @nb
+  - Skulekor @nn
+  - Skolekorps @nb
+  - Skulekorps @nn
+  preferred:
+  - Music @en
+  - Musikk @nb
+  - Musikk @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tilstelning der ein kan høyre på framføring av musikk. @nn
+relation:
+  broader:
+  - tema/kultur
+  related:
+  - ord/musikk-og-kulturskole

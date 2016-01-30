@@ -1,0 +1,37 @@
+!Concept
+label:
+  hidden:
+  - Parkeringskort @nb
+  - Parkeringskort @nn
+  - Parkeringsplass @nb
+  - Parkeringsplass @nn
+  - Parkeringsbot @nb
+  - Parkeringsbot @nn
+  - Avgiftsparkering @nb
+  - Avgiftsparkering @nn
+  - Parkeringsgebyr @nb
+  - Parkeringsgebyr @nn
+  - Parkeringstillatelse @nb
+  - Parkeringsløyve @nn
+  - Innfartsparkering @nb
+  - Innfartsparkering @nn
+  - Utfartsparkering @nb
+  - Utfartsparkering @nn
+  - Parkeringsavgift @nb
+  - Parkeringsavgift @nn
+  - Parkeringsløyve @nb
+  - Parkeringsløyve @nn
+  preferred:
+  - Parking @en
+  - Parkering @nb
+  - Parkering @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre. @nn
+relation:
+  broader:
+  - tema/transporttjenester
+  - tema/veg-og-vegtrafikk

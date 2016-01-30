@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Childrens pension @en
+  - Barnepensjon @nb
+  - Barnepensjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ei yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald. Barnetrygd er eige emneord. @nn
+relation:
+  broader:
+  - tema/pensjon

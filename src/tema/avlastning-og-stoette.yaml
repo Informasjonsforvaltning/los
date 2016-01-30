@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Care relief and support @en
+  - Avlastning og støtte @nb
+  - Avlastning og støtte @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/omsorg-trygd-og-sosiale-tjenester

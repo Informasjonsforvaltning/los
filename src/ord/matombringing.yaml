@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Matombringning @nb
+  - Matombringing @nn
+  preferred:
+  - Meals on wheels @en
+  - Matombringing @nb
+  - Matombringing @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat. @nn
+relation:
+  broader:
+  - tema/omsorgstjenester

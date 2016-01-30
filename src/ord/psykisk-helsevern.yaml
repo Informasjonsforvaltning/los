@@ -1,0 +1,36 @@
+!Concept
+label:
+  hidden:
+  - Psykiatri @nb
+  - Psykiatri @nn
+  - BUP @nb
+  - BUP @nn
+  - Barnepsykiatri @nb
+  - Barnepsykiatri @nn
+  - Ungdomspsykiatri @nb
+  - Ungdomspsykiatri @nn
+  - Distriktspsykiatrisk senter @nb
+  - Distriktspsykiatrisk senter @nn
+  - Psykiske lidelser @nb
+  - Psykiske lidingar @nn
+  - Barne- og ungdomspsykiatrisk poliklinikk @nb
+  - Barne- og ungdomspsykiatrisk poliklinikk @nn
+  - Psykolog @nb
+  - Psykolog @nn
+  - DPS @nb
+  - DPS @nn
+  preferred:
+  - Mental health care @en
+  - Psykisk helsevern @nb
+  - Psykisk helsevern @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no) @nn
+relation:
+  broader:
+  - tema/psykisk-helse
+  related:
+  - ord/tilrettelagt-fritid

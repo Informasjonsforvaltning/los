@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Innførsel @nb
+  - Innføring @nn
+  preferred:
+  - Importation @en
+  - Import @nb
+  - Import @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Innførsel av varer til Noreg. Må meldast til Tollvesenet. Det er restriksjonar på ei rekkje varer. I tillegg kjem toll og avgifter ved innførsel. Toll, meirverdiavgift og motorvognavgifter er eigne emneord. @nn
+relation:
+  broader:
+  - tema/handel-og-service

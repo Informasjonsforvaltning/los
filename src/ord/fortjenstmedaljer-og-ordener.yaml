@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Kongens fortenestmedalje @nb
+  - Kongens fortenestmedalje @nn
+  - St. Olavs orden @nb
+  - St. Olavs orden @nn
+  - Kongens fortjenestemedalje @nb
+  - Kongens fortenestemedalje @nn
+  - Kongens fortjenstmedalje @nb
+  - Kongens fortenestmedalje @nn
+  preferred:
+  - Honours and decorations @en
+  - Fortjenstmedaljer og ordener @nb
+  - Fortenestmedaljar og ordenar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Søknader om tildeling av Den Kongelege Norske St. Olavs orden og Kongens fortenestmedalje. Søknaden skal stilast til H.M. Kongen og sendast via Fylkesmannen. @nn
+relation:
+  broader:
+  - tema/flagg-og-ordener

@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Citizens' rights @en
+  - Innbyggerrettigheter @nb
+  - Innbyggjarettar @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/individ-og-samfunn

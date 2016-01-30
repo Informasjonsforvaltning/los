@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Sports events @en
+  - Idrettsarrangement @nb
+  - Idrettsarrangement @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Idrettskonkurransar, turneringar, fotballkampar osb. @nn
+relation:
+  broader:
+  - tema/idrett

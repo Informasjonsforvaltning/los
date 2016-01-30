@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Varemerkebeskyttelse @nb
+  - Varemerkevern @nn
+  - Fellesmerke @nb
+  - Fellesmerke @nn
+  preferred:
+  - Trademark @en
+  - Varemerke @nb
+  - Varemerkje @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande kan ved registrering oppnå einerett til bruken av figur, ord eller slagord. @nn
+relation:
+  broader:
+  - tema/naeringsutvikling

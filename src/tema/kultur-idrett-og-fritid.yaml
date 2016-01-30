@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Culture, sport and recreation @en
+  - Kultur, idrett og fritid @nb
+  - Kultur, idrett og fritid @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

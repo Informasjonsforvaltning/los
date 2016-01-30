@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Skoletransport @nb
+  - Skuletransport @nn
+  - Skolevei @nb
+  - Skuleveg @nn
+  - Skoleveg @nb
+  - Skuleveg @nn
+  - Skolebuss @nb
+  - Skulebuss @nn
+  preferred:
+  - School transport @en
+  - Skoleskyss @nb
+  - Skuleskyss @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO). @nn
+relation:
+  broader:
+  - tema/grunnskoleopplaering
+  - tema/videregaaende-opplaering
+  - tema/veg-og-vegtrafikk

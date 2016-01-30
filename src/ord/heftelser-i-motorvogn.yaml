@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Motor vehicle encumbrances @en
+  - Heftelser i motorvogn @nb
+  - Hefte i motorvogn @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy. @nn
+relation:
+  broader:
+  - tema/kjoeretoey

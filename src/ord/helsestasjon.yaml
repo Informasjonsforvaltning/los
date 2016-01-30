@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Barselgruppe @nb
+  - Barselgruppe @nn
+  - Helsesøster @nb
+  - Helsesøster @nn
+  preferred:
+  - Health clinic @en
+  - Helsestasjon @nb
+  - Helsestasjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunalt tilbod om helsefremjande og førebyggjande helsearbeid. @nn
+relation:
+  broader:
+  - tema/helsetjenester
+  related:
+  - ord/vaksine

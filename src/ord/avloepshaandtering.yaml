@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - Vann og avløp @nb
+  - Vatn og avløp @nn
+  - Avløpsslam @nb
+  - Avlaupsslam @nn
+  - Slam @nb
+  - Slam @nn
+  - Avløpsvann @nb
+  - Avlaupsvatn @nn
+  - Kloakk @nb
+  - Kloakk @nn
+  preferred:
+  - Drain management @en
+  - Avløpshåndtering @nb
+  - Avløpshandtering @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/tekniske-tjenester
+  related:
+  - ord/kommunale-avgifter-og-gebyrer
+  - ord/vannforurensning
+  - ord/utslippstillatelse

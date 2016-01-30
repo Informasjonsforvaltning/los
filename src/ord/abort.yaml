@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Svangerskapsavbrudd @nb
+  - Svangerskapsavbrot @nn
+  preferred:
+  - Abortion @en
+  - Abort @nb
+  - Abort @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke. @nn
+relation:
+  broader:
+  - tema/svangerskap-og-foedsel

@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Pregnancy benefit @en
+  - Svangerskapspenger @nb
+  - Svangerskapspengar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet fordi det kan medføre risiko for skade på fosteret. Foreldrepengar er eige emneord. @nn
+relation:
+  broader:
+  - tema/oekonomiske-ytelser

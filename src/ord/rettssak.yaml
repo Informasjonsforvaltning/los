@@ -1,0 +1,36 @@
+!Concept
+label:
+  hidden:
+  - Straffesak @nb
+  - Straffesak @nn
+  - Vitnegodtgjøring @nb
+  - Vitnegodtgjering @nn
+  - Saksøking @nb
+  - Saksøking @nn
+  - Vitnegodtgjørelse @nb
+  - Vitnegodtgjering @nn
+  - Tiltale @nb
+  - Tiltale @nn
+  - Sivil sak @nb
+  - Sivil sak @nn
+  - Stevning @nb
+  - Stemning @nn
+  - Rettsgebyr @nb
+  - Rettsgebyr @nn
+  - Påtale @nb
+  - Påtale @nn
+  - Rettstvist @nb
+  - Rettstvist @nn
+  preferred:
+  - Legal case @en
+  - Rettssak @nb
+  - Rettssak @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme. @nn
+relation:
+  broader:
+  - tema/rettsvesen

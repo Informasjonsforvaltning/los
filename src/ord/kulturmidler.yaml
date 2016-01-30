@@ -1,0 +1,46 @@
+!Concept
+label:
+  hidden:
+  - Underskuddsgaranti @nb
+  - Underskotsgaranti @nn
+  - Kulturverntilskudd @nb
+  - Kulturverntilskot @nn
+  - Kunstnerstipend @nb
+  - Kunstnarstipend @nn
+  - Festivalstøtte @nb
+  - Festivalstøtte @nn
+  - Kulturprosjekt @nb
+  - Kulturprosjekt @nn
+  - Kulturtilskudd @nb
+  - Kulturtilskot @nn
+  - Den kulturelle skolesekken @nb
+  - Den kulturelle skulesekken @nn
+  - Spillemidler @nb
+  - Spelemidlar @nn
+  - Tippemidler @nb
+  - Tippemidlar @nn
+  - Kulturarbeid @nb
+  - Kulturarbeid @nn
+  - Arrangementsstøtte @nb
+  - Arrangementsstøtte @nn
+  - Kulturformål @nb
+  - Kulturføremål @nn
+  - Kulturstipend @nb
+  - Kulturstipend @nn
+  - Den kulturelle spaserstokken @nb
+  - Den kulturelle spaserstokken @nn
+  - Aktivitetsstøtte @nb
+  - Aktivitetsstøtte @nn
+  preferred:
+  - Cultural funding @en
+  - Kulturmidler @nb
+  - Kulturmidlar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Offentleg tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend. @nn
+relation:
+  broader:
+  - tema/tilskuddsordninger

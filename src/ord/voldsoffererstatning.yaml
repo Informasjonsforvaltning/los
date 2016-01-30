@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Compensation for victims of violent crime @en
+  - Voldsoffererstatning @nb
+  - Valdsoffererstatning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Statleg erstatning som vert ytt til skadelidande etter visse valdshandlingar, mellom anna overfall, mishandling og valdtekt. @nn
+relation:
+  broader:
+  - tema/erstatningsordninger

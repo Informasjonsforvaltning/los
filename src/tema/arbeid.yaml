@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Work @en
+  - Arbeid @nb
+  - Arbeid @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Landinformasjon @nb
+  - Landinformasjon @nn
+  preferred:
+  - Travel information @en
+  - Reiseinformasjon @nb
+  - Reiseinformasjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Informasjon frå Utanriksdepartementet om råd og hjelp til nordmenn som reiser i utlandet. @nn
+relation:
+  broader:
+  - tema/utenlandsreiser

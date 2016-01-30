@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Energy @en
+  - Energi @nb
+  - Energi @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/natur-og-miljoe

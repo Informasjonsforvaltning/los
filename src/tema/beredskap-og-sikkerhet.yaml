@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Civil protection and emergency planning @en
+  - Beredskap og sikkerhet @nb
+  - Beredskap og tryggleik @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/individ-og-samfunn

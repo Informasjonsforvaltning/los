@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Job seeking and recruitment @en
+  - Arbeidssøking og rekruttering @nb
+  - Arbeidssøking og rekruttering @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/arbeid

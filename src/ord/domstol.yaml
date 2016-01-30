@@ -1,0 +1,58 @@
+!Concept
+label:
+  hidden:
+  - Lagmannsrett @nb
+  - Lagmannsrett @nn
+  - Legdommer @nb
+  - Lekdommar @nn
+  - Herredsrett @nb
+  - Heradsrett @nn
+  - Forliksråd @nb
+  - Forliksråd @nn
+  - Forliksmegling @nb
+  - Forliksmekling @nn
+  - Hjelpestevnevitne @nb
+  - Hjelpestemnevitne @nn
+  - Hovedstvevnevitne @nb
+  - Hovudstemnevitne @nn
+  - Forliksmekling @nb
+  - Forliksmekling @nn
+  - Riksrett @nb
+  - Riksrett @nn
+  - Jordskifterett @nb
+  - Jordskifterett @nn
+  - Konsulrett @nb
+  - Konsulrett @nn
+  - Tingrett @nb
+  - Tingrett @nn
+  - Lagrettemedlem @nb
+  - Lagrettemedlem @nn
+  - Skjønnsrett @nb
+  - Skjønsrett @nn
+  - Høyesterett @nb
+  - Høgsterett @nn
+  - Stevnevitne @nb
+  - Stemnevitne @nn
+  - Lekdommer @nb
+  - Lekdommer @nn
+  - Byrett @nb
+  - Byrett @nn
+  - Meddommer @nb
+  - Meddommar @nn
+  - Arbeidsretten @nb
+  - Arbeidsretten @nn
+  - Forliksklage @nb
+  - Forliksklage @nn
+  preferred:
+  - Court of justice @en
+  - Domstol @nb
+  - Domstol @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Domstolane er ei av dei tre statsmaktene i Noreg, og utøver den dømmande makta. Herunder også forliksråd og spesialdomstolane. @nn
+relation:
+  broader:
+  - tema/rettsvesen

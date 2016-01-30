@@ -1,0 +1,19 @@
+!Concept
+label:
+  hidden:
+  - Boligskatt @nb
+  - Bustadskatt @nn
+  preferred:
+  - Property tax @en
+  - Eiendomsskatt @nb
+  - Eigedomsskatt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunal skatt eller avgift på ulike former for eigedom. Kommunen avgjer om det skal vere eigedomsskatt. @nn
+relation:
+  broader:
+  - tema/eiendom
+  - tema/skatt-og-likning

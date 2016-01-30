@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Terrenginngrep @nb
+  - Terrenginngrep @nn
+  - Gravetillatelse @nb
+  - Graveløyve @nn
+  preferred:
+  - Excavation notification @en
+  - Gravemelding @nb
+  - Gravemelding @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Gravemelding skal leverast ved graving på offentleg grunn. Arbeid kan ikkje starte opp før det er gitt løyve frå kommunen. Gjeld all graving/ arbeid i jorda, t.d. graving av tomt, drenering, grøft, pilarar, gjerdepålar, merkepinnar, p-plass osb. @nn
+relation:
+  broader:
+  - tema/bygging

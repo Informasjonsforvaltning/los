@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Ferdselsregler @nb
+  - Ferdselsreglar @nn
+  - Fri ferdsel @nb
+  - Fri ferdsel @nn
+  preferred:
+  - Right of access @en
+  - Allemannsrett @nb
+  - Allemannsrett @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein av dei viktigaste føresetnadene for utøving av friluftsliv. Allemannsretten gjeld i utmark. Alllemannsretten er ein opphalds- og ferdselsrett, men gjev også rett til å hauste t.d. bær, sopp og blomster. @nn
+relation:
+  broader:
+  - tema/naturforvaltning

@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Leave of absence schemes @en
+  - Permisjonsordninger @nb
+  - Permisjonsordningar @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/arbeid

@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Property @en
+  - Eiendom @nb
+  - Eigedom @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/bolig-og-eiendom

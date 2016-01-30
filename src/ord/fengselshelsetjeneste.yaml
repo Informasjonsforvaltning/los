@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Prison health service @en
+  - Fengselshelsetjeneste @nb
+  - Fengselshelseteneste @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/helsetjenester

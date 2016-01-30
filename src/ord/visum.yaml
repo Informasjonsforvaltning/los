@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Visas @en
+  - Visum @nb
+  - Visum @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Utanlandske borgarar som ønskjer å reise til Noreg, må i hovudregelen ha visum. Formålet med besøket avgjer kva type visum ein treng. @nn
+relation:
+  broader:
+  - tema/utenlandsreiser
+  - tema/innvandring-og-innreise

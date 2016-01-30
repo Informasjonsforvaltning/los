@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Higher education @en
+  - Høyere utdanning @nb
+  - Høgare utdanning @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skole-og-utdanning

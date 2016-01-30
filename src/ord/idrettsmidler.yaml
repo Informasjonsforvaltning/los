@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Spillemidler @nb
+  - Spelemidlar @nn
+  - Idrettsformål @nb
+  - Idrettsføremål @nn
+  - Idrettsstipend @nb
+  - Idrettsstipend @nn
+  - Tippemidler @nb
+  - Tippemidlar @nn
+  - Arrangementsstøtte @nb
+  - Arrangementsstøtte @nn
+  - Aktivitetsstøtte @nb
+  - Aktivitetsstøtte @nn
+  preferred:
+  - Sports funding @en
+  - Idrettsmidler @nb
+  - Idrettsmidlar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk stønad til idrettsføremål. Det kan søkjast om statlege spelemidlar til idrettsføremål, t.d. til anlegg og område for idrett og friluftsliv. @nn
+relation:
+  broader:
+  - tema/tilskuddsordninger

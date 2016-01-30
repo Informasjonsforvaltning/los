@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Individuals and society @en
+  - Individ og samfunn @nb
+  - Individ og samfunn @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

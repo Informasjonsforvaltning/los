@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Consumer test @en
+  - Forbrukertest @nb
+  - Forbrukartest @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Testar av varer og tenester. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester

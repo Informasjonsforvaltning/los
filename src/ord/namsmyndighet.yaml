@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Tvangssalg @nb
+  - Tvangssal @nn
+  - Namsfogd @nb
+  - Namsfut @nn
+  - Tvangsauksjon @nb
+  - Tvangsauksjon @nn
+  - Namsmann @nb
+  - Namsmann @nn
+  - Tvangsfullbyrdelse @nb
+  - Tvangsfullføring @nn
+  preferred:
+  - Enforcement authority @en
+  - Namsmyndighet @nb
+  - Namsmyndigheit @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tingrett og namsmann (namsfut, ("namsfogd")) vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann. Gjeldsordning høyrer til emneordet gjeldsrådgjeving. @nn
+relation:
+  broader:
+  - tema/rettsvesen

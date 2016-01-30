@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Legal system @en
+  - Rettsvesen @nb
+  - Rettsvesen @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/rettslige-spoersmaal

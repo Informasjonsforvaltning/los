@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Compulsory education @en
+  - Grunnskoleopplæring @nb
+  - Grunnskuleopplæring @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skole-og-utdanning

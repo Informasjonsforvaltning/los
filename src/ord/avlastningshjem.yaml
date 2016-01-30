@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Auxilary home @en
+  - Avlastningshjem @nb
+  - Avlastingsheim @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta. Fosterheim er eige emneord. @nn
+relation:
+  broader:
+  - tema/avlastning-og-stoette
+  related:
+  - ord/besoekshjem

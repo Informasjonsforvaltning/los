@@ -1,0 +1,25 @@
+!Concept
+label:
+  hidden:
+  - Gatenavn @nb
+  - Gatenamn @nn
+  - Gateadresse @nb
+  - Gateadresse @nn
+  - Veinavn @nb
+  - Vegnamn @nn
+  - Vegnavn @nb
+  - Vegnamn @nn
+  - Adressering @nb
+  - Adressering @nn
+  - Husnummer @nb
+  - Husnummer @nn
+  preferred:
+  - Address allocation @en
+  - Adressetildeling @nb
+  - Adressetildeling @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/eiendom

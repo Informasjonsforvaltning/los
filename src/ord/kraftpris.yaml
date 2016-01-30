@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Strømpris @nb
+  - Straumpris @nn
+  preferred:
+  - Energy prices @en
+  - Kraftpris @nb
+  - Kraftpris @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Prisen på elektrisk kraft. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester
+  related:
+  - ord/energibruk

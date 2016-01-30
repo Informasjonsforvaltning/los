@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Flaggdager @nb
+  - Flaggdagar @nn
+  - Flaggregler @nb
+  - Flaggreglar @nn
+  - Flagging @nb
+  - Flagging @nn
+  - Flaggbruk @nb
+  - Flaggbruk @nn
+  preferred:
+  - Flags @en
+  - Flagg @nb
+  - Flagg @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Symbol for nasjon eller geografisk region. Reglar for bruk av flagget. Flaggdagar. @nn
+relation:
+  broader:
+  - tema/flagg-og-ordener

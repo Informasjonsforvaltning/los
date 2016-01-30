@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - School environment @en
+  - Skolemiljø @nb
+  - Skulemiljø @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skole-og-utdanning

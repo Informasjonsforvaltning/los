@@ -1,0 +1,36 @@
+!Concept
+label:
+  hidden:
+  - Toppskatt @nb
+  - Toppskatt @nn
+  - Inntektsoppgave @nb
+  - Inntektsoppgåve @nn
+  - Skattetrekk @nb
+  - Skattetrekk @nn
+  - Lønns- og trekkoppgave @nb
+  - Lønns- og trekkoppgåve @nn
+  - Personskatt @nb
+  - Personskatt @nn
+  - Formueskatt @nb
+  - Formueskatt @nn
+  - Inntektsskatt @nb
+  - Inntektsskatt @nn
+  - Lønnsoppgave @nb
+  - Lønnsoppgåve @nn
+  - Utlignet skatt @nb
+  - Utlikna skatt @nn
+  - Forskuddstrekk @nb
+  - Forskotstrekk @nn
+  preferred:
+  - Income and wealth tax @en
+  - Inntekts- og formuesskatt @nb
+  - Inntekts- og formuesskatt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå. @nn
+relation:
+  broader:
+  - tema/skatt-og-likning

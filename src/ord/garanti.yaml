@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Reklamasjonsrett @nb
+  - Reklamasjonsrett @nn
+  preferred:
+  - Guarantee @en
+  - Garanti @nb
+  - Garanti @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein garanti er eit løfte frå ein produsent, importør eller selgjar. Garantien skal gje rettar utover forbrukarkjøpslova. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester

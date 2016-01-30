@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - PPT @nb
+  - PPT @nn
+  - Audiopedagog @nb
+  - Audiopedagog @nn
+  - PP-tjeneste @nb
+  - PP-teneste @nn
+  - Logoped @nb
+  - Logoped @nn
+  preferred:
+  - Educational-psychological service @en
+  - Pedagogisk-psykologisk tjeneste @nb
+  - Pedagogisk-psykologisk teneste @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak. @nn
+relation:
+  broader:
+  - tema/psykisk-helse
+  - tema/grunnskoleopplaering
+  - tema/videregaaende-opplaering
+  - tema/barnehage

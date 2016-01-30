@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - Fritidskalender @nb
+  - Fritidskalender @nn
+  - Ferietilbud @nb
+  - Ferietilbod @nn
+  - Aktiv fritid @nb
+  - Aktiv fritid @nn
+  preferred:
+  - Leisure activities for disabled persons @en
+  - Tilrettelagt fritid @nb
+  - Tilrettelagt fritid @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/fritid
+  - tema/avlastning-og-stoette
+  related:
+  - ord/stoettekontakt
+  - ord/psykisk-helsevern

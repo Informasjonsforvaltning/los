@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Transport services @en
+  - Transporttjenester @nb
+  - Transporttenester @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/omsorg-trygd-og-sosiale-tjenester

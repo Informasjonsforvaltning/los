@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Telerestriksjoner @nb
+  - Telerestriksjonar @nn
+  preferred:
+  - Axle load restrictions @en
+  - Aksellastrestriksjoner @nb
+  - Aksellastrestriksjonar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense. @nn
+relation:
+  broader:
+  - tema/veg-og-vegtrafikk

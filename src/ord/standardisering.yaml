@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Standardisation @en
+  - Standardisering @nb
+  - Standardisering @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Omtale av viktige sider av varer, tenester og/eller arbeidsprosessar (inkludert prøvingsmetodar). Vert utarbeidd etter initiativ frå interessegrupper som ønskjer felles spelereglar i marknaden. Frivillig å bruke, unnateke når myndigheitene krev at dei skal brukast, eller når det i avtalar er bestemt at dei skal brukast. @nn
+relation:
+  broader:
+  - tema/naeringsutvikling

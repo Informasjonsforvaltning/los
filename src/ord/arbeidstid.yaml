@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Fleksibel arbeidstid @nb
+  - Fleksibel arbeidstid @nn
+  - Ammefri @nb
+  - Ammefri @nn
+  - Amming @nb
+  - Amming @nn
+  - Skiftarbeid @nb
+  - Skiftarbeid @nn
+  - Overtid @nb
+  - Overtid @nn
+  - Turnus @nb
+  - Turnus @nn
+  preferred:
+  - Working hours @en
+  - Arbeidstid @nb
+  - Arbeidstid @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Lovregulert arbeidstid. Redusert arbeidstid, fleksibel arbeidstid. @nn
+relation:
+  broader:
+  - tema/arbeidsliv

@@ -1,0 +1,52 @@
+!Concept
+label:
+  hidden:
+  - Biologisk mangfold @nb
+  - Biologisk mangfald @nn
+  - Restriksjonssone @nb
+  - Restriksjonssone @nn
+  - Myrvern @nb
+  - Myrvern @nn
+  - Landkapsvernområde @nb
+  - Landkapsvernområde @nn
+  - Marine verneområder @nb
+  - Marine verneområde @nn
+  - Spesialområde bevaring @nb
+  - Spesialområde bevaring @nn
+  - Nasjonalpark @nb
+  - Nasjonalpark @nn
+  - Våtmarksvern @nb
+  - Våtmarksvern @nn
+  - Naturreservat @nb
+  - Naturreservat @nn
+  - Artsvern @nb
+  - Artsvern @nn
+  - Miljøvern @nb
+  - Miljøvern @nn
+  - Verneområde @nb
+  - Verneområde @nn
+  - Miljøinformasjon @nb
+  - Miljøinformasjon @nn
+  - Trua arter @nb
+  - Trua artar @nn
+  - Fredning @nb
+  - Freding @nn
+  - Truede arter @nb
+  - Trua artar @nn
+  - Verneverdig @nb
+  - Verneverdig @nn
+  preferred:
+  - Nature conservation @en
+  - Naturvern @nb
+  - Naturvern @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Naturvern er å ta vare på mangfaldet og produksjonsevna i naturen. Til dette høyrer til dømes vernetiltak, oppretting av nasjonalparkar og landskapsvernområde og bevaring av urørt natur. @nn
+relation:
+  broader:
+  - tema/naturforvaltning
+  related:
+  - ord/kulturminnevern

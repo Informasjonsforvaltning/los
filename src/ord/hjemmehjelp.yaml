@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Praktisk bistand i hjemmet @nb
+  - Praktisk bistand i heimen @nn
+  preferred:
+  - Home help @en
+  - Hjemmehjelp @nb
+  - Heimehjelp @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord. @nn
+relation:
+  broader:
+  - tema/omsorgstjenester

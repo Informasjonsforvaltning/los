@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Business @en
+  - Næring @nb
+  - Næring @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

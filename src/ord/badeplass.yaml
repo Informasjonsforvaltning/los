@@ -1,0 +1,29 @@
+!Concept
+label:
+  hidden:
+  - Svømmehall @nb
+  - Symjehall @nn
+  - Badetemperaturer @nb
+  - Badetemperaturar @nn
+  - Bad @nb
+  - Bad @nn
+  - Badevann @nb
+  - Badevatn @nn
+  - Basseng @nb
+  - Basseng @nn
+  - Badestrand @nb
+  - Badestrand @nn
+  - Svømmebasseng @nb
+  - Symjebasseng @nn
+  - Svømmeanlegg @nb
+  - Symjeanlegg @nn
+  preferred:
+  - Bathing area @en
+  - Badeplass @nb
+  - Badeplass @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/friluftsliv

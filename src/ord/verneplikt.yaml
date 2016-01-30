@@ -1,0 +1,34 @@
+!Concept
+label:
+  hidden:
+  - Sivilarbeid @nb
+  - Sivilarbeid @nn
+  - Forsvar @nb
+  - Forsvar @nn
+  - Militært tjenestebevis @nb
+  - Militært tenestebevis @nn
+  - Militærnekting @nb
+  - Militærnekting @nn
+  - Innrullering @nb
+  - Innrullering @nn
+  - Sesjon @nb
+  - Sesjon @nn
+  - Siviltjeneste @nb
+  - Sivilteneste @nn
+  - Tjenestebevis @nb
+  - Tenestebevis @nn
+  - Førstegangstjeneste @nb
+  - Førstegongsteneste @nn
+  preferred:
+  - Compulsory military service @en
+  - Verneplikt @nb
+  - Verneplikt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg. @nn
+relation:
+  broader:
+  - tema/beredskap-og-sikkerhet

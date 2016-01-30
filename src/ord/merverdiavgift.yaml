@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - Moms @nb
+  - Moms @nn
+  - Mva. @nb
+  - Mva. @nn
+  - Altinn @nb
+  - Altinn @nn
+  preferred:
+  - Value added tax @en
+  - Merverdiavgift @nb
+  - Meirverdiavgift @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avgift som skal betalast på omsetning av varer og tenester i alle ledd. @nn
+relation:
+  broader:
+  - tema/handel-og-service
+  - tema/offentlige-avgifter

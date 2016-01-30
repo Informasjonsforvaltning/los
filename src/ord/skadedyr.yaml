@@ -1,0 +1,44 @@
+!Concept
+label:
+  hidden:
+  - Lus @nb
+  - Lus @nn
+  - Rotter @nb
+  - Rotter @nn
+  - Hodelus @nb
+  - Hovudlus @nn
+  - Skadedyrsbekjempelse @nb
+  - Skadedyrsbekjempelse @nn
+  - Skadedyrkontroll @nb
+  - Skadedyrkontroll @nn
+  - Kakerlakk @nb
+  - Kakerlakk @nn
+  - Skadedyrbekjempelse @nb
+  - Skadedyrbekjemping @nn
+  - Skadedyrskontroll @nb
+  - Skadedyrskontroll @nn
+  - Maur @nb
+  - Maur @nn
+  - Møll @nb
+  - Møll @nn
+  - Mus @nb
+  - Mus @nn
+  - Husbukk @nb
+  - Husbukk @nn
+  - Flått @nb
+  - Flått @nn
+  preferred:
+  - Pests and vermin @en
+  - Skadedyr @nb
+  - Skadedyr @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Motarbeiding av skadedyr. Plantevern er eige emneord. @nn
+relation:
+  broader:
+  - tema/folkehelse
+  related:
+  - ord/plantevern

@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Tilsynsfører @nb
+  - Tilsynsførar @nn
+  - Beredskapshjem @nb
+  - Beredskapsheim @nn
+  - Fosterbarn @nb
+  - Fosterbarn @nn
+  - Familiehjem @nb
+  - Familieheim @nn
+  - Fosterforeldre @nb
+  - Fosterforeldre @nn
+  preferred:
+  - Foster home @en
+  - Fosterhjem @nb
+  - Fosterheim @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m. @nn
+relation:
+  broader:
+  - tema/barnevern-og-familievern

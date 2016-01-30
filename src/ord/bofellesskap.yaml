@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Shared housing @en
+  - Bofellesskap @nb
+  - Bufellesskap @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunalt butilbod til psykisk utviklingshemma. @nn
+relation:
+  broader:
+  - tema/botilbud

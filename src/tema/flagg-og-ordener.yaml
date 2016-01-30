@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Flags and medals @en
+  - Flagg og ordener @nb
+  - Flagg og ordenar @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/individ-og-samfunn

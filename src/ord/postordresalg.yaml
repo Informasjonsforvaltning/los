@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Internetthandel @nb
+  - Internetthandel @nn
+  - E-handel @nb
+  - E-handel @nn
+  - Elektronisk handel @nb
+  - Elektronisk handel @nn
+  - Netthandel @nb
+  - Netthandel @nn
+  preferred:
+  - Mail-order sale @en
+  - Postordresalg @nb
+  - Postordresal @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Postordresalg er kjøp av varer som selgjar i katalog, brosjyre, annonse eller annan marknadsføring har tilbode å sende til kjøparen.Ved slikt sal har kjøparen normalt ikkje høve til å sjå vara på førehand, og han får ikkje opplysningar utover dei som er gitt i annonse og anna reklamemateriell. Forbrukaren har av denne grunn særlege rettar ved avtalar som vert inngådde ved postordre. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester

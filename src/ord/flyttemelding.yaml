@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - Adresseforandring @nb
+  - Adresseendring @nn
+  - Folkeregister @nb
+  - Folkeregister @nn
+  - Emigrasjon @nb
+  - Emigrasjon @nn
+  - Adresseendring @nb
+  - Adresseendring @nn
+  - Flytting til utlandet @nb
+  - Flytting til utlandet @nn
+  preferred:
+  - Notification of move or change of address @en
+  - Flyttemelding @nb
+  - Flyttemelding @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Melding om flytting. Skal sendast til folkeregisteret ved likningskontoret. Medrekna flytting til utlandet. @nn
+relation:
+  broader:
+  - tema/personopplysninger
+  - tema/flytting

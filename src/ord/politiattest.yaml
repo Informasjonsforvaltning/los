@@ -1,0 +1,15 @@
+!Concept
+label:
+  hidden:
+  - Vandelsattest @nb
+  - Vandelsattest @nn
+  preferred:
+  - Certificate of good conduct @en
+  - Politiattest @nb
+  - Politiattest @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/personopplysninger

@@ -1,0 +1,15 @@
+!Concept
+label:
+  hidden:
+  - Vikarstilling @nb
+  - Vikarstilling @nn
+  preferred:
+  - Temporary employment services @en
+  - Vikarformidling @nb
+  - Vikarformidling @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/arbeidssoeking-og-rekruttering

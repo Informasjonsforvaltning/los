@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Birth certificate @en
+  - Fødselsattest @nb
+  - Fødselsattest @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/personopplysninger

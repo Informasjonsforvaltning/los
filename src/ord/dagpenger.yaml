@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Arbeidsledighetstrygd @nb
+  - Arbeidsløysetrygd @nn
+  - Arbeidsløshetstrygd @nb
+  - Arbeidsløysetrygd @nn
+  preferred:
+  - Unemployment benefit @en
+  - Dagpenger @nb
+  - Dagpengar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m. @nn
+relation:
+  broader:
+  - tema/oekonomiske-ytelser
+  related:
+  - ord/arbeidssoeking

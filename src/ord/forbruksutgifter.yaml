@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Priskalkulator @nb
+  - Priskalkulator @nn
+  - Konsumprisindeks @nb
+  - Konsumprisindeks @nn
+  - Prisindeks @nb
+  - Prisindeks @nn
+  - Standardbudsjett @nb
+  - Standardbudsjett @nn
+  - Prisvekstkalkulator @nb
+  - Prisvekstkalkulator @nn
+  - Husholdningsbudsjett @nb
+  - Hushaldningsbudsjett @nn
+  preferred:
+  - Consumption expenditure @en
+  - Forbruksutgifter @nb
+  - Forbruksutgifter @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Til dette høyrer standardbudsjett frå SIFO, Statens institutt for forbruksforsking. Budsjettet viser vanlege forbruksutgifter for ulike typar hushald. @nn
+relation:
+  broader:
+  - tema/privatoekonomi

@@ -1,0 +1,32 @@
+!Concept
+label:
+  hidden:
+  - Sykkelkart @nb
+  - Sykkelkart @nn
+  - Sykkelveg @nb
+  - Sykkelveg @nn
+  - Sykkelvei @nb
+  - Sykkelveg @nn
+  - Bysykkel @nb
+  - Bysykkel @nn
+  - Sykling @nb
+  - Sykling @nn
+  - Sykkelfelt @nb
+  - Sykkelfelt @nn
+  - Sykkelsti @nb
+  - Sykkelsti @nn
+  - Sykkelvrak @nb
+  - Sykkelvrak @nn
+  - Sykkelparkering @nb
+  - Sykkelparkering @nn
+  preferred:
+  - Cycling @en
+  - Sykkel @nb
+  - Sykkel @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/veg-og-vegtrafikk
+  - tema/friluftsliv

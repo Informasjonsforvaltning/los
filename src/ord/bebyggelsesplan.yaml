@@ -1,0 +1,17 @@
+!Concept
+label:
+  hidden:
+  - Privat bebyggelsesplan @nb
+  - Privat utbyggingsplan @nn
+  - Offentlig bebyggelsesplan @nb
+  - Offentleg utbyggingsplan @nn
+  preferred:
+  - Building development plan @en
+  - Bebyggelsesplan @nb
+  - Utbyggingsplan @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/kommunal-planlegging

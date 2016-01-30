@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - Tolking @nb
+  - Tolking @nn
+  - Translatør @nb
+  - Translatør @nn
+  - Omsetjing @nb
+  - Omsetjing @nn
+  - Oversetting @nb
+  - Omsetting @nn
+  preferred:
+  - Interpreter services @en
+  - Tolketjeneste @nb
+  - Tolketeneste @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Å tolke eller gje att meininga i ein tekst på eit anna språk. @nn
+relation:
+  broader:
+  - tema/integrering
+  - tema/spraak
+  related:
+  - ord/doevetolk

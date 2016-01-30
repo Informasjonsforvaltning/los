@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Klagenemnder @nb
+  - Klagenemnder @nn
+  - Forbrukertvist @nb
+  - Forbrukartvist @nn
+  - Reklamasjon @nb
+  - Reklamasjon @nn
+  preferred:
+  - Consumer complaint @en
+  - Forbrukerklage @nb
+  - Forbrukarklage @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Klage på varer og tenester. Medrekna klagerettleiing, reklamasjon, behandling i klagenemnder m.m. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester

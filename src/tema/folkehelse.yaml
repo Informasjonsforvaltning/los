@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Public health @en
+  - Folkehelse @nb
+  - Folkehelse @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/helse

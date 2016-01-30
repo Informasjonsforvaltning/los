@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Barnehjemserstatning @nb
+  - Barneheimserstatning @nn
+  - Krigsbarn @nb
+  - Krigsbarn @nn
+  - Rettferdsyting @nb
+  - Rettferdsyting @nn
+  - Billighetserstatning @nb
+  - Rettferdsvederlag @nn
+  preferred:
+  - Ex gratia payments @en
+  - Rettferdsvederlag @nb
+  - Rettferdsvederlag @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular. @nn
+relation:
+  broader:
+  - tema/erstatningsordninger

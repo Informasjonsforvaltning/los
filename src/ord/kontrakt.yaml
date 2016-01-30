@@ -1,0 +1,31 @@
+!Concept
+label:
+  hidden:
+  - Kontraktsregulering @nb
+  - Kontraktsregulering @nn
+  - Kjøpskontrakt @nb
+  - Kjøpskontrakt @nn
+  - Husleiekontrakt @nb
+  - Husleigekontrakt @nn
+  - Kjøpekontrakt @nb
+  - Kjøpekontrakt @nn
+  - Standardkontrakt @nb
+  - Standardkontrakt @nn
+  - Leiekontrakt @nb
+  - Leigekontrakt @nn
+  preferred:
+  - Contract @en
+  - Kontrakt @nb
+  - Kontrakt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Skriftleg avtale eller overeinskomst. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester
+  related:
+  - ord/leieforhold
+  - ord/eiendomsomsetning

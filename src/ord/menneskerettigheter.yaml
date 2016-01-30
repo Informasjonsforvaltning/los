@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Ytringsfrihet @nb
+  - Ytringsfridom @nn
+  preferred:
+  - Human rights @en
+  - Menneskerettigheter @nb
+  - Menneskerettar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Grunnleggjande rettar og fridomar som individa har overfor statsmaktene, og som følgjer av internasjonale overeinskomstar og praksis. Til dei klassiske menneskerettane høyrer rettstryggleik, religionsfridom, stemmerett og ytringsfridom. @nn
+relation:
+  broader:
+  - tema/innbyggerrettigheter

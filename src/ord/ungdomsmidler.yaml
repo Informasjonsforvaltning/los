@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Ungdomstiltak @nb
+  - Ungdomstiltak @nn
+  - Ungdomsformål @nb
+  - Ungdomsføremål @nn
+  - Aktivitetsstøtte @nb
+  - Aktivitetsstøtte @nn
+  preferred:
+  - Funding for youth activities @en
+  - Ungdomsmidler @nb
+  - Ungdomsmidlar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom. @nn
+relation:
+  broader:
+  - tema/tilskuddsordninger

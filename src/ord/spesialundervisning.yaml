@@ -1,0 +1,17 @@
+!Concept
+label:
+  hidden:
+  - Spesialskole @nb
+  - Spesialskule @nn
+  - Spesialundervising @nn
+  preferred:
+  - Special needs education @en
+  - Spesialundervisning @nb
+  - Spesialundervisning @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/grunnskoleopplaering
+  - tema/voksenopplaering

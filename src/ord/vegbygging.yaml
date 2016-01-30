@@ -1,0 +1,47 @@
+!Concept
+label:
+  hidden:
+  - Veibygging @nb
+  - Vegbygging @nn
+  - Avkjøringstillatelse @nb
+  - Avkøyringsløyve @nn
+  - Landbruksvei @nb
+  - Landbruksvei @nn
+  - Landbruksveg @nb
+  - Landbruksveg @nn
+  - Avkjørsel @nb
+  - Avkøyring @nn
+  - Skogsbilveg @nn
+  - Skogsbilvei @nb
+  - Skogsbilveg @nn
+  - Avkøyrselløyve @nn
+  - Skogsvei @nb
+  - Skogsveg @nn
+  - Skogsveg @nb
+  - Skogsveg @nn
+  - Privat veg @nb
+  - Privat veg @nn
+  - Privat vei @nb
+  - Privat veg @nn
+  - Brobygging @nb
+  - Brubygging @nn
+  - Skogveg @nb
+  - Skogveg @nn
+  - Skogvei @nb
+  - Skogsveg @nn
+  - Tunnelbygging @nb
+  - Tunellbygging @nn
+  preferred:
+  - Road building @en
+  - Vegbygging @nb
+  - Vegbygging @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/tekniske-tjenester
+  - tema/landbruk
+  - tema/veg-og-vegtrafikk
+  related:
+  - ord/reguleringsplan

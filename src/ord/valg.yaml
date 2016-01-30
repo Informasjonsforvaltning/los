@@ -1,0 +1,46 @@
+!Concept
+label:
+  hidden:
+  - Listeforslag @nb
+  - Listeforslag @nn
+  - Manntall @nb
+  - Manntal @nn
+  - Samemanntall @nb
+  - Samemanntal @nn
+  - Fylkestingsvalg @nb
+  - Fylkestingsval @nn
+  - Folkeavstemning @nb
+  - Folkeavstemming @nn
+  - Valgkort @nb
+  - Valkort @nn
+  - Stemmeseddel @nb
+  - Stemmesetel @nn
+  - Stemmeberettiget @nb
+  - Røystefør @nn
+  - Kommunestyrevalg @nb
+  - Kommunestyreval @nn
+  - Forhåndsstemming @nb
+  - Førehandsstemming @nn
+  - Sametingsvalg @nb
+  - Sametingsval @nn
+  - Stortingsvalg @nb
+  - Stortingsval @nn
+  - Kommunevalg @nb
+  - Kommmuneval @nn
+  - Stemmerett @nb
+  - Stemmerett @nn
+  - Valgresultat @nb
+  - Valresultat @nn
+  preferred:
+  - Election @en
+  - Valg @nb
+  - Val @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Avstemning for å peike ut personar til verv, stillingar og posisjonar. I Noreg er det stortingsval og kommune- og fylkestingsval kvart fjerde år. Alle norske borgarar som er fylt 18 år innan valåret har stemmerett. @nn
+relation:
+  broader:
+  - tema/politikk-og-valg

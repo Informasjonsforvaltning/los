@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Living together @en
+  - Samliv @nb
+  - Samliv @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/barn-og-familie

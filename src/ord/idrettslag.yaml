@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Idrettsklubb @nb
+  - Idrettsklubb @nn
+  - Idrettsforening @nb
+  - Idrettslag @nn
+  preferred:
+  - Sports clubs @en
+  - Idrettslag @nb
+  - Idrettslag @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Foreining for organisering av idrett. @nn
+relation:
+  broader:
+  - tema/idrett
+  related:
+  - ord/lag-og-foreninger

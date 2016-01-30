@@ -1,0 +1,51 @@
+!Concept
+label:
+  hidden:
+  - Isgang @nb
+  - Isgang @nn
+  - Stormflo @nb
+  - Stormflo @nn
+  - Steinskred @nb
+  - Steinskred @nn
+  - Fjellskred @nb
+  - Fjellskred @nn
+  - Jordras @nb
+  - Jordras @nn
+  - Snøras @nb
+  - Snøras @nn
+  - Leirras @nb
+  - Leirras @nn
+  - Leirskred @nb
+  - Leirskred @nn
+  - Snøskred @nb
+  - Snøskred @nn
+  - Kvikkleireskred @nb
+  - Kvikkleireskred @nn
+  - Jordskjelv @nb
+  - Jordskjelv @nn
+  - Jordskred @nb
+  - Jordskred @nn
+  - Kvikkleireras @nb
+  - Kvikkleireras @nn
+  - Steinsprang @nb
+  - Steinsprang @nn
+  - Flomskade @nb
+  - Flaumskade @nn
+  preferred:
+  - Natural hazard @en
+  - Naturskade @nb
+  - Naturskade @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Skade som har si årsak i ei naturulukke, som til dømes flaum, storm, ras eller skred. @nn
+relation:
+  broader:
+  - tema/eiendom
+  - tema/landbruk
+  related:
+  - ord/flomvarsel
+  - ord/naturskadeerstatning
+  - ord/skredvarsel

@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Omsorgsovertagelse @nb
+  - Omsorgsovertaking  @nn
+  - Omsorgsovertakelse @nb
+  - Omsorgsovertaking @nn
+  - Omsorgstiltak @nb
+  - Omsorgstiltak @nn
+  - Plasseringstiltak @nb
+  - Plasseringstiltak @nn
+  - Hjelpetiltak @nb
+  - Hjelpetiltak @nn
+  - Bekymringsmelding @nb
+  - Bekymringsmelding @nn
+  preferred:
+  - Child protection @en
+  - Barnevern @nb
+  - Barnevern @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar. Fosterheim er er eige emneord. @nn
+relation:
+  broader:
+  - tema/barnevern-og-familievern

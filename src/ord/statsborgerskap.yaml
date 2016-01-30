@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Citizenship @en
+  - Statsborgerskap @nb
+  - Statsborgarskap @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Inneber tilhøyring til ein stat, og visse rettar og plikter overfor denne staten. Norsk statsborgarskap kan ein få ved fødsel, adopsjon, etter melding eller etter søknad. @nn
+relation:
+  broader:
+  - tema/innbyggerrettigheter
+  - tema/innvandring-og-innreise

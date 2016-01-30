@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Avbrenning @nb
+  - Avbrenning @nn
+  - Oppskyting @nb
+  - Oppskyting @nn
+  - Pyroteknisk vare @nb
+  - Pyroteknisk vare @nn
+  preferred:
+  - Fireworks @en
+  - Fyrverkeri @nb
+  - Fyrverkeri @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Søknad og løyve til å oppbevare og selje fyrverkeri. @nn
+relation:
+  broader:
+  - tema/handel-og-service
+  related:
+  - ord/brannvern-og-eksplosjonsvern

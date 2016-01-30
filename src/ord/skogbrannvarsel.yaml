@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Skogbrannvarsling @nb
+  - Skogbrannvarsling @nn
+  - Skogbrannfare @nb
+  - Skogbrannfare @nn
+  preferred:
+  - Forest fire warning @en
+  - Skogbrannvarsel @nb
+  - Skogbrannvarsel @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Varsel om fare for skogbrann. @nn
+relation:
+  broader:
+  - tema/vaer-og-klima

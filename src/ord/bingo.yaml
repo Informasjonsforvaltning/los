@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Entreprenørbingo @nb
+  - Entreprenørbingo @nn
+  - Foreningsbingo @nb
+  - Foreiningsbingo @nn
+  preferred:
+  - Bingo @en
+  - Bingo @nb
+  - Bingo @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Medrekna søknad om løyve til å spele bingo. Lotteri, speleavhengigheit og speleautomat er eigne emneord. @nn
+relation:
+  broader:
+  - tema/lotteri-og-pengespill

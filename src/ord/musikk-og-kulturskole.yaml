@@ -1,0 +1,29 @@
+!Concept
+label:
+  hidden:
+  - Kulturskole @nb
+  - Kulturskule @nn
+  - Kultur- og musikkskole @nb
+  - Kultur- og musikkskule @nn
+  - Musikkskole @nb
+  - Musikkskule @nn
+  preferred:
+  - Music and arts centres @en
+  - Musikk- og kulturskole @nb
+  - Musikk- og kulturskule @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid med skuleverket og kulturlivet elles. @nn
+relation:
+  broader:
+  - tema/fritid
+  - tema/kultur
+  related:
+  - ord/dans
+  - ord/skolefritidsordning
+  - ord/musikk
+  - ord/visuell-kunst
+  - ord/teater

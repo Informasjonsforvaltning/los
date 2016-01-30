@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Samboerkontrakt @nb
+  - Sambuarkontrakt @nn
+  preferred:
+  - Cohabitation @en
+  - Samboerskap @nb
+  - Sambuarskap @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Det er inga generell likebehandling av sambuarar og ektepar i lovverket. Sambuarar blir behandla som ektefellar på enkelte område og som einslege på andre. Medrekna sambuarkontrakt. @nn
+relation:
+  broader:
+  - tema/samliv

@@ -1,0 +1,17 @@
+!Concept
+label:
+  hidden:
+  - Ulykke @nb
+  - Ulukke @nn
+  - Redningsaksjon @nb
+  - Redningsaksjon @nn
+  preferred:
+  - Rescue services @en
+  - Redningstjeneste @nb
+  - Redningsteneste @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/beredskap-og-sikkerhet

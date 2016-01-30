@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Familiegjenforening @nb
+  - Familiegjenforening @nn
+  - Arbeidsinnvandring @nb
+  - Arbeidsinnvandring @nn
+  - Bosettingstillatelse @nb
+  - Busetjingsløyve @nn
+  - Busettiingsløyve @nb
+  - Busettiingsløyve @nn
+  - Familieinnvandring @nb
+  - Familieinnvandring @nn
+  preferred:
+  - Residence permit @en
+  - Oppholdstillatelse @nb
+  - Opphaldsløyve @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid. @nn
+relation:
+  broader:
+  - tema/innvandring-og-innreise
+  related:
+  - ord/arbeidstillatelse

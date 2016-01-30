@@ -1,0 +1,15 @@
+!Concept
+label:
+  hidden:
+  - Kjønnsdiskriminering @nb
+  - Kjønnsdiskriminering @nn
+  preferred:
+  - Equality @en
+  - Likestilling @nb
+  - Likestilling @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/innbyggerrettigheter

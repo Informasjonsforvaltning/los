@@ -1,0 +1,35 @@
+!Concept
+label:
+  hidden:
+  - Kommuneplanbestemmelser @nb
+  - Føresegner til kommuneplanen @nn
+  - Næringsplan @nb
+  - Næringsplan @nn
+  - Kommuneplanens samfunnsdel @nb
+  - Samfunnsdelen til kommuneplanen @nn
+  - Områderegulering @nb
+  - Områderegulering @nn
+  - Kommuneplanens arealdel @nb
+  - Arealdelen til kommuneplanen @nn
+  - Detaljregulering @nb
+  - Detaljregulering @nn
+  - Kommunedelplan @nb
+  - Kommunedelplan @nn
+  - Oversiktsplanlegging @nb
+  - Oversynsplanlegging @nn
+  - Arealplanlegging @nb
+  - Arealplanlegging @nn
+  preferred:
+  - Municipal plan @en
+  - Kommuneplan @nb
+  - Kommuneplan @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Planlegging med sikte på å samordne den fysiske, økonomiske, sosiale, kulturelle og estetiske utviklinga innanfor kommunen. @nn
+relation:
+  broader:
+  - tema/kommunal-planlegging
+  - tema/samfunnsplanlegging

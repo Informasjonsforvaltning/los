@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Grendehus @nb
+  - Grendehus @nn
+  - Herredshus @nb
+  - Heradshus @nn
+  - Kulturhus @nb
+  - Kulturhus @nn
+  - Galleri @nb
+  - Galleri @nn
+  - Samfunnshus @nb
+  - Samfunnshus @nn
+  preferred:
+  - Cultural buildings @en
+  - Kulturbygg @nb
+  - Kulturbygg @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Lokale og regionale møteplassar og formidlingsarena for kultur, som til dømes nasjonale kulturbygg, samfunnshus, kulturbåtar og liknande. @nn
+relation:
+  broader:
+  - tema/kultur

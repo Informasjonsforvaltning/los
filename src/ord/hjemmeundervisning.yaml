@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Home teaching @en
+  - Hjemmeundervisning @nb
+  - Heimeundervisning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga. @nn
+relation:
+  broader:
+  - tema/grunnskoleopplaering

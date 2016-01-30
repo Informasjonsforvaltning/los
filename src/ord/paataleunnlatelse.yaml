@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Withdrawal of criminal charges @en
+  - Påtaleunnlatelse @nb
+  - Påtaleunnlating @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/lovbrudd-og-straff

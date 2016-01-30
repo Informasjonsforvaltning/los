@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Consumer questions @en
+  - Forbrukerspørsmål @nb
+  - Forbrukarspørsmål @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

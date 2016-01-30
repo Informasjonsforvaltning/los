@@ -1,0 +1,42 @@
+!Concept
+label:
+  hidden:
+  - Sosialstønad @nb
+  - Sosialstøtte @nn
+  - Økonomisk stønad @nb
+  - Økonomisk støtte @nn
+  - Kommunalt lån @nb
+  - Kommunalt lån @nn
+  - Utdanningsstønad @nb
+  - Utdanningsstønad @nn
+  - Livsoppholdssatser @nb
+  - Livsopphaldssatsar @nn
+  - Introduksjonsstøtte @nb
+  - Introduksjonsstøtte @nn
+  - Introduksjonsstønad @nb
+  - Introduksjonsstønad @nn
+  - Sosiallån @nb
+  - Sosiallån @nn
+  - Grunnstønad @nb
+  - Grunnstønad @nn
+  - Hjelpestønad @nb
+  - Hjelpestønad @nn
+  - Utdanningsstøtte @nb
+  - Utdanningsstøtte @nn
+  - Økonomisk sosialhjelp @nb
+  - Økonomisk sosialhjelp @nn
+  - Livsopphold @nb
+  - Livsopphald @nn
+  preferred:
+  - Financial social assistance @en
+  - Sosialhjelp @nb
+  - Sosialhjelp @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk yting som skal sikre hjelp til livsopphald. Med dette meiner ein pengar til det som vert rekna som nødvendig for å leve, slik som mat, husleige, straum og eventuelt nødvendige klede. @nn
+relation:
+  broader:
+  - tema/oekonomiske-ytelser

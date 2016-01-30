@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Festivalpass @nb
+  - Festivalpass @nn
+  - Billettbestilling @nb
+  - Billettbestilling @nn
+  preferred:
+  - Festivals @en
+  - Festival @nb
+  - Festival @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Større arrangement kring eitt hovudemne, t.d. kulturelt eller idrettsleg. @nn
+relation:
+  broader:
+  - tema/kultur

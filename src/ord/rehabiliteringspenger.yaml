@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Work assessment allowance @en
+  - Rehabiliteringspenger @nb
+  - Rehabiliteringspengar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid. Attføringsytingar, sjukepengar, uførepensjon og uførestønad er eigne emneord. @nn
+relation:
+  broader:
+  - tema/oekonomiske-ytelser
+  related:
+  - ord/habilitering-og-rehabilitering

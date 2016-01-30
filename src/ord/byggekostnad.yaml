@@ -1,0 +1,17 @@
+!Concept
+label:
+  hidden:
+  - Byggekostnadsindeks @nb
+  - Byggjekostnadsindeks @nn
+  - Byggekostnadskalkulator @nb
+  - Byggekostnadskalkulator @nn
+  preferred:
+  - Construction costs @en
+  - Byggekostnad @nb
+  - Byggjekostnad @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/bygging

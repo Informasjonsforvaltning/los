@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Construction @en
+  - Bygging @nb
+  - Bygging @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/bolig-og-eiendom

@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Bygsel @nb
+  - Bygsel @nn
+  - Festeavgift @nb
+  - Festeavgift @nn
+  - Festetomt @nb
+  - Festetomt @nn
+  preferred:
+  - Ground lease @en
+  - Tomtefeste @nb
+  - Tomtefeste @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Leige av grunn til hus som festaren (den som leiger) har på tomta. @nn
+relation:
+  broader:
+  - tema/leie-og-utleie

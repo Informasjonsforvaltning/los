@@ -1,0 +1,30 @@
+!Concept
+label:
+  hidden:
+  - Navneendring @nb
+  - Namneendring @nn
+  - Folkeregister @nb
+  - Folkeregister @nn
+  - Etternavn @nb
+  - Etternamn @nn
+  - Slektsnavn @nb
+  - Slektsnamn @nn
+  - Fornavn @nb
+  - Førenamn @nn
+  - Mellomnavn @nb
+  - Mellomnamn @nn
+  preferred:
+  - First names @en
+  - Personnavn @nb
+  - Personnamn @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Melding om å ta, endre eller sløyfe namn skal sendast til folkeregisteret ved likningskontoret. Alle skal ha førenamn og eitt enkelt eller dobbelt etternamn. I tillegg kan ein ha mellomnamn. Første gongs namneval må skje innan barnet fyller seks månader. @nn
+relation:
+  broader:
+  - tema/personopplysninger
+  - tema/barn-og-foreldre
+  - tema/samliv

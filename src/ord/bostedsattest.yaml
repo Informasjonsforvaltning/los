@@ -1,0 +1,16 @@
+!Concept
+label:
+  hidden:
+  - Bostedsbevis @nb
+  - Bustadbevis @nn
+  preferred:
+  - Certificate of residence @en
+  - Bostedsattest @nb
+  - Bustadattest @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/eiendom
+  - tema/flytting

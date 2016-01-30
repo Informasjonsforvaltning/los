@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Vurderingsopphold @nb
+  - Vurderingsopphald @nn
+  - Rehabiliteringsopphold @nb
+  - Rehabiliteringsopphald @nn
+  - Avlastningsopphold @nb
+  - Avlastingsopphald @nn
+  - Avlastningsopphald @nb
+  - Avlastningsopphald @nn
+  - Akuttplass @nb
+  - Akuttplass @nn
+  preferred:
+  - Temporary stay @en
+  - Korttidsopphold @nb
+  - Korttidsopphald @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord. @nn
+relation:
+  broader:
+  - tema/avlastning-og-stoette

@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Brukerstyrt personlig assistanse @nb
+  - Brukarstyrt personleg assistanse @nn
+  preferred:
+  - Personal assistant @en
+  - Personlig assistent @nb
+  - Personleg assistent @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov. @nn
+relation:
+  broader:
+  - tema/avlastning-og-stoette

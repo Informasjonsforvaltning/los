@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Ergoterapeut @nb
+  - Ergoterapeut @nn
+  preferred:
+  - Ergonomics @en
+  - Ergoterapi @nb
+  - Ergoterapi @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade. Fysioterapi er eige emneord. @nn
+relation:
+  broader:
+  - tema/helsetjenester
+  related:
+  - ord/hjelpemidler

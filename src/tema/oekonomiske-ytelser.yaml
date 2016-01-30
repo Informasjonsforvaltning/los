@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Benefits @en
+  - Økonomiske ytelser @nb
+  - Økonomiske ytingar @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/omsorg-trygd-og-sosiale-tjenester

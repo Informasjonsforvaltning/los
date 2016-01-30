@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Adult education @en
+  - Voksenopplæring @nb
+  - Vaksenopplæring @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skole-og-utdanning

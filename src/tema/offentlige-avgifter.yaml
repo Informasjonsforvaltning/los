@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Public taxes @en
+  - Offentlige avgifter @nb
+  - Offentlege avgifter @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/skatter-og-avgifter

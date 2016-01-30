@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Underholdningsautomat @nb
+  - Underhaldningsautomat @nn
+  - Spillehall @nb
+  - Spelehall @nn
+  preferred:
+  - Slot machines @en
+  - Spilleautomat @nb
+  - Speleautomat @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst. @nn
+relation:
+  broader:
+  - tema/lotteri-og-pengespill
+  related:
+  - ord/spilleavhengighet

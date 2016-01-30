@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Legal matters @en
+  - Rettslige spørsmål @nb
+  - Rettslege spørsmål @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

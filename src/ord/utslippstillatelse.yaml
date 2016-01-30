@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Utslippsløyve @nb
+  - Utsleppsløyve @nn
+  preferred:
+  - Emissions permit @en
+  - Utslippstillatelse @nb
+  - Utsleppsløyve @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande. @nn
+relation:
+  broader:
+  - tema/forurensning-og-straaling
+  related:
+  - ord/avloepshaandtering

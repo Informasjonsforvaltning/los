@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Permanent injury compensation @en
+  - Menerstatning @nb
+  - Meinerstatning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art. @nn
+relation:
+  broader:
+  - tema/erstatningsordninger
+  related:
+  - ord/yrkesskade

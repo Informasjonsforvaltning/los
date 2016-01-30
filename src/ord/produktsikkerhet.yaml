@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - CE-merking @nb
+  - CE-merking @nn
+  - Faremerking @nb
+  - Faremerking @nn
+  - Produktmerking @nb
+  - Produktmerking @nn
+  preferred:
+  - Product safety @en
+  - Produktsikkerhet @nb
+  - Produktsikkerheit @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap og Statens forureiningstilsyn forvaltar produktkontrolllova. @nn
+relation:
+  broader:
+  - tema/varer-og-tjenester
+  - tema/handel-og-service

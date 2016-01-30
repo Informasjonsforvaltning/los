@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Etablererprøven @nb
+  - Etablerarprøven @nn
+  - Serveringsbevilling @nb
+  - Serveringsløyve @nn
+  - Uteservering @nb
+  - Uteservering @nn
+  preferred:
+  - Catering @en
+  - Servering @nb
+  - Servering @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord. @nn
+relation:
+  broader:
+  - tema/handel-og-service

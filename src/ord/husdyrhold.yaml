@@ -1,0 +1,50 @@
+!Concept
+label:
+  hidden:
+  - Melkekvote @nb
+  - Mjølkekvote @nn
+  - Karantene @nb
+  - Karantene @nn
+  - Rovdyr @nb
+  - Rovdyr @nn
+  - Rovdyrskade @nb
+  - Rovdyrskade @nn
+  - Rovvilterstatning @nb
+  - Rovvilterstatning @nn
+  - Jordbruk @nb
+  - Jordbruk @nn
+  - Birøkt @nb
+  - Birøkt @nn
+  - Fôr @nb
+  - Fôr @nn
+  - Rovdyrerstatning @nb
+  - Rovdyrerstatning @nn
+  - Beitedyr @nb
+  - Beitedyr @nn
+  - Produksjonsdyr @nb
+  - Produksjonsdyr @nn
+  - Rovviltskade @nb
+  - Rovviltskade @nn
+  - Husdyrproduksjon @nb
+  - Husdyrproduksjon @nn
+  - Nedfôring @nb
+  - Nedfôring @nn
+  - Pelsdyroppdrett @nb
+  - Pelsdyroppdrett @nn
+  - Bier @nb
+  - Bier @nn
+  preferred:
+  - Livestock farming @en
+  - Husdyrhold @nb
+  - Husdyrhald @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe. Sports- og kjæledyr er eige emneord. @nn
+relation:
+  broader:
+  - tema/landbruk
+  related:
+  - ord/kjaeledyr-og-sportsdyr

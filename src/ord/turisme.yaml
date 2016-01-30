@@ -1,0 +1,32 @@
+!Concept
+label:
+  hidden:
+  - Økoturisme @nb
+  - Økoturisme @nn
+  - Besøksgård @nb
+  - Besøksgard @nn
+  - Agroturisme @nb
+  - Agroturisme @nn
+  - Gårdsturisme @nb
+  - Gardsturisme @nn
+  - Opplevelsesturisme @nb
+  - Opplevelsesturisme @nn
+  - Grønt reiseliv @nb
+  - Grønt reiseliv @nn
+  - Bygdeturisme @nb
+  - Bygdeturisme @nn
+  - Geoturisme @nb
+  - Geoturisme @nn
+  preferred:
+  - Tourism @en
+  - Turisme @nb
+  - Turisme @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak, og til bedriftsretta tiltak @nn
+relation:
+  broader:
+  - tema/reiselivsnaering

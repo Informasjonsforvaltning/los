@@ -1,0 +1,42 @@
+!Concept
+label:
+  hidden:
+  - Fortidsminne @nb
+  - Fortidsminne @nn
+  - Kystkultur @nb
+  - Kystkultur @nn
+  - Spesialområde bevaring @nb
+  - Spesialområde bevaring @nn
+  - Fornminne @nb
+  - Fornminne @nn
+  - Arkeologisk undersøkelse @nb
+  - Arkeologisk undersøking @nn
+  - Kulturvern @nb
+  - Kulturvern @nn
+  - SEFRAK @nb
+  - SEFRAK @nn
+  - Riksantikvaren @nb
+  - Riksantikvaren @nn
+  - Fredning @nb
+  - Freding @nn
+  - Verneverdig @nb
+  - Verneverdig @nn
+  - Kulturlandskap @nb
+  - Kulturlandskap @nn
+  - Bygningsvern @nb
+  - Bygningsvern @nn
+  preferred:
+  - Cultural heritage  @en
+  - Kulturminnevern @nb
+  - Kulturminnevern @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Arbeid med å ta vare på kulturarven vår, både frå nær og fjern fortid. Dette kan vere materielle så vel som immaterielle kulturelement. @nn
+relation:
+  broader:
+  - tema/kultur
+  related:
+  - ord/naturvern

@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Autorisasjon @nb
+  - Autorisasjon @nn
+  preferred:
+  - Professional qualifications @en
+  - Yrkesautorisasjon @nb
+  - Yrkesautorisasjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Rett til å praktisere eit yrke. @nn
+relation:
+  broader:
+  - tema/arbeidssoeking-og-rekruttering

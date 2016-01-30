@@ -1,0 +1,34 @@
+!Concept
+label:
+  hidden:
+  - Arealbruksendring @nb
+  - Arealbruksendring @nn
+  - Reguleringsbestemmelse @nb
+  - Reguleringsføresegn @nn
+  - Privat reguleringsplan @nb
+  - Privat reguleringsplan @nn
+  - Offentlig reguleringsplan @nb
+  - Offentleg reguleringsplan @nn
+  - Ekspropriasjon @nb
+  - Oreigning @nn
+  - Reguleringsforskrift @nb
+  - Reguleringsforskrift @nn
+  - Arealplanlegging @nb
+  - Arealplanlegging @nn
+  preferred:
+  - Local area development plan @en
+  - Reguleringsplan @nb
+  - Reguleringsplan @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan. @nn
+relation:
+  broader:
+  - tema/kommunal-planlegging
+  related:
+  - ord/byggesak
+  - ord/naeringsareal
+  - ord/vegbygging

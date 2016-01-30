@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Reisedokument @nb
+  - Reisedokument @nn
+  - Reisebevis @nb
+  - Reiseløyve @nn
+  - Legitimasjon @nb
+  - Legitimasjon @nn
+  - Utlendingspass @nb
+  - Utlendingspass @nn
+  - Schengen-avtalen @nb
+  - Schengen-avtalen @nn
+  preferred:
+  - Passports @en
+  - Pass @nb
+  - Pass @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. (Noreg.no) @nn
+relation:
+  broader:
+  - tema/innvandring-og-innreise
+  - tema/utenlandsreiser
+  - tema/innbyggerrettigheter

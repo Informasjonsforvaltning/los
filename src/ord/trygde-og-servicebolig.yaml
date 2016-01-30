@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Trygdebolig @nb
+  - Trygdebustad @nn
+  - Tilrettelagt bolig @nb
+  - Tilrettelagt bustad @nn
+  preferred:
+  - Welfare housing @en
+  - Trygde- og servicebolig @nb
+  - Trygde- og servicebustad @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren. @nn
+relation:
+  broader:
+  - tema/botilbud

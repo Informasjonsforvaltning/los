@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Natural disaster compensation @en
+  - Naturskadeerstatning @nb
+  - Naturskadeerstatning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Erstatning etter naturskade. @nn
+relation:
+  broader:
+  - tema/erstatningsordninger
+  related:
+  - ord/naturskade

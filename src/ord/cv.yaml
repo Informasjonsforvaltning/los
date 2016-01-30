@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Kandidatsøk @nb
+  - Kandidatsøk @nn
+  - Curriculum vitae @nb
+  - Curriculum vitae @nn
+  preferred:
+  - CV @en
+  - CV @nb
+  - CV @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord. @nn
+relation:
+  broader:
+  - tema/arbeidssoeking-og-rekruttering

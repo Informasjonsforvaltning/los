@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Spillegalskap @nb
+  - Spelegalskap @nn
+  preferred:
+  - Gambling addiction @en
+  - Spilleavhengighet @nb
+  - Speleavhengigheit @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt. @nn
+relation:
+  broader:
+  - tema/psykisk-helse
+  related:
+  - ord/spilleautomat

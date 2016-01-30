@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Mental health @en
+  - Psykisk helse @nb
+  - Psykisk helse @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/helse

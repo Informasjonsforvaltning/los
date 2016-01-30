@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Kindergartens @en
+  - Barnehage @nb
+  - Barnehage @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/barn-og-familie

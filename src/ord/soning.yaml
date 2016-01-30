@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Fengselsstraff @nb
+  - Fengselsstraff @nn
+  - Kriminalomsorg @nb
+  - Kriminalomsorg @nn
+  - Forvaring @nb
+  - Forvaring @nn
+  - Sikring @nb
+  - Sikring @nn
+  preferred:
+  - Serving a criminal sentence @en
+  - Soning @nb
+  - Soning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff, kan det vere aktuelt med soning utanfor fengsel med særlege vilkår. @nn
+relation:
+  broader:
+  - tema/lovbrudd-og-straff

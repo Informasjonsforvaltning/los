@@ -1,0 +1,43 @@
+!Concept
+label:
+  hidden:
+  - Rovdyr @nb
+  - Rovdyr @nn
+  - Hjortevilt @nb
+  - Hjortevilt @nn
+  - Rådyr @nb
+  - Rådyr @nn
+  - Skadet vilt @nb
+  - Skada vilt @nn
+  - Skadd vilt @nb
+  - Skadd vilt @nn
+  - Fallvilt @nb
+  - Fallvilt @nn
+  - Viltpåkjørsel @nb
+  - Viltpåkøyrsel @nn
+  - Viltnemnd @nb
+  - Viltnemnd @nn
+  - Elg @nb
+  - Elg @nn
+  - Rovvilt @nb
+  - Rovvilt @nn
+  - Småvilt @nb
+  - Småvilt @nn
+  - Viltfond @nb
+  - Viltfond @nn
+  - Storvilt @nb
+  - Storvilt @nn
+  preferred:
+  - Wildlife management @en
+  - Viltforvaltning @nb
+  - Viltforvaltning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Arbeidet i med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak. I nokre tilfelle ligg myndigheita hos Direktoratet for naturforvaltning. @nn
+relation:
+  broader:
+  - tema/fiske-fangst-og-akvakultur
+  - tema/naturforvaltning

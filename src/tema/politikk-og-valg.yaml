@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Politics and elections @en
+  - Politikk og valg @nb
+  - Politikk og val @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/individ-og-samfunn

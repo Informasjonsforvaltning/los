@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Trips abroad @en
+  - Utenlandsreiser @nb
+  - Utanlandsreiser @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/trafikk-reiser-og-samferdsel

@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Individual health plan @en
+  - Individuell plan @nb
+  - Individuell plan @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunen har plikt til å utarbeide individuelle planar for personar som har behov for langvarige og koordinerte helse- og/eller sosialtenester. Staten har tilsvarande plikt for pasientar med behov for spesialisthelsetenester. @nn
+relation:
+  broader:
+  - tema/pasientrettigheter
+  - tema/omsorgstjenester

@@ -1,0 +1,11 @@
+!Concept
+label:
+  preferred:
+  - Health @en
+  - Helse @nb
+  - Helse @nn
+scheme:
+  in:
+  - ontologi/tema
+  topOf:
+  - struktur

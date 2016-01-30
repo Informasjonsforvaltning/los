@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Truck driver licence @en
+  - Truckførerbevis @nb
+  - Truckførarbevis @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar. @nn
+relation:
+  broader:
+  - tema/foererkort-og-sertifikat

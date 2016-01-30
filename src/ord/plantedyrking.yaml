@@ -1,0 +1,56 @@
+!Concept
+label:
+  hidden:
+  - Planteproduksjon @nb
+  - Planteproduksjon @nn
+  - Økologisk landbruk @nb
+  - Økologisk landbruk @nn
+  - Produksjonstilskudd @nb
+  - Produksjonstilskot @nn
+  - Gjødsel @nb
+  - Gjødsel @nn
+  - Jordbruk @nb
+  - Jordbruk @nn
+  - Økologisk jordbruk @nb
+  - Økologisk jordbruk @nn
+  - SMIL @nb
+  - SMIL @nn
+  - Forvirksomhet @nb
+  - Forverksemd @nn
+  - Avlingssvikt @nb
+  - Avlingssvikt @nn
+  - Fôrvarevirksomhet @nb
+  - Fôrvareverksemd @nn
+  - Fôrvirksomhet @nb
+  - Fôrverksemd @nn
+  - Jordbruksareal @nb
+  - Jordbruksareal @nn
+  - Nydyrking @nb
+  - Nydyrking @nn
+  - Spesielle miljøtiltak i jordbruket @nb
+  - Spesielle miljøtiltak i jordbruket @nn
+  - Husdyrgjødsel @nb
+  - Husdyrgjødsel @nn
+  - Forvarevirksomhet @nb
+  - Forvareverksemd @nn
+  - Gjødsling @nb
+  - Gjødsling @nn
+  - Regionalt miljøprogram @nb
+  - Regionalt miljøprogram @nn
+  - Kulturlandskap @nb
+  - Kulturlandskap @nn
+  - Miljøplan @nb
+  - Miljøplan @nn
+  preferred:
+  - Cultivation of plants @en
+  - Plantedyrking @nb
+  - Plantedyrking @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Landbruk er produksjon av mat ved å dyrke planter til menneskeføde, eller til bruk for dyr som blir menneskeføde. Skogbruk og husdyrhald er eigne emneord. @nn
+relation:
+  broader:
+  - tema/landbruk

@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - Skoleruta @nb
+  - Skuleruta @nn
+  - Skoleåret @nb
+  - Skuleåret @nn
+  - Skoleferie @nb
+  - Skuleferie @nn
+  preferred:
+  - School terms and holidays @en
+  - Skolerute @nb
+  - Skulerute @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kalenderoversikt over ferieavviklinga i grunnskulen. @nn
+relation:
+  broader:
+  - tema/grunnskoleopplaering
+  - tema/videregaaende-opplaering
