@@ -13,6 +13,7 @@ scheme:
 documentation:
   definition:
   - Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke. @nn
+  - Selvbestemt svangerskapsavbrudd innen 12. svangerskapsuke. @nb
 relation:
   broader:
   - tema/svangerskap-og-foedsel
