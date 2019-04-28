@@ -2,8 +2,8 @@
 label:
   preferred:
   - Child and family welfare @en
-  - Barnevern og familievern @nb
-  - Barnevern og familievern @nn
+  - Barnevern og foreldrestøtte @nb
+  - Barnevern og foreldrestøtte @nn
 scheme:
   in:
   - ontologi/tema
