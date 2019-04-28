@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Family support @en
+  - Støtte til familier @nb
+  - Støtte til familiar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp. @nb
+  - Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp @nn
+
+relation:
+  broader:
+  - tema/barnevern-og-foreldrestotte
