@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+
+  preferred:
+  - Shelter @en
+  - Krisesenter @nb
+  - Krisesenter @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Eit trygt, mellombels butilbod, informasjon om rettar, råd og rettleiing, formidling til hjelpeinstansar for kvinner, menn og barn som er utsett for vald eller truslar i nære relasjonar. @nn
+  - Et trygt, midlertidig botilbud, informasjon om rettigheter, råd og veiledning, formidling til hjelpeinstanser for kvinner, menn og barn som er utsatt for vold eller trusler i nære relasjoner. @nb
+relation:
+  broader:
+  - tema/akutt-hjelp
+  - tema/samliv
+  - tema/ekteskap 
