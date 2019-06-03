@@ -9,3 +9,5 @@ options:
   github:
     repository: https://github.com/difi/los
     issues: https://github.com/difi/los/issues
+  site:
+    root: /los/3/
