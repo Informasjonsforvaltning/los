@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Dødsfall og arv @nb
+  - Dødsfall og arv @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/arv-og-gaver
+  - ord/doedsattest
+  - ord/doedsmelding
+  - ord/organdonasjon
+  - ord/gravferd
+  - ord/gravplass
+  - ord/skifte

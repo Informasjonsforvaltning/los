@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Starte og drive en bedrift @nb
+  - Starte og drive ein bedrift @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/arbeidsgiveravgift
+  - ord/arbeidsmiljoe
+  - ord/bedriftsetablering
+  - ord/etablere-barnehage
+  - ord/merverdiavgift

@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Starte og drive en frivillig organisasjon @nb
+  - Starte og drive ein frivillig organisasjon @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/frivilligsentral
+  - ord/lag-og-foreninger
