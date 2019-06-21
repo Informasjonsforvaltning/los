@@ -7310,7 +7310,14 @@
       <PrefLabel lang="nn">Folkehelse</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse</Broader>
-   </Concept>
+	     </Concept>
+	<Concept path="tema/akutt-hjelp">
+      <PrefLabel lang="en">Emergency help</PrefLabel>
+      <PrefLabel lang="nb">Akutt hjelp</PrefLabel>
+      <PrefLabel lang="nn">Akutt hjelp</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/helse</Broader>
+	     </Concept>
    <Concept path="tema/folkehogskole">
       <PrefLabel lang="en">Folk high schools</PrefLabel>
       <PrefLabel lang="nb">Folkehøgskole</PrefLabel>
