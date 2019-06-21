@@ -32,10 +32,10 @@
       <PrefLabel lang="nb">Å ha et alvorlig sykt barn</PrefLabel>
       <PrefLabel lang="nn">Å ha et alvorleg sjukt barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/omsorgsloenn</Related>
+      <Related>ord/omsorgslonn</Related>
       <Related>ord/skoleskyss</Related>
       <Related>ord/frikort-for-helsetjenester</Related>
-      <Related>ord/stoette-til-familier</Related>
+      <Related>ord/stotte-til-familier</Related>
       <Related>ord/personlig-assistent</Related>
       <Related>ord/ledsager</Related>
       <Related>ord/habilitering-og-rehabilitering</Related>
@@ -46,8 +46,8 @@
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arv-og-gaver</Related>
-      <Related>ord/doedsattest</Related>
-      <Related>ord/doedsmelding</Related>
+      <Related>ord/dodsattest</Related>
+      <Related>ord/dodsmelding</Related>
       <Related>ord/organdonasjon</Related>
       <Related>ord/gravferd</Related>
       <Related>ord/gravplass</Related>
@@ -57,23 +57,23 @@
       <PrefLabel lang="nb">Å få barn</PrefLabel>
       <PrefLabel lang="nn">Å få barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/foedselsattest</Related>
+      <Related>ord/fodselsattest</Related>
       <Related>ord/personnavn</Related>
       <Related>ord/svangerskapsomsorg</Related>
       <Related>ord/foreldrepermisjon</Related>
       <Related>ord/foreldrepenger</Related>
-      <Related>ord/engangsstoenad</Related>
+      <Related>ord/engangsstonad</Related>
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
       <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
       <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/arbeidssoeking</Related>
+      <Related>ord/arbeidssoking</Related>
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/grunnskoleopplaering-for-voksne</Related>
-      <Related>ord/hoegskole-og-universitet</Related>
+      <Related>ord/grunnskoleopplaring-for-voksne</Related>
+      <Related>ord/hogskole-og-universitet</Related>
       <Related>ord/inkluderende-arbeidsliv</Related>
       <Related>ord/permittering</Related>
    </Concept>
@@ -81,7 +81,7 @@
       <PrefLabel lang="nb">Ny i Norge</PrefLabel>
       <PrefLabel lang="nn">Ny i Noreg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/norskopplaering</Related>
+      <Related>ord/norskopplaring</Related>
       <Related>ord/introduksjonsprogram-for-innvandrere</Related>
       <Related>ord/lag-og-foreninger</Related>
       <Related>ord/tolketjeneste</Related>
@@ -94,7 +94,7 @@
       <PrefLabel lang="nn">Starte og drive ein bedrift</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
-      <Related>ord/arbeidsmiljoe</Related>
+      <Related>ord/arbeidsmiljo</Related>
       <Related>ord/bedriftsetablering</Related>
       <Related>ord/etablere-barnehage</Related>
       <Related>ord/merverdiavgift</Related>
@@ -115,7 +115,7 @@
       <Definition lang="nn">Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke.</Definition>
       <Definition lang="nb">Selvbestemt svangerskapsavbrudd innen 12. svangerskapsuke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-foedsel</Broader>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
    <Concept path="ord/adopsjon">
       <PrefLabel lang="en">Adoption</PrefLabel>
@@ -127,7 +127,7 @@
       <HiddenLabel lang="nn">Stebarnsadopsjon</HiddenLabel>
       <Definition lang="nn">Ta til seg eit barn som sitt eige. Eingongsstønad er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ufrivillig-barnloeshet</Related>
+      <Related>ord/ufrivillig-barnloshet</Related>
       <Broader>tema/barn-og-foreldre</Broader>
    </Concept>
    <Concept path="ord/adressetildeling">
@@ -331,9 +331,9 @@
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/yrkesrettet-attfoering</Related>
-      <Related>ord/ufoerepensjon</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Related>ord/yrkesrettet-attforing</Related>
+      <Related>ord/uforepensjon</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/arbeidsavtale">
       <PrefLabel lang="en">Work contracts</PrefLabel>
@@ -403,10 +403,10 @@
       <HiddenLabel lang="nn">Praksisplass</HiddenLabel>
       <Definition lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/stoenad-ved-arbeidsmarkedstiltak</Related>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
-   <Concept path="ord/arbeidsmiljoe">
+   <Concept path="ord/arbeidsmiljo">
       <PrefLabel lang="en">Work environment</PrefLabel>
       <PrefLabel lang="nb">Arbeidsmiljø</PrefLabel>
       <PrefLabel lang="nn">Arbeidsmiljø</PrefLabel>
@@ -444,7 +444,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
-   <Concept path="ord/arbeidssoeking">
+   <Concept path="ord/arbeidssoking">
       <PrefLabel lang="en">Job seeking</PrefLabel>
       <PrefLabel lang="nb">Arbeidssøking</PrefLabel>
       <PrefLabel lang="nn">Arbeidssøking</PrefLabel>
@@ -472,10 +472,10 @@
       <HiddenLabel lang="nn">Engasjement</HiddenLabel>
       <Definition lang="nn">Til dette høyrer registrering som arbeidssøkjar (sjølvbeteningsteneste). Ikkje medrekna registrering av CV hos t.d. Nav; sjå emneordet CV.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ventestoenad</Related>
-      <Related>ord/venteloenn</Related>
+      <Related>ord/ventestonad</Related>
+      <Related>ord/ventelonn</Related>
       <Related>ord/dagpenger</Related>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/arbeidstid">
       <PrefLabel lang="en">Working hours</PrefLabel>
@@ -507,7 +507,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/arbeidstvist">
       <PrefLabel lang="en">Labour dispute</PrefLabel>
@@ -570,7 +570,7 @@
       <HiddenLabel lang="nn">Livsarving</HiddenLabel>
       <Definition lang="nn">Arv- eller gåvemelding skal sendast til skattefutkontoret i det fylket der arvelataren (den ein arvar frå) eller gjevaren bur.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/doedsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
       <Broader>tema/skatt-og-likning</Broader>
       <Broader>tema/barn-og-foreldre</Broader>
    </Concept>
@@ -582,7 +582,7 @@
       <HiddenLabel lang="nn">Barnebustad</HiddenLabel>
       <Definition lang="nn">Bustad med særlig tilpassing og med hjelpe- og vernetiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/avlastningshjem">
       <PrefLabel lang="en">Auxilary home</PrefLabel>
@@ -590,10 +590,10 @@
       <PrefLabel lang="nn">Avlastingsheim</PrefLabel>
       <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta. Fosterheim er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/besoekshjem</Related>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Related>ord/besokshjem</Related>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
-   <Concept path="ord/avloepshaandtering">
+   <Concept path="ord/avlopshandtering">
       <PrefLabel lang="en">Drain management</PrefLabel>
       <PrefLabel lang="nb">Avløpshåndtering</PrefLabel>
       <PrefLabel lang="nn">Avløpshandtering</PrefLabel>
@@ -613,7 +613,7 @@
       <Related>ord/utslippstillatelse</Related>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
-   <Concept path="ord/avloesertilskudd">
+   <Concept path="ord/avlosertilskudd">
       <PrefLabel lang="en">Farm assistance grant</PrefLabel>
       <PrefLabel lang="nb">Avløsertilskudd</PrefLabel>
       <PrefLabel lang="nn">Avløysartilskot</PrefLabel>
@@ -623,7 +623,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
-   <Concept path="ord/baalbrenning">
+   <Concept path="ord/balbrenning">
       <PrefLabel lang="en">Bonfires</PrefLabel>
       <PrefLabel lang="nb">Bålbrenning</PrefLabel>
       <PrefLabel lang="nn">Bålbrenning</PrefLabel>
@@ -641,18 +641,18 @@
       <HiddenLabel lang="nn">Bålplass</HiddenLabel>
       <Definition lang="nn">Utandørs brenning eller brenning av avfall i småomnar. Kommunen fastset lokale reglar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/friomraade</Related>
+      <Related>ord/friomrade</Related>
       <Broader>tema/friluftsliv</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/baatfoererbevis">
+   <Concept path="ord/batforerbevis">
       <PrefLabel lang="en">Norwegian boatmanship licence</PrefLabel>
       <PrefLabel lang="nb">Båtførerbevis</PrefLabel>
       <PrefLabel lang="nn">Båtførarbevis</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-   <Concept path="ord/baatplass">
+   <Concept path="ord/batplass">
       <PrefLabel lang="en">Mooring space</PrefLabel>
       <PrefLabel lang="nb">Båtplass</PrefLabel>
       <PrefLabel lang="nn">Båtplass</PrefLabel>
@@ -660,9 +660,9 @@
       <HiddenLabel lang="nn">Småbåthamn</HiddenLabel>
       <Definition lang="nn">Hamn for småbåtar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/baattrafikk</Broader>
+      <Broader>tema/battrafikk</Broader>
    </Concept>
-   <Concept path="ord/baatsertifikat">
+   <Concept path="ord/batsertifikat">
       <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft</PrefLabel>
       <PrefLabel lang="nb">Båtsertifikat</PrefLabel>
       <PrefLabel lang="nn">Båtsertifikat</PrefLabel>
@@ -674,7 +674,7 @@
       <HiddenLabel lang="nn">Kystskippersertifikat</HiddenLabel>
       <Definition lang="nn">Løyve for å føra fritidsbåt. Båtførarbeviset skal vere i bankkortformat og ha bilete av innehavaren.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/badeplass">
       <PrefLabel lang="en">Bathing area</PrefLabel>
@@ -767,7 +767,7 @@
       <Definition lang="nn">Yting som skal bidra til å dekkje utgifter i samband med det å ha barn, og som skal verke omfordelande mellom familiar med og utan barn. Herunder småbarnstillegg, Finnmarkstillegg, Svalbardtilleg og utvida barnetrygd.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barn-og-foreldre</Broader>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/barnevern">
       <PrefLabel lang="en">Child protection</PrefLabel>
@@ -787,7 +787,7 @@
       <HiddenLabel lang="nn">Bekymringsmelding</HiddenLabel>
       <Definition lang="nn">Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar. Fosterheim er er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
    <Concept path="ord/bebyggelsesplan">
       <PrefLabel lang="en">Building development plan</PrefLabel>
@@ -814,7 +814,7 @@
       <HiddenLabel lang="nn">Etablerarpakke</HiddenLabel>
       <Definition lang="nn">Å starte ei bedrift/verksemd.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
@@ -832,9 +832,9 @@
       <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <Definition lang="nn">Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
-   <Concept path="ord/besoekshjem">
+   <Concept path="ord/besokshjem">
       <PrefLabel lang="en">Temporary home</PrefLabel>
       <PrefLabel lang="nb">Besøkshjem</PrefLabel>
       <PrefLabel lang="nn">Besøksheim</PrefLabel>
@@ -843,7 +843,7 @@
       <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen må godkjennast av barnevertenesta. Avlastningsheim er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/avlastningshjem</Related>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
    <Concept path="ord/bibliotektjenester">
       <PrefLabel lang="en">Library services</PrefLabel>
@@ -873,10 +873,10 @@
       <HiddenLabel lang="nn">Fylkesbibliotek</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bibliotek</Broader>
-      <Broader>tema/hoeyere-utdanning</Broader>
+      <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
-      <Broader>tema/videregaaende-opplaering</Broader>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/bingo">
       <PrefLabel lang="en">Bingo</PrefLabel>
@@ -952,11 +952,11 @@
       <HiddenLabel lang="nn">Bustadlån</HiddenLabel>
       <Definition lang="nn">Lån og stønad frå Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/bostoette</Related>
+      <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
       <Broader>tema/bygging</Broader>
-      <Broader>tema/kjoep-og-salg</Broader>
+      <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
@@ -1000,7 +1000,7 @@
       <Broader>tema/eiendom</Broader>
       <Broader>tema/flytting</Broader>
    </Concept>
-   <Concept path="ord/bostoette">
+   <Concept path="ord/bostotte">
       <PrefLabel lang="en">Housing allowance</PrefLabel>
       <PrefLabel lang="nb">Bostøtte</PrefLabel>
       <PrefLabel lang="nn">Bustønad</PrefLabel>
@@ -1009,7 +1009,7 @@
       <Definition lang="nn">Stønad frå Husbanken for husstandar med låge inntekter høge buutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
@@ -1050,9 +1050,9 @@
       <HiddenLabel lang="nn">Regelhjelp</HiddenLabel>
       <Definition lang="nn">Regelverk for verksemder. Medrekna kva krav som blir stilt til bransjar innanfor ulike område.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/broeyting">
+   <Concept path="ord/broyting">
       <PrefLabel lang="en">Snow clearing</PrefLabel>
       <PrefLabel lang="nb">Brøyting</PrefLabel>
       <PrefLabel lang="nn">Brøyting</PrefLabel>
@@ -1145,7 +1145,7 @@
       <HiddenLabel lang="nn">Curriculum vitae</HiddenLabel>
       <Definition lang="nn">Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/d-nummer">
       <PrefLabel lang="en">D-number</PrefLabel>
@@ -1154,7 +1154,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/daap">
+   <Concept path="ord/dap">
       <PrefLabel lang="en">Baptism</PrefLabel>
       <PrefLabel lang="nb">Dåp </PrefLabel>
       <PrefLabel lang="nn">Dåp </PrefLabel>
@@ -1171,8 +1171,8 @@
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Definition lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoeking</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Related>ord/arbeidssoking</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/dagtilbud">
       <PrefLabel lang="en">Daytime activities</PrefLabel>
@@ -1215,25 +1215,25 @@
       <HiddenLabel lang="nn">Mønstervern</HiddenLabel>
       <Definition lang="nn">Design refererer til utsjånaden og forma til eit produkt eller del av eit produkt. Ei designregistrering dokumenterer retten til ein bestemt design i eit bestemt tidsrom, og ein kan lettare hindre andre i å utnytte same designen. Patentvern høyrer til emneordet patent.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/doedsattest">
+   <Concept path="ord/dodsattest">
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
       <PrefLabel lang="nn">Dødsattest</PrefLabel>
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/doedsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
    </Concept>
-   <Concept path="ord/doedsmelding">
+   <Concept path="ord/dodsmelding">
       <PrefLabel lang="en">Death notice</PrefLabel>
       <PrefLabel lang="nb">Dødsmelding</PrefLabel>
       <PrefLabel lang="nn">Dødsmelding</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/doedsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
    </Concept>
-   <Concept path="ord/doevetolk">
+   <Concept path="ord/dovetolk">
       <PrefLabel lang="en">Interpreter for the deaf</PrefLabel>
       <PrefLabel lang="nb">Døvetolk</PrefLabel>
       <PrefLabel lang="nn">Døvetolk</PrefLabel>
@@ -1246,7 +1246,7 @@
       <Definition lang="nn">Tegnspråktolk/døvetolk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tolketjeneste</Related>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/dokumentavgift">
       <PrefLabel lang="en">Stamp duty</PrefLabel>
@@ -1384,7 +1384,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Related>ord/kontrakt</Related>
-      <Broader>tema/kjoep-og-salg</Broader>
+      <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/eiendomsregister">
       <PrefLabel lang="en">Property registration</PrefLabel>
@@ -1494,7 +1494,7 @@
       <HiddenLabel lang="nb">Ladestasjon</HiddenLabel>
       <HiddenLabel lang="nn">Ladestasjon</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/eldresenter">
       <PrefLabel lang="en">Senior citizen community centre</PrefLabel>
@@ -1541,13 +1541,13 @@
       <Related>ord/etisk-forbruk</Related>
       <Broader>tema/energi</Broader>
    </Concept>
-   <Concept path="ord/engangsstoenad">
+   <Concept path="ord/engangsstonad">
       <PrefLabel lang="en">Lump-sum grant for birth or adoption</PrefLabel>
       <PrefLabel lang="nb">Engangsstønad</PrefLabel>
       <PrefLabel lang="nn">Eingongsstønad</PrefLabel>
       <Definition lang="nn">Kvinner som ikkje har oppabeidd rett til forelderpengar, får utbetalt eingongsstønad ved fødsel eller adopsjon av barn. Foreldrepengar, kontantstøtte, omsorgspengar, stønad til einsleg forsørgjar og adopsjon er alle eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/barn-og-foreldre</Broader>
    </Concept>
    <Concept path="ord/ergoterapi">
@@ -1561,7 +1561,7 @@
       <Related>ord/hjelpemidler</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/ernaering">
+   <Concept path="ord/ernaring">
       <PrefLabel lang="en">Nutrition</PrefLabel>
       <PrefLabel lang="nb">Ernæring</PrefLabel>
       <PrefLabel lang="nn">Ernæring</PrefLabel>
@@ -1585,7 +1585,7 @@
       <HiddenLabel lang="nn">Næringsmiddel</HiddenLabel>
       <Definition lang="nn">Kosthald. Kosthaldstilrådingar. Drikkevatn er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/skolemaaltid</Related>
+      <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
    </Concept>
    <Concept path="ord/etablere-barnehage">
@@ -1602,7 +1602,7 @@
       <Definition lang="nb">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/etisk-forbruk">
       <PrefLabel lang="en">Ethical consumption</PrefLabel>
@@ -1626,8 +1626,8 @@
       <PrefLabel lang="nb">Etterutdanning og videreutdanning</PrefLabel>
       <PrefLabel lang="nn">Etterutdanning og vidareutdanning</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hoeyere-utdanning</Broader>
-      <Broader>tema/voksenopplaering</Broader>
+      <Broader>tema/hoyere-utdanning</Broader>
+      <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/europeisk-helsetrygdkort">
       <PrefLabel lang="en">European Health Insurance</PrefLabel>
@@ -1642,7 +1642,7 @@
       <Broader>tema/utenlandsreiser</Broader>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/fagopplaering">
+   <Concept path="ord/fagopplaring">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Fagopplæring</PrefLabel>
       <PrefLabel lang="nn">Fagopplæring</PrefLabel>
@@ -1651,7 +1651,7 @@
       <Definition lang="nn">Opplæring innanfor vidaregåande opplæring. Skil seg frå anna vidaregåande opplæring ved at den involverer både lærlingen, bedrifta, skulen og yrkesopplæringsnemnda. Fører fram til yrkeskompetanse. Fagskuleutdanning er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/fagskoleutdanning">
       <PrefLabel lang="en">Vocational education</PrefLabel>
@@ -1661,8 +1661,8 @@
       <HiddenLabel lang="nn">Teknisk fagskule</HiddenLabel>
       <Definition lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår. Fagopplæring er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagopplaering</Related>
-      <Broader>tema/hoeyere-utdanning</Broader>
+      <Related>ord/fagopplaring</Related>
+      <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
    <Concept path="ord/familievern">
       <PrefLabel lang="en">Family counselling</PrefLabel>
@@ -1684,7 +1684,7 @@
       <HiddenLabel lang="nn">Familiekontor</HiddenLabel>
       <Definition lang="nn">Offentlege og kyrkjelege rettleiingstenester som gjev hjelp og råd i alle slags konfliktar og kriser i familieforhold. Kontora skal godkjennast av Barne- og likestillingsdepartementet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
       <Broader>tema/samliv</Broader>
    </Concept>
    <Concept path="ord/farlig-avfall">
@@ -1712,7 +1712,7 @@
       <Definition lang="nn">Avfall som det ikkje er tilrådeleg å behandle saman med anna hushaldsavfall eller næringsavfall på grunn av storleiken eller fordi det kan medføre alvorlig forureining eller fare for skade på menneske eller dyr.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/renovasjon</Related>
-      <Broader>tema/avfallshaandtering</Broader>
+      <Broader>tema/avfallshandtering</Broader>
    </Concept>
    <Concept path="ord/farskap">
       <PrefLabel lang="en">Fatherhood</PrefLabel>
@@ -1863,8 +1863,8 @@
       <PrefLabel lang="nb">Fjernundervisning</PrefLabel>
       <PrefLabel lang="nn">Fjernundervisning</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hoeyere-utdanning</Broader>
-      <Broader>tema/voksenopplaering</Broader>
+      <Broader>tema/hoyere-utdanning</Broader>
+      <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/flagg">
       <PrefLabel lang="en">Flags</PrefLabel>
@@ -1894,7 +1894,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
       <Related>ord/naturskade</Related>
-      <Broader>tema/vaer-og-klima</Broader>
+      <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/fly-og-helikopter">
       <PrefLabel lang="en">Aeroplanes and helicopters</PrefLabel>
@@ -1940,7 +1940,7 @@
       <HiddenLabel lang="nn">Helikopter</HiddenLabel>
       <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/flyttemelding">
       <PrefLabel lang="en">Notification of move or change of address</PrefLabel>
@@ -1961,14 +1961,14 @@
       <Broader>tema/personopplysninger</Broader>
       <Broader>tema/flytting</Broader>
    </Concept>
-   <Concept path="ord/foedselsattest">
+   <Concept path="ord/fodselsattest">
       <PrefLabel lang="en">Birth certificate</PrefLabel>
       <PrefLabel lang="nb">Fødselsattest</PrefLabel>
       <PrefLabel lang="nn">Fødselsattest</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/foedselsnummer">
+   <Concept path="ord/fodselsnummer">
       <PrefLabel lang="en">Personal identification number</PrefLabel>
       <PrefLabel lang="nb">Fødselsnummer</PrefLabel>
       <PrefLabel lang="nn">Fødselsnummer</PrefLabel>
@@ -1977,7 +1977,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/foererkort">
+   <Concept path="ord/forerkort">
       <PrefLabel lang="en">Driving licence</PrefLabel>
       <PrefLabel lang="nb">Førerkort</PrefLabel>
       <PrefLabel lang="nn">Førarkort</PrefLabel>
@@ -2027,9 +2027,9 @@
       <HiddenLabel lang="nn">Motorsykkel</HiddenLabel>
       <Definition lang="nn">Løyve til å føra motorkøyretøy. Til dette høyrer føraropplæring og førarprøve til alle førarkortklassar. Båtsertifikat og truckførarbevis er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-   <Concept path="ord/folkehoegskole">
+   <Concept path="ord/folkehogskole">
       <PrefLabel lang="en">Folk high school</PrefLabel>
       <PrefLabel lang="nb">Folkehøgskole</PrefLabel>
       <PrefLabel lang="nn">Folkehøgskule</PrefLabel>
@@ -2037,7 +2037,7 @@
       <HiddenLabel lang="nn">Folkehøgskule</HiddenLabel>
       <Definition lang="nn">Eittårig skuletibod (august til mai) på ein sjølvstendig, ubunden og eksamensfri internatskule. Det finst både kristene og frilynte folkehøgskular. Dei fleste har ei nedre aldersgrene på 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/folkehoegskole</Broader>
+      <Broader>tema/folkehogskole</Broader>
    </Concept>
    <Concept path="ord/forbrukerklage">
       <PrefLabel lang="en">Consumer complaint</PrefLabel>
@@ -2079,7 +2079,7 @@
       <HiddenLabel lang="nn">Hushaldningsbudsjett</HiddenLabel>
       <Definition lang="nn">Til dette høyrer standardbudsjett frå SIFO, Statens institutt for forbruksforsking. Budsjettet viser vanlege forbruksutgifter for ulike typar hushald.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/privatoekonomi</Broader>
+      <Broader>tema/privatokonomi</Broader>
    </Concept>
    <Concept path="ord/foreldrepenger">
       <PrefLabel lang="en">Parental benefit</PrefLabel>
@@ -2093,7 +2093,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
       <Broader>tema/barn-og-foreldre</Broader>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/foreldrepermisjon">
       <PrefLabel lang="en">Parental leave</PrefLabel>
@@ -2156,7 +2156,7 @@
       <HiddenLabel lang="nb">BEDIN</HiddenLabel>
       <HiddenLabel lang="nn">BEDIN</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/fornybar-energi">
       <PrefLabel lang="en">Renewable energy</PrefLabel>
@@ -2190,7 +2190,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/energi</Broader>
    </Concept>
-   <Concept path="ord/forsoergingstillegg">
+   <Concept path="ord/forsorgingstillegg">
       <PrefLabel lang="en">Dependent supplement</PrefLabel>
       <PrefLabel lang="nb">Forsørgingstillegg</PrefLabel>
       <PrefLabel lang="nn">Forsørgingstillegg</PrefLabel>
@@ -2235,7 +2235,7 @@
       <HiddenLabel lang="nn">Miljøvern</HiddenLabel>
       <Definition lang="nn">Ved oppstart av terrenginngrep/graving er regelen at tiltakshavar pliktar å vurdere og eventuelt undersøkje om det er forureina grunn i området. I så fall skal det utarbeidast tiltaksplan som skal godkjennast av kommunen før gjennomføring av arbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/fosterhjem">
       <PrefLabel lang="en">Foster home</PrefLabel>
@@ -2253,7 +2253,7 @@
       <HiddenLabel lang="nn">Fosterforeldre</HiddenLabel>
       <Definition lang="nn">Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
    <Concept path="ord/frikort-for-helsetjenester">
       <PrefLabel lang="en">Fee exemption card for health services</PrefLabel>
@@ -2269,7 +2269,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/friomraade">
+   <Concept path="ord/friomrade">
       <PrefLabel lang="en">Public outdoor areas</PrefLabel>
       <PrefLabel lang="nb">Friområde</PrefLabel>
       <PrefLabel lang="nn">Friområde</PrefLabel>
@@ -2308,11 +2308,11 @@
       <HiddenLabel lang="nb">Turområde</HiddenLabel>
       <HiddenLabel lang="nn">Turområde</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/baalbrenning</Related>
+      <Related>ord/balbrenning</Related>
       <Broader>tema/friluftsliv</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/frisoer-hudpleie-tatoverings-og-hulltakingsvirksomhet">
+   <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
       <PrefLabel lang="en">Hairdressing, skincare, tattoo and piercing activities</PrefLabel>
       <PrefLabel lang="nb">Frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet</PrefLabel>
       <PrefLabel lang="nn">Frisør-, hudpleie-, tatoverings- og holtakingsverksemd</PrefLabel>
@@ -2509,7 +2509,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
-   <Concept path="ord/gjeldsraadgivning">
+   <Concept path="ord/gjeldsradgivning">
       <PrefLabel lang="en">Debt counselling</PrefLabel>
       <PrefLabel lang="nb">Gjeldsrådgivning</PrefLabel>
       <PrefLabel lang="nn">Gjeldsrådgjeving</PrefLabel>
@@ -2529,8 +2529,8 @@
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
       <Definition lang="nn">Tilbod om økonomisk rådgjeving til personar med alvorlege gjeldsproblem.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/privatoekonomi</Broader>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/privatokonomi</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/gjenlevendepensjon">
       <PrefLabel lang="en">Surivors pension</PrefLabel>
@@ -2601,8 +2601,8 @@
       <HiddenLabel lang="nn">Kremering</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
-      <Broader>tema/doedsfall</Broader>
-      <Broader>tema/begravelser-og-doedsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
+      <Broader>tema/begravelser-og-dodsfall</Broader>
    </Concept>
    <Concept path="ord/gravplass">
       <PrefLabel lang="en">Cemetary</PrefLabel>
@@ -2632,8 +2632,8 @@
       <Definition lang="nb">Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
-      <Broader>tema/begravelser-og-doedsfall</Broader>
-      <Broader>tema/doedsfall</Broader>
+      <Broader>tema/begravelser-og-dodsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
    </Concept>
    <Concept path="ord/grunnskole">
       <PrefLabel lang="en">Primary and secondary schools</PrefLabel>
@@ -2677,15 +2677,15 @@
       <HiddenLabel lang="nn">Ungdomssteg</HiddenLabel>
       <Definition lang="nn">Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld også alt undervisningsmateriell.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
-   <Concept path="ord/grunnskoleopplaering-for-voksne">
+   <Concept path="ord/grunnskoleopplaring-for-voksne">
       <PrefLabel lang="en">Compulsory education for adults</PrefLabel>
       <PrefLabel lang="nb">Grunnskoleopplæring for voksne</PrefLabel>
       <PrefLabel lang="nn">Grunnskuleopplæring for vaksne</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/voksenopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/habilitering-og-rehabilitering">
       <PrefLabel lang="en">Habilitation and rehabilitation services</PrefLabel>
@@ -2717,7 +2717,7 @@
       <HiddenLabel lang="nb">Havnevesen</HiddenLabel>
       <HiddenLabel lang="nn">Hamnevesen</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/baattrafikk</Broader>
+      <Broader>tema/battrafikk</Broader>
    </Concept>
    <Concept path="ord/heftelser-i-motorvogn">
       <PrefLabel lang="en">Motor vehicle encumbrances</PrefLabel>
@@ -2725,7 +2725,7 @@
       <PrefLabel lang="nn">Hefte i motorvogn</PrefLabel>
       <Definition lang="nn">Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/helsestasjon">
       <PrefLabel lang="en">Health clinic</PrefLabel>
@@ -2758,7 +2758,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ergoterapi</Related>
       <Related>ord/fysioterapi</Related>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/hjemmehjelp">
       <PrefLabel lang="en">Home help</PrefLabel>
@@ -2791,9 +2791,9 @@
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
-   <Concept path="ord/hoegskole-og-universitet">
+   <Concept path="ord/hogskole-og-universitet">
       <PrefLabel lang="en">High schools and universities</PrefLabel>
       <PrefLabel lang="nb">Høgskole og universitet</PrefLabel>
       <PrefLabel lang="nn">Høgskule og universitet</PrefLabel>
@@ -2801,7 +2801,7 @@
       <HiddenLabel lang="nn">Høgskule</HiddenLabel>
       <Definition lang="nn">Høgare utdanning omfattar universitets- og høgskuleutdanning. Den byggjer normalt på eksamen frå treårig vidaregåande opplæring.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hoeyere-utdanning</Broader>
+      <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
    <Concept path="ord/hovedavtalen">
       <PrefLabel lang="en">Wage agreement</PrefLabel>
@@ -2857,7 +2857,7 @@
       <HiddenLabel lang="nn">Bier</HiddenLabel>
       <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe. Sports- og kjæledyr er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kjaeledyr-og-sportsdyr</Related>
+      <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Broader>tema/landbruk</Broader>
    </Concept>
    <Concept path="ord/idrettsanlegg">
@@ -3005,7 +3005,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
-   <Concept path="ord/innemiljoe">
+   <Concept path="ord/innemiljo">
       <PrefLabel lang="en">Indoor environment</PrefLabel>
       <PrefLabel lang="nb">Innemiljø</PrefLabel>
       <PrefLabel lang="nn">Innemiljø</PrefLabel>
@@ -3019,7 +3019,7 @@
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
       <Definition lang="nn">Innemiljø er etter Verdas helseorganisasjon (WHO) sin definisjon dei fem inneklimafaktorane, med tillegg av estetiske og psykososiale forhold. Inneklimafaktorane er temperatur, luft, lys/stråling, lyd/støy og utforming/innreiinng.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skolemiljoe</Broader>
+      <Broader>tema/skolemiljo</Broader>
       <Broader>tema/arbeidsliv</Broader>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -3085,7 +3085,7 @@
       <HiddenLabel lang="nb">Introduksjonsordning</HiddenLabel>
       <HiddenLabel lang="nn">Introduksjonsordning</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/voksenopplaering</Broader>
+      <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/jakt-og-fangst">
@@ -3122,11 +3122,11 @@
       <HiddenLabel lang="nn">Jegeravgift</HiddenLabel>
       <Definition lang="nn">Alle former for hausting av vilt med skytevåpen eller fangstreiskap. Motorferdsel i utmark, viltforvaltning, fritidsfiske, fiskeriforvaltning og fiskerinæring er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/vaapentillatelse</Related>
+      <Related>ord/vapentillatelse</Related>
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/kameratkjoering">
+   <Concept path="ord/kameratkjoring">
       <PrefLabel lang="en">Journey sharing</PrefLabel>
       <PrefLabel lang="nb">Kameratkjøring</PrefLabel>
       <PrefLabel lang="nn">Kameratkøyring</PrefLabel>
@@ -3162,7 +3162,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/kjaeledyr-og-sportsdyr">
+   <Concept path="ord/kjaledyr-og-sportsdyr">
       <PrefLabel lang="en">Pets and working animals</PrefLabel>
       <PrefLabel lang="nb">Kjæledyr og sportsdyr</PrefLabel>
       <PrefLabel lang="nn">Kjæledyr og sportsdyr</PrefLabel>
@@ -3176,14 +3176,14 @@
       <Related>ord/smittevern</Related>
       <Broader>tema/fritid</Broader>
    </Concept>
-   <Concept path="ord/kjoereseddel">
+   <Concept path="ord/kjoreseddel">
       <PrefLabel lang="en">Passenger transport licence</PrefLabel>
       <PrefLabel lang="nb">Kjøreseddel</PrefLabel>
       <PrefLabel lang="nn">Køyresetel</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-   <Concept path="ord/kjoeretoeykontroll">
+   <Concept path="ord/kjoretoykontroll">
       <PrefLabel lang="en">Vehicle inspection</PrefLabel>
       <PrefLabel lang="nb">Kjøretøykontroll</PrefLabel>
       <PrefLabel lang="nn">Køyretøykontroll</PrefLabel>
@@ -3205,7 +3205,7 @@
       <HiddenLabel lang="nn">Teknisk køyretøykontroll</HiddenLabel>
       <Definition lang="nn">Til dette høyrer periodisk og annan kontroll av køyretøy.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/klima">
       <PrefLabel lang="en">Climate</PrefLabel>
@@ -3235,7 +3235,7 @@
       <HiddenLabel lang="nn">Klimagassar</HiddenLabel>
       <Definition lang="nn">Vêrforhold, vêrlag, medrekna Co2-kvotar, miljøovervaking, klimaendringar.Luftforureining og vêrvarsel er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vaer-og-klima</Broader>
+      <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/kommunal-bolig">
       <PrefLabel lang="en">Municipal housing</PrefLabel>
@@ -3292,11 +3292,11 @@
       <HiddenLabel lang="nn">Kloakkavgift</HiddenLabel>
       <Definition lang="nn">Avgifter er indirekte skattar som blir lagde på omsetning av varer og tenester. Gebyr er ei betaling for offentleg eller privat utført teneste, slik som renovasjonsgebyr og feiegebyr. Vatn og avløp, brøyting, renovasjon og eigedomsskatt er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/broeyting</Related>
+      <Related>ord/broyting</Related>
       <Related>ord/renovasjon</Related>
       <Related>ord/feiing</Related>
       <Related>ord/vannforsyning</Related>
-      <Related>ord/avloepshaandtering</Related>
+      <Related>ord/avlopshandtering</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/offentlige-avgifter</Broader>
    </Concept>
@@ -3335,7 +3335,7 @@
       <HiddenLabel lang="nn">Heimekompostering</HiddenLabel>
       <Definition lang="nn">Biologisk prosess der planterestar og anna organisk materiale blir brote ned.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avfallshaandtering</Broader>
+      <Broader>tema/avfallshandtering</Broader>
    </Concept>
    <Concept path="ord/konfirmasjon">
       <PrefLabel lang="en">Confirmation</PrefLabel>
@@ -3354,16 +3354,16 @@
       <HiddenLabel lang="nn">Lønnsgarantiordninga</HiddenLabel>
       <Definition lang="nn">Rettsleg framgangsmåte der ein betalingsudyktig mister råderetten over buet sitt. Buet blir seld og utbyttet fordelt mellom fordringshavarane. Statleg lønnsgarantiordning sikrar utbetaling av lønn til arbeidstakarar som blir ramma.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/kontantstoette">
+   <Concept path="ord/kontantstotte">
       <PrefLabel lang="en">Cash-for-care benefits for parents of toddlers</PrefLabel>
       <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
       <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
       <Definition lang="nn">Ei yting ein kan få dersom ein har barn mellom eitt og tre år som ikkje har heiltidsplass i barnehage med offentleg driftstilskot. Har barnet deltidsplass i barnehage, kan ein få delvis kontantstøtte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barn-og-foreldre</Broader>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/kontrakt">
       <PrefLabel lang="en">Contract</PrefLabel>
@@ -3399,7 +3399,7 @@
       <HiddenLabel lang="nn">Oblat</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/motorvognavgifter</Related>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
@@ -3417,7 +3417,7 @@
       <HiddenLabel lang="nn">Akuttplass</HiddenLabel>
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/kraftpris">
       <PrefLabel lang="en">Energy prices</PrefLabel>
@@ -3470,7 +3470,7 @@
       <Related>ord/kringkasting</Related>
       <Broader>tema/offentlige-avgifter</Broader>
    </Concept>
-   <Concept path="ord/krisehaandtering">
+   <Concept path="ord/krisehandtering">
       <PrefLabel lang="en">Crisis management</PrefLabel>
       <PrefLabel lang="nb">Krisehåndtering</PrefLabel>
       <PrefLabel lang="nn">Krisehandtering</PrefLabel>
@@ -3612,7 +3612,7 @@
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/baattrafikk</Broader>
+      <Broader>tema/battrafikk</Broader>
    </Concept>
    <Concept path="ord/lag-og-foreninger">
       <PrefLabel lang="en">Clubs and societies</PrefLabel>
@@ -3665,7 +3665,7 @@
       <HiddenLabel lang="nn">Følgjestøtte</HiddenLabel>
       <Definition lang="nn">Ein person som er følgje og hjelper til under pasienttransport, når det er medisinske grunnar til dette. Funksjonshemma, personar i rullestol, blinde og svaksynte m.fl. kan også vere avhengig av å ha med seg følgje under reise. Til dette høyrer følgjekort ("ledsagerbevis") m.m. Tilrettelagd transport er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/legemiddel">
       <PrefLabel lang="en">Medicines</PrefLabel>
@@ -3719,7 +3719,7 @@
       <PrefLabel lang="nn">Leirskule</PrefLabel>
       <Definition lang="nn">Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes fjellet, sjøen eller skogen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/lekeplass">
       <PrefLabel lang="en">Playground</PrefLabel>
@@ -3739,7 +3739,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/loenn">
+   <Concept path="ord/lonn">
       <PrefLabel lang="en">Salary</PrefLabel>
       <PrefLabel lang="nb">Lønn</PrefLabel>
       <PrefLabel lang="nn">Lønn</PrefLabel>
@@ -3817,7 +3817,7 @@
       <HiddenLabel lang="nn">Svevestøv</HiddenLabel>
       <Definition lang="nn">Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet. Klima er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/matombringing">
       <PrefLabel lang="en">Meals on wheels</PrefLabel>
@@ -3888,7 +3888,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
-   <Concept path="ord/miljoesertifisering">
+   <Concept path="ord/miljosertifisering">
       <PrefLabel lang="en">Environmental certification</PrefLabel>
       <PrefLabel lang="nb">Miljøsertifisering</PrefLabel>
       <PrefLabel lang="nn">Miljøsertifisering</PrefLabel>
@@ -3904,14 +3904,14 @@
       <HiddenLabel lang="nn">Miljøregistrering</HiddenLabel>
       <Definition lang="nn">Ekstern verifisering av miljøleiingssystemet i ei verksemd. Skal sørgje for at verksemda arbeider med å redusere påverkinga si på det ytre miljøet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/miljovennlig-transport">
       <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
       <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
       <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
       <Broader>tema/kollektivtransport</Broader>
       <Broader>tema/veg-og-vegtrafikk</Broader>
    </Concept>
@@ -3938,7 +3938,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/psykisk-helse</Broader>
       <Broader>tema/arbeidsliv</Broader>
-      <Broader>tema/skolemiljoe</Broader>
+      <Broader>tema/skolemiljo</Broader>
    </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
@@ -3979,7 +3979,7 @@
       <Definition lang="nn">Med motorferdsel meiner ein bruk av køyretøy og båt eller anna flytande eller svevande fartøy drive med motor. Det inkluderer også landing og start med motordrive luftfartøy. Med utmark meiner ein udyrka mark. I praksis vil det seie hovuddelen av strender, svaberg, vatn, myr, hei, skog og fjell. I lov om motorferdsel i utmark blir også setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligg i utmark, rekna likt med utmark.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/motorvognavgifter">
       <PrefLabel lang="en">Vehicle taxes</PrefLabel>
@@ -4009,7 +4009,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kontrollmerke</Related>
       <Broader>tema/offentlige-avgifter</Broader>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/museum">
       <PrefLabel lang="en">Museums</PrefLabel>
@@ -4080,15 +4080,15 @@
       <Broader>tema/fritid</Broader>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/naeringsareal">
+   <Concept path="ord/naringsareal">
       <PrefLabel lang="en">Business space</PrefLabel>
       <PrefLabel lang="nb">Næringsareal</PrefLabel>
       <PrefLabel lang="nn">Næringsareal</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/naeringsfond">
+   <Concept path="ord/naringsfond">
       <PrefLabel lang="en">Business development fund</PrefLabel>
       <PrefLabel lang="nb">Næringsfond</PrefLabel>
       <PrefLabel lang="nn">Næringsfond</PrefLabel>
@@ -4096,9 +4096,9 @@
       <HiddenLabel lang="nn">Næringsfondet</HiddenLabel>
       <Definition lang="nn">Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til næringsutvikling.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/naeringsskatt">
+   <Concept path="ord/naringsskatt">
       <PrefLabel lang="en">Business tax</PrefLabel>
       <PrefLabel lang="nb">Næringsskatt</PrefLabel>
       <PrefLabel lang="nn">Næringsskatt</PrefLabel>
@@ -4118,7 +4118,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt-og-likning</Broader>
    </Concept>
-   <Concept path="ord/naermiljoetilskudd">
+   <Concept path="ord/narmiljotilskudd">
       <PrefLabel lang="en">Local initiative funding</PrefLabel>
       <PrefLabel lang="nb">Nærmiljøtilskudd</PrefLabel>
       <PrefLabel lang="nn">Nærmiljøtilskot</PrefLabel>
@@ -4148,7 +4148,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
-   <Concept path="ord/nasjonale-proever">
+   <Concept path="ord/nasjonale-prover">
       <PrefLabel lang="en">National tests</PrefLabel>
       <PrefLabel lang="nb">Nasjonale prøver</PrefLabel>
       <PrefLabel lang="nn">Nasjonale prøvar</PrefLabel>
@@ -4250,7 +4250,7 @@
       <Related>ord/kulturminnevern</Related>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/norsk-spraak">
+   <Concept path="ord/norsk-sprak">
       <PrefLabel lang="en">Norwegian language</PrefLabel>
       <PrefLabel lang="nb">Norsk språk</PrefLabel>
       <PrefLabel lang="nn">Norsk språk</PrefLabel>
@@ -4264,19 +4264,19 @@
       <HiddenLabel lang="nn">Nynorsk</HiddenLabel>
       <Definition lang="nn">Dei to målformene bokmål og nynorsk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norskopplaering</Related>
-      <Related>ord/saerskilt-norskopplaering</Related>
-      <Broader>tema/spraak</Broader>
+      <Related>ord/norskopplaring</Related>
+      <Related>ord/sarskilt-norskopplaring</Related>
+      <Broader>tema/sprak</Broader>
    </Concept>
-   <Concept path="ord/norskopplaering">
+   <Concept path="ord/norskopplaring">
       <PrefLabel lang="en">Norwegian language and social studies</PrefLabel>
       <PrefLabel lang="nb">Norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål. Omsetjing, samisk språk, språkkurs- og test og særskilt norskopplæring er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norsk-spraak</Related>
-      <Related>ord/spraakkurs-og-spraaktest</Related>
-      <Broader>tema/voksenopplaering</Broader>
+      <Related>ord/norsk-sprak</Related>
+      <Related>ord/sprakkurs-og-spraktest</Related>
+      <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/notarius-publicus">
@@ -4300,7 +4300,7 @@
       <Related>ord/ekteskap</Related>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
-   <Concept path="ord/offentlig-innkjoep">
+   <Concept path="ord/offentlig-innkjop">
       <PrefLabel lang="en">Public procurement</PrefLabel>
       <PrefLabel lang="nb">Offentlig innkjøp</PrefLabel>
       <PrefLabel lang="nn">Offentleg innkjøp</PrefLabel>
@@ -4321,13 +4321,13 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
-   <Concept path="ord/omsorgsloenn">
+   <Concept path="ord/omsorgslonn">
       <PrefLabel lang="en">Carer allowance</PrefLabel>
       <PrefLabel lang="nb">Omsorgslønn</PrefLabel>
       <PrefLabel lang="nn">Omsorgslønn</PrefLabel>
       <Definition lang="nn">Kommunen kan yte omsorgslønn til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/omsorgspenger">
       <PrefLabel lang="en">Care benefit</PrefLabel>
@@ -4335,9 +4335,9 @@
       <PrefLabel lang="nn">Omsorgspengar</PrefLabel>
       <Definition lang="nn">Arbeidstakar som har omsorg for barn under 12 år har rett til omsorgspengar under fråver frå arbeidet når barnet er sjukt. Det same gjeld dersom arbeidstakaren må vere borte frå arbeidet fordi den som har det daglege barnetilsynet er sjuk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/sykefravaer</Related>
+      <Related>ord/sykefravar</Related>
       <Broader>tema/barn-og-foreldre</Broader>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/omsorgspermisjon">
       <PrefLabel lang="en">Personal care leave</PrefLabel>
@@ -4354,7 +4354,7 @@
       <PrefLabel lang="nn">Oppgåveplikt</PrefLabel>
       <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) ))</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/opphavsrett">
       <PrefLabel lang="en">Intellectual property right</PrefLabel>
@@ -4393,7 +4393,7 @@
       <Related>ord/arbeidstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
    </Concept>
-   <Concept path="ord/oppmaaling">
+   <Concept path="ord/oppmaling">
       <PrefLabel lang="en">Surveying</PrefLabel>
       <PrefLabel lang="nb">Oppmåling</PrefLabel>
       <PrefLabel lang="nn">Oppmåling</PrefLabel>
@@ -4455,7 +4455,7 @@
       <HiddenLabel lang="nn">Avskil</HiddenLabel>
       <Definition lang="nn">Her brukt om oppseiing av arbeidsforhold. For at ei oppseiing skal vere korrekt etter arbeidsmiljølova må fleire vilkår vera oppfylte. Til dømes må oppseiinga vere skriftleg, oppseinga frå arbeidsgjevaren skal vere sakleg begrunna, og ho skal leverast til arbeidstakaren personleg eller sendast rekommandert.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/venteloenn</Related>
+      <Related>ord/ventelonn</Related>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/organdonasjon">
@@ -4492,9 +4492,9 @@
       <HiddenLabel lang="nn">Barnehus</HiddenLabel>
       <Definition lang="nn">Eit overgrep vil sei at eit menneske krenkar rettane til eit anna menneske. Overgrep kan ramme begge kjønn i alle aldrar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
-   <Concept path="ord/paataleunnlatelse">
+   <Concept path="ord/pataleunnlatelse">
       <PrefLabel lang="en">Withdrawal of criminal charges</PrefLabel>
       <PrefLabel lang="nb">Påtaleunnlatelse</PrefLabel>
       <PrefLabel lang="nn">Påtaleunnlating</PrefLabel>
@@ -4590,7 +4590,7 @@
       <HiddenLabel lang="nn">Oppfinning</HiddenLabel>
       <Definition lang="nn">Eit patent gjev einerett til å utnytte ei oppfinning kommersielt for eit avgrensa tidsrom. I denne perioden kan ikkje andre produsere, importere eller selje ei oppfinning som er patentert. For å få patent må ei oppfinning oppfylle visse krav.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/pedagogisk-psykologisk-tjeneste">
       <PrefLabel lang="en">Educational-psychological service</PrefLabel>
@@ -4607,8 +4607,8 @@
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/psykisk-helse</Broader>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/barnehage</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
@@ -4639,7 +4639,7 @@
       <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
       <Definition lang="nn">Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/personnavn">
       <PrefLabel lang="en">First names</PrefLabel>
@@ -4711,7 +4711,7 @@
       <HiddenLabel lang="nn">Buss</HiddenLabel>
       <Definition lang="nn">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaering</Broader>
+      <Broader>tema/reiselivsnaring</Broader>
       <Broader>tema/yrkestransport</Broader>
    </Concept>
    <Concept path="ord/personvern">
@@ -4764,7 +4764,7 @@
       <HiddenLabel lang="nn">Piggdekkoblat</HiddenLabel>
       <Definition lang="nn">Frå og med første måndag etter 2. påskedag og til og med 31. oktober er det ikkje tillate å bruke piggdekk eller kjettingar. I Nordland, Troms og Finnmark er tilsvarande periode frå og med 1. mai til og med 15. oktober.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/plantedyrking">
       <PrefLabel lang="en">Cultivation of plants</PrefLabel>
@@ -4906,7 +4906,7 @@
       <HiddenLabel lang="nn">Sterilisering</HiddenLabel>
       <Definition lang="nn">Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-foedsel</Broader>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
    <Concept path="ord/privatskole">
       <PrefLabel lang="en">Private schools</PrefLabel>
@@ -4916,8 +4916,8 @@
       <HiddenLabel lang="nn">Friskule</HiddenLabel>
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/produktsikkerhet">
       <PrefLabel lang="en">Product safety</PrefLabel>
@@ -4996,7 +4996,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/samfunnsplanlegging</Broader>
    </Concept>
-   <Concept path="ord/registrering-av-kjoeretoey">
+   <Concept path="ord/registrering-av-kjoretoy">
       <PrefLabel lang="en">Vehicle registration</PrefLabel>
       <PrefLabel lang="nb">Registrering av kjøretøy</PrefLabel>
       <PrefLabel lang="nn">Registrering av køyretøy</PrefLabel>
@@ -5014,7 +5014,7 @@
       <HiddenLabel lang="nn">Salsmelding</HiddenLabel>
       <Definition lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/reguleringsplan">
       <PrefLabel lang="en">Local area development plan</PrefLabel>
@@ -5037,7 +5037,7 @@
       <Definition lang="nn">Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/byggesak</Related>
-      <Related>ord/naeringsareal</Related>
+      <Related>ord/naringsareal</Related>
       <Related>ord/vegbygging</Related>
       <Broader>tema/kommunal-planlegging</Broader>
    </Concept>
@@ -5048,7 +5048,7 @@
       <Definition lang="nn">Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid. Attføringsytingar, sjukepengar, uførepensjon og uførestønad er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/habilitering-og-rehabilitering</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/reindrift">
       <PrefLabel lang="en">Reindeer herding</PrefLabel>
@@ -5165,7 +5165,7 @@
       <Definition lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/reklame-og-telefonsalg">
       <PrefLabel lang="en">Advertising and telesales</PrefLabel>
@@ -5199,7 +5199,7 @@
       <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
       <Definition lang="nn">Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne fram til arbeidstakarar til både faste og mellombelse jobbar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -5230,7 +5230,7 @@
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Related>ord/farlig-avfall</Related>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/avfallshaandtering</Broader>
+      <Broader>tema/avfallshandtering</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
@@ -5379,7 +5379,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegtrafikk</Broader>
    </Concept>
-   <Concept path="ord/saerskilt-norskopplaering">
+   <Concept path="ord/sarskilt-norskopplaring">
       <PrefLabel lang="en">Norwegian classes for special needs groups</PrefLabel>
       <PrefLabel lang="nb">Særskilt norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Særskilt norskopplæring</PrefLabel>
@@ -5391,8 +5391,8 @@
       <HiddenLabel lang="nn">Tospråkleg fagopplæring</HiddenLabel>
       <Definition lang="nn">Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge delar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norsk-spraak</Related>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Related>ord/norsk-sprak</Related>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/samboerskap">
       <PrefLabel lang="en">Cohabitation</PrefLabel>
@@ -5414,7 +5414,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
-   <Concept path="ord/samisk-spraak">
+   <Concept path="ord/samisk-sprak">
       <PrefLabel lang="en">Sami language</PrefLabel>
       <PrefLabel lang="nb">Samisk språk</PrefLabel>
       <PrefLabel lang="nn">Samisk språk</PrefLabel>
@@ -5426,7 +5426,7 @@
       <HiddenLabel lang="nn">Sørsamisk</HiddenLabel>
       <Definition lang="nn">Gruppe av uralske språk/dialektar. Blir tala frå Kolahalvøya og dei nordlege delane av Finland, Sverige og Noreg sør til Engerdal i Hedmark. Blir delt i austsamisk, sentralsamisk og sørsamisk. Seks kommunar har samisk som forvaltningsspråk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/spraak</Broader>
+      <Broader>tema/sprak</Broader>
    </Concept>
    <Concept path="ord/samlivsbrudd">
       <PrefLabel lang="en">Relationship break-up</PrefLabel>
@@ -5457,7 +5457,7 @@
       <HiddenLabel lang="nn">Studieplass</HiddenLabel>
       <Definition lang="nn">Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt tilbod om ventelisteplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hoeyere-utdanning</Broader>
+      <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
    <Concept path="ord/seksjonering">
       <PrefLabel lang="en">Subdivision of land</PrefLabel>
@@ -5525,7 +5525,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
-   <Concept path="ord/sjoefart">
+   <Concept path="ord/sjofart">
       <PrefLabel lang="en">Shipping</PrefLabel>
       <PrefLabel lang="nb">Sjøfart</PrefLabel>
       <PrefLabel lang="nn">Sjøfart</PrefLabel>
@@ -5533,9 +5533,9 @@
       <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
       <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/baattrafikk</Broader>
+      <Broader>tema/battrafikk</Broader>
    </Concept>
-   <Concept path="ord/sjoesikkerhet">
+   <Concept path="ord/sjosikkerhet">
       <PrefLabel lang="en">Safety at sea</PrefLabel>
       <PrefLabel lang="nb">Sjøsikkerhet</PrefLabel>
       <PrefLabel lang="nn">Sjøsikkerheit</PrefLabel>
@@ -5543,7 +5543,7 @@
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/baattrafikk</Broader>
+      <Broader>tema/battrafikk</Broader>
    </Concept>
    <Concept path="ord/skadedyr">
       <PrefLabel lang="en">Pests and vermin</PrefLabel>
@@ -5610,7 +5610,7 @@
       <Definition lang="nn">Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/samlivsbrudd</Related>
-      <Broader>tema/doedsfall</Broader>
+      <Broader>tema/dodsfall</Broader>
    </Concept>
    <Concept path="ord/skogbrannvarsel">
       <PrefLabel lang="en">Forest fire warning</PrefLabel>
@@ -5622,7 +5622,7 @@
       <HiddenLabel lang="nn">Skogbrannfare</HiddenLabel>
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vaer-og-klima</Broader>
+      <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
@@ -5664,7 +5664,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/barn-og-foreldre</Broader>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/skolehelsetjeneste">
       <PrefLabel lang="en">School health service</PrefLabel>
@@ -5680,7 +5680,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/skolemaaltid">
+   <Concept path="ord/skolemaltid">
       <PrefLabel lang="en">School meals</PrefLabel>
       <PrefLabel lang="nb">Skolemåltid</PrefLabel>
       <PrefLabel lang="nn">Skulemåltid</PrefLabel>
@@ -5692,8 +5692,8 @@
       <HiddenLabel lang="nn">Skulemat</HiddenLabel>
       <Definition lang="nn">Tilbod om gratis måltid i grunnskulen. Prøveprosjekt i ein del kommunar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ernaering</Related>
-      <Broader>tema/grunnskoleopplaering</Broader>
+      <Related>ord/ernaring</Related>
+      <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/skolerute">
       <PrefLabel lang="en">School terms and holidays</PrefLabel>
@@ -5707,8 +5707,8 @@
       <HiddenLabel lang="nn">Skuleferie</HiddenLabel>
       <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
@@ -5724,8 +5724,8 @@
       <HiddenLabel lang="nn">Skulebuss</HiddenLabel>
       <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/veg-og-vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
@@ -5753,7 +5753,7 @@
       <Definition lang="nn">Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturskade</Related>
-      <Broader>tema/vaer-og-klima</Broader>
+      <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/slektsforskning">
       <PrefLabel lang="en">Genealogy</PrefLabel>
@@ -5791,7 +5791,7 @@
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
       <Definition lang="nn">Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kjaeledyr-og-sportsdyr</Related>
+      <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Related>ord/vaksine</Related>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -5843,7 +5843,7 @@
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre hjelp til livsopphald. Med dette meiner ein pengar til det som vert rekna som nødvendig for å leve, slik som mat, husleige, straum og eventuelt nødvendige klede.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/spesialundervisning">
       <PrefLabel lang="en">Special needs education</PrefLabel>
@@ -5853,8 +5853,8 @@
       <HiddenLabel lang="nn">Spesialskule</HiddenLabel>
       <HiddenLabel lang="nn">Spesialundervising</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaering</Broader>
-      <Broader>tema/voksenopplaering</Broader>
+      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/spilleautomat">
       <PrefLabel lang="en">Slot machines</PrefLabel>
@@ -5880,7 +5880,7 @@
       <Related>ord/spilleautomat</Related>
       <Broader>tema/psykisk-helse</Broader>
    </Concept>
-   <Concept path="ord/spraakkurs-og-spraaktest">
+   <Concept path="ord/sprakkurs-og-spraktest">
       <PrefLabel lang="en">Language courses and tests</PrefLabel>
       <PrefLabel lang="nb">Språkkurs og språktest</PrefLabel>
       <PrefLabel lang="nn">Språkkurs og språktest</PrefLabel>
@@ -5890,8 +5890,8 @@
       <HiddenLabel lang="nn">Bergenstesten</HiddenLabel>
       <Definition lang="nn">Opplæring til utlendingar som har opphalds- eller arbeidsløyve som dannar grunnlag for busetjingsløyve. Opplæringa består av norsk og samfunnskunnskap, til saman 300 timar. Opplæringa i samfunnskunnskap skal vere på eit språk som deltakaren forstår.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norskopplaering</Related>
-      <Broader>tema/spraak</Broader>
+      <Related>ord/norskopplaring</Related>
+      <Broader>tema/sprak</Broader>
    </Concept>
    <Concept path="ord/standardisering">
       <PrefLabel lang="en">Standardisation</PrefLabel>
@@ -5899,7 +5899,7 @@
       <PrefLabel lang="nn">Standardisering</PrefLabel>
       <Definition lang="nn">Omtale av viktige sider av varer, tenester og/eller arbeidsprosessar (inkludert prøvingsmetodar). Vert utarbeidd etter initiativ frå interessegrupper som ønskjer felles spelereglar i marknaden. Frivillig å bruke, unnateke når myndigheitene krev at dei skal brukast, eller når det i avtalar er bestemt at dei skal brukast.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/statsborgerskap">
       <PrefLabel lang="en">Citizenship</PrefLabel>
@@ -5930,7 +5930,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
    </Concept>
-   <Concept path="ord/stoenad-til-enslig-forsoerger">
+   <Concept path="ord/stonad-til-enslig-forsorger">
       <PrefLabel lang="en">Single-parent benefit</PrefLabel>
       <PrefLabel lang="nb">Stønad til enslig forsørger</PrefLabel>
       <PrefLabel lang="nn">Stønad til einsleg forsørgjar</PrefLabel>
@@ -5948,10 +5948,10 @@
       <HiddenLabel lang="nn">Overgangsstønad</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt for dei som har åleineomsorg for barn. Skal stimulere til sjølvforsørging. Medrekna overgangsstønad og stønad til barnetilsyn, utdanningsstønad og stønad til flytting.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/barn-og-foreldre</Broader>
    </Concept>
-   <Concept path="ord/stoenad-ved-arbeidsmarkedstiltak">
+   <Concept path="ord/stonad-ved-arbeidsmarkedstiltak">
       <PrefLabel lang="en">Job creation grant</PrefLabel>
       <PrefLabel lang="nb">Stønad ved arbeidsmarkedstiltak</PrefLabel>
       <PrefLabel lang="nn">Stønad ved arbeidsmarknadstiltak</PrefLabel>
@@ -5970,9 +5970,9 @@
       <Definition lang="nn">Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i tiltaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsmarkedstiltak</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
-   <Concept path="ord/stoette-til-familier">
+   <Concept path="ord/stotte-til-familier">
       <PrefLabel lang="en">Family support</PrefLabel>
       <PrefLabel lang="nb">Støtte til familier</PrefLabel>
       <PrefLabel lang="nn">Støtte til familiar</PrefLabel>
@@ -5993,9 +5993,9 @@
       <Definition lang="nb">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</Definition>
       <Definition lang="nn">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
-   <Concept path="ord/stoettekontakt">
+   <Concept path="ord/stottekontakt">
       <PrefLabel lang="en">Support person</PrefLabel>
       <PrefLabel lang="nb">Støttekontakt</PrefLabel>
       <PrefLabel lang="nn">Støttekontakt</PrefLabel>
@@ -6006,9 +6006,9 @@
       <Definition lang="nn">Eit tilbod til personar med behov for kontakt, hjelp og rettleiing i kvardagen. Støttekontakten tilbyr melom anna sosialt samver etter behov og følgje til ulike fritidsaktivitetar.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
-   <Concept path="ord/stoey">
+   <Concept path="ord/stoy">
       <PrefLabel lang="en">Noise</PrefLabel>
       <PrefLabel lang="nb">Støy</PrefLabel>
       <PrefLabel lang="nn">Støy</PrefLabel>
@@ -6021,9 +6021,9 @@
       <Definition lang="nn">Blir rekna som forureining, og er eit av dei miljøproblema som rammar flest menneske i Noreg. Dei fire viktigaste støykjeldene er vegtrafikk, fly, jernbane og industri.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/straalevern">
+   <Concept path="ord/stralevern">
       <PrefLabel lang="en">Radiation</PrefLabel>
       <PrefLabel lang="nb">Strålevern</PrefLabel>
       <PrefLabel lang="nn">Strålevern</PrefLabel>
@@ -6042,7 +6042,7 @@
       <Definition lang="nn">Førebygging av skadelege verknader av stråling på menneske og miljø. Dette gjeld stråling frå radioaktivt stoff, røntgenstråling, partikkelstråling, og optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller anna stråling med tilsvarande biologisk effekt, og ultralyd.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/studiefinansiering">
       <PrefLabel lang="en">Student finances</PrefLabel>
@@ -6086,7 +6086,7 @@
       <HiddenLabel lang="nn">Jordmorteneste</HiddenLabel>
       <Definition lang="nn">Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing, opplysningsverksemd samt samlivs- og foreldrerettleiing.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-foedsel</Broader>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
@@ -6094,9 +6094,9 @@
       <PrefLabel lang="nn">Svangerskapspengar</PrefLabel>
       <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet fordi det kan medføre risiko for skade på fosteret. Foreldrepengar er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
-   <Concept path="ord/sykefravaer">
+   <Concept path="ord/sykefravar">
       <PrefLabel lang="en">Sick leave</PrefLabel>
       <PrefLabel lang="nb">Sykefravær</PrefLabel>
       <PrefLabel lang="nn">Sjukefråver</PrefLabel>
@@ -6173,8 +6173,8 @@
       <PrefLabel lang="nn">Sjukepengar</PrefLabel>
       <Definition lang="nn">Sjukepengar skal gje kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre pga. sjukdom eller skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/sykefravaer</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Related>ord/sykefravar</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/syketransport">
       <PrefLabel lang="en">Patient transport</PrefLabel>
@@ -6298,10 +6298,10 @@
       <HiddenLabel lang="nb">Aktiv fritid</HiddenLabel>
       <HiddenLabel lang="nn">Aktiv fritid</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/stoettekontakt</Related>
+      <Related>ord/stottekontakt</Related>
       <Related>ord/psykisk-helsevern</Related>
       <Broader>tema/fritid</Broader>
-      <Broader>tema/avlastning-og-stoette</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/tilrettelagt-transport">
       <PrefLabel lang="en">Transport services for disabled persons</PrefLabel>
@@ -6351,7 +6351,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/eiendomsregister</Related>
       <Related>ord/dokumentavgift</Related>
-      <Broader>tema/kjoep-og-salg</Broader>
+      <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/tjenestepensjon">
       <PrefLabel lang="en">Public service pension</PrefLabel>
@@ -6403,9 +6403,9 @@
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
       <Definition lang="nn">Å tolke eller gje att meininga i ein tekst på eit anna språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/doevetolk</Related>
+      <Related>ord/dovetolk</Related>
       <Broader>tema/integrering</Broader>
-      <Broader>tema/spraak</Broader>
+      <Broader>tema/sprak</Broader>
    </Concept>
    <Concept path="ord/toll">
       <PrefLabel lang="en">Customs</PrefLabel>
@@ -6519,13 +6519,13 @@
       <Related>ord/ekteskap</Related>
       <Broader>tema/religion-og-livssyn</Broader>
    </Concept>
-   <Concept path="ord/truckfoererbevis">
+   <Concept path="ord/truckforerbevis">
       <PrefLabel lang="en">Truck driver licence</PrefLabel>
       <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
       <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
       <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foererkort-og-sertifikat</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/trygde-og-servicebolig">
       <PrefLabel lang="en">Welfare housing</PrefLabel>
@@ -6570,7 +6570,7 @@
       <HiddenLabel lang="nn">Geoturisme</HiddenLabel>
       <Definition lang="nn">Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak, og til bedriftsretta tiltak</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaering</Broader>
+      <Broader>tema/reiselivsnaring</Broader>
    </Concept>
    <Concept path="ord/turistkontor">
       <PrefLabel lang="en">Tourist information office</PrefLabel>
@@ -6580,7 +6580,7 @@
       <HiddenLabel lang="nn">Turistinformasjon</HiddenLabel>
       <Definition lang="nn">Informasjonskontor retta mot turistar. Tilbyr oversikt over overnatting, turistattraksjonar, aktivitetar, serveringsstader og arrangement.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaering</Broader>
+      <Broader>tema/reiselivsnaring</Broader>
    </Concept>
    <Concept path="ord/tvangsekteskap">
       <PrefLabel lang="en">Forced marriage</PrefLabel>
@@ -6589,9 +6589,9 @@
       <Definition lang="nn">Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av partane er motvillig.</Definition>
       <Definition lang="nb">Benevnelse for et arrangert ekteskap som blir gjennomført til tross for at minst én av partene er motvillig</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestoette</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
-   <Concept path="ord/ufoerepensjon">
+   <Concept path="ord/uforepensjon">
       <PrefLabel lang="en">Disability pension</PrefLabel>
       <PrefLabel lang="nb">Uførepensjon</PrefLabel>
       <PrefLabel lang="nn">Uførepensjon</PrefLabel>
@@ -6606,7 +6606,7 @@
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/pensjon</Broader>
    </Concept>
-   <Concept path="ord/ufrivillig-barnloeshet">
+   <Concept path="ord/ufrivillig-barnloshet">
       <PrefLabel lang="en">Involuntary childlessness</PrefLabel>
       <PrefLabel lang="nb">Ufrivillig barnløshet</PrefLabel>
       <PrefLabel lang="nn">Ufrivillig barnløyse</PrefLabel>
@@ -6623,7 +6623,7 @@
       <Definition lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/adopsjon</Related>
-      <Broader>tema/svangerskap-og-foedsel</Broader>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
    <Concept path="ord/ungdomsmidler">
       <PrefLabel lang="en">Funding for youth activities</PrefLabel>
@@ -6666,7 +6666,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
-   <Concept path="ord/uteomraade">
+   <Concept path="ord/uteomrade">
       <PrefLabel lang="en">Outdoor area</PrefLabel>
       <PrefLabel lang="nb">Uteområde</PrefLabel>
       <PrefLabel lang="nn">Uteområde</PrefLabel>
@@ -6674,7 +6674,7 @@
       <HiddenLabel lang="nn">Utemiljø</HiddenLabel>
       <Definition lang="nn">Uteområde ved skular og barnehagar. Skal gje rom for mange varierte aktivitetar og skal tilfredstille krav om å vere ein trygg men utfordrande stad for leik, læring og opplevingar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skolemiljoe</Broader>
+      <Broader>tema/skolemiljo</Broader>
    </Concept>
    <Concept path="ord/utslippstillatelse">
       <PrefLabel lang="en">Emissions permit</PrefLabel>
@@ -6684,10 +6684,10 @@
       <HiddenLabel lang="nn">Utsleppsløyve</HiddenLabel>
       <Definition lang="nn">Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/avloepshaandtering</Related>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Related>ord/avlopshandtering</Related>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/vaapentillatelse">
+   <Concept path="ord/vapentillatelse">
       <PrefLabel lang="en">Weapons permit</PrefLabel>
       <PrefLabel lang="nb">Våpentillatelse</PrefLabel>
       <PrefLabel lang="nn">Våpenløyve</PrefLabel>
@@ -6701,7 +6701,7 @@
       <Related>ord/jakt-og-fangst</Related>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
-   <Concept path="ord/vaervarsel">
+   <Concept path="ord/varvarsel">
       <PrefLabel lang="en">Weather forecast</PrefLabel>
       <PrefLabel lang="nb">Værvarsel</PrefLabel>
       <PrefLabel lang="nn">Vêrvarsel</PrefLabel>
@@ -6728,7 +6728,7 @@
       <HiddenLabel lang="nb">Værvarsling</HiddenLabel>
       <HiddenLabel lang="nn">Vervarsling</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vaer-og-klima</Broader>
+      <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/vaksine">
       <PrefLabel lang="en">Vaccines</PrefLabel>
@@ -6812,9 +6812,9 @@
       <Definition lang="nn">Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk, landbruk m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
-      <Related>ord/avloepshaandtering</Related>
+      <Related>ord/avlopshandtering</Related>
       <Related>ord/vannforsyning</Related>
-      <Broader>tema/forurensning-og-straaling</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/varemerke">
       <PrefLabel lang="en">Trademark</PrefLabel>
@@ -6826,7 +6826,7 @@
       <HiddenLabel lang="nn">Fellesmerke</HiddenLabel>
       <Definition lang="nn">Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande kan ved registrering oppnå einerett til bruken av figur, ord eller slagord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naeringsutvikling</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/vassdrag">
       <PrefLabel lang="en">Waterways</PrefLabel>
@@ -6908,7 +6908,7 @@
       <HiddenLabel lang="nb">Feiebil</HiddenLabel>
       <HiddenLabel lang="nn">Feiebil</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/broeyting</Related>
+      <Related>ord/broyting</Related>
       <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/veg-og-vegtrafikk</Broader>
    </Concept>
@@ -6920,7 +6920,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
-   <Concept path="ord/venteloenn">
+   <Concept path="ord/ventelonn">
       <PrefLabel lang="en">Severance pay</PrefLabel>
       <PrefLabel lang="nb">Ventelønn</PrefLabel>
       <PrefLabel lang="nn">Ventelønn</PrefLabel>
@@ -6930,20 +6930,20 @@
       <HiddenLabel lang="nn">Vartpengar</HiddenLabel>
       <Definition lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoeking</Related>
+      <Related>ord/arbeidssoking</Related>
       <Related>ord/oppsigelse</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
-   <Concept path="ord/ventestoenad">
+   <Concept path="ord/ventestonad">
       <PrefLabel lang="en">Severance grant</PrefLabel>
       <PrefLabel lang="nb">Ventestønad</PrefLabel>
       <PrefLabel lang="nn">Ventestønad</PrefLabel>
       <Definition lang="nn">Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein har avslutta ein lang dagpengeperiode.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoeking</Related>
-      <Broader>tema/oekonomiske-ytelser</Broader>
+      <Related>ord/arbeidssoking</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
-   <Concept path="ord/vergemaal">
+   <Concept path="ord/vergemal">
       <PrefLabel lang="en">Guardianship</PrefLabel>
       <PrefLabel lang="nb">Vergemål</PrefLabel>
       <PrefLabel lang="nn">Verjemål</PrefLabel>
@@ -6985,7 +6985,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
-   <Concept path="ord/videregaaende-skole">
+   <Concept path="ord/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
       <PrefLabel lang="nn">Vidaregående skule</PrefLabel>
@@ -6997,7 +6997,7 @@
       <HiddenLabel lang="nn">Skuleutval</HiddenLabel>
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/videregaaende-opplaering</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/vikarfomidling">
       <PrefLabel lang="en">Temporary employment services</PrefLabel>
@@ -7006,7 +7006,7 @@
       <HiddenLabel lang="nb">Vikarstilling</HiddenLabel>
       <HiddenLabel lang="nn">Vikarstilling</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/viltforvaltning">
       <PrefLabel lang="en">Wildlife management</PrefLabel>
@@ -7089,7 +7089,7 @@
       <HiddenLabel lang="nn">Bilvrak</HiddenLabel>
       <Definition lang="nn">Betaling bileigarar får ved innlevering av brukte motorkøyretøy.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kjoeretoey</Broader>
+      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/yrkesautorisasjon">
       <PrefLabel lang="en">Professional qualifications</PrefLabel>
@@ -7099,9 +7099,9 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoeking-og-rekruttering</Broader>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
-   <Concept path="ord/yrkesrettet-attfoering">
+   <Concept path="ord/yrkesrettet-attforing">
       <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
       <PrefLabel lang="nb">Yrkesrettet attføring</PrefLabel>
       <PrefLabel lang="nn">Yrkesretta attføring</PrefLabel>
@@ -7143,28 +7143,28 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="tema/arbeidssoeking-og-rekruttering">
+   <Concept path="tema/arbeidssoking-og-rekruttering">
       <PrefLabel lang="en">Job seeking and recruitment</PrefLabel>
       <PrefLabel lang="nb">Arbeidssøking og rekruttering</PrefLabel>
       <PrefLabel lang="nn">Arbeidssøking og rekruttering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="tema/avfallshaandtering">
+   <Concept path="tema/avfallshandtering">
       <PrefLabel lang="en">Waste management</PrefLabel>
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
       <PrefLabel lang="nn">Avfallshandtering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljoe</Broader>
+      <Broader>tema/natur-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/avlastning-og-stoette">
+   <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
       <PrefLabel lang="nb">Avlastning og støtte</PrefLabel>
       <PrefLabel lang="nn">Avlastning og støtte</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/baattrafikk">
+   <Concept path="tema/battrafikk">
       <PrefLabel lang="en">Seafaring</PrefLabel>
       <PrefLabel lang="nb">Båttrafikk</PrefLabel>
       <PrefLabel lang="nn">Båttrafikk</PrefLabel>
@@ -7192,14 +7192,14 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/barn-og-familie</Broader>
    </Concept>
-   <Concept path="tema/barnevern-og-foreldrestoette">
+   <Concept path="tema/barnevern-og-foreldrestotte">
       <PrefLabel lang="en">Child and family welfare</PrefLabel>
       <PrefLabel lang="nb">Barnevern og foreldrestøtte</PrefLabel>
       <PrefLabel lang="nn">Barnevern og foreldrestøtte</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/barn-og-familie</Broader>
    </Concept>
-   <Concept path="tema/begravelser-og-doedsfall">
+   <Concept path="tema/begravelser-og-dodsfall">
       <PrefLabel lang="en">Funerals and death</PrefLabel>
       <PrefLabel lang="nb">Begravelser og dødsfall</PrefLabel>
       <PrefLabel lang="nn">Gravferder og dødsfall</PrefLabel>
@@ -7241,7 +7241,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/doedsfall">
+   <Concept path="tema/dodsfall">
       <PrefLabel lang="en">Death</PrefLabel>
       <PrefLabel lang="nb">Dødsfall</PrefLabel>
       <PrefLabel lang="nn">Dødsfall</PrefLabel>
@@ -7267,21 +7267,21 @@
       <PrefLabel lang="nb">Energi</PrefLabel>
       <PrefLabel lang="nn">Energi</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljoe</Broader>
+      <Broader>tema/natur-og-miljo</Broader>
    </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
       <PrefLabel lang="nn">Erstatningsordningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-spoersmaal</Broader>
+      <Broader>tema/rettslige-sporsmal</Broader>
    </Concept>
    <Concept path="tema/fiske-fangst-og-akvakultur">
       <PrefLabel lang="en">Fishing, hunting and aquaculture</PrefLabel>
       <PrefLabel lang="nb">Fiske, fangst og akvakultur</PrefLabel>
       <PrefLabel lang="nn">Fiske, fangst og akvakultur</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naering</Broader>
+      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/flagg-og-ordener">
       <PrefLabel lang="en">Flags and medals</PrefLabel>
@@ -7297,7 +7297,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/foererkort-og-sertifikat">
+   <Concept path="tema/forerkort-og-sertifikat">
       <PrefLabel lang="en">Driving licences</PrefLabel>
       <PrefLabel lang="nb">Førerkort og sertifikat</PrefLabel>
       <PrefLabel lang="nn">Førarkort og sertifikat</PrefLabel>
@@ -7311,26 +7311,26 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse</Broader>
    </Concept>
-   <Concept path="tema/folkehoegskole">
+   <Concept path="tema/folkehogskole">
       <PrefLabel lang="en">Folk high schools</PrefLabel>
       <PrefLabel lang="nb">Folkehøgskole</PrefLabel>
       <PrefLabel lang="nn">Folkehøgskule</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/forbrukerspoersmaal">
+   <Concept path="tema/forbrukersporsmal">
       <PrefLabel lang="en">Consumer questions</PrefLabel>
       <PrefLabel lang="nb">Forbrukerspørsmål</PrefLabel>
       <PrefLabel lang="nn">Forbrukarspørsmål</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-   <Concept path="tema/forurensning-og-straaling">
+   <Concept path="tema/forurensning-og-straling">
       <PrefLabel lang="en">Pollution and radiation</PrefLabel>
       <PrefLabel lang="nb">Forurensning og stråling</PrefLabel>
       <PrefLabel lang="nn">Forureining og stråling</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljoe</Broader>
+      <Broader>tema/natur-og-miljo</Broader>
    </Concept>
    <Concept path="tema/friluftsliv">
       <PrefLabel lang="en">Outdoor life</PrefLabel>
@@ -7346,7 +7346,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/grunnskoleopplaering">
+   <Concept path="tema/grunnskoleopplaring">
       <PrefLabel lang="en">Compulsory education</PrefLabel>
       <PrefLabel lang="nb">Grunnskoleopplæring</PrefLabel>
       <PrefLabel lang="nn">Grunnskuleopplæring</PrefLabel>
@@ -7358,7 +7358,7 @@
       <PrefLabel lang="nb">Handel og service</PrefLabel>
       <PrefLabel lang="nn">Handel og service</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naering</Broader>
+      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/helse">
       <PrefLabel lang="en">Health</PrefLabel>
@@ -7375,7 +7375,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse</Broader>
    </Concept>
-   <Concept path="tema/hoeyere-utdanning">
+   <Concept path="tema/hoyere-utdanning">
       <PrefLabel lang="en">Higher education</PrefLabel>
       <PrefLabel lang="nb">Høyere utdanning</PrefLabel>
       <PrefLabel lang="nn">Høgare utdanning</PrefLabel>
@@ -7438,14 +7438,14 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/kjoep-og-salg">
+   <Concept path="tema/kjop-og-salg">
       <PrefLabel lang="en">Buying and selling</PrefLabel>
       <PrefLabel lang="nb">Kjøp og salg</PrefLabel>
       <PrefLabel lang="nn">Kjøp og sal</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/kjoeretoey">
+   <Concept path="tema/kjoretoy">
       <PrefLabel lang="en">Vehicles</PrefLabel>
       <PrefLabel lang="nb">Kjøretøy</PrefLabel>
       <PrefLabel lang="nn">Køyretøy</PrefLabel>
@@ -7485,7 +7485,7 @@
       <PrefLabel lang="nb">Landbruk</PrefLabel>
       <PrefLabel lang="nn">Landbruk</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naering</Broader>
+      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/leie-og-utleie">
       <PrefLabel lang="en">Renting and leasing</PrefLabel>
@@ -7506,7 +7506,7 @@
       <PrefLabel lang="nb">Lovbrudd og straff</PrefLabel>
       <PrefLabel lang="nn">Lovbrot og straff</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-spoersmaal</Broader>
+      <Broader>tema/rettslige-sporsmal</Broader>
    </Concept>
    <Concept path="tema/luftfart">
       <PrefLabel lang="en">Aviation</PrefLabel>
@@ -7522,21 +7522,21 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
-   <Concept path="tema/naering">
+   <Concept path="tema/naring">
       <PrefLabel lang="en">Business</PrefLabel>
       <PrefLabel lang="nb">Næring</PrefLabel>
       <PrefLabel lang="nn">Næring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-   <Concept path="tema/naeringsutvikling">
+   <Concept path="tema/naringsutvikling">
       <PrefLabel lang="en">Business development</PrefLabel>
       <PrefLabel lang="nb">Næringsutvikling</PrefLabel>
       <PrefLabel lang="nn">Næringsutvikling</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naering</Broader>
+      <Broader>tema/naring</Broader>
    </Concept>
-   <Concept path="tema/natur-og-miljoe">
+   <Concept path="tema/natur-og-miljo">
       <PrefLabel lang="en">Nature and environment</PrefLabel>
       <PrefLabel lang="nb">Natur og miljø</PrefLabel>
       <PrefLabel lang="nn">Natur og miljø</PrefLabel>
@@ -7548,9 +7548,9 @@
       <PrefLabel lang="nb">Naturforvaltning</PrefLabel>
       <PrefLabel lang="nn">Naturforvaltning</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljoe</Broader>
+      <Broader>tema/natur-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/oekonomiske-ytelser">
+   <Concept path="tema/okonomiske-ytelser">
       <PrefLabel lang="en">Benefits</PrefLabel>
       <PrefLabel lang="nb">Økonomiske ytelser</PrefLabel>
       <PrefLabel lang="nn">Økonomiske ytingar</PrefLabel>
@@ -7620,12 +7620,12 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
-   <Concept path="tema/privatoekonomi">
+   <Concept path="tema/privatokonomi">
       <PrefLabel lang="en">Personal finances</PrefLabel>
       <PrefLabel lang="nb">Privatøkonomi</PrefLabel>
       <PrefLabel lang="nn">Privatøkonomi</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/forbrukerspoersmaal</Broader>
+      <Broader>tema/forbrukersporsmal</Broader>
    </Concept>
    <Concept path="tema/psykisk-helse">
       <PrefLabel lang="en">Mental health</PrefLabel>
@@ -7634,12 +7634,12 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse</Broader>
    </Concept>
-   <Concept path="tema/reiselivsnaering">
+   <Concept path="tema/reiselivsnaring">
       <PrefLabel lang="en">Tourism industry</PrefLabel>
       <PrefLabel lang="nb">Reiselivsnæring</PrefLabel>
       <PrefLabel lang="nn">Reiselivsnæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naering</Broader>
+      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/religion-og-livssyn">
       <PrefLabel lang="en">Religion and beliefs</PrefLabel>
@@ -7648,7 +7648,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
-   <Concept path="tema/rettslige-spoersmaal">
+   <Concept path="tema/rettslige-sporsmal">
       <PrefLabel lang="en">Legal matters</PrefLabel>
       <PrefLabel lang="nb">Rettslige spørsmål</PrefLabel>
       <PrefLabel lang="nn">Rettslege spørsmål</PrefLabel>
@@ -7660,7 +7660,7 @@
       <PrefLabel lang="nb">Rettsvesen</PrefLabel>
       <PrefLabel lang="nn">Rettsvesen</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-spoersmaal</Broader>
+      <Broader>tema/rettslige-sporsmal</Broader>
    </Concept>
    <Concept path="tema/samfunnsplanlegging">
       <PrefLabel lang="en">Community planning</PrefLabel>
@@ -7697,14 +7697,14 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-   <Concept path="tema/skolemiljoe">
+   <Concept path="tema/skolemiljo">
       <PrefLabel lang="en">School environment</PrefLabel>
       <PrefLabel lang="nb">Skolemiljø</PrefLabel>
       <PrefLabel lang="nn">Skulemiljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/spraak">
+   <Concept path="tema/sprak">
       <PrefLabel lang="en">Languages</PrefLabel>
       <PrefLabel lang="nb">Språk</PrefLabel>
       <PrefLabel lang="nn">Språk</PrefLabel>
@@ -7718,7 +7718,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/svangerskap-og-foedsel">
+   <Concept path="tema/svangerskap-og-fodsel">
       <PrefLabel lang="en">Pregnancy and birth</PrefLabel>
       <PrefLabel lang="nb">Svangerskap og fødsel</PrefLabel>
       <PrefLabel lang="nn">Svangerskap og fødsel</PrefLabel>
@@ -7760,19 +7760,19 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
    </Concept>
-   <Concept path="tema/vaer-og-klima">
+   <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
       <PrefLabel lang="nb">Vær og klima</PrefLabel>
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljoe</Broader>
+      <Broader>tema/natur-og-miljo</Broader>
    </Concept>
    <Concept path="tema/varer-og-tjenester">
       <PrefLabel lang="en">Goods and services</PrefLabel>
       <PrefLabel lang="nb">Varer og tjenester</PrefLabel>
       <PrefLabel lang="nn">Varer og tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/forbrukerspoersmaal</Broader>
+      <Broader>tema/forbrukersporsmal</Broader>
    </Concept>
    <Concept path="tema/veg-og-vegtrafikk">
       <PrefLabel lang="en">Road and traffic services</PrefLabel>
@@ -7781,14 +7781,14 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
    </Concept>
-   <Concept path="tema/videregaaende-opplaering">
+   <Concept path="tema/videregaende-opplaring">
       <PrefLabel lang="en">Upper secondary education</PrefLabel>
       <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
       <PrefLabel lang="nn">Vidaregåande opplæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/voksenopplaering">
+   <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
       <PrefLabel lang="nb">Voksenopplæring</PrefLabel>
       <PrefLabel lang="nn">Vaksenopplæring</PrefLabel>
