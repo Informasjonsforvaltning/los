@@ -106,6 +106,141 @@
       <Related>ord/frivilligsentral</Related>
       <Related>ord/lag-og-foreninger</Related>
    </Concept>
+   
+ <!--Trafikk start-->
+    <Concept path="tema/trafikk-og-transport">
+      <PrefLabel lang="en">Traffic and transport</PrefLabel>
+      <PrefLabel lang="nb">Trafikk og transport</PrefLabel>
+      <PrefLabel lang="nn">Trafikk og transport</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+      <Concept path="tema/battrafikk">
+      <PrefLabel lang="en">Seafaring</PrefLabel>
+      <PrefLabel lang="nb">Båttrafikk</PrefLabel>
+      <PrefLabel lang="nn">Båttrafikk</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   <Concept path="ord/batplass">
+      <PrefLabel lang="en">Mooring space</PrefLabel>
+      <PrefLabel lang="nb">Båtplass</PrefLabel>
+      <PrefLabel lang="nn">Båtplass</PrefLabel>
+      <HiddenLabel lang="nb">Småbåthavn</HiddenLabel>
+      <HiddenLabel lang="nn">Småbåthamn</HiddenLabel>
+      <Definition lang="nn">Hamn for småbåtar.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/battrafikk</Broader>
+   </Concept>
+   <Concept path="ord/havn">
+      <PrefLabel lang="en">Harbour</PrefLabel>
+      <PrefLabel lang="nb">Havn</PrefLabel>
+      <PrefLabel lang="nn">Hamn</PrefLabel>
+      <HiddenLabel lang="nb">Havneavgift</HiddenLabel>
+      <HiddenLabel lang="nn">Hamneavgift</HiddenLabel>
+      <HiddenLabel lang="nb">Havnevesen</HiddenLabel>
+      <HiddenLabel lang="nn">Hamnevesen</HiddenLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/battrafikk</Broader>
+   </Concept>
+    </Concept>
+   <Concept path="ord/kystforvaltning">
+      <PrefLabel lang="en">Coastal management</PrefLabel>
+      <PrefLabel lang="nb">Kystforvaltning</PrefLabel>
+      <PrefLabel lang="nn">Kystforvaltning</PrefLabel>
+      <HiddenLabel lang="nb">Fyrlys</HiddenLabel>
+      <HiddenLabel lang="nn">Fyrlys</HiddenLabel>
+      <HiddenLabel lang="nb">Navigering</HiddenLabel>
+      <HiddenLabel lang="nn">Navigering</HiddenLabel>
+      <HiddenLabel lang="nb">Lostjeneste</HiddenLabel>
+      <HiddenLabel lang="nn">Losteneste</HiddenLabel>
+      <HiddenLabel lang="nb">Navigasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
+      <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/battrafikk</Broader>
+   </Concept>
+    </Concept>
+   <Concept path="ord/sjofart">
+      <PrefLabel lang="en">Shipping</PrefLabel>
+      <PrefLabel lang="nb">Sjøfart</PrefLabel>
+      <PrefLabel lang="nn">Sjøfart</PrefLabel>
+      <HiddenLabel lang="nb">Skipsfart</HiddenLabel>
+      <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
+      <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/battrafikk</Broader>
+   </Concept>
+   <Concept path="ord/sjosikkerhet">
+      <PrefLabel lang="en">Safety at sea</PrefLabel>
+      <PrefLabel lang="nb">Sjøsikkerhet</PrefLabel>
+      <PrefLabel lang="nn">Sjøsikkerheit</PrefLabel>
+      <HiddenLabel lang="nb">Sjøvett</HiddenLabel>
+      <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
+      <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/battrafikk</Broader>
+   </Concept>
+   
+	  
+	  
+	  
+	  
+   </Concept>
+   <Concept path="tema/forerkort-og-sertifikat">
+      <PrefLabel lang="en">Driving licences</PrefLabel>
+      <PrefLabel lang="nb">Førerkort og sertifikat</PrefLabel>
+      <PrefLabel lang="nn">Førarkort og sertifikat</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+    <Concept path="tema/kjoretoy">
+      <PrefLabel lang="en">Vehicles</PrefLabel>
+      <PrefLabel lang="nb">Kjøretøy</PrefLabel>
+      <PrefLabel lang="nn">Køyretøy</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   <Concept path="tema/kollektivtransport">
+      <PrefLabel lang="en">Collective transport</PrefLabel>
+      <PrefLabel lang="nb">Kollektivtransport</PrefLabel>
+      <PrefLabel lang="nn">Kollektivtransport</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   <Concept path="tema/luftfart">
+      <PrefLabel lang="en">Aviation</PrefLabel>
+      <PrefLabel lang="nb">Luftfart</PrefLabel>
+      <PrefLabel lang="nn">Luftfart</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   <Concept path="tema/utenlandsreiser">
+      <PrefLabel lang="en">Trips abroad</PrefLabel>
+      <PrefLabel lang="nb">Utenlandsreiser</PrefLabel>
+      <PrefLabel lang="nn">Utanlandsreiser</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   <Concept path="tema/veg-og-vegtrafikk">
+      <PrefLabel lang="en">Road and traffic services</PrefLabel>
+      <PrefLabel lang="nb">Veg og vegtrafikk</PrefLabel>
+      <PrefLabel lang="nn">Veg og vegtrafikk</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   <Concept path="tema/yrkestransport">
+      <PrefLabel lang="en">Professional transport services</PrefLabel>
+      <PrefLabel lang="nb">Yrkestransport</PrefLabel>
+      <PrefLabel lang="nn">Yrkestransport</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   
+ <!--Trafikk slutt-->
+ 
+   
+   
+   
+   
    <Concept path="ord/abort">
       <PrefLabel lang="en">Abortion</PrefLabel>
       <PrefLabel lang="nb">Abort</PrefLabel>
@@ -652,16 +787,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-   <Concept path="ord/batplass">
-      <PrefLabel lang="en">Mooring space</PrefLabel>
-      <PrefLabel lang="nb">Båtplass</PrefLabel>
-      <PrefLabel lang="nn">Båtplass</PrefLabel>
-      <HiddenLabel lang="nb">Småbåthavn</HiddenLabel>
-      <HiddenLabel lang="nn">Småbåthamn</HiddenLabel>
-      <Definition lang="nn">Hamn for småbåtar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
+
    <Concept path="ord/batsertifikat">
       <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft</PrefLabel>
       <PrefLabel lang="nb">Båtsertifikat</PrefLabel>
@@ -2708,17 +2834,6 @@
       <Related>ord/rehabiliteringspenger</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/havn">
-      <PrefLabel lang="en">Harbour</PrefLabel>
-      <PrefLabel lang="nb">Havn</PrefLabel>
-      <PrefLabel lang="nn">Hamn</PrefLabel>
-      <HiddenLabel lang="nb">Havneavgift</HiddenLabel>
-      <HiddenLabel lang="nn">Hamneavgift</HiddenLabel>
-      <HiddenLabel lang="nb">Havnevesen</HiddenLabel>
-      <HiddenLabel lang="nn">Hamnevesen</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
    <Concept path="ord/heftelser-i-motorvogn">
       <PrefLabel lang="en">Motor vehicle encumbrances</PrefLabel>
       <PrefLabel lang="nb">Heftelser i motorvogn</PrefLabel>
@@ -3597,23 +3712,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturvern</Related>
       <Broader>tema/kultur</Broader>
-   </Concept>
-   <Concept path="ord/kystforvaltning">
-      <PrefLabel lang="en">Coastal management</PrefLabel>
-      <PrefLabel lang="nb">Kystforvaltning</PrefLabel>
-      <PrefLabel lang="nn">Kystforvaltning</PrefLabel>
-      <HiddenLabel lang="nb">Fyrlys</HiddenLabel>
-      <HiddenLabel lang="nn">Fyrlys</HiddenLabel>
-      <HiddenLabel lang="nb">Navigering</HiddenLabel>
-      <HiddenLabel lang="nn">Navigering</HiddenLabel>
-      <HiddenLabel lang="nb">Lostjeneste</HiddenLabel>
-      <HiddenLabel lang="nn">Losteneste</HiddenLabel>
-      <HiddenLabel lang="nb">Navigasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
-      <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
    <Concept path="ord/lag-og-foreninger">
       <PrefLabel lang="en">Clubs and societies</PrefLabel>
       <PrefLabel lang="nb">Lag og foreninger</PrefLabel>
@@ -5524,27 +5622,6 @@
       <Definition lang="nn">Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
-   </Concept>
-   <Concept path="ord/sjofart">
-      <PrefLabel lang="en">Shipping</PrefLabel>
-      <PrefLabel lang="nb">Sjøfart</PrefLabel>
-      <PrefLabel lang="nn">Sjøfart</PrefLabel>
-      <HiddenLabel lang="nb">Skipsfart</HiddenLabel>
-      <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
-      <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
-   <Concept path="ord/sjosikkerhet">
-      <PrefLabel lang="en">Safety at sea</PrefLabel>
-      <PrefLabel lang="nb">Sjøsikkerhet</PrefLabel>
-      <PrefLabel lang="nn">Sjøsikkerheit</PrefLabel>
-      <HiddenLabel lang="nb">Sjøvett</HiddenLabel>
-      <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
-      <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
    <Concept path="ord/skadedyr">
       <PrefLabel lang="en">Pests and vermin</PrefLabel>
       <PrefLabel lang="nb">Skadedyr</PrefLabel>
@@ -7164,13 +7241,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/battrafikk">
-      <PrefLabel lang="en">Seafaring</PrefLabel>
-      <PrefLabel lang="nb">Båttrafikk</PrefLabel>
-      <PrefLabel lang="nn">Båttrafikk</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
-   </Concept>
    <Concept path="tema/barn-og-familie">
       <PrefLabel lang="en">Family and children</PrefLabel>
       <PrefLabel lang="nb">Barn og familie</PrefLabel>
@@ -7297,14 +7367,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/forerkort-og-sertifikat">
-      <PrefLabel lang="en">Driving licences</PrefLabel>
-      <PrefLabel lang="nb">Førerkort og sertifikat</PrefLabel>
-      <PrefLabel lang="nn">Førarkort og sertifikat</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
-   </Concept>
-   <Concept path="tema/folkehelse">
+      <Concept path="tema/folkehelse">
       <PrefLabel lang="en">Public health</PrefLabel>
       <PrefLabel lang="nb">Folkehelse</PrefLabel>
       <PrefLabel lang="nn">Folkehelse</PrefLabel>
@@ -7452,20 +7515,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/kjoretoy">
-      <PrefLabel lang="en">Vehicles</PrefLabel>
-      <PrefLabel lang="nb">Kjøretøy</PrefLabel>
-      <PrefLabel lang="nn">Køyretøy</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
-   </Concept>
-   <Concept path="tema/kollektivtransport">
-      <PrefLabel lang="en">Collective transport</PrefLabel>
-      <PrefLabel lang="nb">Kollektivtransport</PrefLabel>
-      <PrefLabel lang="nn">Kollektivtransport</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
-   </Concept>
+
    <Concept path="tema/kommunal-planlegging">
       <PrefLabel lang="en">Municipal planning</PrefLabel>
       <PrefLabel lang="nb">Kommunal planlegging</PrefLabel>
@@ -7514,13 +7564,6 @@
       <PrefLabel lang="nn">Lovbrot og straff</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/rettslige-sporsmal</Broader>
-   </Concept>
-   <Concept path="tema/luftfart">
-      <PrefLabel lang="en">Aviation</PrefLabel>
-      <PrefLabel lang="nb">Luftfart</PrefLabel>
-      <PrefLabel lang="nn">Luftfart</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
    </Concept>
    <Concept path="tema/media-og-kommunikasjon">
       <PrefLabel lang="en">Media and communication</PrefLabel>
@@ -7746,26 +7789,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/trafikk-reiser-og-samferdsel">
-      <PrefLabel lang="en">Traffic, journeys and transport</PrefLabel>
-      <PrefLabel lang="nb">Trafikk, reiser og samferdsel</PrefLabel>
-      <PrefLabel lang="nn">Trafikk, reiser og samferdsel</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
+  
    <Concept path="tema/transporttjenester">
       <PrefLabel lang="en">Transport services</PrefLabel>
       <PrefLabel lang="nb">Transporttjenester</PrefLabel>
       <PrefLabel lang="nn">Transporttenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
-   </Concept>
-   <Concept path="tema/utenlandsreiser">
-      <PrefLabel lang="en">Trips abroad</PrefLabel>
-      <PrefLabel lang="nb">Utenlandsreiser</PrefLabel>
-      <PrefLabel lang="nn">Utanlandsreiser</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
    </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
@@ -7781,13 +7811,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/forbrukersporsmal</Broader>
    </Concept>
-   <Concept path="tema/veg-og-vegtrafikk">
-      <PrefLabel lang="en">Road and traffic services</PrefLabel>
-      <PrefLabel lang="nb">Veg og vegtrafikk</PrefLabel>
-      <PrefLabel lang="nn">Veg og vegtrafikk</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
-   </Concept>
+    </Concept>
    <Concept path="tema/videregaende-opplaring">
       <PrefLabel lang="en">Upper secondary education</PrefLabel>
       <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
@@ -7801,12 +7825,5 @@
       <PrefLabel lang="nn">Vaksenopplæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
-   </Concept>
-   <Concept path="tema/yrkestransport">
-      <PrefLabel lang="en">Professional transport services</PrefLabel>
-      <PrefLabel lang="nb">Yrkestransport</PrefLabel>
-      <PrefLabel lang="nn">Yrkestransport</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-reiser-og-samferdsel</Broader>
    </Concept>
 </Skos>
