@@ -115,12 +115,13 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-      <Concept path="tema/battrafikk">
-      <PrefLabel lang="en">Seafaring</PrefLabel>
-      <PrefLabel lang="nb">Båttrafikk</PrefLabel>
-      <PrefLabel lang="nn">Båttrafikk</PrefLabel>
+      <Concept path="tema/bat">
+      <PrefLabel lang="en">Boat</PrefLabel>
+      <PrefLabel lang="nb">Båt</PrefLabel>
+      <PrefLabel lang="nn">Båt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
+	</Concept>
    <Concept path="ord/batplass">
       <PrefLabel lang="en">Mooring space</PrefLabel>
       <PrefLabel lang="nb">Båtplass</PrefLabel>
@@ -129,7 +130,7 @@
       <HiddenLabel lang="nn">Småbåthamn</HiddenLabel>
       <Definition lang="nn">Hamn for småbåtar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
+      <Broader>tema/bat</Broader>
    </Concept>
    <Concept path="ord/havn">
       <PrefLabel lang="en">Harbour</PrefLabel>
@@ -140,8 +141,7 @@
       <HiddenLabel lang="nb">Havnevesen</HiddenLabel>
       <HiddenLabel lang="nn">Hamnevesen</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
+      <Broader>tema/bat</Broader>
     </Concept>
    <Concept path="ord/kystforvaltning">
       <PrefLabel lang="en">Coastal management</PrefLabel>
@@ -157,8 +157,7 @@
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
-   </Concept>
+      <Broader>tema/bat</Broader>
     </Concept>
    <Concept path="ord/sjofart">
       <PrefLabel lang="en">Shipping</PrefLabel>
@@ -168,7 +167,7 @@
       <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
       <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
+      <Broader>tema/bat</Broader>
    </Concept>
    <Concept path="ord/sjosikkerhet">
       <PrefLabel lang="en">Safety at sea</PrefLabel>
@@ -178,20 +177,197 @@
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/battrafikk</Broader>
+      <Broader>tema/bat</Broader>
    </Concept>
-   
-	  
-	  
-	  
-	  
+    <Concept path="tema/havn-og-kyst">
+      <PrefLabel lang="en">Harbour and coast</PrefLabel>
+      <PrefLabel lang="nb">Hamn og kyst</PrefLabel>
+      <PrefLabel lang="nn">Havn og kyst</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+   <Concept path="tema/luftfart">
+      <PrefLabel lang="en">Aviation</PrefLabel>
+      <PrefLabel lang="nb">Luftfart</PrefLabel>
+      <PrefLabel lang="nn">Luftfart</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>      
+   <Concept path="ord/fly">
+      <PrefLabel lang="en">Aeroplanes</PrefLabel>
+      <PrefLabel lang="nb">Fly</PrefLabel>
+      <PrefLabel lang="nn">Fly</PrefLabel>
+      <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
+      <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
+      <HiddenLabel lang="nb">Sjøfly</HiddenLabel>
+      <HiddenLabel lang="nn">Sjøfly</HiddenLabel>
+      <HiddenLabel lang="nb">Flyskjøte</HiddenLabel>
+      <HiddenLabel lang="nn">Flyskøyte</HiddenLabel>
+      <HiddenLabel lang="nb">Landingstillatelse</HiddenLabel>
+      <HiddenLabel lang="nn">Landingsløyve</HiddenLabel>
+      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
+      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
+      <HiddenLabel lang="nb">Privatfly</HiddenLabel>
+      <HiddenLabel lang="nn">Privatfly</HiddenLabel>
+      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly. Flysertifikat er eige emneord.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/luftfart</Broader>
+   </Concept>
+   <Concept path="ord/helikopter">
+      <PrefLabel lang="en">Helicopters</PrefLabel>
+      <PrefLabel lang="nb">Helikopter</PrefLabel>
+      <PrefLabel lang="nn">Helikopter</PrefLabel>
+      <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
+      <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
+      <HiddenLabel lang="nb">Landingstillatelse</HiddenLabel>
+      <HiddenLabel lang="nn">Landingsløyve</HiddenLabel>
+      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
+      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
+      <Definition lang="nn">Landingsløyve, landingsplass m.m. for helikopter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/luftfart</Broader>
+   </Concept>
+   <Concept path="ord/lufthavn">
+      <PrefLabel lang="en">Airport</PrefLabel>
+      <PrefLabel lang="nb">Lufthavn</PrefLabel>
+      <PrefLabel lang="nn">Lufthamn</PrefLabel>
+	  <AltLabel lang="nb">Flyplass</AltLabel>
+	  <AltLabel lang="nn">Flyplass</AltLabel> 
+      <HiddenLabel lang="nb">Flybase</HiddenLabel>
+      <HiddenLabel lang="nn">Flypbase</HiddenLabel>
+      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
+      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
+      <Definition lang="nn"> Ein stad der fly lettar og landar</Definition>
+      <Definition lang="nb"> Et sted hvor fly letter og lander</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/luftfart</Broader>
+   </Concept>
+   <Concept path="ord/drone">
+      <PrefLabel lang="en">Drone</PrefLabel>
+      <PrefLabel lang="nb">Drone</PrefLabel>
+      <PrefLabel lang="nn">Drone</PrefLabel>
+      <HiddenLabel lang="nb">Droneflyving</HiddenLabel>
+      <HiddenLabel lang="nn">Droneflyging</HiddenLabel>
+      <Definition lang="nn"> * </Definition>
+      <Definition lang="nb"> *</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/luftfart</Broader>
+   </Concept>  
    <Concept path="tema/forerkort-og-sertifikat">
       <PrefLabel lang="en">Driving licences</PrefLabel>
       <PrefLabel lang="nb">Førerkort og sertifikat</PrefLabel>
       <PrefLabel lang="nn">Førarkort og sertifikat</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
+   </Concept>
+   <Concept path="ord/batforerbevis">
+      <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
+      <PrefLabel lang="nb">Båtførerbevis</PrefLabel>
+      <PrefLabel lang="nn">Båtførarbevis</PrefLabel>
+      <HiddenLabel lang="nb">Båtførerprøven</HiddenLabel>
+      <HiddenLabel lang="nn">Båtførarprøven</HiddenLabel>
+      <Definition lang="nn"> Er du født 01.01.1980 eller seinare, og skal føre båt med meir enn 25 hk eller over 8 meter lengde trenger du båtførarbevis</Definition>
+      <Definition lang="nb"> Er du født 01.01.1980 eller senere, og skal føre båt med mer enn 25 hk eller over 8 meter lengde trenger du båtførerbevis</Definition>	 	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+   </Concept>
+    <Concept path="ord/fritidsskippersertifikat">
+      <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
+      <PrefLabel lang="nb">Fritidsskippersertifikat</PrefLabel>
+      <PrefLabel lang="nn">Fritidsskipparsertifikat</PrefLabel>
+      <HiddenLabel lang="nb">Båtførerprøven</HiddenLabel>
+      <HiddenLabel lang="nn">Båtførarprøven</HiddenLabel>
+      <Definition lang="nn"> For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha eit fritidsskipparsertifikat. </Definition>
+      <Definition lang="nb"> For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha et fritidsskippersertifikat.</Definition>	 	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+   </Concept>  
+   <Concept path="ord/internasjonalt-batsertifikat">
+      <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft (ICC)</PrefLabel>
+      <PrefLabel lang="nb">Internasjonalt båtsertifikat (ICC)</PrefLabel>
+      <PrefLabel lang="nn">Internasjonalt båtsertifikat (ICC)</PrefLabel>
+      <Definition lang="nn">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er en internasjonal standard for fritidsbåtsertifikat.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+   </Concept>	
+   <Concept path="ord/flysertifikat">
+      <PrefLabel lang="en">Pilot's licence</PrefLabel>
+      <PrefLabel lang="nb">Flysertifikat</PrefLabel>
+      <PrefLabel lang="nn">Flysertifikat</PrefLabel>
+      <HiddenLabel lang="nb">Helikoptersertifikat</HiddenLabel>
+      <HiddenLabel lang="nn">Helikoptersertifikat</HiddenLabel>
+      <HiddenLabel lang="nb">Helikopter</HiddenLabel>
+      <HiddenLabel lang="nn">Helikopter</HiddenLabel>
+      <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+   </Concept>
+   <Concept path="ord/forerkort">
+      <PrefLabel lang="en">Driving licence</PrefLabel>
+      <PrefLabel lang="nb">Førerkort</PrefLabel>
+      <PrefLabel lang="nn">Førarkort</PrefLabel>
+      <HiddenLabel lang="nb">Sertifikat</HiddenLabel>
+      <HiddenLabel lang="nn">Sertifikat</HiddenLabel>
+      <HiddenLabel lang="nb">Trafikkstasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Trafikkstasjon</HiddenLabel>
+      <HiddenLabel lang="nb">Mopedførerkort</HiddenLabel>
+      <HiddenLabel lang="nn">Mopedførarkort</HiddenLabel>
+      <HiddenLabel lang="nb">Føreropplæring</HiddenLabel>
+      <HiddenLabel lang="nn">Føraropplæring</HiddenLabel>
+      <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
+      <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
+      <HiddenLabel lang="nb">Firehjuling</HiddenLabel>
+      <HiddenLabel lang="nn">Firehjuling</HiddenLabel>
+      <HiddenLabel lang="nb">Snøskuter</HiddenLabel>
+      <HiddenLabel lang="nn">Snøskuter</HiddenLabel>
+      <HiddenLabel lang="nb">Beltebil</HiddenLabel>
+      <HiddenLabel lang="nn">Beltebil</HiddenLabel>
+      <HiddenLabel lang="nb">Bil</HiddenLabel>
+      <HiddenLabel lang="nn">Bil</HiddenLabel>
+      <HiddenLabel lang="nb">Biltilsynet</HiddenLabel>
+      <HiddenLabel lang="nn">Biltilsynet</HiddenLabel>
+      <HiddenLabel lang="nb">Midlertidig kjøretillatelse</HiddenLabel>
+      <HiddenLabel lang="nn">Mellombels køyreløyve</HiddenLabel>
+      <HiddenLabel lang="nb">ATV</HiddenLabel>
+      <HiddenLabel lang="nn">ATV</HiddenLabel>
+      <HiddenLabel lang="nb">Minibuss</HiddenLabel>
+      <HiddenLabel lang="nn">Minibuss</HiddenLabel>
+      <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
+      <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
+      <HiddenLabel lang="nb">Traktor</HiddenLabel>
+      <HiddenLabel lang="nn">Traktor</HiddenLabel>
+      <HiddenLabel lang="nb">Mopedførerbevis</HiddenLabel>
+      <HiddenLabel lang="nn">Mopedførarbevis</HiddenLabel>
+      <HiddenLabel lang="nb">Personbil</HiddenLabel>
+      <HiddenLabel lang="nn">Personbil</HiddenLabel>
+      <HiddenLabel lang="nb">Førerprøve</HiddenLabel>
+      <HiddenLabel lang="nn">Førarprøve</HiddenLabel>
+      <HiddenLabel lang="nb">Prikkbelastning</HiddenLabel>
+      <HiddenLabel lang="nn">Prikkbelastning</HiddenLabel>
+      <HiddenLabel lang="nb">Buss</HiddenLabel>
+      <HiddenLabel lang="nn">Buss</HiddenLabel>
+      <HiddenLabel lang="nb">Lastebil</HiddenLabel>
+      <HiddenLabel lang="nn">Lastebil</HiddenLabel>
+      <HiddenLabel lang="nb">Motorsykkel</HiddenLabel>
+      <HiddenLabel lang="nn">Motorsykkel</HiddenLabel>
+      <Definition lang="nn">Løyve til å føra motorkøyretøy. Til dette høyrer føraropplæring og førarprøve til alle førarkortklassar. Båtsertifikat og truckførarbevis er eigne emneord.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+   </Concept>
+   <Concept path="ord/kjoreseddel">
+      <PrefLabel lang="en">Passenger transport licence</PrefLabel>
+      <PrefLabel lang="nb">Kjøreseddel</PrefLabel>
+      <PrefLabel lang="nn">Køyresetel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
+  </Concept>
+  <Concept path="ord/truckforerbevis">
+      <PrefLabel lang="en">Truck driver licence</PrefLabel>
+      <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
+      <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
+      <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
     <Concept path="tema/kjoretoy">
       <PrefLabel lang="en">Vehicles</PrefLabel>
@@ -200,17 +376,16 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="tema/kollektivtransport">
+  
+
+
+
+
+
+  <Concept path="tema/kollektivtransport">
       <PrefLabel lang="en">Collective transport</PrefLabel>
       <PrefLabel lang="nb">Kollektivtransport</PrefLabel>
       <PrefLabel lang="nn">Kollektivtransport</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-og-transport</Broader>
-   </Concept>
-   <Concept path="tema/luftfart">
-      <PrefLabel lang="en">Aviation</PrefLabel>
-      <PrefLabel lang="nb">Luftfart</PrefLabel>
-      <PrefLabel lang="nn">Luftfart</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
@@ -227,6 +402,7 @@
       <PrefLabel lang="nn">Veg og vegtrafikk</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
+	</Concept>
    <Concept path="tema/yrkestransport">
       <PrefLabel lang="en">Professional transport services</PrefLabel>
       <PrefLabel lang="nb">Yrkestransport</PrefLabel>
@@ -234,13 +410,26 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+
+
    
  <!--Trafikk slutt-->
  
    
    
    
-   
+   <Concept path="ord/trygde-og-servicebolig">
+      <PrefLabel lang="en">Welfare housing</PrefLabel>
+      <PrefLabel lang="nb">Trygde- og servicebolig</PrefLabel>
+      <PrefLabel lang="nn">Trygde- og servicebustad</PrefLabel>
+      <HiddenLabel lang="nb">Trygdebolig</HiddenLabel>
+      <HiddenLabel lang="nn">Trygdebustad</HiddenLabel>
+      <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
+      <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
+      <Definition lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/botilbud</Broader>
+   </Concept>   
    <Concept path="ord/abort">
       <PrefLabel lang="en">Abortion</PrefLabel>
       <PrefLabel lang="nb">Abort</PrefLabel>
@@ -779,28 +968,6 @@
       <Related>ord/friomrade</Related>
       <Broader>tema/friluftsliv</Broader>
       <Broader>tema/naturforvaltning</Broader>
-   </Concept>
-   <Concept path="ord/batforerbevis">
-      <PrefLabel lang="en">Norwegian boatmanship licence</PrefLabel>
-      <PrefLabel lang="nb">Båtførerbevis</PrefLabel>
-      <PrefLabel lang="nn">Båtførarbevis</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
-   </Concept>
-
-   <Concept path="ord/batsertifikat">
-      <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft</PrefLabel>
-      <PrefLabel lang="nb">Båtsertifikat</PrefLabel>
-      <PrefLabel lang="nn">Båtsertifikat</PrefLabel>
-      <HiddenLabel lang="nb">Fritidsbåtskippersertifikat</HiddenLabel>
-      <HiddenLabel lang="nn">Fritidsbåtskippersertifikat</HiddenLabel>
-      <HiddenLabel lang="nb">Båtførersertifikat</HiddenLabel>
-      <HiddenLabel lang="nn">Båtførarsertifikat</HiddenLabel>
-      <HiddenLabel lang="nb">Kystskippersertifikat</HiddenLabel>
-      <HiddenLabel lang="nn">Kystskippersertifikat</HiddenLabel>
-      <Definition lang="nn">Løyve for å føra fritidsbåt. Båtførarbeviset skal vere i bankkortformat og ha bilete av innehavaren.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/badeplass">
       <PrefLabel lang="en">Bathing area</PrefLabel>
@@ -2022,26 +2189,6 @@
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
    </Concept>
-   <Concept path="ord/fly-og-helikopter">
-      <PrefLabel lang="en">Aeroplanes and helicopters</PrefLabel>
-      <PrefLabel lang="nb">Fly og helikopter</PrefLabel>
-      <PrefLabel lang="nn">Fly og helikopter</PrefLabel>
-      <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nb">Sjøfly</HiddenLabel>
-      <HiddenLabel lang="nn">Sjøfly</HiddenLabel>
-      <HiddenLabel lang="nb">Flyskjøte</HiddenLabel>
-      <HiddenLabel lang="nn">Flyskøyte</HiddenLabel>
-      <HiddenLabel lang="nb">Landingstillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
-      <HiddenLabel lang="nb">Privatfly</HiddenLabel>
-      <HiddenLabel lang="nn">Privatfly</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly og helikopter. Flysertifikat er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/luftfart</Broader>
-   </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
       <PrefLabel lang="en">Refugees and protection</PrefLabel>
       <PrefLabel lang="nb">Flyktninger og beskyttelse</PrefLabel>
@@ -2055,18 +2202,6 @@
       <Definition lang="nn">Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m. Menneskerettar er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innvandring-og-innreise</Broader>
-   </Concept>
-   <Concept path="ord/flysertifikat">
-      <PrefLabel lang="en">Pilot's licence</PrefLabel>
-      <PrefLabel lang="nb">Flysertifikat</PrefLabel>
-      <PrefLabel lang="nn">Flysertifikat</PrefLabel>
-      <HiddenLabel lang="nb">Helikoptersertifikat</HiddenLabel>
-      <HiddenLabel lang="nn">Helikoptersertifikat</HiddenLabel>
-      <HiddenLabel lang="nb">Helikopter</HiddenLabel>
-      <HiddenLabel lang="nn">Helikopter</HiddenLabel>
-      <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/flyttemelding">
       <PrefLabel lang="en">Notification of move or change of address</PrefLabel>
@@ -2102,58 +2237,6 @@
       <HiddenLabel lang="nn">Personnummer</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
-   </Concept>
-   <Concept path="ord/forerkort">
-      <PrefLabel lang="en">Driving licence</PrefLabel>
-      <PrefLabel lang="nb">Førerkort</PrefLabel>
-      <PrefLabel lang="nn">Førarkort</PrefLabel>
-      <HiddenLabel lang="nb">Sertifikat</HiddenLabel>
-      <HiddenLabel lang="nn">Sertifikat</HiddenLabel>
-      <HiddenLabel lang="nb">Trafikkstasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Trafikkstasjon</HiddenLabel>
-      <HiddenLabel lang="nb">Mopedførerkort</HiddenLabel>
-      <HiddenLabel lang="nn">Mopedførarkort</HiddenLabel>
-      <HiddenLabel lang="nb">Føreropplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Føraropplæring</HiddenLabel>
-      <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
-      <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
-      <HiddenLabel lang="nb">Firehjuling</HiddenLabel>
-      <HiddenLabel lang="nn">Firehjuling</HiddenLabel>
-      <HiddenLabel lang="nb">Snøskuter</HiddenLabel>
-      <HiddenLabel lang="nn">Snøskuter</HiddenLabel>
-      <HiddenLabel lang="nb">Beltebil</HiddenLabel>
-      <HiddenLabel lang="nn">Beltebil</HiddenLabel>
-      <HiddenLabel lang="nb">Bil</HiddenLabel>
-      <HiddenLabel lang="nn">Bil</HiddenLabel>
-      <HiddenLabel lang="nb">Biltilsynet</HiddenLabel>
-      <HiddenLabel lang="nn">Biltilsynet</HiddenLabel>
-      <HiddenLabel lang="nb">Midlertidig kjøretillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Mellombels køyreløyve</HiddenLabel>
-      <HiddenLabel lang="nb">ATV</HiddenLabel>
-      <HiddenLabel lang="nn">ATV</HiddenLabel>
-      <HiddenLabel lang="nb">Minibuss</HiddenLabel>
-      <HiddenLabel lang="nn">Minibuss</HiddenLabel>
-      <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
-      <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
-      <HiddenLabel lang="nb">Traktor</HiddenLabel>
-      <HiddenLabel lang="nn">Traktor</HiddenLabel>
-      <HiddenLabel lang="nb">Mopedførerbevis</HiddenLabel>
-      <HiddenLabel lang="nn">Mopedførarbevis</HiddenLabel>
-      <HiddenLabel lang="nb">Personbil</HiddenLabel>
-      <HiddenLabel lang="nn">Personbil</HiddenLabel>
-      <HiddenLabel lang="nb">Førerprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Førarprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Prikkbelastning</HiddenLabel>
-      <HiddenLabel lang="nn">Prikkbelastning</HiddenLabel>
-      <HiddenLabel lang="nb">Buss</HiddenLabel>
-      <HiddenLabel lang="nn">Buss</HiddenLabel>
-      <HiddenLabel lang="nb">Lastebil</HiddenLabel>
-      <HiddenLabel lang="nn">Lastebil</HiddenLabel>
-      <HiddenLabel lang="nb">Motorsykkel</HiddenLabel>
-      <HiddenLabel lang="nn">Motorsykkel</HiddenLabel>
-      <Definition lang="nn">Løyve til å føra motorkøyretøy. Til dette høyrer føraropplæring og førarprøve til alle førarkortklassar. Båtsertifikat og truckførarbevis er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
    <Concept path="ord/folkehogskole">
       <PrefLabel lang="en">Folk high school</PrefLabel>
@@ -3291,13 +3374,7 @@
       <Related>ord/smittevern</Related>
       <Broader>tema/fritid</Broader>
    </Concept>
-   <Concept path="ord/kjoreseddel">
-      <PrefLabel lang="en">Passenger transport licence</PrefLabel>
-      <PrefLabel lang="nb">Kjøreseddel</PrefLabel>
-      <PrefLabel lang="nn">Køyresetel</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
-   </Concept>
+
    <Concept path="ord/kjoretoykontroll">
       <PrefLabel lang="en">Vehicle inspection</PrefLabel>
       <PrefLabel lang="nb">Kjøretøykontroll</PrefLabel>
@@ -3712,6 +3789,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturvern</Related>
       <Broader>tema/kultur</Broader>
+   </Concept>	
    <Concept path="ord/lag-og-foreninger">
       <PrefLabel lang="en">Clubs and societies</PrefLabel>
       <PrefLabel lang="nb">Lag og foreninger</PrefLabel>
@@ -5622,6 +5700,7 @@
       <Definition lang="nn">Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
+   </Concept>
    <Concept path="ord/skadedyr">
       <PrefLabel lang="en">Pests and vermin</PrefLabel>
       <PrefLabel lang="nb">Skadedyr</PrefLabel>
@@ -6595,26 +6674,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ekteskap</Related>
       <Broader>tema/religion-og-livssyn</Broader>
-   </Concept>
-   <Concept path="ord/truckforerbevis">
-      <PrefLabel lang="en">Truck driver licence</PrefLabel>
-      <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
-      <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
-      <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
-   </Concept>
-   <Concept path="ord/trygde-og-servicebolig">
-      <PrefLabel lang="en">Welfare housing</PrefLabel>
-      <PrefLabel lang="nb">Trygde- og servicebolig</PrefLabel>
-      <PrefLabel lang="nn">Trygde- og servicebustad</PrefLabel>
-      <HiddenLabel lang="nb">Trygdebolig</HiddenLabel>
-      <HiddenLabel lang="nn">Trygdebustad</HiddenLabel>
-      <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
-      <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
-      <Definition lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/botilbud</Broader>
    </Concept>
    <Concept path="ord/trygghetsalarm">
       <PrefLabel lang="en">Personal safety alarm</PrefLabel>
@@ -7811,7 +7870,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/forbrukersporsmal</Broader>
    </Concept>
-    </Concept>
    <Concept path="tema/videregaende-opplaring">
       <PrefLabel lang="en">Upper secondary education</PrefLabel>
       <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
