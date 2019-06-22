@@ -4212,7 +4212,6 @@
       <HiddenLabel lang="nn">Bensinavgift</HiddenLabel>
       <Definition lang="nn">Motorvognavgiftene omfattar seks avgifter med til dels ulik grunngjeving og føremål. Avgiftene er knytt dels til kjøp/leige av køyretøy og dels til bruk av køyretøy. Dei ikkje-bruksavhengige avgiftene er eingongsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgifta. Til dei bruksavhengige avgiftene høyrer avgiftene på bensin og diesel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kontrollmerke</Related>
       <Broader>tema/offentlige-avgifter</Broader>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
