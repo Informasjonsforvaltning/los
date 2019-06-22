@@ -425,16 +425,10 @@
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>	  
    </Concept>
-          
-
-
-
-
-
-  <Concept path="tema/kollektivtransport">
-      <PrefLabel lang="en">Collective transport</PrefLabel>
-      <PrefLabel lang="nb">Kollektivtransport</PrefLabel>
-      <PrefLabel lang="nn">Kollektivtransport</PrefLabel>
+  <Concept path="tema/transporttilbud">
+      <PrefLabel lang="en">Transport service</PrefLabel>
+      <PrefLabel lang="nb">Transporttilbod</PrefLabel>
+      <PrefLabel lang="nn">Transporttilbud</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
@@ -3381,9 +3375,9 @@
       <HiddenLabel lang="nn">Haiking</HiddenLabel>
       <HiddenLabel lang="nb">Pendling</HiddenLabel>
       <HiddenLabel lang="nn">Pendling</HiddenLabel>
-      <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i sambruksfeltet.</Definition>
+      <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i kollektivfeltet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kollektivtransport</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/karakterer">
       <PrefLabel lang="en">Grades</PrefLabel>
@@ -4123,7 +4117,7 @@
       <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
-      <Broader>tema/kollektivtransport</Broader>
+      <Broader>tema/transporttilbud</Broader>
       <Broader>tema/veg-og-vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/minid">
@@ -5322,8 +5316,9 @@
       <HiddenLabel lang="nb">Ekspressbåt</HiddenLabel>
       <HiddenLabel lang="nn">Ekspressbåt</HiddenLabel>
       <Definition lang="nn">Billettar innan transport. Flybillett, togbillett, busbillett og båtbillett vert nytta av alle som driv offentleg transport mot betaling.</Definition>
+      <Definition lang="nb">Billetter innen transport. Flybillett, togbillett, busbillett og båtbillett vert benyttet av alle som driver offentlig transport mot betaling.</Definition>	 
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kollektivtransport</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/reisegaranti">
       <PrefLabel lang="en">Travel guarantee</PrefLabel>
@@ -5333,7 +5328,7 @@
       <HiddenLabel lang="nn">Drosjerefusjon</HiddenLabel>
       <Definition lang="nn">Garanti for at reisetilbydar skaffar alternativ transport eller erstattar alle dokumenterte kostander for raskast mogleg transport ved avvik eller forseinking av ordinær transport.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kollektivtransport</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/reiseinformasjon">
       <PrefLabel lang="en">Travel information</PrefLabel>
@@ -5575,8 +5570,9 @@
       <HiddenLabel lang="nb">Togrute</HiddenLabel>
       <HiddenLabel lang="nn">Togrute</HiddenLabel>
       <Definition lang="nn">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
+      <Definition lang="nb">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kollektivtransport</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/ruteplanlegger">
       <PrefLabel lang="en">Route planner</PrefLabel>
