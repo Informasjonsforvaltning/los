@@ -318,8 +318,6 @@
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
       <HiddenLabel lang="nb">Firehjuling</HiddenLabel>
       <HiddenLabel lang="nn">Firehjuling</HiddenLabel>
-      <HiddenLabel lang="nb">Snøskuter</HiddenLabel>
-      <HiddenLabel lang="nn">Snøskuter</HiddenLabel>
       <HiddenLabel lang="nb">Beltebil</HiddenLabel>
       <HiddenLabel lang="nn">Beltebil</HiddenLabel>
       <HiddenLabel lang="nb">Bil</HiddenLabel>
@@ -328,12 +326,8 @@
       <HiddenLabel lang="nn">Biltilsynet</HiddenLabel>
       <HiddenLabel lang="nb">Midlertidig kjøretillatelse</HiddenLabel>
       <HiddenLabel lang="nn">Mellombels køyreløyve</HiddenLabel>
-      <HiddenLabel lang="nb">ATV</HiddenLabel>
-      <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Minibuss</HiddenLabel>
       <HiddenLabel lang="nn">Minibuss</HiddenLabel>
-      <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
-      <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
       <HiddenLabel lang="nb">Traktor</HiddenLabel>
       <HiddenLabel lang="nn">Traktor</HiddenLabel>
       <HiddenLabel lang="nb">Mopedførerbevis</HiddenLabel>
@@ -376,7 +370,62 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-  
+    <Concept path="ord/snoskuter">
+      <PrefLabel lang="en">Snowmobile</PrefLabel>
+      <PrefLabel lang="nb">Snøskuter</PrefLabel>
+      <PrefLabel lang="nn">Snøskuter</PrefLabel>
+	  <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
+      <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kjoretoy</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+   </Concept>
+    <Concept path="ord/vannskuter">
+      <PrefLabel lang="en">Water scooter</PrefLabel>
+      <PrefLabel lang="nb">Vannskuter</PrefLabel>
+      <PrefLabel lang="nn">Vasskuter</PrefLabel>
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av vannskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kjoretoy</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+   </Concept>
+     <Concept path="ord/firehjuling">
+      <PrefLabel lang="en">All terrain vehicle</PrefLabel>
+      <PrefLabel lang="nb">Firehjuling</PrefLabel>
+      <PrefLabel lang="nn">Firehjuling</PrefLabel>
+	  <HiddenLabel lang="en">ATV</HiddenLabel>
+	  <HiddenLabel lang="nb">ATV</HiddenLabel>
+	  <HiddenLabel lang="nn">ATV</HiddenLabel>
+      <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
+      <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>	  
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kjoretoy</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+   </Concept>
+     <Concept path="ord/beltekjoretoy">
+      <PrefLabel lang="en">Tracked vehicle</PrefLabel>
+      <PrefLabel lang="nb">Beltekjøretøy</PrefLabel>
+      <PrefLabel lang="nn">Beltekøyretøy</PrefLabel>
+	  <HiddenLabel lang="nb">Beltebil</HiddenLabel>
+	  <HiddenLabel lang="nn">Beltebil</HiddenLabel>
+	  <HiddenLabel lang="nb">Tråkkemaskin</HiddenLabel>
+	  <HiddenLabel lang="nn">Trakkemaskin</HiddenLabel>	  
+      <HiddenLabel lang="nb">Beltevogn</HiddenLabel>
+      <HiddenLabel lang="nn">Beltevogn</HiddenLabel>
+      <HiddenLabel lang="nb">Beltetraktor</HiddenLabel>
+      <HiddenLabel lang="nn">Beltetraktor</HiddenLabel>	  
+      <Definition lang="nn">Beltekøyretøy er køyretøy som vert drivne fram med belter. Kommunen vedtek i forskrift løyve og forbod om køyring utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kjoretoy</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+   </Concept>
+          
 
 
 
@@ -3579,21 +3628,7 @@
       <Related>ord/eiendomsomsetning</Related>
       <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
-   <Concept path="ord/kontrollmerke">
-      <PrefLabel lang="en">Inspection sticker</PrefLabel>
-      <PrefLabel lang="nb">Kontrollmerke</PrefLabel>
-      <PrefLabel lang="nn">Kontrollmerke</PrefLabel>
-      <HiddenLabel lang="nb">Trafikkstasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Trafikkstasjon</HiddenLabel>
-      <HiddenLabel lang="nb">Biltilsynet</HiddenLabel>
-      <HiddenLabel lang="nn">Biltilsynet</HiddenLabel>
-      <HiddenLabel lang="nb">Oblat</HiddenLabel>
-      <HiddenLabel lang="nn">Oblat</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/motorvognavgifter</Related>
-      <Broader>tema/kjoretoy</Broader>
-   </Concept>
-   <Concept path="ord/korttidsopphold">
+    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
       <PrefLabel lang="nb">Korttidsopphold</PrefLabel>
       <PrefLabel lang="nn">Korttidsopphald</PrefLabel>
