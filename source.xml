@@ -439,13 +439,21 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="tema/veg-og-vegtrafikk">
-      <PrefLabel lang="en">Road and traffic services</PrefLabel>
-      <PrefLabel lang="nb">Veg og vegtrafikk</PrefLabel>
-      <PrefLabel lang="nn">Veg og vegtrafikk</PrefLabel>
+   <Concept path="tema/veg">
+      <PrefLabel lang="en">Road</PrefLabel>
+      <PrefLabel lang="nb">Veg</PrefLabel>
+      <PrefLabel lang="nn">Veg</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
+   <Concept path="tema/vegtrafikk">
+      <PrefLabel lang="en">Road traffic</PrefLabel>
+      <PrefLabel lang="nb">Vegtrafikk</PrefLabel>
+      <PrefLabel lang="nn">Vegtrafikk</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/trafikk-og-transport</Broader>
+	</Concept>
+
    <Concept path="tema/yrkestransport">
       <PrefLabel lang="en">Professional transport services</PrefLabel>
       <PrefLabel lang="nb">Yrkestransport</PrefLabel>
@@ -523,8 +531,9 @@
       <HiddenLabel lang="nb">Telerestriksjoner</HiddenLabel>
       <HiddenLabel lang="nn">Telerestriksjonar</HiddenLabel>
       <Definition lang="nn">Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense.</Definition>
+      <Definition lang="nb">Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere under en viss grense.</Definition>	  
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/akvakultur">
       <PrefLabel lang="en">Fish farming</PrefLabel>
@@ -1311,10 +1320,12 @@
       <PrefLabel lang="nn">Bompengar</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
-      <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, det norske systemet for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
+      <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
+      <Definition lang="nb">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass, et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling (ASB).</Definition>
+	  
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/offentlige-avgifter</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/borgerlig-vielse">
       <PrefLabel lang="en">Civil marriage</PrefLabel>
@@ -1392,20 +1403,15 @@
       <PrefLabel lang="en">Snow clearing</PrefLabel>
       <PrefLabel lang="nb">Brøyting</PrefLabel>
       <PrefLabel lang="nn">Brøyting</PrefLabel>
-      <HiddenLabel lang="nb">Veisalting</HiddenLabel>
-      <HiddenLabel lang="nn">Vegsalting</HiddenLabel>
-      <HiddenLabel lang="nb">Vegsalting</HiddenLabel>
-      <HiddenLabel lang="nn">Vegsalting</HiddenLabel>
-      <HiddenLabel lang="nb">Strøing</HiddenLabel>
-      <HiddenLabel lang="nn">Strøing</HiddenLabel>
       <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
       <Definition lang="nn">Snørydding og vintervedlikehald.</Definition>
+	  <Definition lang="nb">Snørydding og vintervedlikehold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/byggekostnad">
@@ -2713,7 +2719,7 @@
       <HiddenLabel lang="nb">Gangsti</HiddenLabel>
       <HiddenLabel lang="nn">Gangsti</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/garanti">
       <PrefLabel lang="en">Guarantee</PrefLabel>
@@ -2740,7 +2746,7 @@
       <HiddenLabel lang="nb">Veibelysning</HiddenLabel>
       <HiddenLabel lang="nn">Veglys</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/gift">
@@ -4118,7 +4124,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
       <Broader>tema/transporttilbud</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/minid">
       <PrefLabel lang="en">MinID digital identity</PrefLabel>
@@ -4732,7 +4738,7 @@
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttjenester</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
       <PrefLabel lang="en">Ombudsman for patients</PrefLabel>
@@ -5581,9 +5587,10 @@
       <HiddenLabel lang="nn">Vegkart</HiddenLabel>
       <HiddenLabel lang="nb">Vegkart</HiddenLabel>
       <HiddenLabel lang="nn">Vegkart</HiddenLabel>
-      <Definition lang="nn">Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og og informasjon om reistider mellom ulike reisemål.</Definition>
+      <Definition lang="nn">Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
+	  <Definition lang="nb">Automatisert informasjon på Internett der en kan få hjelp til valg av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/sarskilt-norskopplaring">
       <PrefLabel lang="en">Norwegian classes for special needs groups</PrefLabel>
@@ -5909,10 +5916,11 @@
       <HiddenLabel lang="nb">Skolebuss</HiddenLabel>
       <HiddenLabel lang="nn">Skulebuss</HiddenLabel>
       <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
+	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskoleopplaring</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
       <PrefLabel lang="en">Avalanche warning</PrefLabel>
@@ -6387,7 +6395,7 @@
       <Broader>tema/pasientrettigheter</Broader>
    </Concept>
    <Concept path="ord/sykkel">
-      <PrefLabel lang="en">Cycling</PrefLabel>
+      <PrefLabel lang="en">Bicycle</PrefLabel>
       <PrefLabel lang="nb">Sykkel</PrefLabel>
       <PrefLabel lang="nn">Sykkel</PrefLabel>
       <HiddenLabel lang="nb">Sykkelkart</HiddenLabel>
@@ -6404,12 +6412,10 @@
       <HiddenLabel lang="nn">Sykkelfelt</HiddenLabel>
       <HiddenLabel lang="nb">Sykkelsti</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelsti</HiddenLabel>
-      <HiddenLabel lang="nb">Sykkelvrak</HiddenLabel>
-      <HiddenLabel lang="nn">Sykkelvrak</HiddenLabel>
       <HiddenLabel lang="nb">Sykkelparkering</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelparkering</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
       <Broader>tema/friluftsliv</Broader>
    </Concept>
    <Concept path="ord/tannhelsetjeneste">
@@ -6506,9 +6512,9 @@
       <HiddenLabel lang="nb">TT-ordning</HiddenLabel>
       <HiddenLabel lang="nn">TT-ordning</HiddenLabel>
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
+	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition> 
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
-      <Broader>tema/transporttjenester</Broader>
+      <Broader>tema/transporttilbud</Broader>
    </Concept>
    <Concept path="ord/tilsyn-og-godkjenning">
       <PrefLabel lang="en">Inspection and approval</PrefLabel>
@@ -6667,8 +6673,9 @@
       <HiddenLabel lang="nb">Omkjøring</HiddenLabel>
       <HiddenLabel lang="nn">Omkøyring</HiddenLabel>
       <Definition lang="nn">Informasjon om veg og trafikkforhold.</Definition>
+	  <Definition lang="nb">Informasjon om veg og trafikkforhold.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/trafikksikkerhet">
       <PrefLabel lang="en">Traffic safety</PrefLabel>
@@ -6692,7 +6699,7 @@
       <HiddenLabel lang="nn">Trafikktryggleiksplan</HiddenLabel>
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/tros-og-livssynssamfunn">
       <PrefLabel lang="en">Religious and ethnic communities</PrefLabel>
@@ -7049,7 +7056,7 @@
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/landbruk</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
       <PrefLabel lang="en">Road maintenance</PrefLabel>
