@@ -8,9 +8,9 @@ scheme:
   - ontologi/hendelse
 relation:
   related:
-  - ord/foedselsattest
+  - ord/fodselsattest
   - ord/personnavn
   - ord/svangerskapsomsorg
   - ord/foreldrepermisjon
   - ord/foreldrepenger
-  - ord/engangsstoenad
+  - ord/engangsstonad

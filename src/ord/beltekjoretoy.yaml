@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Beltebil @nb
+  - Beltebil @nn
+  - Tråkkemaskin @nb
+  - Trakkemaskin @nn
+  - Beltevogn @nb
+  - Beltevogn @nn
+  - Beltetraktor @nb
+  - Beltetraktor @nn
+  preferred:
+  - Tracked vehicle @en
+  - Beltekjøretøy @nb
+  - Beltekøyretøy @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Beltekøyretøy er køyretøy som vert drivne fram med belter. Kommunen vedtek i forskrift
+    løyve og forbod om køyring utanfor fastsette løyper. @nn
+  - Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og
+    andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper. @nb
+relation:
+  broader:
+  - tema/kjoretoy
+  - tema/forerkort-og-sertifikat

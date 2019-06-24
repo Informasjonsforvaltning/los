@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Regelverket om fastsetjing og endring av farsskap finst i barnelova. @nn
+  - Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Regelverket
+    om fastsetjing og endring av farsskap finst i barnelova. @nn
 relation:
   broader:
   - tema/barn-og-foreldre

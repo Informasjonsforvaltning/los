@@ -18,7 +18,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt som mat. @nn
+  - Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt
+    som mat. @nn
 relation:
   broader:
   - tema/fiske-fangst-og-akvakultur

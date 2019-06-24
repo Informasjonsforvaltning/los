@@ -39,6 +39,7 @@ scheme:
 documentation:
   definition:
   - Informasjon om rutetider m.m. for kollektivtrafikk. @nn
+  - Informasjon om rutetider m.m. for kollektivtrafikk. @nb
 relation:
   broader:
-  - tema/kollektivtransport
+  - tema/transporttilbud

@@ -20,7 +20,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei fellesnemning på offentlege og private institusjonar som yter medisinsk hjelp. @nn
+  - Ei fellesnemning på offentlege og private institusjonar som yter medisinsk hjelp.
+    @nn
 relation:
   broader:
   - tema/helsetjenester

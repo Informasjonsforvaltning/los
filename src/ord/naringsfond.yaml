@@ -1,0 +1,19 @@
+!Concept
+label:
+  hidden:
+  - Næringsfondet @nb
+  - Næringsfondet @nn
+  preferred:
+  - Business development fund @en
+  - Næringsfond @nb
+  - Næringsfond @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til
+    næringsutvikling. @nn
+relation:
+  broader:
+  - tema/naringsutvikling

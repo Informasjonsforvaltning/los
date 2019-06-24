@@ -22,9 +22,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Arv- eller gåvemelding skal sendast til skattefutkontoret i det fylket der arvelataren (den ein arvar frå) eller gjevaren bur. @nn
+  - Arv- eller gåvemelding skal sendast til skattefutkontoret i det fylket der arvelataren
+    (den ein arvar frå) eller gjevaren bur. @nn
 relation:
   broader:
-  - tema/doedsfall
+  - tema/dodsfall
   - tema/skatt-og-likning
   - tema/barn-og-foreldre

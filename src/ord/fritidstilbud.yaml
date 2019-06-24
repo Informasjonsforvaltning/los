@@ -18,7 +18,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Fritidstilbod retta mot ungdom. Fritidsklubb. Kommunalt tilbod retta mot ungdom. @nn
+  - Fritidstilbod retta mot ungdom. Fritidsklubb. Kommunalt tilbod retta mot ungdom.
+    @nn
 relation:
   broader:
   - tema/fritid

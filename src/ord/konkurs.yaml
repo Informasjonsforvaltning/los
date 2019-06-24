@@ -14,7 +14,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Rettsleg framgangsmåte der ein betalingsudyktig mister råderetten over buet sitt. Buet blir seld og utbyttet fordelt mellom fordringshavarane. Statleg lønnsgarantiordning sikrar utbetaling av lønn til arbeidstakarar som blir ramma. @nn
+  - Rettsleg framgangsmåte der ein betalingsudyktig mister råderetten over buet sitt.
+    Buet blir seld og utbyttet fordelt mellom fordringshavarane. Statleg lønnsgarantiordning
+    sikrar utbetaling av lønn til arbeidstakarar som blir ramma. @nn
 relation:
   broader:
-  - tema/naeringsutvikling
+  - tema/naringsutvikling

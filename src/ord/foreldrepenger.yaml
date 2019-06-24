@@ -14,10 +14,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Yting som skal sikre inntekt for foreldre i samband med fødsel og adopsjon. Medrekna foreldrepengekalkulator. Eingongsstønad er eige emneord. @nn
+  - Yting som skal sikre inntekt for foreldre i samband med fødsel og adopsjon. Medrekna
+    foreldrepengekalkulator. Eingongsstønad er eige emneord. @nn
 relation:
   broader:
   - tema/barn-og-foreldre
-  - tema/oekonomiske-ytelser
+  - tema/okonomiske-ytelser
   related:
   - ord/foreldrepermisjon

@@ -44,7 +44,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Naturvern er å ta vare på mangfaldet og produksjonsevna i naturen. Til dette høyrer til dømes vernetiltak, oppretting av nasjonalparkar og landskapsvernområde og bevaring av urørt natur. @nn
+  - Naturvern er å ta vare på mangfaldet og produksjonsevna i naturen. Til dette høyrer
+    til dømes vernetiltak, oppretting av nasjonalparkar og landskapsvernområde og
+    bevaring av urørt natur. @nn
 relation:
   broader:
   - tema/naturforvaltning

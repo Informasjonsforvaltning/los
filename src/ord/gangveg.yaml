@@ -20,4 +20,4 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/veg-og-vegtrafikk
+  - tema/veg

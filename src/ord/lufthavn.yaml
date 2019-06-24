@@ -1,0 +1,24 @@
+!Concept
+label:
+  alternative:
+  - Flyplass @nb
+  - Flyplass @nn
+  hidden:
+  - Flybase @nb
+  - Flypbase @nn
+  - Landingsplass @nb
+  - Landingsplass @nn
+  preferred:
+  - Airport @en
+  - Lufthavn @nb
+  - Lufthamn @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - ' Ein stad der fly lettar og landar @nn'
+  - ' Et sted hvor fly letter og lander @nb'
+relation:
+  broader:
+  - tema/luftfart

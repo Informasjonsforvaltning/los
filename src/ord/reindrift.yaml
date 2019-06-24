@@ -22,7 +22,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Reindrift er ei viktig næring både i samisk og lokal samanheng. Husdyrhald er eige emneord. @nn
+  - Reindrift er ei viktig næring både i samisk og lokal samanheng. Husdyrhald er
+    eige emneord. @nn
 relation:
   broader:
   - tema/landbruk

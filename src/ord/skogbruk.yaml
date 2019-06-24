@@ -32,7 +32,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert. Jordbruk er eige emneord. @nn
+  - Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det
+    virke som blir produsert. Jordbruk er eige emneord. @nn
 relation:
   broader:
   - tema/landbruk

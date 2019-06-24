@@ -14,7 +14,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Automatisert informasjon på Internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett. @nn
+  - Automatisert informasjon på Internett der ein kan rekne ut framtidig alderspensjon
+    frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også
+    pensjonsberekningar på Internett. @nn
 relation:
   broader:
   - tema/pensjon

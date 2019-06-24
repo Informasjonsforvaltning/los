@@ -12,10 +12,13 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Utlendingar som ønskjer å ta arbeid i Noreg må ha arbeidsløyve. Grunnvilkåret for eit slikt løyve er at søkaren har fått bindande tilbod om arbeid frå arbeidsgjevar. Dei vanlegaste løyva er løyve som sesongarbeidar eller som fagutdanna/spesialist. @nn
+  - Utlendingar som ønskjer å ta arbeid i Noreg må ha arbeidsløyve. Grunnvilkåret
+    for eit slikt løyve er at søkaren har fått bindande tilbod om arbeid frå arbeidsgjevar.
+    Dei vanlegaste løyva er løyve som sesongarbeidar eller som fagutdanna/spesialist.
+    @nn
 relation:
   broader:
   - tema/innvandring-og-innreise
-  - tema/arbeidssoeking-og-rekruttering
+  - tema/arbeidssoking-og-rekruttering
   related:
   - ord/oppholdstillatelse

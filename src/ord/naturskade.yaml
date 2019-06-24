@@ -40,7 +40,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Skade som har si årsak i ei naturulukke, som til dømes flaum, storm, ras eller skred. @nn
+  - Skade som har si årsak i ei naturulukke, som til dømes flaum, storm, ras eller
+    skred. @nn
 relation:
   broader:
   - tema/eiendom

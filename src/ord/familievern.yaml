@@ -24,8 +24,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Offentlege og kyrkjelege rettleiingstenester som gjev hjelp og råd i alle slags konfliktar og kriser i familieforhold. Kontora skal godkjennast av Barne- og likestillingsdepartementet. @nn
+  - Offentlege og kyrkjelege rettleiingstenester som gjev hjelp og råd i alle slags
+    konfliktar og kriser i familieforhold. Kontora skal godkjennast av Barne- og likestillingsdepartementet.
+    @nn
 relation:
   broader:
-  - tema/barnevern-og-foreldrestoette
+  - tema/barnevern-og-foreldrestotte
   - tema/samliv

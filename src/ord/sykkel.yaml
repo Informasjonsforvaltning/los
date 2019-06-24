@@ -15,12 +15,10 @@ label:
   - Sykkelfelt @nn
   - Sykkelsti @nb
   - Sykkelsti @nn
-  - Sykkelvrak @nb
-  - Sykkelvrak @nn
   - Sykkelparkering @nb
   - Sykkelparkering @nn
   preferred:
-  - Cycling @en
+  - Bicycle @en
   - Sykkel @nb
   - Sykkel @nn
 scheme:
@@ -28,5 +26,5 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/veg-og-vegtrafikk
+  - tema/veg
   - tema/friluftsliv

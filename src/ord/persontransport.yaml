@@ -36,8 +36,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten. @nn
+  - Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune.
+    Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle
+    og fastsetje rammevilkåra for kollektivtransporten. @nn
 relation:
   broader:
-  - tema/reiselivsnaering
+  - tema/reiselivsnaring
   - tema/yrkestransport

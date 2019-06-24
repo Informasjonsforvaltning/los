@@ -16,7 +16,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle parti som vil ha einerett til partinamn eller ønskjer å stille liste etter "forenkla reglar" må la seg registrere i Partiregisteret ved Brønnøysundregistra. @nn
+  - Alle parti som vil ha einerett til partinamn eller ønskjer å stille liste etter
+    "forenkla reglar" må la seg registrere i Partiregisteret ved Brønnøysundregistra.
+    @nn
 relation:
   broader:
   - tema/politikk-og-valg

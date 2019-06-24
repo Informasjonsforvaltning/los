@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alternativ til fengselsstraff når det elles ikkje ville ha vorte dømt strengare straff enn fengsel i eitt år. @nn
+  - Alternativ til fengselsstraff når det elles ikkje ville ha vorte dømt strengare
+    straff enn fengsel i eitt år. @nn
 relation:
   broader:
   - tema/lovbrudd-og-straff

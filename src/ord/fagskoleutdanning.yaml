@@ -12,9 +12,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår. Fagopplæring er eige emneord. @nn
+  - Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande
+    realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og
+    maksimuim to studieår. Fagopplæring er eige emneord. @nn
 relation:
   broader:
-  - tema/hoeyere-utdanning
+  - tema/hoyere-utdanning
   related:
-  - ord/fagopplaering
+  - ord/fagopplaring

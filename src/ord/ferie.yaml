@@ -12,7 +12,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før. Feriepengar er eige emneord. @nn
+  - Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår.
+    Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del
+    av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien
+    er avhengig av om ein hadde inntekstgivande arbeid året før. Feriepengar er eige
+    emneord. @nn
 relation:
   broader:
   - tema/arbeidsliv

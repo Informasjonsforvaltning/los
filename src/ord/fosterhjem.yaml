@@ -20,7 +20,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m. @nn
+  - Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare
+    eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m. @nn
 relation:
   broader:
-  - tema/barnevern-og-foreldrestoette
+  - tema/barnevern-og-foreldrestotte

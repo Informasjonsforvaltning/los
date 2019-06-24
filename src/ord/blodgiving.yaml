@@ -16,7 +16,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Blod kan ikkje framstillast kunstig. Hovudregelen er at alle friske menneske mellom 18 og 65 år kan melde seg som blodgjevar og gje blod inntil fire gonger pr. år. @nn
+  - Blod kan ikkje framstillast kunstig. Hovudregelen er at alle friske menneske mellom
+    18 og 65 år kan melde seg som blodgjevar og gje blod inntil fire gonger pr. år.
+    @nn
 relation:
   broader:
   - tema/folkehelse

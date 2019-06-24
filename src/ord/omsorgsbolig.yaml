@@ -12,7 +12,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein fysisk tilrettelagt bustad, tilpassa orienterings- og rørslehemma bebuarar, som etter behov skal kunne motta heildøgns omsorg og pleie. Omsorgbustader er ikkje fast bemanna, men bebuaren vil få tildelt heimetenester etter behov slik som andre heimebuande. Omsorgsbustaden er bebuaren sin eigen heim. Sjukeheim og trygde- og servicebustader er eigne emneord. @nn
+  - Ein fysisk tilrettelagt bustad, tilpassa orienterings- og rørslehemma bebuarar,
+    som etter behov skal kunne motta heildøgns omsorg og pleie. Omsorgbustader er
+    ikkje fast bemanna, men bebuaren vil få tildelt heimetenester etter behov slik
+    som andre heimebuande. Omsorgsbustaden er bebuaren sin eigen heim. Sjukeheim og
+    trygde- og servicebustader er eigne emneord. @nn
 relation:
   broader:
   - tema/botilbud

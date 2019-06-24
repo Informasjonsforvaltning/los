@@ -21,7 +21,6 @@ label:
   - Urnegrav @nn
   - Kistegrav @nb
   - Kistegrav @nn
-
   preferred:
   - Cemetary @en
   - Gravplass @nb
@@ -31,10 +30,14 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle som har bustad i kommunen, har rett til fri gravplass i kommunen. Kyrkjeleg fellesråd kan gi løyve til at også personar utan bustad i kommunen kan få gravplass. @nn
-  - Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass. @nb
+  - Alle som har bustad i kommunen, har rett til fri gravplass i kommunen. Kyrkjeleg
+    fellesråd kan gi løyve til at også personar utan bustad i kommunen kan få gravplass.
+    @nn
+  - Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig
+    fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få
+    gravplass. @nb
 relation:
   broader:
   - tema/religion-og-livssyn
-  - tema/begravelser-og-doedsfall
-  - tema/doedsfall
+  - tema/begravelser-og-dodsfall
+  - tema/dodsfall

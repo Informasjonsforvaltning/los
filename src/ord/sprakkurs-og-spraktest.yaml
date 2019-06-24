@@ -1,0 +1,25 @@
+!Concept
+label:
+  hidden:
+  - TOEFL-testen @nb
+  - TOEFL-testen @nn
+  - Bergenstesten @nb
+  - Bergenstesten @nn
+  preferred:
+  - Language courses and tests @en
+  - Språkkurs og språktest @nb
+  - Språkkurs og språktest @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Opplæring til utlendingar som har opphalds- eller arbeidsløyve som dannar grunnlag
+    for busetjingsløyve. Opplæringa består av norsk og samfunnskunnskap, til saman
+    300 timar. Opplæringa i samfunnskunnskap skal vere på eit språk som deltakaren
+    forstår. @nn
+relation:
+  broader:
+  - tema/sprak
+  related:
+  - ord/norskopplaring

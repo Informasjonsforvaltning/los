@@ -1,0 +1,32 @@
+!Concept
+label:
+  hidden:
+  - Tilskudd til flytting @nb
+  - Tilskot til flytting @nn
+  - Tilsynstillegg @nb
+  - Tilsynstillegg @nn
+  - Flyttetilskudd @nb
+  - Flyttetilskot @nn
+  - Borteboertillegg @nb
+  - Bortebuartillegg @nn
+  - Reisetilskudd @nb
+  - Reisetilskot @nn
+  - Individstønad @nb
+  - Individstønad @nn
+  preferred:
+  - Job creation grant @en
+  - Stønad ved arbeidsmarkedstiltak @nb
+  - Stønad ved arbeidsmarknadstiltak @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg
+    skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i
+    tiltaket. @nn
+relation:
+  broader:
+  - tema/okonomiske-ytelser
+  related:
+  - ord/arbeidsmarkedstiltak

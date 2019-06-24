@@ -7,8 +7,6 @@ label:
   - Privat barnehage @nn
   - Barnehageetablering @nb
   - Barnehageetablering @nn
-  - Kommunal barnehage @nb
-  - Kommunal barnehage @nn 
   preferred:
   - Setting up a kindergarten @en
   - Etablere barnehage @nb
@@ -18,9 +16,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar. @nn
-  - Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager. @nb
+  - Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner
+    barnehagar. @nn
+  - Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner
+    barnehager. @nb
 relation:
   broader:
   - tema/barnehage
-  - tema/naeringsutvikling
+  - tema/naringsutvikling

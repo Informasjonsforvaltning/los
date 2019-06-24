@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Boat @en
+  - Båt @nb
+  - Båt @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/trafikk-og-transport

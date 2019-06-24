@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Boligtilskudd @nb
+  - Bustadtilskot @nn
+  preferred:
+  - Housing allowance @en
+  - Bostøtte @nb
+  - Bustønad @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Stønad frå Husbanken for husstandar med låge inntekter høge buutgifter. @nn
+relation:
+  broader:
+  - tema/okonomiske-ytelser
+  related:
+  - ord/boligfinansiering

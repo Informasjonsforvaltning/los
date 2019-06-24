@@ -8,11 +8,11 @@ scheme:
   - ontologi/hendelse
 relation:
   related:
-  - ord/arbeidssoeking
+  - ord/arbeidssoking
   - ord/dagpenger
   - ord/etterutdanning-og-videreutdanning
   - ord/fagskoleutdanning
-  - ord/grunnskoleopplaering-for-voksne
-  - ord/hoegskole-og-universitet
+  - ord/grunnskoleopplaring-for-voksne
+  - ord/hogskole-og-universitet
   - ord/inkluderende-arbeidsliv
   - ord/permittering

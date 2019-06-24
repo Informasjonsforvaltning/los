@@ -1,0 +1,27 @@
+!Concept
+label:
+  hidden:
+  - Særskilt språkopplæring @nb
+  - Særskilt språkopplæring @nn
+  - Morsmålsopplæring @nb
+  - Morsmålsopplæring @nn
+  - Tospråklig fagopplæring @nb
+  - Tospråkleg fagopplæring @nn
+  preferred:
+  - Norwegian classes for special needs groups @en
+  - Særskilt norskopplæring @nb
+  - Særskilt norskopplæring @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode
+    nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig
+    kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge
+    delar. @nn
+relation:
+  broader:
+  - tema/grunnskoleopplaring
+  related:
+  - ord/norsk-sprak

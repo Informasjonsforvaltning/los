@@ -22,7 +22,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar. Fosterheim er er eige emneord. @nn
+  - Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar. Fosterheim
+    er er eige emneord. @nn
 relation:
   broader:
-  - tema/barnevern-og-foreldrestoette
+  - tema/barnevern-og-foreldrestotte

@@ -1,0 +1,18 @@
+!Concept
+label:
+  preferred:
+  - Severance grant @en
+  - Ventestønad @nb
+  - Ventestønad @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein
+    har avslutta ein lang dagpengeperiode. @nn
+relation:
+  broader:
+  - tema/okonomiske-ytelser
+  related:
+  - ord/arbeidssoking

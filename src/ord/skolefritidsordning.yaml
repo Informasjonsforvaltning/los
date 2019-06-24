@@ -12,10 +12,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse. @nn
+  - Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle
+    behov kan få dette tilbodet frå 1. til 7. klasse. @nn
 relation:
   broader:
   - tema/barn-og-foreldre
-  - tema/grunnskoleopplaering
+  - tema/grunnskoleopplaring
   related:
   - ord/musikk-og-kulturskole

@@ -12,7 +12,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Frivilligsentralar ("frivillighetssentraler") finst over heile landet og er ein møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører, og dermed fremje og styrkje det frivillige arbeidet. @nn
+  - Frivilligsentralar ("frivillighetssentraler") finst over heile landet og er ein
+    møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne
+    den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører,
+    og dermed fremje og styrkje det frivillige arbeidet. @nn
 relation:
   broader:
   - tema/fritid

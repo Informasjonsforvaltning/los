@@ -1,0 +1,29 @@
+!Concept
+label:
+  hidden:
+  - Skatteattest @nb
+  - Skatteattest @nn
+  - Resterende skatt @nb
+  - Resterande skatt @nn
+  - Selskapsoppgave @nb
+  - Selskapsoppgåve @nn
+  - Forskuddsskatt @nb
+  - Forskotsskatt @nn
+  - Næringsoppgave @nb
+  - Næringsoppgåve @nn
+  - Forhåndsskatt @nb
+  - Førehandsskatt @nn
+  preferred:
+  - Business tax @en
+  - Næringsskatt @nb
+  - Næringsskatt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Alle næringsdrivande pliktar å betale skatt av næringsinntekt. Selskapsforma avgjer
+    kven skatteplikta gjeld. @nn
+relation:
+  broader:
+  - tema/skatt-og-likning

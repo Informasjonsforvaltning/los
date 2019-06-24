@@ -22,10 +22,12 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er eige emneord. @nn
+  - Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått
+    inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er
+    eige emneord. @nn
 relation:
   broader:
-  - tema/oekonomiske-ytelser
+  - tema/okonomiske-ytelser
   related:
-  - ord/yrkesrettet-attfoering
-  - ord/ufoerepensjon
+  - ord/yrkesrettet-attforing
+  - ord/uforepensjon

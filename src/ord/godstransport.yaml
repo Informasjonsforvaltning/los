@@ -26,7 +26,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunane har det administrative ansvaret for løyveordningane. Privatpersonar eller t.d. eit idrettslag kan i einskildshøve gjennomføre transportoppdrag utan løyve. @nn
+  - Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunane
+    har det administrative ansvaret for løyveordningane. Privatpersonar eller t.d.
+    eit idrettslag kan i einskildshøve gjennomføre transportoppdrag utan løyve. @nn
 relation:
   broader:
   - tema/yrkestransport

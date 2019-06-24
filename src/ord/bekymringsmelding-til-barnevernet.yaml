@@ -9,9 +9,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig. @nb
-  - Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg. @nn
-
+  - Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten
+    om at et barn kan ha det vanskelig. @nb
+  - Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta
+    om at eit barn kan ha det vanskeleg. @nn
 relation:
   broader:
-  - tema/barnevern-og-foreldrestoette
+  - tema/barnevern-og-foreldrestotte

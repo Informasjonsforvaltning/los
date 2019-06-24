@@ -18,7 +18,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane må sjåast som supplerande ordningar til folketrygda. @nn
+  - Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette
+    i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane
+    må sjåast som supplerande ordningar til folketrygda. @nn
 relation:
   broader:
   - tema/pensjon

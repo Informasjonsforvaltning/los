@@ -9,7 +9,7 @@ scheme:
 relation:
   related:
   - ord/arbeidsgiveravgift
-  - ord/arbeidsmiljoe
+  - ord/arbeidsmiljo
   - ord/bedriftsetablering
   - ord/etablere-barnehage
   - ord/merverdiavgift

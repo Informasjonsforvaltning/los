@@ -22,7 +22,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Den norske kyrkja er eit evangelsk luthersk kyrkjesamfunn. Til dette emneordet høyrer dåp og kyrkjeleg konfirmasjon. For tilsvarande seremoniar i andre trus- og livssynssamfunn sjå emneordet trus- og livssynssamfunn. Ekteskap og gravferd er eigne emneord. @nn
+  - Den norske kyrkja er eit evangelsk luthersk kyrkjesamfunn. Til dette emneordet
+    høyrer dåp og kyrkjeleg konfirmasjon. For tilsvarande seremoniar i andre trus-
+    og livssynssamfunn sjå emneordet trus- og livssynssamfunn. Ekteskap og gravferd
+    er eigne emneord. @nn
 relation:
   broader:
   - tema/religion-og-livssyn

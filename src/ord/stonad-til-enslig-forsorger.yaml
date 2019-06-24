@@ -1,0 +1,31 @@
+!Concept
+label:
+  hidden:
+  - Tilskudd til flytting @nb
+  - Tilskot til flytting @nn
+  - Flyttetilskudd @nb
+  - Flyttetilskot @nn
+  - Utdanningsstønad @nb
+  - Utdanningsstønad @nn
+  - Stønad til barnetilsyn @nb
+  - Støtte til barnetilsyn @nn
+  - Utdanningsstøtte @nb
+  - Utdanningsstøtte @nn
+  - Overgangsstønad @nb
+  - Overgangsstønad @nn
+  preferred:
+  - Single-parent benefit @en
+  - Stønad til enslig forsørger @nb
+  - Stønad til einsleg forsørgjar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk yting som skal sikre inntekt for dei som har åleineomsorg for barn.
+    Skal stimulere til sjølvforsørging. Medrekna overgangsstønad og stønad til barnetilsyn,
+    utdanningsstønad og stønad til flytting. @nn
+relation:
+  broader:
+  - tema/okonomiske-ytelser
+  - tema/barn-og-foreldre

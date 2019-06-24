@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing. @nn
+  - Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen
+    gjev informasjon og rettleiing. @nn
 relation:
   broader:
-  - tema/svangerskap-og-foedsel
+  - tema/svangerskap-og-fodsel

@@ -24,7 +24,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit overgrep vil sei at eit menneske krenkar rettane til eit anna menneske. Overgrep kan ramme begge kjønn i alle aldrar. @nn
+  - Eit overgrep vil sei at eit menneske krenkar rettane til eit anna menneske. Overgrep
+    kan ramme begge kjønn i alle aldrar. @nn
 relation:
   broader:
-  - tema/barnevern-og-foreldrestoette
+  - tema/barnevern-og-foreldrestotte

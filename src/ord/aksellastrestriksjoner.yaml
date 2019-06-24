@@ -12,7 +12,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense. @nn
+  - Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere
+    under ei viss grense. @nn
+  - Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere
+    under en viss grense. @nb
 relation:
   broader:
-  - tema/veg-og-vegtrafikk
+  - tema/veg

@@ -26,7 +26,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak, og til bedriftsretta tiltak @nn
+  - Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer
+    søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak,
+    og til bedriftsretta tiltak @nn
 relation:
   broader:
-  - tema/reiselivsnaering
+  - tema/reiselivsnaring

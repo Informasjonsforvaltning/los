@@ -7,8 +7,6 @@ label:
 scheme:
   in:
   - ontologi/tema
-  topOf:
-  - struktur
 mapping:
   exactMatch:
   - http://publications.europa.eu/resource/authority/data-theme/HEAL

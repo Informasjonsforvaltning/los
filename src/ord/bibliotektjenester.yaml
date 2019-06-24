@@ -33,7 +33,7 @@ scheme:
 relation:
   broader:
   - tema/bibliotek
-  - tema/hoeyere-utdanning
+  - tema/hoyere-utdanning
   - tema/kultur
-  - tema/videregaaende-opplaering
-  - tema/grunnskoleopplaering
+  - tema/videregaende-opplaring
+  - tema/grunnskoleopplaring

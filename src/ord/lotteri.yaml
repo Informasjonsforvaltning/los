@@ -12,7 +12,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Lotteri er eit tiltak der deltakarane mot innskot kan få gevinst av ulikt slag. Lotteri krev som hovudregel løyve frå politiet, og slikt løyve kan berre bli gjeve til lotteri kor inntektene går til eit samfunnsnyttig eller veldedig føremål. @nn
+  - Lotteri er eit tiltak der deltakarane mot innskot kan få gevinst av ulikt slag.
+    Lotteri krev som hovudregel løyve frå politiet, og slikt løyve kan berre bli gjeve
+    til lotteri kor inntektene går til eit samfunnsnyttig eller veldedig føremål.
+    @nn
 relation:
   broader:
   - tema/lotteri-og-pengespill

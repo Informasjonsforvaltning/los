@@ -1,0 +1,15 @@
+!Concept
+label:
+  hidden:
+  - Dødsårsak @nb
+  - Dødsårsak @nn
+  preferred:
+  - Death certificate @en
+  - Dødsattest @nb
+  - Dødsattest @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/dodsfall

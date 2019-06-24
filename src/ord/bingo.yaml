@@ -14,7 +14,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Medrekna søknad om løyve til å spele bingo. Lotteri, speleavhengigheit og speleautomat er eigne emneord. @nn
+  - Medrekna søknad om løyve til å spele bingo. Lotteri, speleavhengigheit og speleautomat
+    er eigne emneord. @nn
 relation:
   broader:
   - tema/lotteri-og-pengespill

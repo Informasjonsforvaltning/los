@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kommunalt tilbod om hjelp til enkle praktiske gjeremål, enkle reperasjonar og vedlikehaldsarbeid. @nn
+  - Kommunalt tilbod om hjelp til enkle praktiske gjeremål, enkle reperasjonar og
+    vedlikehaldsarbeid. @nn
 relation:
   broader:
   - tema/omsorgstjenester

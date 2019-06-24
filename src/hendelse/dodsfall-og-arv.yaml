@@ -9,8 +9,8 @@ scheme:
 relation:
   related:
   - ord/arv-og-gaver
-  - ord/doedsattest
-  - ord/doedsmelding
+  - ord/dodsattest
+  - ord/dodsmelding
   - ord/organdonasjon
   - ord/gravferd
   - ord/gravplass

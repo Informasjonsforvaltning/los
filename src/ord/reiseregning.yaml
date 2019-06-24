@@ -24,7 +24,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Reiserekning skal skrivast på fastsett skjema og sendast til arbeidsgjevar/oppdragsgjevar så snart som mogleg og innan ein månad etter at reisa er avslutta dersom ingen annan tidsfrist er bestemt. @nn
+  - Reiserekning skal skrivast på fastsett skjema og sendast til arbeidsgjevar/oppdragsgjevar
+    så snart som mogleg og innan ein månad etter at reisa er avslutta dersom ingen
+    annan tidsfrist er bestemt. @nn
 relation:
   broader:
   - tema/inntekt

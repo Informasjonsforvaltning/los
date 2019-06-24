@@ -14,7 +14,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Seksjonering vert nytta der ein eigedom består av fleire sjølvstendige einingar som skal seljast og pantsetjast kvar for seg, og der det ikkje er naturlig å dele eigedommen på vanlig måte ved ei delingsforretning. @nn
+  - Seksjonering vert nytta der ein eigedom består av fleire sjølvstendige einingar
+    som skal seljast og pantsetjast kvar for seg, og der det ikkje er naturlig å dele
+    eigedommen på vanlig måte ved ei delingsforretning. @nn
 relation:
   broader:
   - tema/eiendom

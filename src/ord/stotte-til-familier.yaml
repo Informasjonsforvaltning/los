@@ -1,0 +1,33 @@
+!Concept
+label:
+  hidden:
+  - Husmorvikar @nb
+  - Husmorvikar @nn
+  - Familierådgiving @nb
+  - Familierådgjeving @nn
+  - Samlivskurs @nb
+  - Samlivskurs @nn
+  - Parkurs @nb
+  - Parkurs @nn
+  - Familierådgivning @nb
+  - Familierådgjeving @nn
+  - Familievernkontor @nb
+  - Familievernkontor @nn
+  - Familiekontor @nb
+  - Familiekontor @nn
+  preferred:
+  - Family support @en
+  - Støtte til familier @nb
+  - Støtte til familiar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare
+    og som treng hjelp. @nb
+  - Rådgivning eller forskjellige former for avlastning til familier som er sårbare
+    og som trenger hjelp @nn
+relation:
+  broader:
+  - tema/barnevern-og-foreldrestotte

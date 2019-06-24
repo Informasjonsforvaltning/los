@@ -28,7 +28,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Med kringkasting meiner ein utsending av tale, musikk, bilde og liknande med radiobølgjer eller over tråd. Kringkastingsavgift er eige emneord. @nn
+  - Med kringkasting meiner ein utsending av tale, musikk, bilde og liknande med radiobølgjer
+    eller over tråd. Kringkastingsavgift er eige emneord. @nn
 relation:
   broader:
   - tema/media-og-kommunikasjon

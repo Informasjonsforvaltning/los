@@ -18,7 +18,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff, kan det vere aktuelt med soning utanfor fengsel med særlege vilkår. @nn
+  - Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff,
+    kan det vere aktuelt med soning utanfor fengsel med særlege vilkår. @nn
 relation:
   broader:
   - tema/lovbrudd-og-straff

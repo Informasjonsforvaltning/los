@@ -9,7 +9,13 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) )) @nn
+  - Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til
+    statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som
+    den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter
+    alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som
+    blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar,
+    gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt
+    ved brønnboring og grunnvannsundersøkelser!!) )) @nn
 relation:
   broader:
-  - tema/naeringsutvikling
+  - tema/naringsutvikling

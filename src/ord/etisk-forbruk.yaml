@@ -18,7 +18,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Vektlegging av etiske sider knytt til produkt og tenester. Det kan handle om sider ved produksjonsprosessen, t.d. arbeidsvilkår, politiske forhold i produksjonslandet, utarming av livsmiljø og ressursgrunnlag hos lokalbefolkninga, og dyrevelferd. @nn
+  - Vektlegging av etiske sider knytt til produkt og tenester. Det kan handle om sider
+    ved produksjonsprosessen, t.d. arbeidsvilkår, politiske forhold i produksjonslandet,
+    utarming av livsmiljø og ressursgrunnlag hos lokalbefolkninga, og dyrevelferd.
+    @nn
 relation:
   broader:
   - tema/varer-og-tjenester

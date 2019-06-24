@@ -16,7 +16,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Bidrag til den som har hovudomsorga for barnet når foreldra ikkje bur saman. Bidraget tek utgangspunkt i kva det kostar å ha eit barn, inntektene til begge foreldra og mengda av samver med barnet. @nn
+  - Bidrag til den som har hovudomsorga for barnet når foreldra ikkje bur saman. Bidraget
+    tek utgangspunkt i kva det kostar å ha eit barn, inntektene til begge foreldra
+    og mengda av samver med barnet. @nn
 relation:
   broader:
   - tema/barn-og-foreldre

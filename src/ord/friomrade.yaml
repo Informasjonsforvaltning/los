@@ -1,0 +1,50 @@
+!Concept
+label:
+  hidden:
+  - Tursti @nb
+  - Tursti @nn
+  - Turkart @nb
+  - Turkart @nn
+  - Turløype @nb
+  - Turløype @nn
+  - Teltplass @nb
+  - Teltplass @nn
+  - Markaområde @nb
+  - Markaområde @nn
+  - Gapahuk @nb
+  - Gapahuk @nn
+  - Natursti @nb
+  - Natursti @nn
+  - Parkanlegg @nb
+  - Parkanlegg @nn
+  - Turveikart @nb
+  - Turvegkart @nn
+  - Turvegkart @nb
+  - Turvegkart @nn
+  - Friluftsområde @nb
+  - Friluftsområde @nn
+  - Marka @nb
+  - Marka @nn
+  - Telting @nb
+  - Telting @nn
+  - Turveg @nb
+  - Turveg @nn
+  - Turvei @nb
+  - Turvegkart @nn
+  - Park @nb
+  - Park @nn
+  - Turområde @nb
+  - Turområde @nn
+  preferred:
+  - Public outdoor areas @en
+  - Friområde @nb
+  - Friområde @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/friluftsliv
+  - tema/naturforvaltning
+  related:
+  - ord/balbrenning

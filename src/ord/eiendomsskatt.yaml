@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kommunal skatt eller avgift på ulike former for eigedom. Kommunen avgjer om det skal vere eigedomsskatt. @nn
+  - Kommunal skatt eller avgift på ulike former for eigedom. Kommunen avgjer om det
+    skal vere eigedomsskatt. @nn
 relation:
   broader:
   - tema/eiendom

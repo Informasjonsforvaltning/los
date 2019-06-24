@@ -8,7 +8,7 @@ scheme:
   - ontologi/hendelse
 relation:
   related:
-  - ord/norskopplaering
+  - ord/norskopplaring
   - ord/introduksjonsprogram-for-innvandrere
   - ord/lag-og-foreninger
   - ord/tolketjeneste

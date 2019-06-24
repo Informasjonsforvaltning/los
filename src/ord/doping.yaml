@@ -9,7 +9,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar. @nn
+  - Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar.
+    @nn
 relation:
   broader:
   - tema/idrett

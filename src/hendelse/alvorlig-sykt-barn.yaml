@@ -8,10 +8,10 @@ scheme:
   - ontologi/hendelse
 relation:
   related:
-  - ord/omsorgsloenn
+  - ord/omsorgslonn
   - ord/skoleskyss
   - ord/frikort-for-helsetjenester
-  - ord/stoette-til-familier
+  - ord/stotte-til-familier
   - ord/personlig-assistent
   - ord/ledsager
   - ord/habilitering-og-rehabilitering

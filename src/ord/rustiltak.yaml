@@ -34,7 +34,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar. @nn
+  - Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte
+    råd, rettleiing og hjelp til familiar. @nn
 relation:
   broader:
   - tema/omsorgstjenester
