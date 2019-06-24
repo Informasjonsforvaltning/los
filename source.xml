@@ -7083,7 +7083,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Broader>tema/tekniske-tjenester</Broader>
-      <Broader>tema/veg-og-vegtrafikk</Broader>
+      <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
       <PrefLabel lang="en">Care leave</PrefLabel>
