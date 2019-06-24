@@ -7,3 +7,5 @@ label:
 scheme:
   in:
   - ontologi/tema
+  topOf:
+  - struktur
