@@ -1225,6 +1225,25 @@
       <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
+    <Concept path="ord/lanekort">
+        <PrefLabel lang="en">Library card</PrefLabel>
+        <PrefLabel lang="nb">Lånekort</PrefLabel>
+        <PrefLabel lang="nn">Lånekort</PrefLabel>
+        <Definition lang="nn">Lånekortet blir brukt for å identifisere den som låner og til å registrere utlån på biblioteket.</Definition>
+        <Definition lang="nb">Lånekortet brukes for å identifisere den som låner og til å registrere utlån på biblioteket.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/bibliotek</Broader>
+    </Concept>
+    <Concept path="ord/utlan-og-reservasjon">
+        <PrefLabel lang="en">Loans and reservations</PrefLabel>
+        <PrefLabel lang="nb">Utlån og reservasjon</PrefLabel>
+        <PrefLabel lang="nn">Utlån og reservasjon</PrefLabel>
+        <Definition lang="nn">Biblioteka låner ut bøker og medium gratis.</Definition>
+        <Definition lang="nb">Bibliotekene låner ut bøker og medier gratis.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/bibliotek</Broader>
+    </Concept>
+
    <Concept path="ord/bingo">
       <PrefLabel lang="en">Bingo</PrefLabel>
       <PrefLabel lang="nb">Bingo</PrefLabel>
