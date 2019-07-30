@@ -1016,6 +1016,7 @@
       <HiddenLabel lang="nb">Bålplass</HiddenLabel>
       <HiddenLabel lang="nn">Bålplass</HiddenLabel>
       <Definition lang="nn">Utandørs brenning eller brenning av avfall i småomnar. Kommunen fastset lokale reglar.</Definition>
+      <Definition lang="nb">Utendørs brenning eller brenning av avfall i småovner. Kommunen fastsetter lokale regler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/friomrade</Related>
       <Broader>tema/friluftsliv</Broader>
@@ -2552,26 +2553,14 @@
       <PrefLabel lang="en">Public outdoor areas</PrefLabel>
       <PrefLabel lang="nb">Friområde</PrefLabel>
       <PrefLabel lang="nn">Friområde</PrefLabel>
-      <HiddenLabel lang="nb">Tursti</HiddenLabel>
-      <HiddenLabel lang="nn">Tursti</HiddenLabel>
-      <HiddenLabel lang="nb">Turkart</HiddenLabel>
-      <HiddenLabel lang="nn">Turkart</HiddenLabel>
-      <HiddenLabel lang="nb">Turløype</HiddenLabel>
-      <HiddenLabel lang="nn">Turløype</HiddenLabel>
       <HiddenLabel lang="nb">Teltplass</HiddenLabel>
       <HiddenLabel lang="nn">Teltplass</HiddenLabel>
       <HiddenLabel lang="nb">Markaområde</HiddenLabel>
       <HiddenLabel lang="nn">Markaområde</HiddenLabel>
       <HiddenLabel lang="nb">Gapahuk</HiddenLabel>
       <HiddenLabel lang="nn">Gapahuk</HiddenLabel>
-      <HiddenLabel lang="nb">Natursti</HiddenLabel>
-      <HiddenLabel lang="nn">Natursti</HiddenLabel>
       <HiddenLabel lang="nb">Parkanlegg</HiddenLabel>
       <HiddenLabel lang="nn">Parkanlegg</HiddenLabel>
-      <HiddenLabel lang="nb">Turveikart</HiddenLabel>
-      <HiddenLabel lang="nn">Turvegkart</HiddenLabel>
-      <HiddenLabel lang="nb">Turvegkart</HiddenLabel>
-      <HiddenLabel lang="nn">Turvegkart</HiddenLabel>
       <HiddenLabel lang="nb">Friluftsområde</HiddenLabel>
       <HiddenLabel lang="nn">Friluftsområde</HiddenLabel>
       <HiddenLabel lang="nb">Marka</HiddenLabel>
@@ -2579,19 +2568,48 @@
       <HiddenLabel lang="nb">Telting</HiddenLabel>
       <HiddenLabel lang="nn">Telting</HiddenLabel>
       <HiddenLabel lang="nb">Turveg</HiddenLabel>
-      <HiddenLabel lang="nn">Turveg</HiddenLabel>
-      <HiddenLabel lang="nb">Turvei</HiddenLabel>
-      <HiddenLabel lang="nn">Turvegkart</HiddenLabel>
       <HiddenLabel lang="nb">Park</HiddenLabel>
       <HiddenLabel lang="nn">Park</HiddenLabel>
       <HiddenLabel lang="nb">Turområde</HiddenLabel>
       <HiddenLabel lang="nn">Turområde</HiddenLabel>
+       <Definition lang="nn">Eit geografisk avgrensa areal som er regulert av kommunen til friluftsliv. Regulering til friområde blir gjerne brukt for å sikre publikumet tilgang til attraktive areal nær tettbygd område. Det gjeld spesielt område som eignar seg for badeliv, sportsfiske, leik og turgåing og på ski.</Definition>
+       <Definition lang="nb">Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv, sportsfiske, lek og turgåing til fots og på ski.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/balbrenning</Related>
       <Broader>tema/friluftsliv</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
+    <Concept path="ord/turloyper">
+        <PrefLabel lang="en">Trails</PrefLabel>
+        <PrefLabel lang="nb">Turløyper</PrefLabel>
+        <PrefLabel lang="nn">Turløyper</PrefLabel>
+        <HiddenLabel lang="nb">Tursti</HiddenLabel>
+        <HiddenLabel lang="nn">Tursti</HiddenLabel>
+        <HiddenLabel lang="nb">Turkart</HiddenLabel>
+        <HiddenLabel lang="nn">Turkart</HiddenLabel>
+        <HiddenLabel lang="nb">Turløype</HiddenLabel>
+        <HiddenLabel lang="nn">Turløype</HiddenLabel>
+        <HiddenLabel lang="nb">Natursti</HiddenLabel>
+        <HiddenLabel lang="nn">Natursti</HiddenLabel>
+        <HiddenLabel lang="nb">Turveikart</HiddenLabel>
+        <HiddenLabel lang="nn">Turvegkart</HiddenLabel>
+        <HiddenLabel lang="nb">Turveg</HiddenLabel>
+        <HiddenLabel lang="nn">Turveg</HiddenLabel>
+        <HiddenLabel lang="nb">Turvei</HiddenLabel>
+        <HiddenLabel lang="nb">Turområde</HiddenLabel>
+        <HiddenLabel lang="nn">Turområde</HiddenLabel>
+        <HiddenLabel lang="nb">Sykkelstier</HiddenLabel>
+        <HiddenLabel lang="nn">Sykkelstiar</HiddenLabel>
+        <HiddenLabel lang="nb">Sykkelløyper</HiddenLabel>
+        <HiddenLabel lang="nn">Sykkelløyper</HiddenLabel>
+        <Definition lang="nn">Ein opparbeidde trasé for ferdsel til fots eller med sykkel, open for alle og halden ved like av kommunen eller ein privat organisasjon.</Definition>
+        <Definition lang="nb">En opparbeidet trasé for ferdsel til fots eller med sykkel, tilgjengelig for alle og vedlikeholdt av kommunen eller en privat organisasjon.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Related>ord/friomrade</Related>
+        <Broader>tema/friluftsliv</Broader>
+        <Broader>tema/naturforvaltning</Broader>
+    </Concept>
+    <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
       <PrefLabel lang="en">Hairdressing, skincare, tattoo and piercing activities</PrefLabel>
       <PrefLabel lang="nb">Frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet</PrefLabel>
       <PrefLabel lang="nn">Frisør-, hudpleie-, tatoverings- og holtakingsverksemd</PrefLabel>
