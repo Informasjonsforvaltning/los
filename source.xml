@@ -181,8 +181,8 @@
    </Concept>
     <Concept path="tema/havn-og-kyst">
       <PrefLabel lang="en">Harbour and coast</PrefLabel>
-      <PrefLabel lang="nb">Hamn og kyst</PrefLabel>
-      <PrefLabel lang="nn">Havn og kyst</PrefLabel>
+      <PrefLabel lang="nb">Havn og kyst</PrefLabel>
+      <PrefLabel lang="nn">Hamn og kyst</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
@@ -1216,6 +1216,8 @@
       <HiddenLabel lang="nn">Læringssenter</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesbibliotek</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesbibliotek</HiddenLabel>
+       <Definition lang="nn">Bibliotektenester omfattar lån av medium, lesing og studium, men er også ein møteplass og sosial arena og lokale for kulturarrangement. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysing, utdanning og anna kulturell verksemd.</Definition>
+       <Definition lang="nb">Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bibliotek</Broader>
       <Broader>tema/hoyere-utdanning</Broader>
