@@ -3309,7 +3309,7 @@
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
       <Definition lang="nn">Økonomisk stønad til idrettsføremål. Det kan søkjast om statlege spelemidlar til idrettsføremål, t.d. til anlegg og område for idrett og friluftsliv.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/tilskuddsordninger</Broader>
+      <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="ord/import">
       <PrefLabel lang="en">Importation</PrefLabel>
@@ -3903,7 +3903,7 @@
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
       <Definition lang="nn">Offentleg tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/tilskuddsordninger</Broader>
+      <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="ord/kulturminnevern">
       <PrefLabel lang="en">Cultural heritage </PrefLabel>
@@ -4451,7 +4451,7 @@
       <HiddenLabel lang="nn">Tippemidlar</HiddenLabel>
       <Definition lang="nn">Tilskot til tiltak og ulike anlegg i nærmiljøet, som til dømes fritidsklubb, ungdomskafé, bydelsanlegg, grendaleikeplassar, skuleområde og grøne areal i sentrumsområda.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/tilskuddsordninger</Broader>
+      <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="ord/namsmyndighet">
       <PrefLabel lang="en">Enforcement authority</PrefLabel>
@@ -6923,7 +6923,7 @@
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
       <Definition lang="nn">Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/tilskuddsordninger</Broader>
+      <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="ord/universell-utforming">
       <PrefLabel lang="en">Universal design</PrefLabel>
@@ -7991,14 +7991,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-   <Concept path="tema/tilskuddsordninger">
-      <PrefLabel lang="en">Public funding schemes</PrefLabel>
-      <PrefLabel lang="nb">Tilskuddsordninger</PrefLabel>
-      <PrefLabel lang="nn">Tilskotsordningar</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/kultur-idrett-og-fritid</Broader>
-   </Concept>
-  
    <Concept path="tema/transporttjenester">
       <PrefLabel lang="en">Transport services</PrefLabel>
       <PrefLabel lang="nb">Transporttjenester</PrefLabel>
