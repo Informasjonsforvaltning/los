@@ -2621,6 +2621,15 @@
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
     </Concept>
+    <Concept path="ord/seniortilbud">
+        <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
+        <PrefLabel lang="nb">Seniortilbud</PrefLabel>
+        <PrefLabel lang="nn">Seniortilbod</PrefLabel>
+        <Definition lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</Definition>
+        <Definition lang="nb">En samling aktiviteter og treffsteder for pensjonister.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/fritid</Broader>
+    </Concept>
     <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
         <PrefLabel lang="en">Funding for culture, sport and recreation</PrefLabel>
         <PrefLabel lang="nb">Tilskudd til kultur, idrett og fritid</PrefLabel>
