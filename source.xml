@@ -2630,6 +2630,17 @@
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/fritid</Broader>
     </Concept>
+    <Concept path="ord/svommehall">
+        <PrefLabel lang="en">Swimming pool</PrefLabel>
+        <PrefLabel lang="nb">Svømmehall</PrefLabel>
+        <PrefLabel lang="nn">Symjehall</PrefLabel>
+        <HiddenLabel lang="nb">Svømmebasseng</HiddenLabel>
+        <HiddenLabel lang="nn">Symjebasseng</HiddenLabel>
+        <Definition lang="nn">Idrettsanlegg med svømmebasseng.</Definition>
+        <Definition lang="nb">Idrettsanlegg med symjebasseng.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/idrett</Broader>
+    </Concept>
     <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
         <PrefLabel lang="en">Funding for culture, sport and recreation</PrefLabel>
         <PrefLabel lang="nb">Tilskudd til kultur, idrett og fritid</PrefLabel>
