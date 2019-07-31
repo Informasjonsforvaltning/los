@@ -2609,6 +2609,27 @@
         <Broader>tema/friluftsliv</Broader>
         <Broader>tema/naturforvaltning</Broader>
     </Concept>
+    <Concept path="ord/tilskudd-til-friluftsliv">
+        <PrefLabel lang="en">Funding for the outdoors</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til friluftsliv</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til friluftsliv</PrefLabel>
+        <Definition lang="nn">Tilskot til tiltak som fremjar bruk av natur og friluftsområde.</Definition>
+        <Definition lang="nb">Tilskudd til tiltak som fremmer bruk av natur og friluftsområder.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Related>ord/friomrade</Related>
+        <Broader>tema/friluftsliv</Broader>
+        <Broader>tema/naturforvaltning</Broader>
+        <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
+    </Concept>
+    <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
+        <PrefLabel lang="en">Funding for culture, sport and recreation</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til kultur, idrett og fritid</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til kultur, idrett og fritid</PrefLabel>
+        <Definition lang="nn">Tilskot og støtteordningar knytt til kultur, idrett og fritid.</Definition>
+        <Definition lang="nb">Tilskudd og støtteordningar knytt til kultur, idrett og fritid.</Definition>
+        <InScheme>ontologi/tema</InScheme>
+        <Broader>tema/kultur-idrett-og-fritid</Broader>
+    </Concept>
     <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
       <PrefLabel lang="en">Hairdressing, skincare, tattoo and piercing activities</PrefLabel>
       <PrefLabel lang="nb">Frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet</PrefLabel>
