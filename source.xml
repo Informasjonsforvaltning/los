@@ -2641,6 +2641,38 @@
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/idrett</Broader>
     </Concept>
+    <Concept path="ord/kulturminner">
+        <PrefLabel lang="en">Cultural heritage</PrefLabel>
+        <PrefLabel lang="nb">Kulturminner</PrefLabel>
+        <PrefLabel lang="nn">Kulturminne</PrefLabel>
+        <HiddenLabel lang="nb">Gravhauger</HiddenLabel>
+        <HiddenLabel lang="nn">Gravhaugar</HiddenLabel>
+        <HiddenLabel lang="nb">Offerplasser</HiddenLabel>
+        <HiddenLabel lang="nn">Offerplassar</HiddenLabel>
+        <HiddenLabel lang="nb">Dyregraver</HiddenLabel>
+        <HiddenLabel lang="nn">Dyregraver</HiddenLabel>
+        <HiddenLabel lang="nb">Bautasteiner</HiddenLabel>
+        <HiddenLabel lang="nn">Bautasteinar</HiddenLabel>
+        <Definition lang="nn">Kulturminne kan vere gravhaugar, offerplassar, dyregraver og bautasteinar. Kulturminne kan vere seg på land eller under vatn. Fylkeskommunen eller sametinget gir løyve til tiltak på eigedomar med kulturminne.</Definition>
+        <Definition lang="nb">Kulturminner kan være gravhauger, offerplasser, dyregraver og bautasteiner. Kulturminner kan befinne seg på land eller under vann. Fylkeskommunen eller sametinget gir tillatelser til tiltak på eiendommer med kulturminner.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/kultur</Broader>
+    </Concept>
+    <Concept path="ord/kulturtilbud">
+        <PrefLabel lang="en">Cultural activities</PrefLabel>
+        <PrefLabel lang="nb">Kulturtilbod</PrefLabel>
+        <PrefLabel lang="nn">Kulturtilbud</PrefLabel>
+        <HiddenLabel lang="nb">Musikk</HiddenLabel>
+        <HiddenLabel lang="nn">Musikk</HiddenLabel>
+        <HiddenLabel lang="nb">Dans</HiddenLabel>
+        <HiddenLabel lang="nn">Dans</HiddenLabel>
+        <HiddenLabel lang="nb">Teater</HiddenLabel>
+        <HiddenLabel lang="nn">Teater</HiddenLabel>
+        <Definition lang="nn">Tilbod innan musikk, dans og teater.</Definition>
+        <Definition lang="nb">Tilbud innenfor musikk, dans og teater.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/kultur</Broader>
+    </Concept>
     <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
         <PrefLabel lang="en">Funding for culture, sport and recreation</PrefLabel>
         <PrefLabel lang="nb">Tilskudd til kultur, idrett og fritid</PrefLabel>
