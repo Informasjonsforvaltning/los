@@ -2671,6 +2671,7 @@
         <Definition lang="nn">Tilbod innan musikk, dans og teater.</Definition>
         <Definition lang="nb">Tilbud innenfor musikk, dans og teater.</Definition>
         <InScheme>ontologi/ord</InScheme>
+        <Related>ord/film-og-kino</Related>
         <Broader>tema/kultur</Broader>
     </Concept>
     <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
