@@ -2674,6 +2674,30 @@
         <Related>ord/film-og-kino</Related>
         <Broader>tema/kultur</Broader>
     </Concept>
+    <Concept path="ord/tilskudd-til-helse-og-eldre">
+        <PrefLabel lang="en">Funding for health and the elderly</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til helse og eldre</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til helse og eldre</PrefLabel>
+        <HiddenLabel lang="nb">Støtteordninger for helse og eldre</HiddenLabel>
+        <HiddenLabel lang="nn">Støtteordningar for helse og eldre</HiddenLabel>
+        <HiddenLabel lang="nb">Folkehelse</HiddenLabel>
+        <HiddenLabel lang="nn">Folkehelse</HiddenLabel>
+        <Definition lang="nn">Offentlege midlar som skal støtte lag, foreiningar og organisasjonar til å drive aktivitetar retta mot folkehelse og eldre.</Definition>
+        <Definition lang="nb">Offentlige midler som skal støtte lag, foreninger og organisasjoner til å drive aktiviteter rettet mot folkehelse og eldre.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
+    </Concept>
+    <Concept path="ord/tilskudd-til-tro-og-livssyn">
+        <PrefLabel lang="en">Funding for religious and ethnic communities</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til tro og livssyn </PrefLabel>
+        <PrefLabel lang="nn">Tilskot til tru og livssyn</PrefLabel>
+        <HiddenLabel lang="nb">Støtteordninger for tro og livssyn</HiddenLabel>
+        <HiddenLabel lang="nn">Støtteordningar for tru og livssyn</HiddenLabel>
+        <Definition lang="nn">Offentleg tilskot til tru- og livssynssamfunn.</Definition>
+        <Definition lang="nb">Offentlig tilskudd til tros- og livssynssamfunn.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
+    </Concept>
     <Concept path="tema/tilskudd-til-kultur-idrett-og-fritid">
         <PrefLabel lang="en">Funding for culture, sport and recreation</PrefLabel>
         <PrefLabel lang="nb">Tilskudd til kultur, idrett og fritid</PrefLabel>
