@@ -106,7 +106,7 @@
       <Related>ord/frivilligsentral</Related>
       <Related>ord/lag-og-foreninger</Related>
    </Concept>
-   
+
  <!--Trafikk start-->
     <Concept path="tema/trafikk-og-transport">
       <PrefLabel lang="en">Traffic and transport</PrefLabel>
@@ -192,7 +192,7 @@
       <PrefLabel lang="nn">Luftfart</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
-   </Concept>      
+   </Concept>
    <Concept path="ord/fly">
       <PrefLabel lang="en">Aeroplanes</PrefLabel>
       <PrefLabel lang="nb">Fly</PrefLabel>
@@ -232,13 +232,13 @@
       <PrefLabel lang="nb">Lufthavn</PrefLabel>
       <PrefLabel lang="nn">Lufthamn</PrefLabel>
 	  <AltLabel lang="nb">Flyplass</AltLabel>
-	  <AltLabel lang="nn">Flyplass</AltLabel> 
+	  <AltLabel lang="nn">Flyplass</AltLabel>
       <HiddenLabel lang="nb">Flybase</HiddenLabel>
       <HiddenLabel lang="nn">Flypbase</HiddenLabel>
       <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
       <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
       <Definition lang="nn"> Ein stad der fly lettar og landar</Definition>
-      <Definition lang="nb"> Et sted hvor fly letter og lander</Definition>	  
+      <Definition lang="nb"> Et sted hvor fly letter og lander</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
@@ -249,10 +249,10 @@
       <HiddenLabel lang="nb">Droneflyving</HiddenLabel>
       <HiddenLabel lang="nn">Droneflyging</HiddenLabel>
       <Definition lang="nn"> * </Definition>
-      <Definition lang="nb"> *</Definition>	  
+      <Definition lang="nb"> *</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
-   </Concept>  
+   </Concept>
    <Concept path="tema/forerkort-og-sertifikat">
       <PrefLabel lang="en">Driving licences</PrefLabel>
       <PrefLabel lang="nb">Førerkort og sertifikat</PrefLabel>
@@ -267,7 +267,7 @@
       <HiddenLabel lang="nb">Båtførerprøven</HiddenLabel>
       <HiddenLabel lang="nn">Båtførarprøven</HiddenLabel>
       <Definition lang="nn"> Er du født 01.01.1980 eller seinare, og skal føre båt med meir enn 25 hk eller over 8 meter lengde trenger du båtførarbevis</Definition>
-      <Definition lang="nb"> Er du født 01.01.1980 eller senere, og skal føre båt med mer enn 25 hk eller over 8 meter lengde trenger du båtførerbevis</Definition>	 	  
+      <Definition lang="nb"> Er du født 01.01.1980 eller senere, og skal føre båt med mer enn 25 hk eller over 8 meter lengde trenger du båtførerbevis</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -278,10 +278,10 @@
       <HiddenLabel lang="nb">Båtførerprøven</HiddenLabel>
       <HiddenLabel lang="nn">Båtførarprøven</HiddenLabel>
       <Definition lang="nn"> For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha eit fritidsskipparsertifikat. </Definition>
-      <Definition lang="nb"> For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha et fritidsskippersertifikat.</Definition>	 	  
+      <Definition lang="nb"> For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha et fritidsskippersertifikat.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
-   </Concept>  
+   </Concept>
    <Concept path="ord/internasjonalt-batsertifikat">
       <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft (ICC)</PrefLabel>
       <PrefLabel lang="nb">Internasjonalt båtsertifikat (ICC)</PrefLabel>
@@ -289,7 +289,7 @@
       <Definition lang="nn">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er en internasjonal standard for fritidsbåtsertifikat.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
-   </Concept>	
+   </Concept>
    <Concept path="ord/flysertifikat">
       <PrefLabel lang="en">Pilot's licence</PrefLabel>
       <PrefLabel lang="nb">Flysertifikat</PrefLabel>
@@ -377,20 +377,20 @@
 	  <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
       <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
       <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
     <Concept path="ord/vannskuter">
       <PrefLabel lang="en">Water scooter</PrefLabel>
       <PrefLabel lang="nb">Vannskuter</PrefLabel>
       <PrefLabel lang="nn">Vasskuter</PrefLabel>
       <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av vannskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
      <Concept path="ord/firehjuling">
       <PrefLabel lang="en">All terrain vehicle</PrefLabel>
@@ -400,12 +400,12 @@
 	  <HiddenLabel lang="nb">ATV</HiddenLabel>
 	  <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
-      <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>	  
+      <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
       <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
      <Concept path="ord/beltekjoretoy">
       <PrefLabel lang="en">Tracked vehicle</PrefLabel>
@@ -414,16 +414,16 @@
 	  <HiddenLabel lang="nb">Beltebil</HiddenLabel>
 	  <HiddenLabel lang="nn">Beltebil</HiddenLabel>
 	  <HiddenLabel lang="nb">Tråkkemaskin</HiddenLabel>
-	  <HiddenLabel lang="nn">Trakkemaskin</HiddenLabel>	  
+	  <HiddenLabel lang="nn">Trakkemaskin</HiddenLabel>
       <HiddenLabel lang="nb">Beltevogn</HiddenLabel>
       <HiddenLabel lang="nn">Beltevogn</HiddenLabel>
       <HiddenLabel lang="nb">Beltetraktor</HiddenLabel>
-      <HiddenLabel lang="nn">Beltetraktor</HiddenLabel>	  
+      <HiddenLabel lang="nn">Beltetraktor</HiddenLabel>
       <Definition lang="nn">Beltekøyretøy er køyretøy som vert drivne fram med belter. Kommunen vedtek i forskrift løyve og forbod om køyring utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>	  
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-      <Broader>tema/forerkort-og-sertifikat</Broader>	  
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
   <Concept path="tema/transporttilbud">
       <PrefLabel lang="en">Transport service</PrefLabel>
@@ -463,12 +463,12 @@
    </Concept>
 
 
-   
+
  <!--Trafikk slutt-->
- 
-   
-   
-   
+
+
+
+
    <Concept path="ord/trygde-og-servicebolig">
       <PrefLabel lang="en">Welfare housing</PrefLabel>
       <PrefLabel lang="nb">Trygde- og servicebolig</PrefLabel>
@@ -480,7 +480,7 @@
       <Definition lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
-   </Concept>   
+   </Concept>
    <Concept path="ord/abort">
       <PrefLabel lang="en">Abortion</PrefLabel>
       <PrefLabel lang="nb">Abort</PrefLabel>
@@ -531,7 +531,7 @@
       <HiddenLabel lang="nb">Telerestriksjoner</HiddenLabel>
       <HiddenLabel lang="nn">Telerestriksjonar</HiddenLabel>
       <Definition lang="nn">Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense.</Definition>
-      <Definition lang="nb">Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere under en viss grense.</Definition>	  
+      <Definition lang="nb">Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere under en viss grense.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
    </Concept>
@@ -1344,7 +1344,7 @@
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
       <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
       <Definition lang="nb">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass, et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling (ASB).</Definition>
-	  
+
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/offentlige-avgifter</Broader>
       <Broader>tema/veg</Broader>
@@ -2707,6 +2707,33 @@
         <InScheme>ontologi/tema</InScheme>
         <Broader>tema/kultur-idrett-og-fritid</Broader>
     </Concept>
+    <Concept path="tema/utlan-og-leie">
+        <PrefLabel lang="en">Loans and rentals</PrefLabel>
+        <PrefLabel lang="nb">Utlån og leie</PrefLabel>
+        <PrefLabel lang="nn">Utlån og leige</PrefLabel>
+        <Definition lang="nn">Utlån eller leie av utstyr fra en offentlig virksomhet</Definition>
+        <Definition lang="nb">Utlån eller leige av utstyr frå ei offentleg verksemd</Definition>
+        <InScheme>ontologi/tema</InScheme>
+        <Broader>tema/kultur-idrett-og-fritid</Broader>
+    </Concept>
+    <Concept path="ord/fritidsutstyr">
+        <PrefLabel lang="en">Recreational equipment</PrefLabel>
+        <PrefLabel lang="nb">Fritidsutstyr</PrefLabel>
+        <PrefLabel lang="nn">Fritidsutstyr</PrefLabel>
+        <Definition lang="nn">Utlån eller leie av utstyr, som for eksempel sykler, kjelker og lignende.</Definition>
+        <Definition lang="nb">Utlån eller leige av utstyr, som for eksempel syklar, kjelkar og liknande.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/utlan-og-leie</Broader>
+    </Concept>
+    <Concept path="ord/lokale-idrettsanlegg">
+        <PrefLabel lang="en">Sports facilities</PrefLabel>
+        <PrefLabel lang="nb">Lokale idrettsanlegg</PrefLabel>
+        <PrefLabel lang="nn">Lokale idrettsanlegg</PrefLabel>
+        <Definition lang="nn">Utlån eller leige av baner, idrettshallar, symjehallar med meir.</Definition>
+        <Definition lang="nb">Utlån eller leie av baner, idrettshaller, svømmehaller med mer.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/utlan-og-leie</Broader>
+    </Concept>
     <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
       <PrefLabel lang="en">Hairdressing, skincare, tattoo and piercing activities</PrefLabel>
       <PrefLabel lang="nb">Frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet</PrefLabel>
@@ -3961,7 +3988,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturvern</Related>
       <Broader>tema/kultur</Broader>
-   </Concept>	
+   </Concept>
    <Concept path="ord/lag-og-foreninger">
       <PrefLabel lang="en">Clubs and societies</PrefLabel>
       <PrefLabel lang="nb">Lag og foreninger</PrefLabel>
@@ -5458,7 +5485,7 @@
       <HiddenLabel lang="nb">Ekspressbåt</HiddenLabel>
       <HiddenLabel lang="nn">Ekspressbåt</HiddenLabel>
       <Definition lang="nn">Billettar innan transport. Flybillett, togbillett, busbillett og båtbillett vert nytta av alle som driv offentleg transport mot betaling.</Definition>
-      <Definition lang="nb">Billetter innen transport. Flybillett, togbillett, busbillett og båtbillett vert benyttet av alle som driver offentlig transport mot betaling.</Definition>	 
+      <Definition lang="nb">Billetter innen transport. Flybillett, togbillett, busbillett og båtbillett vert benyttet av alle som driver offentlig transport mot betaling.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
@@ -6649,7 +6676,7 @@
       <HiddenLabel lang="nb">TT-ordning</HiddenLabel>
       <HiddenLabel lang="nn">TT-ordning</HiddenLabel>
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
-	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition> 
+	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
