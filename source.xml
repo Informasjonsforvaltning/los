@@ -964,7 +964,8 @@
       <PrefLabel lang="en">Auxilary home</PrefLabel>
       <PrefLabel lang="nb">Avlastningshjem</PrefLabel>
       <PrefLabel lang="nn">Avlastingsheim</PrefLabel>
-      <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta. Fosterheim er eige emneord.</Definition>
+      <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta.</Definition>
+      <Definition lang="nb">Hjelpetiltak for å bedre foreldrenes omsorg for barna sine. Avlastningshjemmet må godkjennes av barnevertjenesten.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/besokshjem</Related>
       <Broader>tema/avlastning-og-stotte</Broader>
@@ -1131,7 +1132,8 @@
       <HiddenLabel lang="nn">Hjelpetiltak</HiddenLabel>
       <HiddenLabel lang="nb">Bekymringsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Bekymringsmelding</HiddenLabel>
-      <Definition lang="nn">Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar. Fosterheim er er eige emneord.</Definition>
+      <Definition lang="nn">Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar.</Definition>
+      <Definition lang="nb">Hjelp og støtte til barn, unge og familier i vanskelige situasjoner.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
@@ -1186,7 +1188,8 @@
       <PrefLabel lang="nn">Besøksheim</PrefLabel>
       <HiddenLabel lang="nb">Besøksfamilie</HiddenLabel>
       <HiddenLabel lang="nn">Besøksfamilie</HiddenLabel>
-      <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen må godkjennast av barnevertenesta. Avlastningsheim er eige emneord.</Definition>
+      <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen må godkjennast av barnevertenesta.</Definition>
+      <Definition lang="nb">Hjelpetiltak for å bedre foreldrenes omsorg for barna sine, for å hindre adferdsproblemer hos et barn eller hindre problem i nettverket til barnet eller familien. Besøkshjemmet må godkjennes av barnevertjenesten.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/avlastningshjem</Related>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
@@ -2509,6 +2512,7 @@
       <HiddenLabel lang="nb">Fosterforeldre</HiddenLabel>
       <HiddenLabel lang="nn">Fosterforeldre</HiddenLabel>
       <Definition lang="nn">Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m.</Definition>
+      <Definition lang="nb">Et fosterhjem er et privat hjem som tar imot barn og unge til oppfostring i kortere eller lengre tid. Medregnet fosterhjemsavtale, økonomiske vilkår m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
@@ -6331,6 +6335,7 @@
       <Definition lang="nn">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/stottekontakt">
       <PrefLabel lang="en">Support person</PrefLabel>
