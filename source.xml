@@ -6680,10 +6680,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
-   <Concept path="ord/tilsyn-og-godkjenning">
-      <PrefLabel lang="en">Inspection and approval</PrefLabel>
-      <PrefLabel lang="nb">Tilsyn og godkjenning</PrefLabel>
-      <PrefLabel lang="nn">Tilsyn og godkjenning</PrefLabel>
+   <Concept path="ord/tilsyn-og-godkjenning-av-barnehager">
+      <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
+      <PrefLabel lang="nb">Tilsyn og godkjenning av barnehager</PrefLabel>
+      <PrefLabel lang="nn">Tilsyn og godkjenning av barnehagar</PrefLabel>
       <Definition lang="nn">Kommunen fører tilsyn med private og kommunale barnehagar og skal godkjenne barnehagar under oppføring.</Definition>
       <Definition lang="nb">Kommunen fører tilsyn med private og kommunale barnehager og skal godkjenne barnehager under oppføring.</Definition>
       <InScheme>ontologi/ord</InScheme>
