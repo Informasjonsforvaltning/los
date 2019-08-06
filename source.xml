@@ -6905,7 +6905,7 @@
       <Definition lang="nn">Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av partane er motvillig.</Definition>
       <Definition lang="nb">Benevnelse for et arrangert ekteskap som blir gjennomført til tross for at minst én av partene er motvillig</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestotte</Broader>
+      <Broader>tema/ekteskap</Broader>
    </Concept>
    <Concept path="ord/uforepensjon">
       <PrefLabel lang="en">Disability pension</PrefLabel>
