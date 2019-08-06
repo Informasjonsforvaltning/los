@@ -7501,10 +7501,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/barn-og-familie">
+   <Concept path="tema/familie-og-barn">
       <PrefLabel lang="en">Family and children</PrefLabel>
-      <PrefLabel lang="nb">Barn og familie</PrefLabel>
-      <PrefLabel lang="nn">Barn og familie</PrefLabel>
+      <PrefLabel lang="nb">Familie og barn</PrefLabel>
+      <PrefLabel lang="nn">Familie og barn</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7513,28 +7513,28 @@
       <PrefLabel lang="nb">Barn og foreldre</PrefLabel>
       <PrefLabel lang="nn">Barn og foreldre</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/barnehage">
       <PrefLabel lang="en">Kindergartens</PrefLabel>
       <PrefLabel lang="nb">Barnehage</PrefLabel>
       <PrefLabel lang="nn">Barnehage</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/barnevern-og-foreldrestotte">
       <PrefLabel lang="en">Child and family welfare</PrefLabel>
       <PrefLabel lang="nb">Barnevern og foreldrestøtte</PrefLabel>
       <PrefLabel lang="nn">Barnevern og foreldrestøtte</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/begravelser-og-dodsfall">
       <PrefLabel lang="en">Funerals and death</PrefLabel>
       <PrefLabel lang="nb">Begravelser og dødsfall</PrefLabel>
       <PrefLabel lang="nn">Gravferder og dødsfall</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/beredskap-og-sikkerhet">
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
@@ -7590,7 +7590,7 @@
       <PrefLabel lang="nb">Ekteskap</PrefLabel>
       <PrefLabel lang="nn">Ekteskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/energi">
       <PrefLabel lang="en">Energy</PrefLabel>
@@ -7984,7 +7984,7 @@
       <PrefLabel lang="nb">Samliv</PrefLabel>
       <PrefLabel lang="nn">Samliv</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/skatt-og-likning">
       <PrefLabel lang="en">Taxation</PrefLabel>
