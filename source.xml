@@ -2613,8 +2613,8 @@
         <PrefLabel lang="nn">Symjehall</PrefLabel>
         <HiddenLabel lang="nb">Svømmebasseng</HiddenLabel>
         <HiddenLabel lang="nn">Symjebasseng</HiddenLabel>
-        <Definition lang="nn">Idrettsanlegg med svømmebasseng.</Definition>
-        <Definition lang="nb">Idrettsanlegg med symjebasseng.</Definition>
+        <Definition lang="nn">Symjehallar er åpne for publikum til visse tider og kan være tilgjengelege for utleige</Definition>
+        <Definition lang="nb">Svømmehaller er åpne for publikum til visse tider og kan være tilgjengelige for utleie</Definition>
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/idrett</Broader>
     </Concept>
