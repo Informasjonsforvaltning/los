@@ -4841,9 +4841,11 @@
       <HiddenLabel lang="nn">Overgrepsmottak</HiddenLabel>
       <HiddenLabel lang="nb">Barnehus</HiddenLabel>
       <HiddenLabel lang="nn">Barnehus</HiddenLabel>
-      <Definition lang="nn">Eit overgrep vil sei at eit menneske krenkar rettane til eit anna menneske. Overgrep kan ramme begge kjønn i alle aldrar.</Definition>
+      <Definition lang="nn">Kommunen kan tilby vern og hjelp ved vald og overgrep</Definition>
+      <Definition lang="nb">Kommunen kan tilby beskyttelse og bistand ved vold og overgrep.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
+      <Broader>tema/akutt-help</Broader>
    </Concept>
    <Concept path="ord/pataleunnlatelse">
       <PrefLabel lang="en">Withdrawal of criminal charges</PrefLabel>
