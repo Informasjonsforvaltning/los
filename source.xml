@@ -2028,29 +2028,6 @@
       <Related>ord/fagopplaring</Related>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
-   <Concept path="ord/familievern">
-      <PrefLabel lang="en">Family counselling</PrefLabel>
-      <PrefLabel lang="nb">Familievern</PrefLabel>
-      <PrefLabel lang="nn">Familievern</PrefLabel>
-      <HiddenLabel lang="nb">Husmorvikar</HiddenLabel>
-      <HiddenLabel lang="nn">Husmorvikar</HiddenLabel>
-      <HiddenLabel lang="nb">Familierådgiving</HiddenLabel>
-      <HiddenLabel lang="nn">Familierådgjeving</HiddenLabel>
-      <HiddenLabel lang="nb">Samlivskurs</HiddenLabel>
-      <HiddenLabel lang="nn">Samlivskurs</HiddenLabel>
-      <HiddenLabel lang="nb">Parkurs</HiddenLabel>
-      <HiddenLabel lang="nn">Parkurs</HiddenLabel>
-      <HiddenLabel lang="nb">Familierådgivning</HiddenLabel>
-      <HiddenLabel lang="nn">Familierådgjeving</HiddenLabel>
-      <HiddenLabel lang="nb">Familievernkontor</HiddenLabel>
-      <HiddenLabel lang="nn">Familievernkontor</HiddenLabel>
-      <HiddenLabel lang="nb">Familiekontor</HiddenLabel>
-      <HiddenLabel lang="nn">Familiekontor</HiddenLabel>
-      <Definition lang="nn">Offentlege og kyrkjelege rettleiingstenester som gjev hjelp og råd i alle slags konfliktar og kriser i familieforhold. Kontora skal godkjennast av Barne- og likestillingsdepartementet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnevern-og-foreldrestotte</Broader>
-      <Broader>tema/samliv</Broader>
-   </Concept>
    <Concept path="ord/farlig-avfall">
       <PrefLabel lang="en">Hazardous waste</PrefLabel>
       <PrefLabel lang="nb">Farlig avfall</PrefLabel>
