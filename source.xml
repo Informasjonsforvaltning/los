@@ -4659,6 +4659,14 @@
       <HiddenLabel lang="nn">Stønad til einsleg forsørgjar</HiddenLabel>
       <HiddenLabel lang="nb">Bidragsforskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
+      <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Stønad til barnetilsyn</HiddenLabel>
+      <HiddenLabel lang="nn">Støtte til barnetilsyn</HiddenLabel>
+      <HiddenLabel lang="nb">Overgangsstønad</HiddenLabel>
+      <HiddenLabel lang="nn">Overgangsstønad</HiddenLabel>
       <Definition lang="nn">Økonomiske ytingar i samband med det å ha barn.</Definition>
       <Definition lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
