@@ -1330,17 +1330,21 @@
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
       <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
       <Definition lang="nb">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass, et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling (ASB).</Definition>
-
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/offentlige-avgifter</Broader>
       <Broader>tema/veg</Broader>
    </Concept>
-   <Concept path="ord/borgerlig-vielse">
-      <PrefLabel lang="en">Civil marriage</PrefLabel>
-      <PrefLabel lang="nb">Borgerlig vielse</PrefLabel>
-      <PrefLabel lang="nn">Borgarleg vigsel</PrefLabel>
-      <Definition lang="nb">Kommunen har ansvaret for gjennomføring av borgerlige vielser i Norge. Det betyr at man blir viet av ordfører, varaordfører eller en annen ansatt eller folkevalgt.</Definition>
-      <Definition lang="nn">Kommunen har ansvaret for gjennomføring av borgarlege vigslar i Noreg. Det betyr at ein blir vigt av ordførar, varaordførar eller ein annan tilsett eller folkevalt.</Definition>
+   <Concept path="ord/vielse">
+      <PrefLabel lang="en">Marriage</PrefLabel>
+      <PrefLabel lang="nb">Vielse</PrefLabel>
+      <PrefLabel lang="nn">Vigsel</PrefLabel>
+      <HiddenLabel lang="nb">Vigsel</HiddenLabel>
+      <HiddenLabel lang="nb">Borgerlig vielse</HiddenLabel>
+      <HiddenLabel lang="nn">Borgarleg vielse</HiddenLabel>
+      <HiddenLabel lang="nb">Kirkelig vielse</HiddenLabel>
+      <HiddenLabel lang="nn">Kyrkjeleg vigsel</HiddenLabel>
+      <Definition lang="nb">Kommunen har ansvaret for gjennomføring av borgerlige vielser i Norge. Det betyr at man blir viet av ordfører, varaordfører eller en annen ansatt eller folkevalgt. Kirkelig vielse gjennomføres av Den norske kirke eller et annet trossamfunn</Definition>
+      <Definition lang="nn">Kommunen har ansvaret for gjennomføring av borgarlege vigslar i Noreg. Det betyr at ein blir vigt av ordførar, varaordførar eller ein annan tilsett eller folkevalt. Kyrkeleg vielse vert gjennomført av Den norske kyrkja eller eit anna trusamfunn</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/ekteskap</Broader>
       <Broader>tema/samliv</Broader>
