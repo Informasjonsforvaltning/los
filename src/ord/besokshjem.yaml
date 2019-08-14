@@ -14,7 +14,10 @@ documentation:
   definition:
   - Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem
     hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen
-    må godkjennast av barnevertenesta. Avlastningsheim er eige emneord. @nn
+    må godkjennast av barnevertenesta. @nn
+  - Hjelpetiltak for å bedre foreldrenes omsorg for barna sine, for å hindre adferdsproblemer
+    hos et barn eller hindre problem i nettverket til barnet eller familien. Besøkshjemmet
+    må godkjennes av barnevertjenesten. @nb
 relation:
   broader:
   - tema/barnevern-og-foreldrestotte

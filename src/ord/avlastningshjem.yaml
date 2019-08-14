@@ -10,7 +10,9 @@ scheme:
 documentation:
   definition:
   - Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må
-    godkjennast av barnevertenesta. Fosterheim er eige emneord. @nn
+    godkjennast av barnevertenesta. @nn
+  - Hjelpetiltak for å bedre foreldrenes omsorg for barna sine. Avlastningshjemmet
+    må godkjennes av barnevertjenesten. @nb
 relation:
   broader:
   - tema/avlastning-og-stotte

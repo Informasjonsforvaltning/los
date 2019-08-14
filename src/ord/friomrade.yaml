@@ -1,26 +1,14 @@
 !Concept
 label:
   hidden:
-  - Tursti @nb
-  - Tursti @nn
-  - Turkart @nb
-  - Turkart @nn
-  - Turløype @nb
-  - Turløype @nn
   - Teltplass @nb
   - Teltplass @nn
   - Markaområde @nb
   - Markaområde @nn
   - Gapahuk @nb
   - Gapahuk @nn
-  - Natursti @nb
-  - Natursti @nn
   - Parkanlegg @nb
   - Parkanlegg @nn
-  - Turveikart @nb
-  - Turvegkart @nn
-  - Turvegkart @nb
-  - Turvegkart @nn
   - Friluftsområde @nb
   - Friluftsområde @nn
   - Marka @nb
@@ -28,9 +16,6 @@ label:
   - Telting @nb
   - Telting @nn
   - Turveg @nb
-  - Turveg @nn
-  - Turvei @nb
-  - Turvegkart @nn
   - Park @nb
   - Park @nn
   - Turområde @nb
@@ -42,6 +27,16 @@ label:
 scheme:
   in:
   - ontologi/ord
+documentation:
+  definition:
+  - Eit geografisk avgrensa areal som er regulert av kommunen til friluftsliv. Regulering
+    til friområde blir gjerne brukt for å sikre publikumet tilgang til attraktive
+    areal nær tettbygd område. Det gjeld spesielt område som eignar seg for badeliv,
+    sportsfiske, leik og turgåing og på ski. @nn
+  - Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering
+    til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer
+    nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv,
+    sportsfiske, lek og turgåing til fots og på ski. @nb
 relation:
   broader:
   - tema/friluftsliv

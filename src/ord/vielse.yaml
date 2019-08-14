@@ -1,9 +1,15 @@
 !Concept
 label:
-  preferred:
-  - Civil marriage @en
+  hidden:
+  - Vigsel @nb
   - Borgerlig vielse @nb
-  - Borgarleg vigsel @nn
+  - Borgarleg vielse @nn
+  - Kirkelig vielse @nb
+  - Kyrkjeleg vigsel @nn
+  preferred:
+  - Marriage @en
+  - Vielse @nb
+  - Vigsel @nn
 scheme:
   in:
   - ontologi/ord
@@ -11,9 +17,10 @@ documentation:
   definition:
   - Kommunen har ansvaret for gjennomføring av borgerlige vielser i Norge. Det betyr
     at man blir viet av ordfører, varaordfører eller en annen ansatt eller folkevalgt.
-    @nb
+    Kirkelig vielse gjennomføres av Den norske kirke eller et annet trossamfunn @nb
   - Kommunen har ansvaret for gjennomføring av borgarlege vigslar i Noreg. Det betyr
     at ein blir vigt av ordførar, varaordførar eller ein annan tilsett eller folkevalt.
+    Kyrkeleg vielse vert gjennomført av Den norske kyrkja eller eit anna trusamfunn
     @nn
 relation:
   broader:

@@ -1,9 +1,9 @@
 !Concept
 label:
   preferred:
-  - Inspection and approval @en
-  - Tilsyn og godkjenning @nb
-  - Tilsyn og godkjenning @nn
+  - Supervision and approval of kindergartens @en
+  - Tilsyn og godkjenning av barnehager @nb
+  - Tilsyn og godkjenning av barnehagar @nn
 scheme:
   in:
   - ontologi/ord

@@ -24,6 +24,8 @@ documentation:
   definition:
   - Utandørs brenning eller brenning av avfall i småomnar. Kommunen fastset lokale
     reglar. @nn
+  - Utendørs brenning eller brenning av avfall i småovner. Kommunen fastsetter lokale
+    regler. @nb
 relation:
   broader:
   - tema/friluftsliv

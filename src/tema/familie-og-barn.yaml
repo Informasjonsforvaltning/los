@@ -2,8 +2,8 @@
 label:
   preferred:
   - Family and children @en
-  - Barn og familie @nb
-  - Barn og familie @nn
+  - Familie og barn @nb
+  - Familie og barn @nn
 scheme:
   in:
   - ontologi/tema

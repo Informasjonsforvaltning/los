@@ -1,9 +1,9 @@
 !Concept
 label:
   preferred:
-  - Child and family welfare @en
-  - Barnevern og foreldrestøtte @nb
-  - Barnevern og foreldrestøtte @nn
+  - Parents and guardians @en
+  - Foreldre og foresatte @nb
+  - Foreldre føresette @nn
 scheme:
   in:
   - ontologi/tema

@@ -22,12 +22,14 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Melding om å ta, endre eller sløyfe namn skal sendast til folkeregisteret ved
-    likningskontoret. Alle skal ha førenamn og eitt enkelt eller dobbelt etternamn.
-    I tillegg kan ein ha mellomnamn. Første gongs namneval må skje innan barnet fyller
-    seks månader. @nn
+  - Melding om å ta, endre eller sløyfe namn skal sendast til folkeregisteret. Alle
+    skal ha førenamn og eitt enkelt eller dobbelt etternamn. I tillegg kan ein ha
+    mellomnamn. Første gongs namneval må skje innan barnet fyller seks månader. @nn
+  - Melding om å ta, endre eller sløyfe navn skal sendes til folkeregisteret. Alle
+    skal ha forenavn og eitt enkelt eller dobbelt etternavn. I tillegg kan en ha mellomnavn.
+    Første gangs navneval må skje innen barnet fyller seks måneder. @nb
 relation:
   broader:
   - tema/personopplysninger
-  - tema/barn-og-foreldre
+  - tema/foreldre-og-foresatte
   - tema/samliv
