@@ -1304,6 +1304,7 @@
       <HiddenLabel lang="nb">Boliglån</HiddenLabel>
       <HiddenLabel lang="nn">Bustadlån</HiddenLabel>
       <Definition lang="nn">Lån og stønad frå Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
+      <Definition lang="nb">Lån og stønad frå Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
@@ -3045,6 +3046,8 @@
       <HiddenLabel lang="nb">Ungdomstrinn</HiddenLabel>
       <HiddenLabel lang="nn">Ungdomssteg</HiddenLabel>
       <Definition lang="nn">Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld også alt undervisningsmateriell.</Definition>
+      <Definition lang="nb">Den obligatoriske grunnskoleopplæringen i Norge er ti-årig, og barna starter på skolen det året de fyller er seks. Grunnskuleopplæringen er gratis. Det gjelder også alt undervisningsmateriell.</Definition>
+
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
