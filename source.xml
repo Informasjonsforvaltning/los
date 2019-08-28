@@ -2743,7 +2743,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
    </Concept>
-   <Concept path="ord/fritidsutstyr">
+   <!-- <Concept path="ord/fritidsutstyr">
       <PrefLabel lang="en">Leisure equipment</PrefLabel>
       <PrefLabel lang="nb">Fritidsutstyr</PrefLabel>
       <PrefLabel lang="nn">Fritidsutstyr</PrefLabel>
@@ -2763,7 +2763,7 @@
       <Broader>tema/friluftsliv</Broader>
       <Broader>tema/idrett</Broader>
       <Broader>tema/fritid</Broader>
-   </Concept>
+   </Concept> -->
    <Concept path="ord/frivilligsentral">
       <PrefLabel lang="en">Volunteer centre</PrefLabel>
       <PrefLabel lang="nb">Frivilligsentral</PrefLabel>
