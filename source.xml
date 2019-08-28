@@ -1058,7 +1058,7 @@
       <PrefLabel lang="nb">Barnehage - innhald og kvalitet</PrefLabel>
       <PrefLabel lang="nn">Barnehage - innhold og kvalitet</PrefLabel>
       <Definition lang="nn">Barnehagen skal vareta behovet til barna for omsorg og leik og fremje læring og danning som grunnlag for allsidig utvikling.</Definition>
-      <Definition>Barnehagen skal ivareta barnas behov for omsorg og lek og fremme læring og danning som grunnlag for allsidig utvikling.@nb</Definition>
+      <Definition lang="nb">Barnehagen skal ivareta barnas behov for omsorg og lek og fremme læring og danning som grunnlag for allsidig utvikling.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
@@ -1087,7 +1087,8 @@
       <PrefLabel lang="nn">Barnepark</PrefLabel>
       <HiddenLabel lang="nb">Parkplass</HiddenLabel>
       <HiddenLabel lang="nn">Parkplass</HiddenLabel>
-      <Definition lang="nn">Ein barnepark er ei verksemd med ein eller fleire tilsette, utan krav til pedagogisk personale. Opningstid på maksimalt 20 timar pr. veke. Barneparkane fell utanfor lov om barnehagar.</Definition>
+      <Definition lang="nn">Ein barnepark er eit utandørs leiketilbod med ein eller fleire tilsette, utan krav til pedagogisk personale. Det kan søkast om kommunalt tilskot til drift av barnepark.</Definition>
+      <Definition lang="nb">Barnepark er et utendørs leketilbud med en eller flere ansatte, uten krav til pedagogisk personale. Det kan søkes om kommunalt tilskudd til drift av barnepark.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
@@ -1162,6 +1163,7 @@
       <PrefLabel lang="nn">Melding til barnevernstenesta</PrefLabel>
       <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <Definition lang="nn">Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg.</Definition>
+      <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
@@ -1303,8 +1305,8 @@
       <HiddenLabel lang="nn">Huslån</HiddenLabel>
       <HiddenLabel lang="nb">Boliglån</HiddenLabel>
       <HiddenLabel lang="nn">Bustadlån</HiddenLabel>
-      <Definition lang="nn">Lån og stønad frå Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
-      <Definition lang="nb">Lån og stønad frå Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
+      <Definition lang="nn">Lån og stønad frå kommunen og Husbanken, til dømes søknad om bustadlån, startlån.</Definition>
+      <Definition lang="nb">Lån og støtte fra kommunen og Husbanken, for eksempel søknad om boliglån, kommunalt lån, startlån.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
@@ -2971,6 +2973,8 @@
       <HiddenLabel lang="nn">Bisetting</HiddenLabel>
       <HiddenLabel lang="nb">Kremering</HiddenLabel>
       <HiddenLabel lang="nn">Kremering</HiddenLabel>
+      <Definition lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</Definition>
+      <Definition lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall</Broader>
