@@ -953,7 +953,7 @@
       <Definition lang="nn">Arv- eller gåvemelding skal sendast til skatteetaten i det fylket der arvelataren (den ein arvar frå) eller gjevaren bur eller budde.</Definition>
       <Definition lang="nn">Arv- eller gavemelding skal sendes til skatteetaten i det fylket der arvelateren (den en arver fra) eller givaren bur eller budde.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/begravelser-og-dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
       <Broader>tema/skatt-og-likning</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -2978,7 +2978,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall</Broader>
-      <Broader>tema/begravelser-og-dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravplass">
       <PrefLabel lang="en">Cemetary</PrefLabel>
@@ -3008,7 +3008,7 @@
       <Definition lang="nb">Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
-      <Broader>tema/begravelser-og-dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
       <Broader>tema/dodsfall</Broader>
    </Concept>
    <Concept path="ord/grunnskole">
@@ -7475,10 +7475,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/begravelser-og-dodsfall">
-      <PrefLabel lang="en">Funerals and death</PrefLabel>
-      <PrefLabel lang="nb">Begravelser og dødsfall</PrefLabel>
-      <PrefLabel lang="nn">Gravferder og dødsfall</PrefLabel>
+   <Concept path="tema/dodsfall-og-gravferd">
+      <PrefLabel lang="en">Death and funerals</PrefLabel>
+      <PrefLabel lang="nb">Dødsfall og gravferd</PrefLabel>
+      <PrefLabel lang="nn">Dødsfall og gravferd</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
