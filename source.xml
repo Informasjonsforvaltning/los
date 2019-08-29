@@ -8024,4 +8024,9 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
+    <Collection path="samling/kommuneord">
+        <PrefLabel lang="nb">Kommuneord</PrefLabel>
+        <Member>tema/arbeid</Member>
+        <Member>tema/helse</Member>
+    </Collection>
 </Skos>
