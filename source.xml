@@ -4868,7 +4868,6 @@
       <HiddenLabel lang="nn">Parkeringsløyve</HiddenLabel>
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttjenester</Broader>
       <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
@@ -6501,7 +6500,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/behandlingsreise</Related>
       <Related>ord/reiseutgifter</Related>
-      <Broader>tema/transporttjenester</Broader>
+      <Broader>tema/helsetjenester</Broader>
       <Broader>tema/pasientrettigheter</Broader>
    </Concept>
    <Concept path="ord/sykkel">
@@ -6624,7 +6623,7 @@
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
 	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/transporttjenester</Broader>
    </Concept>
    <Concept path="ord/tilsyn-og-godkjenning-av-barnehager">
       <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
@@ -7987,13 +7986,6 @@
       <PrefLabel lang="nn">Tekniske tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
-   </Concept>
-   <Concept path="tema/transporttjenester">
-      <PrefLabel lang="en">Transport services</PrefLabel>
-      <PrefLabel lang="nb">Transporttjenester</PrefLabel>
-      <PrefLabel lang="nn">Transporttenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
