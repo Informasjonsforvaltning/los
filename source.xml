@@ -6479,6 +6479,15 @@
       <Related>ord/sykefravar</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
+   <Concept path="ord/separasjon-og-skilsmisse">
+      <PrefLabel lang="en">Separation and divorce</PrefLabel>
+      <PrefLabel lang="nb">Separasjon og skilsmisse</PrefLabel>
+      <PrefLabel lang="nn">Separasjon og skilsmisse</PrefLabel>
+      <Definition lang="nn">Søknad om separasjon og skilsmisse skal sendast til fylkesmannen i det fylket de sist budde saman. De må først søkje om separasjon. Under separasjonstida er de fremdeles formelt gift. Ingen av kan difor inngå ekteskap på nytt i denne perioden. Etter eit år, kan ein eller begge søkje om skilsmisse.</Definition>
+      <Definition lang="nb">Søknad om separasjon og skilsmisse skal sendes til fylkesmannen i det fylket dere sist bodde sammen. Dere må først søke om separasjon. Under separasjonstiden er dere fremdeles formelt gift. Ingen av kan derfor inngå ekteskap på nytt i denne perioden. Etter ett år, kan én eller begge søke om skilsmisse.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/ekteskap</Broader>
+   </Concept>
    <Concept path="ord/syketransport">
       <PrefLabel lang="en">Patient transport</PrefLabel>
       <PrefLabel lang="nb">Syketransport</PrefLabel>
