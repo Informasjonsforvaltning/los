@@ -1279,7 +1279,8 @@
       <PrefLabel lang="en">Shared housing</PrefLabel>
       <PrefLabel lang="nb">Bofellesskap</PrefLabel>
       <PrefLabel lang="nn">Bufellesskap</PrefLabel>
-      <Definition lang="nn">Kommunalt butilbod til psykisk utviklingshemma.</Definition>
+      <Definition lang="nn">Kommunalt butilbod til psykisk utviklingshemma, eldre, personar med funksjonsnedsetting eller einslege mindreårige asylsøkjarar.</Definition>
+      <Definition lang="nb">Kommunalt botilbud til psykisk utviklingshemmede, eldre, personer med funksjonsnedsettelser eller enslige mindreårige asylsøkere.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
@@ -1368,7 +1369,8 @@
       <PrefLabel lang="nn">Bustønad</PrefLabel>
       <HiddenLabel lang="nb">Boligtilskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bustadtilskot</HiddenLabel>
-      <Definition lang="nn">Stønad frå Husbanken for husstandar med låge inntekter høge buutgifter.</Definition>
+      <Definition lang="nn">Bustønad er ei hjelp for personar som har låge inntekter og høge buutgifter. Husbanken og kommunen samarbeider om bustønadsordninga. Det er kommunen som behandlar søknaden.</Definition>
+      <Definition lang="nb">Bostøtte er en hjelp for personer som har lave inntekter og høye boutgifter. Husbanken og kommunen samarbeider om bostøtteordningen. Det er kommunen som behandler søknaden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
@@ -3451,6 +3453,8 @@
       <PrefLabel lang="nn">Introduksjonsprogram for innvandrarar</PrefLabel>
       <HiddenLabel lang="nb">Introduksjonsordning</HiddenLabel>
       <HiddenLabel lang="nn">Introduksjonsordning</HiddenLabel>
+      <Definition lang="nn">Introduksjonsprogrammet gir opplæring i norsk og samfunnskunnskap og skal gjere det enklare for innvandrarar å ta del i arbeidslivet og å gjere dei meir økonomisk sjølvstendige.</Definition>
+      <Definition lang="nb">Introduksjonsprogrammet gir opplæring i norsk og samfunnskunnskap og skal gjøre det enklere for innvandrere å ta del i arbeidslivet og å gjøre dem mer økonomisk selvstendige.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/integrering</Broader>
@@ -3612,7 +3616,8 @@
       <HiddenLabel lang="nn">Mellombels butilbod</HiddenLabel>
       <HiddenLabel lang="nb">Midlertidig bolig</HiddenLabel>
       <HiddenLabel lang="nn">Mellombels bustad</HiddenLabel>
-      <Definition lang="nn">Bustad eigd av kommunen. Gjeld også utleige og ev. sal av kommunal bustad.</Definition>
+      <Definition lang="nn">Bustad ått av kommunen som blir brukt til å leige ut bustad til dei med økonomiske problem.</Definition>
+      <Definition lang="nb">Bolig eid av kommunen som brukes til å leie ut bolig til de med økonomiske problemer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
       <Broader>tema/botilbud</Broader>
@@ -4629,7 +4634,8 @@
       <PrefLabel lang="nn">Omsorgsbustad</PrefLabel>
       <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
       <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
-      <Definition lang="nn">Ein fysisk tilrettelagt bustad, tilpassa orienterings- og rørslehemma bebuarar, som etter behov skal kunne motta heildøgns omsorg og pleie. Omsorgbustader er ikkje fast bemanna, men bebuaren vil få tildelt heimetenester etter behov slik som andre heimebuande. Omsorgsbustaden er bebuaren sin eigen heim. Sjukeheim og trygde- og servicebustader er eigne emneord.</Definition>
+      <Definition lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgns omsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</Definition>
+      <Definition lang="nb">En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
@@ -6165,7 +6171,8 @@
       <HiddenLabel lang="nn">Økonomisk sosialhjelp</HiddenLabel>
       <HiddenLabel lang="nb">Livsopphold</HiddenLabel>
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
-      <Definition lang="nn">Økonomisk yting som skal sikre hjelp til livsopphald. Med dette meiner ein pengar til det som vert rekna som nødvendig for å leve, slik som mat, husleige, straum og eventuelt nødvendige klede.</Definition>
+      <Definition lang="nn">Økonomisk stønad som skal sikre hjelp til livsopphald. Med dette meinast pengar til det som blir rekna som nødvendig for å leve, slik som mat, klede, bustad, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
+      <Definition lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
