@@ -926,7 +926,8 @@
       <HiddenLabel lang="nn">Statsarkiv</HiddenLabel>
       <HiddenLabel lang="nb">Byarkiv</HiddenLabel>
       <HiddenLabel lang="nn">Byarkiv</HiddenLabel>
-      <Definition lang="nn">Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid.</Definition>
+      <Definition lang="nn">Offentlege organs ansvar for arkiv inneber bevaring, forvalting av informasjon og sikring av offentlegheit og personvern.</Definition>
+      <Definition lang="nb">Offentlige organs ansvar for arkiv innebærer bevaring, forvaltning av informasjon og sikring av offentlighet og personvern.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
