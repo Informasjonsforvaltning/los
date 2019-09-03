@@ -2143,7 +2143,8 @@
       <HiddenLabel lang="nn">Festivalpass</HiddenLabel>
       <HiddenLabel lang="nb">Billettbestilling</HiddenLabel>
       <HiddenLabel lang="nn">Billettbestilling</HiddenLabel>
-      <Definition lang="nn">Større arrangement kring eitt hovudemne, t.d. kulturelt eller idrettsleg.</Definition>
+      <Definition lang="nn">Større arrangement kring eit hovudemne, t.d. kulturelt eller idrettsleg.</Definition>
+      <Definition lang="nb">Større arrangementer rundt et hovedemne, f.eks. kulturelt eller idrettslig.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -2158,6 +2159,7 @@
       <HiddenLabel lang="nb">Kinobillett</HiddenLabel>
       <HiddenLabel lang="nn">Kinobillett</HiddenLabel>
       <Definition lang="nn">Film- og kinoframvising. Billettar, stønad og drift av filmklubb m.m..</Definition>
+      <Definition lang="nb">Film- og kinofremvisning. Billetter, tilskudd og drift av filmklubb m.m..</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-videokonsesjon</Related>
       <Broader>tema/kultur</Broader>
@@ -2626,8 +2628,8 @@
     </Concept>
     <Concept path="ord/kulturtilbud">
         <PrefLabel lang="en">Cultural activities</PrefLabel>
-        <PrefLabel lang="nb">Kulturtilbod</PrefLabel>
-        <PrefLabel lang="nn">Kulturtilbud</PrefLabel>
+        <PrefLabel lang="nb">kulturtilbud</PrefLabel>
+        <PrefLabel lang="nn">Kulturtilbod</PrefLabel>
         <HiddenLabel lang="nb">Musikk</HiddenLabel>
         <HiddenLabel lang="nn">Musikk</HiddenLabel>
         <HiddenLabel lang="nb">Dans</HiddenLabel>
@@ -3331,7 +3333,8 @@
       <HiddenLabel lang="nn">Arrangementsstøtte</HiddenLabel>
       <HiddenLabel lang="nb">Aktivitetsstøtte</HiddenLabel>
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
-      <Definition lang="nn">Økonomisk stønad til idrettsføremål. Det kan søkjast om statlege spelemidlar til idrettsføremål, t.d. til anlegg og område for idrett og friluftsliv.</Definition>
+      <Definition lang="nn">Økonomisk stønad til idrettsføremål.</Definition>
+      <Definition lang="nb">Økonomisk støtte til idrettsformål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
@@ -3884,6 +3887,7 @@
       <HiddenLabel lang="nb">Samfunnshus</HiddenLabel>
       <HiddenLabel lang="nn">Samfunnshus</HiddenLabel>
       <Definition lang="nn">Lokale og regionale møteplassar og formidlingsarena for kultur, som til dømes nasjonale kulturbygg, samfunnshus, kulturbåtar og liknande.</Definition>
+      <Definition lang="nb">Lokale og regionale møteplasser og formidlingsarenaer for kultur, som for eksempel nasjonale kulturbygg, samfunnshus, kulturbåter og lignende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -3921,7 +3925,8 @@
       <HiddenLabel lang="nn">Den kulturelle spaserstokken</HiddenLabel>
       <HiddenLabel lang="nb">Aktivitetsstøtte</HiddenLabel>
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
-      <Definition lang="nn">Offentleg tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend.</Definition>
+      <Definition lang="nn">Kommunalt eller fylkeskommunalt tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend.</Definition>
+      <Definition lang="nb">Kommunalt eller fylkeskommunalt tilskudd til kulturarbeid, som for eksempel oppstartingstilskudd, prosjektmidler, kulturstipend, festivalstøtte og kunstnerstipend.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
@@ -4359,6 +4364,7 @@
       <HiddenLabel lang="nb">Utstilling</HiddenLabel>
       <HiddenLabel lang="nn">Utstilling</HiddenLabel>
       <Definition lang="nn">Institusjon eller bygning med samling av gjenstandar av kulturhistorisk, historisk, naturvitskapleg, teknisk eller kunstnerisk interesse. Er systematisk ordna og open for publikum.</Definition>
+      <Definition lang="nb">Institusjon eller bygning med samling av gjenstander av kulturhistorisk, historisk, naturvitenskaplig, teknisk eller kunstnerisk interesse. Er systematisk ordnet og åpen for publikum.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -4406,6 +4412,7 @@
       <HiddenLabel lang="nb">Musikkskole</HiddenLabel>
       <HiddenLabel lang="nn">Musikkskule</HiddenLabel>
       <Definition lang="nn">Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid med skuleverket og kulturlivet elles.</Definition>
+      <Definition lang="nb">Musikk- og kulturfaglig tilbud for barn og ungdom. Tilbudet er organisert i samarbeid med skoleverket og kulturlivet ellers.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/dans</Related>
       <Related>ord/skolefritidsordning</Related>
@@ -4462,6 +4469,7 @@
       <HiddenLabel lang="nb">Tippemidler</HiddenLabel>
       <HiddenLabel lang="nn">Tippemidlar</HiddenLabel>
       <Definition lang="nn">Tilskot til tiltak og ulike anlegg i nærmiljøet, som til dømes fritidsklubb, ungdomskafé, bydelsanlegg, grendaleikeplassar, skuleområde og grøne areal i sentrumsområda.</Definition>
+      <Definition lang="nb">Tilskudd til tiltak og ulike anlegg i nærmiljøet, som for eksempel fritidsklubb, ungdomskafé, bydelsanlegg, lekeplasser, skoleområder og grøntareal i sentrumsområder.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
