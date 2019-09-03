@@ -2752,7 +2752,8 @@
       <HiddenLabel lang="nn">Ungdomsklubb</HiddenLabel>
       <HiddenLabel lang="nb">Ungdomshus</HiddenLabel>
       <HiddenLabel lang="nn">Ungdomshus</HiddenLabel>
-      <Definition lang="nn">Fritidstilbod retta mot ungdom. Fritidsklubb. Kommunalt tilbod retta mot ungdom.</Definition>
+      <Definition lang="nn">Idrettsaktivitetar, familieaktivitetar og kulturelle aktivitetar for alle aldersgrupper. Omfattar også tilskot innbyggjarane kan søkja på.</Definition>
+      <Definition lang="nn">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
    </Concept>
@@ -2784,6 +2785,7 @@
       <HiddenLabel lang="nb">Frivillighetssentral</HiddenLabel>
       <HiddenLabel lang="nn">Frivilligsentral</HiddenLabel>
       <Definition lang="nn">Frivilligsentralar ("frivillighetssentraler") finst over heile landet og er ein møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører, og dermed fremje og styrkje det frivillige arbeidet.</Definition>
+      <Definition lang="nb">Frivillighetssentraler er en møteplass som formidler kontakt mellom mennesker i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersoner og organisasjoner i kommunen utfører, og dermed fremme og styrke det frivillige arbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
    </Concept>
@@ -3287,6 +3289,7 @@
       <HiddenLabel lang="nb">Orienteringskart</HiddenLabel>
       <HiddenLabel lang="nn">Orienteringskart</HiddenLabel>
       <Definition lang="nn">Anlegg som er lagt til rette for idrettsaktivitetar.</Definition>
+      <Definition lang="nb">Anlegg som er tilrettelagt for idrettsaktiviteter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/idrett</Broader>
    </Concept>
@@ -3961,7 +3964,8 @@
       <HiddenLabel lang="nn">Friviljuge organisasjonar</HiddenLabel>
       <HiddenLabel lang="nb">Frivillige organisasjoner</HiddenLabel>
       <HiddenLabel lang="nn">Frivillige organisasjoner</HiddenLabel>
-      <Definition lang="nn">Sjølveigande institusjonar, med føremål av ideell, politisk eller annan art. Frivilligsentral er eige emneord.</Definition>
+      <Definition lang="nn">Sjølveigande institusjonar, med føremål av ideell, politisk eller annan art.</Definition>
+      <Definition lang="nb">Private institusjoner med ideell, politisk eller annet formål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/idrettslag</Related>
       <Broader>tema/fritid</Broader>
@@ -6631,6 +6635,8 @@
       <HiddenLabel lang="nn">Ferietilbod</HiddenLabel>
       <HiddenLabel lang="nb">Aktiv fritid</HiddenLabel>
       <HiddenLabel lang="nn">Aktiv fritid</HiddenLabel>
+      <Definition lang="nn">Aktivitetar og tilbod for personar med fysisk eller psykisk funksjonsnedsetjing.</Definition>
+      <Definition lang="nb">Aktiviteter og tilbud for personer med fysisk eller psykisk funksjonsnedsettelse.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stottekontakt</Related>
       <Related>ord/psykisk-helsevern</Related>
