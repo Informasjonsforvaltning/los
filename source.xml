@@ -1899,7 +1899,8 @@
       <HiddenLabel lang="nn">Vedomn</HiddenLabel>
       <HiddenLabel lang="nb">Effektiv energibruk</HiddenLabel>
       <HiddenLabel lang="nn">Effektiv energibruk</HiddenLabel>
-      <Definition lang="nn">Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot. Fornybar energi og kraftpris er eigne emneord.</Definition>
+      <Definition lang="nn">Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot.</Definition>
+      <Definition lang="nb">Ulike måter å redusere bruken av energi. For eksempel energisparingstiltak og tilskudd.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kraftpris</Related>
       <Broader>tema/energi</Broader>
@@ -2048,7 +2049,8 @@
       <HiddenLabel lang="nn">Elektronisk avfall</HiddenLabel>
       <HiddenLabel lang="nb">Spesialavfall</HiddenLabel>
       <HiddenLabel lang="nn">Spesialavfall</HiddenLabel>
-      <Definition lang="nn">Avfall som det ikkje er tilrådeleg å behandle saman med anna hushaldsavfall eller næringsavfall på grunn av storleiken eller fordi det kan medføre alvorlig forureining eller fare for skade på menneske eller dyr.</Definition>
+      <Definition lang="nn">Farleg avfall leverast til kommunale mottaksordningar.</Definition>
+      <Definition lang="nb">Farlig avfall leveres til kommunale mottaksordninger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/renovasjon</Related>
       <Broader>tema/avfallshandtering</Broader>
@@ -2738,7 +2740,8 @@
       <HiddenLabel lang="nn">Fiskekort</HiddenLabel>
       <HiddenLabel lang="nb">Fiskeravgift</HiddenLabel>
       <HiddenLabel lang="nn">Fiskaravgift</HiddenLabel>
-      <Definition lang="nn">Fiskekort, fiskaravgift. Fiskerinæring er eige stikkord.</Definition>
+      <Definition lang="nn">Kommunen sine avgjerder om fiskeavgifter og fiskekort.</Definition>
+      <Definition lang="nb">Kommunens bestemmelser om fiskeavgifter og fiskekort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
       <Broader>tema/naturforvaltning</Broader>
@@ -3404,7 +3407,8 @@
       <HiddenLabel lang="nn">Inneklima</HiddenLabel>
       <HiddenLabel lang="nb">Hygiene</HiddenLabel>
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
-      <Definition lang="nn">Innemiljø er etter Verdas helseorganisasjon (WHO) sin definisjon dei fem inneklimafaktorane, med tillegg av estetiske og psykososiale forhold. Inneklimafaktorane er temperatur, luft, lys/stråling, lyd/støy og utforming/innreiinng.</Definition>
+      <Definition lang="nn">Tilskot, råd og rettleiing om betre innemiljø.</Definition>
+      <Definition lang="nb">Tilskudd, råd og veiledning om bedre innemiljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skolemiljo</Broader>
       <Broader>tema/arbeidsliv</Broader>
@@ -3509,7 +3513,8 @@
       <HiddenLabel lang="nn">Fellingskvote</HiddenLabel>
       <HiddenLabel lang="nb">Jegeravgift</HiddenLabel>
       <HiddenLabel lang="nn">Jegeravgift</HiddenLabel>
-      <Definition lang="nn">Alle former for hausting av vilt med skytevåpen eller fangstreiskap. Motorferdsel i utmark, viltforvaltning, fritidsfiske, fiskeriforvaltning og fiskerinæring er eigne emneord.</Definition>
+      <Definition lang="nn">Kommunen sine avgjerder om jakt og fangst som jegerprøve og jaktkort.</Definition>
+      <Definition lang="nb">Kommunens bestemmelser om jakt og fangst som jegerprøve og jaktkort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vapentillatelse</Related>
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
@@ -3616,7 +3621,8 @@
       <HiddenLabel lang="nn">Klimasårbarheit</HiddenLabel>
       <HiddenLabel lang="nb">Klimagasser</HiddenLabel>
       <HiddenLabel lang="nn">Klimagassar</HiddenLabel>
-      <Definition lang="nn">Vêrforhold, vêrlag, medrekna Co2-kvotar, miljøovervaking, klimaendringar.Luftforureining og vêrvarsel er eigne emneord.</Definition>
+      <Definition lang="nn">Vêrforhold, vêrlag, medrekna Co2-kvotar, miljøovervaking, klimaendringar.</Definition>
+      <Definition lang="nb">Værforhold, værlag, også Co2-kvoter, miljøovervåking, klimaendringer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
    </Concept>
@@ -3719,7 +3725,8 @@
       <PrefLabel lang="nn">Kompostering</PrefLabel>
       <HiddenLabel lang="nb">Hjemmekompostering</HiddenLabel>
       <HiddenLabel lang="nn">Heimekompostering</HiddenLabel>
-      <Definition lang="nn">Biologisk prosess der planterestar og anna organisk materiale blir brote ned.</Definition>
+      <Definition lang="nn">Biologisk prosess der planterestar og anna organisk materiale blir brote ned. Kommunen lagar eigen avtale for dei som ønskjer å kompostere heime.</Definition>
+      <Definition lang="nb">Biologisk prosess der planterester og annen organisk materiale blir brutt ned. Kommunen lager egen avtale for de som ønsker å kompostere hjemme.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
@@ -3858,6 +3865,7 @@
       <HiddenLabel lang="nb">Kriseplan</HiddenLabel>
       <HiddenLabel lang="nn">Kriseplan</HiddenLabel>
       <Definition lang="nn">Handtering av kriser og katastrofar, samt beredskapsplanar for krisehandtering.</Definition>
+      <Definition lang="nb">Håndtering av kriser og katastrofer, samt beredskapsplaner.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
@@ -4157,6 +4165,7 @@
       <HiddenLabel lang="nb">Svevestøv</HiddenLabel>
       <HiddenLabel lang="nn">Svevestøv</HiddenLabel>
       <Definition lang="nn">Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet. Klima er eige emneord.</Definition>
+      <Definition lang="nb">Utslipp til atmosfæren, som har ugunstig påvirkning på miljøet. Fremkalt av menneskelig aktivitet. Klima er eget emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
@@ -4243,7 +4252,8 @@
       <HiddenLabel lang="nn">Miljøfyrtårn</HiddenLabel>
       <HiddenLabel lang="nb">Miljøregistrering</HiddenLabel>
       <HiddenLabel lang="nn">Miljøregistrering</HiddenLabel>
-      <Definition lang="nn">Ekstern verifisering av miljøleiingssystemet i ei verksemd. Skal sørgje for at verksemda arbeider med å redusere påverkinga si på det ytre miljøet.</Definition>
+      <Definition lang="nn">Miljøsertifisering er ei ekstern verifisering av miljøstyringssystemet som gir omverda tryggleik for at verksemda arbeider seriøst med å redusere påverknaden sin på det ytre miljøet. Miljøsertifisering inneber at verksemda følgjer standard for oppbygging og oppfølging av miljøstyringssystemet. Eksempel er ordninga miljøfyrtån eller ISO-standarden.</Definition>
+      <Definition lang="nb">Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
@@ -4318,6 +4328,7 @@
       <HiddenLabel lang="nb">Traktor</HiddenLabel>
       <HiddenLabel lang="nn">Traktor</HiddenLabel>
       <Definition lang="nn">Med motorferdsel meiner ein bruk av køyretøy og båt eller anna flytande eller svevande fartøy drive med motor. Det inkluderer også landing og start med motordrive luftfartøy. Med utmark meiner ein udyrka mark. I praksis vil det seie hovuddelen av strender, svaberg, vatn, myr, hei, skog og fjell. I lov om motorferdsel i utmark blir også setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligg i utmark, rekna likt med utmark.</Definition>
+      <Definition lang="nb">Med motorferdsel menes bruk av kjøretøy og båt eller annen flytende eller flyvende motordrevet fartøy. Det inkluderer også landing og start med motordrevne luftfartøy. Med utmark menes udyrket mark. I praksis vil det si mesteparten av strender, svaberg, vann, myr, hei, skog og fjell. Kommunen regulerer bruk av motorferdsel i utmark.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
       <Broader>tema/kjoretoy</Broader>
@@ -4588,7 +4599,8 @@
       <HiddenLabel lang="nn">Trua artar</HiddenLabel>
       <HiddenLabel lang="nb">Verneverdig</HiddenLabel>
       <HiddenLabel lang="nn">Verneverdig</HiddenLabel>
-      <Definition lang="nn">Naturvern er å ta vare på mangfaldet og produksjonsevna i naturen. Til dette høyrer til dømes vernetiltak, oppretting av nasjonalparkar og landskapsvernområde og bevaring av urørt natur.</Definition>
+      <Definition lang="nn">Tiltak som blir gjort for å bevare naturområde, kulturlandskap og naturtypar.</Definition>
+      <Definition lang="nb">Tiltak som gjøres for å bevare naturområder, kulturlandskap og naturtyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kulturminnevern</Related>
       <Broader>tema/naturforvaltning</Broader>
@@ -5185,7 +5197,8 @@
       <HiddenLabel lang="nn">Kulturlandskap</HiddenLabel>
       <HiddenLabel lang="nb">Miljøplan</HiddenLabel>
       <HiddenLabel lang="nn">Miljøplan</HiddenLabel>
-      <Definition lang="nn">Landbruk er produksjon av mat ved å dyrke planter til menneskeføde, eller til bruk for dyr som blir menneskeføde. Skogbruk og husdyrhald er eigne emneord.</Definition>
+      <Definition lang="nn">Tilskot og tilrettelegging for plantekassar, parsellhagar o.l.</Definition>
+      <Definition lang="nb">Tilskudd og tilrettelegging for plantekasser, parsellhager o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -6359,7 +6372,8 @@
       <HiddenLabel lang="nn">Støyskjerming</HiddenLabel>
       <HiddenLabel lang="nb">Trafikkstøy</HiddenLabel>
       <HiddenLabel lang="nn">Trafikkstøy</HiddenLabel>
-      <Definition lang="nn">Blir rekna som forureining, og er eit av dei miljøproblema som rammar flest menneske i Noreg. Dei fire viktigaste støykjeldene er vegtrafikk, fly, jernbane og industri.</Definition>
+      <Definition lang="nn">Tiltak og tilskot til tiltak som skal redusere støy frå fly, jarnbane, vegtrafikk og industri.</Definition>
+      <Definition lang="nb">Tiltak og tilskudd til tiltak som skal begrense støy fra fly, jernbane, veitrafikk og industri.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
@@ -7141,6 +7155,7 @@
       <HiddenLabel lang="nb">Miljøvern</HiddenLabel>
       <HiddenLabel lang="nn">Miljøvern</HiddenLabel>
       <Definition lang="nn">Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk, landbruk m.m.</Definition>
+      <Definition lang="nb">Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
       <Related>ord/avlopshandtering</Related>
@@ -7173,6 +7188,8 @@
       <HiddenLabel lang="nn">Eutrofiering</HiddenLabel>
       <HiddenLabel lang="nb">Vassdragsforvaltning</HiddenLabel>
       <HiddenLabel lang="nn">Vassdragsforvaltning</HiddenLabel>
+      <Definition lang="nn">Kommunen sitt arbeid med forvalting av vassdrag og informasjon til grunneigarar.</Definition>
+      <Definition lang="nb">Kommunens arbeid med forvaltning av vassdrag og informasjon til grunneiere.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
@@ -7369,7 +7386,8 @@
       <HiddenLabel lang="nn">Viltfond</HiddenLabel>
       <HiddenLabel lang="nb">Storvilt</HiddenLabel>
       <HiddenLabel lang="nn">Storvilt</HiddenLabel>
-      <Definition lang="nn">Arbeidet i med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak. I nokre tilfelle ligg myndigheita hos Direktoratet for naturforvaltning.</Definition>
+      <Definition lang="nn">Arbeidet med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</Definition>
+      <Definition lang="nb">Arbeidet med å bevare, øke, høste eller avgrense viltbestander. I de fleste tilfeller blir arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
