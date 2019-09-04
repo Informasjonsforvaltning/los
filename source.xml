@@ -760,7 +760,8 @@
       <HiddenLabel lang="nn">Terminoppgåve</HiddenLabel>
       <HiddenLabel lang="nb">Altinn</HiddenLabel>
       <HiddenLabel lang="nn">Altinn</HiddenLabel>
-      <Definition lang="nn">Ei avgift betalt av arbeidsgjevar. Det er ulike satsar for dei fem sonene i landet. Det er den registrerte adressa til verksemda og ikkje dei tilsette sin bustadkommune som avgjer kva sone ein er i.</Definition>
+      <Definition lang="nn">Arbeidsgjevaravgift er ein skatt som arbeidsgjevar betaler. </Definition>
+      <Definition lang="nb">Arbeidsgiveravgift er en skatt som arbeidsgiver betaler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
       <Broader>tema/offentlige-avgifter</Broader>
@@ -1149,7 +1150,8 @@
       <HiddenLabel lang="nn">Bygdeutviklingsmidlar</HiddenLabel>
       <HiddenLabel lang="nb">Etablererpakke</HiddenLabel>
       <HiddenLabel lang="nn">Etablerarpakke</HiddenLabel>
-      <Definition lang="nn">Å starte ei bedrift/verksemd.</Definition>
+      <Definition lang="nn">Godkjenning, sertifisering, råd og rettleiing o.l.</Definition>
+      <Definition lang="nb">Godkjenning, sertifisering, råd og veiledning o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
@@ -2188,7 +2190,8 @@
       <HiddenLabel lang="nn">Videosal</HiddenLabel>
       <HiddenLabel lang="nb">Filmframvising</HiddenLabel>
       <HiddenLabel lang="nn">Filmframvising</HiddenLabel>
-      <Definition lang="nn">Framsyning og omsetning av film eller videogram i næring må ikkje skje utan løyve frå kommunestyret eller den kommunestyret har gitt fullmakt. Dette gjeld ikkje omsetning av film eller videogram for vidareomsetning.</Definition>
+      <Definition lang="nn">Kommunen gir løyve til å vise film i næringsformål.</Definition>
+      <Definition lang="nb">Kommunen gir tillatelser til å vise film i næringsøyemed.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
       <Broader>tema/handel-og-service</Broader>
@@ -4002,7 +4005,8 @@
       <HiddenLabel lang="nn">Bu- og driveplikt</HiddenLabel>
       <HiddenLabel lang="nb">Jordskifte</HiddenLabel>
       <HiddenLabel lang="nn">Jordskifte</HiddenLabel>
-      <Definition lang="nn">Eigedom som er nytta eller kan nyttast til jordbruk eller skogbruk. Eigedom, eller rettar som ligg til eigedommen, kan ikkje delast utan samtykke frå departementet. Til dette høyrer odel og bu- og driveplikt.</Definition>
+      <Definition lang="nn">Kommunen er styresmakt for søknader om fritak frå driveplikt og buplikt, søknad om konsesjon, løyve til tiltak eller deling av eigedomen.</Definition>
+      <Definition lang="nb">Kommunen er myndighet for søknader om fritak fra driveplikt og boplikt, søknad om konsesjon, tillatelser til tiltak eller deling av eiendommen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
@@ -5222,7 +5226,8 @@
       <HiddenLabel lang="nn">Plantehelse</HiddenLabel>
       <HiddenLabel lang="nb">Sprøytemidler</HiddenLabel>
       <HiddenLabel lang="nn">Sprøytemiddel</HiddenLabel>
-      <Definition lang="nn">Å oppretthalde god plantehelse og redusere risikoen for introduksjon og spreiing av planteskadegjerarar med plantedelar, trelast, jord m.m. Mattilsynet har ansvaret for dette her i landet.</Definition>
+      <Definition lang="nn">Kjøp og bruk av plantevernmiddel krev gyldig autorisasjonsprov.</Definition>
+      <Definition lang="nb">Kjøp og bruk av plantevernmidler krever gyldig autorisasjonsbevis.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skadedyr</Related>
       <Broader>tema/landbruk</Broader>
@@ -6023,7 +6028,8 @@
       <HiddenLabel lang="nn">Verna skog</HiddenLabel>
       <HiddenLabel lang="nb">Avvirking</HiddenLabel>
       <HiddenLabel lang="nn">Avverking</HiddenLabel>
-      <Definition lang="nn">Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert. Jordbruk er eige emneord.</Definition>
+      <Definition lang="nn">Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert.</Definition>
+      <Definition lang="nn">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
