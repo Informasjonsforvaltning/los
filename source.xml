@@ -3363,6 +3363,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
    </Concept>
+   <Concept path="ord/skattemelding-for-formue-og-inntektsskatt">
+      <PrefLabel lang="en">Tax declaration for wealth tax and income tax</PrefLabel>
+      <PrefLabel lang="nb">Skattemelding for formue- og inntektsskatt</PrefLabel>
+      <PrefLabel lang="nn">Skattemelding for formue- og inntektsskatt</PrefLabel>
+      <HiddenLabel lang="nb">Selvangivelse</HiddenLabel>
+      <HiddenLabel lang="nn">Sjølvmelding</HiddenLabel>
+      <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.<Definition>
+      <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.<Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
+   </Concept>
    <Concept path="ord/innbyggerinitiativ">
       <PrefLabel lang="en">Citizen initiative</PrefLabel>
       <PrefLabel lang="nb">Innbyggerinitiativ</PrefLabel>
