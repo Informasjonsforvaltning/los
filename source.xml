@@ -1756,7 +1756,7 @@
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/skatt-og-likning</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/eksamen">
       <PrefLabel lang="en">Exams</PrefLabel>
@@ -3424,7 +3424,7 @@
       <HiddenLabel lang="nn">Forskotstrekk</HiddenLabel>
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-likning</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/internett">
       <PrefLabel lang="en">Internet</PrefLabel>
@@ -4444,7 +4444,7 @@
       <HiddenLabel lang="nn">Førehandsskatt</HiddenLabel>
       <Definition lang="nn">Alle næringsdrivande pliktar å betale skatt av næringsinntekt. Selskapsforma avgjer kven skatteplikta gjeld.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-likning</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/narmiljotilskudd">
       <PrefLabel lang="en">Local initiative funding</PrefLabel>
@@ -5878,7 +5878,7 @@
       <HiddenLabel lang="nn">Pendling</HiddenLabel>
       <Definition lang="nn">Sjølvmeldinga skal innehalde ei spesifisert oppstilling over all bruttoformue og bruttoinntekt, frådragspostar og andre nødvendige opplysningar. Alle personlege skatteytarar får i utgangspunktet tilsendt ei førehandsutfylt sjølvmelding. Fristen for å levere sjølvmeldinga er 30. april.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-likning</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/servering">
       <PrefLabel lang="en">Catering</PrefLabel>
@@ -5938,7 +5938,7 @@
       <Definition lang="nn">Opplysningar om inntekt og formue frå tidlegare likning. Grunnlag for utrekning av førehandsskatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
-      <Broader>tema/skatt-og-likning</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/skifte">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
@@ -7975,7 +7975,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/skatt-og-likning">
+   <Concept path="tema/skatt">
       <PrefLabel lang="en">Taxation</PrefLabel>
       <PrefLabel lang="nb">Skatt og likning</PrefLabel>
       <PrefLabel lang="nn">Skatt og likning</PrefLabel>
