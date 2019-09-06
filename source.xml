@@ -932,35 +932,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/arv-og-gaver">
-      <PrefLabel lang="en">Inheritance and donations</PrefLabel>
-      <PrefLabel lang="nb">Arv og gaver</PrefLabel>
-      <PrefLabel lang="nn">Arv og gåver</PrefLabel>
-      <HiddenLabel lang="nb">Gavemelding</HiddenLabel>
-      <HiddenLabel lang="nn">Gåvemelding</HiddenLabel>
-      <HiddenLabel lang="nb">Arving</HiddenLabel>
-      <HiddenLabel lang="nn">Arving</HiddenLabel>
-      <HiddenLabel lang="nb">Testament</HiddenLabel>
-      <HiddenLabel lang="nn">Testament</HiddenLabel>
-      <HiddenLabel lang="nb">Arveavgift</HiddenLabel>
-      <HiddenLabel lang="nn">Arveavgift</HiddenLabel>
-      <HiddenLabel lang="nb">Arvelater</HiddenLabel>
-      <HiddenLabel lang="nn">Arvelatar</HiddenLabel>
-      <HiddenLabel lang="nb">Livsarving</HiddenLabel>
-      <HiddenLabel lang="nn">Livsarving</HiddenLabel>
-      <HiddenLabel lang="nb">Arvemelding</HiddenLabel>
-      <HiddenLabel lang="nn">Arvemelding</HiddenLabel>
-      <HiddenLabel lang="nb">Arveoppgjør</HiddenLabel>
-      <HiddenLabel lang="nn">Arveoppgjer</HiddenLabel>
-      <HiddenLabel lang="nb">Melding om arv</HiddenLabel>
-      <HiddenLabel lang="nn">Melding om arv</HiddenLabel>
-      <Definition lang="nn">Arv- eller gåvemelding skal sendast til skatteetaten i det fylket der arvelataren (den ein arvar frå) eller gjevaren bur eller budde.</Definition>
-      <Definition lang="nn">Arv- eller gavemelding skal sendes til skatteetaten i det fylket der arvelateren (den en arver fra) eller givaren bur eller budde.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall-og-gravferd</Broader>
-      <Broader>tema/skatt-og-likning</Broader>
-      <Broader>tema/foreldre-og-foresatte</Broader>
-   </Concept>
    <Concept path="ord/avlastningsbolig">
       <PrefLabel lang="en">Auxiliary housing</PrefLabel>
       <PrefLabel lang="nb">Avlastningsbolig</PrefLabel>
