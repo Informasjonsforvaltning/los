@@ -764,7 +764,7 @@
       <Definition lang="nb">Arbeidsgiveravgift er en skatt som arbeidsgiver betaler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
       <PrefLabel lang="en">Labour market activities</PrefLabel>
@@ -1315,7 +1315,7 @@
       <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
       <Definition lang="nb">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass, et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling (ASB).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
       <Broader>tema/veg</Broader>
    </Concept>
    <Concept path="ord/vielse">
@@ -1594,7 +1594,7 @@
       <PrefLabel lang="nn">Dokumentavgift</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/dom">
       <PrefLabel lang="en">Criminal sentence</PrefLabel>
@@ -3663,7 +3663,7 @@
       <Related>ord/vannforsyning</Related>
       <Related>ord/avlopshandtering</Related>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/kommuneplan">
       <PrefLabel lang="en">Municipal plan</PrefLabel>
@@ -3812,7 +3812,7 @@
       <Definition lang="nn">Avgift som skal betalast av alle som har kringkastingsmottakar. Blir fastsett av Stortinget.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kringkasting</Related>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/krisehandtering">
       <PrefLabel lang="en">Crisis management</PrefLabel>
@@ -4204,7 +4204,7 @@
       <Definition lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/midlertidig-brukstillatelse">
       <PrefLabel lang="en">Temporary usage permit</PrefLabel>
@@ -4334,7 +4334,7 @@
       <HiddenLabel lang="nn">Bensinavgift</HiddenLabel>
       <Definition lang="nn">Motorvognavgiftene omfattar seks avgifter med til dels ulik grunngjeving og føremål. Avgiftene er knytt dels til kjøp/leige av køyretøy og dels til bruk av køyretøy. Dei ikkje-bruksavhengige avgiftene er eingongsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgifta. Til dei bruksavhengige avgiftene høyrer avgiftene på bensin og diesel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/museum">
@@ -6774,7 +6774,7 @@
       <Definition lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
-      <Broader>tema/offentlige-avgifter</Broader>
+      <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/tomtefeste">
       <PrefLabel lang="en">Ground lease</PrefLabel>
@@ -7856,10 +7856,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/offentlige-avgifter">
-      <PrefLabel lang="en">Public taxes</PrefLabel>
-      <PrefLabel lang="nb">Offentlige avgifter</PrefLabel>
-      <PrefLabel lang="nn">Offentlege avgifter</PrefLabel>
+   <Concept path="tema/avgift">
+      <PrefLabel lang="en">Taxes</PrefLabel>
+      <PrefLabel lang="nb">Avgift</PrefLabel>
+      <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skatter-og-avgifter</Broader>
    </Concept>
