@@ -1592,6 +1592,8 @@
       <PrefLabel lang="en">Stamp duty</PrefLabel>
       <PrefLabel lang="nb">Dokumentavgift</PrefLabel>
       <PrefLabel lang="nn">Dokumentavgift</PrefLabel>
+      <Definition lang="nb">Dokumentavgift er en særavgift som skal betales ved tinglysing av et dokument som overfører fast eiendom. Avgiften er på 2,5 % av markedsverdien på eiendommen på tinglysingstidspunktet. I enkelte tilfeller slipper du å betale dokumentavgift, f.eks. ved overføring av fast eiendom mellom ektefeller.</Definition>
+      <Definition lang="nn">Dokumentavgift er ei særavgift som skal betalast ved tinglysing av eit dokument som overfører fast eigendom. Avgifta er på 2,5 % av marknadsverdien på eigendommen på tinglysingstidspunktet. I enkelte tilfelle slepp du å betale dokumentavgift, f.eks. ved overføring av fast eigendom mellom ektefeller.</Definition>      
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/avgift</Broader>
