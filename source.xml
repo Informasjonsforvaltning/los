@@ -5840,47 +5840,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/selvangivelse">
-      <PrefLabel lang="en">Tax return</PrefLabel>
-      <PrefLabel lang="nb">Selvangivelse</PrefLabel>
-      <PrefLabel lang="nn">Sjølvmelding</PrefLabel>
-      <HiddenLabel lang="nb">Fradrag</HiddenLabel>
-      <HiddenLabel lang="nn">Frådrag</HiddenLabel>
-      <HiddenLabel lang="nb">Aksjer</HiddenLabel>
-      <HiddenLabel lang="nn">Aksjar</HiddenLabel>
-      <HiddenLabel lang="nb">Skatteberegning</HiddenLabel>
-      <HiddenLabel lang="nn">Skatteberekning</HiddenLabel>
-      <HiddenLabel lang="nb">Særfradrag</HiddenLabel>
-      <HiddenLabel lang="nn">Særfrådrag</HiddenLabel>
-      <HiddenLabel lang="nb">Skatteutrekning</HiddenLabel>
-      <HiddenLabel lang="nn">Skatteutrekning</HiddenLabel>
-      <HiddenLabel lang="nb">Minstefradrag</HiddenLabel>
-      <HiddenLabel lang="nn">Minstefrådrag</HiddenLabel>
-      <HiddenLabel lang="nb">Verdipapirer</HiddenLabel>
-      <HiddenLabel lang="nn">Verdipapir</HiddenLabel>
-      <HiddenLabel lang="nb">Restskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Restskatt</HiddenLabel>
-      <HiddenLabel lang="nb">Skattefradrag</HiddenLabel>
-      <HiddenLabel lang="nn">Skattefrådrag</HiddenLabel>
-      <HiddenLabel lang="nb">Realisasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Realisasjon</HiddenLabel>
-      <HiddenLabel lang="nb">Likningsattest</HiddenLabel>
-      <HiddenLabel lang="nn">Likningsattest</HiddenLabel>
-      <HiddenLabel lang="nb">Skatteoppgjør</HiddenLabel>
-      <HiddenLabel lang="nn">Skatteoppgjer</HiddenLabel>
-      <HiddenLabel lang="nb">Altinn</HiddenLabel>
-      <HiddenLabel lang="nn">Altinn</HiddenLabel>
-      <HiddenLabel lang="nb">Sjølmelding</HiddenLabel>
-      <HiddenLabel lang="nn">Sjølvmelding</HiddenLabel>
-      <HiddenLabel lang="nb">Ligningsattest</HiddenLabel>
-      <HiddenLabel lang="nn">Likningsattest</HiddenLabel>
-      <HiddenLabel lang="nb">Pendling</HiddenLabel>
-      <HiddenLabel lang="nn">Pendling</HiddenLabel>
-      <Definition lang="nn">Sjølvmeldinga skal innehalde ei spesifisert oppstilling over all bruttoformue og bruttoinntekt, frådragspostar og andre nødvendige opplysningar. Alle personlege skatteytarar får i utgangspunktet tilsendt ei førehandsutfylt sjølvmelding. Fristen for å levere sjølvmeldinga er 30. april.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
-   </Concept>
-   <Concept path="ord/servering">
+     <Concept path="ord/servering">
       <PrefLabel lang="en">Catering</PrefLabel>
       <PrefLabel lang="nb">Servering</PrefLabel>
       <PrefLabel lang="nn">Servering</PrefLabel>
