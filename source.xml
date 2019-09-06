@@ -1593,7 +1593,7 @@
       <PrefLabel lang="nb">Dokumentavgift</PrefLabel>
       <PrefLabel lang="nn">Dokumentavgift</PrefLabel>
       <Definition lang="nb">Dokumentavgift er en særavgift som skal betales ved tinglysing av et dokument som overfører fast eiendom. Avgiften er på 2,5 % av markedsverdien på eiendommen på tinglysingstidspunktet. I enkelte tilfeller slipper du å betale dokumentavgift, f.eks. ved overføring av fast eiendom mellom ektefeller.</Definition>
-      <Definition lang="nn">Dokumentavgift er ei særavgift som skal betalast ved tinglysing av eit dokument som overfører fast eigendom. Avgifta er på 2,5 % av marknadsverdien på eigendommen på tinglysingstidspunktet. I enkelte tilfelle slepp du å betale dokumentavgift, f.eks. ved overføring av fast eigendom mellom ektefeller.</Definition>      
+      <Definition lang="nn">Dokumentavgift er ei særavgift som skal betalast ved tinglysing av eit dokument som overfører fast eigendom. Avgifta er på 2,5 % av marknadsverdien på eigendommen på tinglysingstidspunktet. I enkelte tilfelle slepp du å betale dokumentavgift, f.eks. ved overføring av fast eigendom mellom ektefeller.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/avgift</Broader>
@@ -3400,10 +3400,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/inntekts-og-formuesskatt">
-      <PrefLabel lang="en">Income and wealth tax</PrefLabel>
-      <PrefLabel lang="nb">Inntekts- og formuesskatt</PrefLabel>
-      <PrefLabel lang="nn">Inntekts- og formuesskatt</PrefLabel>
+   <Concept path="ord/formue-og-inntektsskatt">
+      <PrefLabel lang="en">Wealth tax and income tax</PrefLabel>
+      <PrefLabel lang="nb">Formue- og inntektsskatt</PrefLabel>
+      <PrefLabel lang="nn">Formue- og inntektsskatt</PrefLabel>
       <HiddenLabel lang="nb">Toppskatt</HiddenLabel>
       <HiddenLabel lang="nn">Toppskatt</HiddenLabel>
       <HiddenLabel lang="nb">Inntektsoppgave</HiddenLabel>
@@ -3425,6 +3425,7 @@
       <HiddenLabel lang="nb">Forskuddstrekk</HiddenLabel>
       <HiddenLabel lang="nn">Forskotstrekk</HiddenLabel>
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
+      <Definition lang="nn">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
    </Concept>
