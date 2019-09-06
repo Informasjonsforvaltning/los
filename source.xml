@@ -3801,19 +3801,6 @@
       <Related>ord/kringkastingsavgift</Related>
       <Broader>tema/media-og-kommunikasjon</Broader>
    </Concept>
-   <Concept path="ord/kringkastingsavgift">
-      <PrefLabel lang="en">Broadcasting licence fee</PrefLabel>
-      <PrefLabel lang="nb">Kringkastingsavgift</PrefLabel>
-      <PrefLabel lang="nn">Kringkastingsavgift</PrefLabel>
-      <HiddenLabel lang="nb">Lisensavgift</HiddenLabel>
-      <HiddenLabel lang="nn">Lisensavgift</HiddenLabel>
-      <HiddenLabel lang="nb">TV-lisens</HiddenLabel>
-      <HiddenLabel lang="nn">TV-lisens</HiddenLabel>
-      <Definition lang="nn">Avgift som skal betalast av alle som har kringkastingsmottakar. Blir fastsett av Stortinget.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kringkasting</Related>
-      <Broader>tema/avgift</Broader>
-   </Concept>
    <Concept path="ord/krisehandtering">
       <PrefLabel lang="en">Crisis management</PrefLabel>
       <PrefLabel lang="nb">Krisehåndtering</PrefLabel>
