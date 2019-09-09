@@ -1493,13 +1493,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/dap">
-      <PrefLabel lang="en">Baptism</PrefLabel>
-      <PrefLabel lang="nb">Dåp </PrefLabel>
-      <PrefLabel lang="nn">Dåp </PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
-   </Concept>
    <Concept path="ord/dagpenger">
       <PrefLabel lang="en">Unemployment benefit</PrefLabel>
       <PrefLabel lang="nb">Dagpenger</PrefLabel>
@@ -1826,7 +1819,6 @@
       <Related>ord/notarius-publicus</Related>
       <Related>ord/tros-og-livssynssamfunn</Related>
       <Broader>tema/samliv</Broader>
-      <Broader>tema/religion-og-livssyn</Broader>
    </Concept>
    <Concept path="ord/elbil">
       <PrefLabel lang="en">Electric cars</PrefLabel>
@@ -2973,7 +2965,6 @@
       <Definition lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</Definition>
       <Definition lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
@@ -3701,13 +3692,6 @@
       <Definition lang="nb">Biologisk prosess der planterester og annen organisk materiale blir brutt ned. Kommunen lager egen avtale for de som ønsker å kompostere hjemme.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avfallshandtering</Broader>
-   </Concept>
-   <Concept path="ord/konfirmasjon">
-      <PrefLabel lang="en">Confirmation</PrefLabel>
-      <PrefLabel lang="nb">Konfirmasjon</PrefLabel>
-      <PrefLabel lang="nn">Konfirmasjon</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
    </Concept>
    <Concept path="ord/konkurs">
       <PrefLabel lang="en">Bankruptcy</PrefLabel>
@@ -6177,26 +6161,6 @@
       <Broader>tema/innbyggerrettigheter</Broader>
       <Broader>tema/innvandring-og-innreise</Broader>
    </Concept>
-   <Concept path="ord/statskirke">
-      <PrefLabel lang="en">State church</PrefLabel>
-      <PrefLabel lang="nb">Statskirke</PrefLabel>
-      <PrefLabel lang="nn">Statskyrkje</PrefLabel>
-      <HiddenLabel lang="nb">Kyrkjelyd</HiddenLabel>
-      <HiddenLabel lang="nn">Kyrkjelyd</HiddenLabel>
-      <HiddenLabel lang="nb">Kirken</HiddenLabel>
-      <HiddenLabel lang="nn">Kyrkja</HiddenLabel>
-      <HiddenLabel lang="nb">Innmelding</HiddenLabel>
-      <HiddenLabel lang="nn">Innmelding</HiddenLabel>
-      <HiddenLabel lang="nb">Menighet</HiddenLabel>
-      <HiddenLabel lang="nn">Menigheit</HiddenLabel>
-      <HiddenLabel lang="nb">Den norske kirke</HiddenLabel>
-      <HiddenLabel lang="nn">Den norske kyrkja</HiddenLabel>
-      <HiddenLabel lang="nb">Utmelding</HiddenLabel>
-      <HiddenLabel lang="nn">Utmelding</HiddenLabel>
-      <Definition lang="nn">Den norske kyrkja er eit evangelsk luthersk kyrkjesamfunn. Til dette emneordet høyrer dåp og kyrkjeleg konfirmasjon. For tilsvarande seremoniar i andre trus- og livssynssamfunn sjå emneordet trus- og livssynssamfunn. Ekteskap og gravferd er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
-   </Concept>
    <Concept path="ord/stonad-ved-arbeidsmarkedstiltak">
       <PrefLabel lang="en">Job creation grant</PrefLabel>
       <PrefLabel lang="nb">Stønad ved arbeidsmarkedstiltak</PrefLabel>
@@ -6765,18 +6729,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/vegtrafikk</Broader>
    </Concept>
-   <Concept path="ord/tros-og-livssynssamfunn">
-      <PrefLabel lang="en">Religious and ethnic communities</PrefLabel>
-      <PrefLabel lang="nb">Tros- og livssynssamfunn</PrefLabel>
-      <PrefLabel lang="nn">Trus- og livssynssamfunn</PrefLabel>
-      <HiddenLabel lang="nb">Trossamfunn</HiddenLabel>
-      <HiddenLabel lang="nn">Trussamfunn</HiddenLabel>
-      <Definition lang="nn">Trus- og livssynssamfunn utanom Den norske kyrkja. Ekteskap og gravferd er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ekteskap</Related>
-      <Broader>tema/religion-og-livssyn</Broader>
-   </Concept>
-   <Concept path="ord/trygghetsalarm">
+     <Concept path="ord/trygghetsalarm">
       <PrefLabel lang="en">Personal safety alarm</PrefLabel>
       <PrefLabel lang="nb">Trygghetsalarm</PrefLabel>
       <PrefLabel lang="nn">Tryggleiksalarm</PrefLabel>
@@ -7852,7 +7805,7 @@
       <PrefLabel lang="nb">Religion og livssyn</PrefLabel>
       <PrefLabel lang="nn">Religion og livssyn</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="tema/rettslige-sporsmal">
       <PrefLabel lang="en">Legal matters</PrefLabel>
