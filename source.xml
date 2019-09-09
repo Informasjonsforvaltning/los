@@ -4247,14 +4247,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/minstepensjon">
-      <PrefLabel lang="en">Basic pension</PrefLabel>
-      <PrefLabel lang="nb">Minstepensjon</PrefLabel>
-      <PrefLabel lang="nn">Minstepensjon</PrefLabel>
-      <Definition lang="nn">Ei garantert minste pensjonsyting frå folketrygda. Gjeld for pensjonistar som har full trygdetid (40 år) og får ugraderte ytingar. Blir utbetalt uavhengig av tidlegare inntekt.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
-   </Concept>
    <Concept path="ord/mobbing">
       <PrefLabel lang="en">Bullying</PrefLabel>
       <PrefLabel lang="nb">Mobbing</PrefLabel>
