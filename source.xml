@@ -4476,31 +4476,12 @@
       <Related>ord/kulturminnevern</Related>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/norsk-sprak">
-      <PrefLabel lang="en">Norwegian language</PrefLabel>
-      <PrefLabel lang="nb">Norsk språk</PrefLabel>
-      <PrefLabel lang="nn">Norsk språk</PrefLabel>
-      <HiddenLabel lang="nb">Målform</HiddenLabel>
-      <HiddenLabel lang="nn">Målform</HiddenLabel>
-      <HiddenLabel lang="nb">Bokmål</HiddenLabel>
-      <HiddenLabel lang="nn">Bokmål</HiddenLabel>
-      <HiddenLabel lang="nb">Sidemål</HiddenLabel>
-      <HiddenLabel lang="nn">Sidemål</HiddenLabel>
-      <HiddenLabel lang="nb">Nynorsk</HiddenLabel>
-      <HiddenLabel lang="nn">Nynorsk</HiddenLabel>
-      <Definition lang="nn">Dei to målformene bokmål og nynorsk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norskopplaring</Related>
-      <Related>ord/sarskilt-norskopplaring</Related>
-      <Broader>tema/sprak</Broader>
-   </Concept>
    <Concept path="ord/norskopplaring">
       <PrefLabel lang="en">Norwegian language and social studies</PrefLabel>
       <PrefLabel lang="nb">Norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål. Omsetjing, samisk språk, språkkurs- og test og særskilt norskopplæring er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norsk-sprak</Related>
       <Related>ord/sprakkurs-og-spraktest</Related>
       <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/integrering</Broader>
@@ -5635,7 +5616,6 @@
       <HiddenLabel lang="nn">Tospråkleg fagopplæring</HiddenLabel>
       <Definition lang="nn">Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge delar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norsk-sprak</Related>
       <Broader>tema/grunnskoleopplaring</Broader>
    </Concept>
    <Concept path="ord/samboerskap">
@@ -5657,20 +5637,6 @@
       <Definition lang="nn">Alternativ til fengselsstraff når det elles ikkje ville ha vorte dømt strengare straff enn fengsel i eitt år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
-   </Concept>
-   <Concept path="ord/samisk-sprak">
-      <PrefLabel lang="en">Sami language</PrefLabel>
-      <PrefLabel lang="nb">Samisk språk</PrefLabel>
-      <PrefLabel lang="nn">Samisk språk</PrefLabel>
-      <HiddenLabel lang="nb">Lulesamisk</HiddenLabel>
-      <HiddenLabel lang="nn">Lulesamisk</HiddenLabel>
-      <HiddenLabel lang="nb">Nordsamisk</HiddenLabel>
-      <HiddenLabel lang="nn">Nordsamisk</HiddenLabel>
-      <HiddenLabel lang="nb">Sørsamisk</HiddenLabel>
-      <HiddenLabel lang="nn">Sørsamisk</HiddenLabel>
-      <Definition lang="nn">Gruppe av uralske språk/dialektar. Blir tala frå Kolahalvøya og dei nordlege delane av Finland, Sverige og Noreg sør til Engerdal i Hedmark. Blir delt i austsamisk, sentralsamisk og sørsamisk. Seks kommunar har samisk som forvaltningsspråk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/sprak</Broader>
    </Concept>
    <Concept path="ord/samlivsbrudd">
       <PrefLabel lang="en">Relationship break-up</PrefLabel>
@@ -6078,7 +6044,7 @@
       <Definition lang="nn">Opplæring til utlendingar som har opphalds- eller arbeidsløyve som dannar grunnlag for busetjingsløyve. Opplæringa består av norsk og samfunnskunnskap, til saman 300 timar. Opplæringa i samfunnskunnskap skal vere på eit språk som deltakaren forstår.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/norskopplaring</Related>
-      <Broader>tema/sprak</Broader>
+      <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/standardisering">
       <PrefLabel lang="en">Standardisation</PrefLabel>
@@ -6557,10 +6523,11 @@
       <HiddenLabel lang="nb">Oversetting</HiddenLabel>
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
       <Definition lang="nn">Å tolke eller gje att meininga i ein tekst på eit anna språk.</Definition>
+      <Definition lang="nb">Å tolke eller gjengi meningen i en tekst på et annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/dovetolk</Related>
       <Broader>tema/integrering</Broader>
-      <Broader>tema/sprak</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/toll">
       <PrefLabel lang="en">Customs</PrefLabel>
@@ -7790,13 +7757,6 @@
       <PrefLabel lang="nn">Skulemiljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
-   </Concept>
-   <Concept path="tema/sprak">
-      <PrefLabel lang="en">Languages</PrefLabel>
-      <PrefLabel lang="nb">Språk</PrefLabel>
-      <PrefLabel lang="nn">Språk</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/studiefinansiering">
       <PrefLabel lang="en">Student finances</PrefLabel>
