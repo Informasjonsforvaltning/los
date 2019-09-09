@@ -2178,23 +2178,7 @@
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
-   <Concept path="ord/flagg">
-      <PrefLabel lang="en">Flags</PrefLabel>
-      <PrefLabel lang="nb">Flagg</PrefLabel>
-      <PrefLabel lang="nn">Flagg</PrefLabel>
-      <HiddenLabel lang="nb">Flaggdager</HiddenLabel>
-      <HiddenLabel lang="nn">Flaggdagar</HiddenLabel>
-      <HiddenLabel lang="nb">Flaggregler</HiddenLabel>
-      <HiddenLabel lang="nn">Flaggreglar</HiddenLabel>
-      <HiddenLabel lang="nb">Flagging</HiddenLabel>
-      <HiddenLabel lang="nn">Flagging</HiddenLabel>
-      <HiddenLabel lang="nb">Flaggbruk</HiddenLabel>
-      <HiddenLabel lang="nn">Flaggbruk</HiddenLabel>
-      <Definition lang="nn">Symbol for nasjon eller geografisk region. Reglar for bruk av flagget. Flaggdagar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/flagg-og-ordener</Broader>
-   </Concept>
-   <Concept path="ord/flomvarsel">
+     <Concept path="ord/flomvarsel">
       <PrefLabel lang="en">Flood warning</PrefLabel>
       <PrefLabel lang="nb">Flomvarsel</PrefLabel>
       <PrefLabel lang="nn">Flaumvarsel</PrefLabel>
@@ -2412,22 +2396,6 @@
       <Definition lang="nn">Ei behovsprøvd yting til alders- og uførepensjonistar som forsørgjer ektefelle og/eller barn under 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
-   </Concept>
-   <Concept path="ord/fortjenstmedaljer-og-ordener">
-      <PrefLabel lang="en">Honours and decorations</PrefLabel>
-      <PrefLabel lang="nb">Fortjenstmedaljer og ordener</PrefLabel>
-      <PrefLabel lang="nn">Fortenestmedaljar og ordenar</PrefLabel>
-      <HiddenLabel lang="nb">Kongens fortenestmedalje</HiddenLabel>
-      <HiddenLabel lang="nn">Kongens fortenestmedalje</HiddenLabel>
-      <HiddenLabel lang="nb">St. Olavs orden</HiddenLabel>
-      <HiddenLabel lang="nn">St. Olavs orden</HiddenLabel>
-      <HiddenLabel lang="nb">Kongens fortjenestemedalje</HiddenLabel>
-      <HiddenLabel lang="nn">Kongens fortenestemedalje</HiddenLabel>
-      <HiddenLabel lang="nb">Kongens fortjenstmedalje</HiddenLabel>
-      <HiddenLabel lang="nn">Kongens fortenestmedalje</HiddenLabel>
-      <Definition lang="nn">Søknader om tildeling av Den Kongelege Norske St. Olavs orden og Kongens fortenestmedalje. Søknaden skal stilast til H.M. Kongen og sendast via Fylkesmannen.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/flagg-og-ordener</Broader>
    </Concept>
    <Concept path="ord/forurenset-grunn">
       <PrefLabel lang="en">Polluted ground</PrefLabel>
@@ -7363,13 +7331,6 @@
       <PrefLabel lang="nn">Fiske, fangst og akvakultur</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
-   </Concept>
-   <Concept path="tema/flagg-og-ordener">
-      <PrefLabel lang="en">Flags and medals</PrefLabel>
-      <PrefLabel lang="nb">Flagg og ordener</PrefLabel>
-      <PrefLabel lang="nn">Flagg og ordenar</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/flytting">
       <PrefLabel lang="en">Moving home</PrefLabel>
