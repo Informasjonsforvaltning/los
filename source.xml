@@ -1817,7 +1817,6 @@
       <Definition lang="nn">Ei samlivspakt mellom mann og kvinne. Det er fleire vilkår for at ein kan inngå ekteskap, m.a. at ein må ha fylt 18 år, ikkje vera i nær slekt og ha lovleg opphald i Noreg. Det er folkeregisteret som skal prøve ekteskapsvilkåra. Medrekna alle former for vigsler i inn- og utland, ektepakt, tinglysing av ektepakt m.m. Partenerskap er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/notarius-publicus</Related>
-      <Related>ord/tros-og-livssynssamfunn</Related>
       <Broader>tema/samliv</Broader>
    </Concept>
    <Concept path="ord/elbil">
@@ -2101,7 +2100,7 @@
       <PrefLabel lang="nn">Feriepengar</PrefLabel>
       <Definition lang="nn">Feriepengar må tenast opp året før ferien skal avviklast. Dersom ein ikkje har vore i arbeid året før, har ein rett på ferie, men ikkje rett til feriepengar. Ferie er eige stikkord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ferie</Related>
+      <Related>ord/ferierettigheter</Related>
       <Broader>tema/inntekt</Broader>
    </Concept>
    <Concept path="ord/festival">
@@ -3415,23 +3414,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/internett">
-      <PrefLabel lang="en">Internet</PrefLabel>
-      <PrefLabel lang="nb">Internett</PrefLabel>
-      <PrefLabel lang="nn">Internett</PrefLabel>
-      <HiddenLabel lang="nb">Domenenavn</HiddenLabel>
-      <HiddenLabel lang="nn">Domenenamn</HiddenLabel>
-      <HiddenLabel lang="nb">Bredbånd</HiddenLabel>
-      <HiddenLabel lang="nn">Breiband</HiddenLabel>
-      <HiddenLabel lang="nb">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nn">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nb">Seniorsurf</HiddenLabel>
-      <HiddenLabel lang="nn">Seniorsurf</HiddenLabel>
-      <Definition lang="nn">Internett er eit verdsomfattande datanettverk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/telepris</Related>
-      <Broader>tema/media-og-kommunikasjon</Broader>
-   </Concept>
    <Concept path="ord/introduksjonsprogram-for-innvandrere">
       <PrefLabel lang="en">Introduction scheme for refugees</PrefLabel>
       <PrefLabel lang="nb">Introduksjonsprogram for innvandrere</PrefLabel>
@@ -3755,32 +3737,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/energibruk</Related>
       <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
-   <Concept path="ord/kringkasting">
-      <PrefLabel lang="en">Broadcasting</PrefLabel>
-      <PrefLabel lang="nb">Kringkasting</PrefLabel>
-      <PrefLabel lang="nn">Kringkasting</PrefLabel>
-      <HiddenLabel lang="nb">Fjernsyn</HiddenLabel>
-      <HiddenLabel lang="nn">Fjernsyn</HiddenLabel>
-      <HiddenLabel lang="nb">Sendetid</HiddenLabel>
-      <HiddenLabel lang="nn">Sendetid</HiddenLabel>
-      <HiddenLabel lang="nb">Radio</HiddenLabel>
-      <HiddenLabel lang="nn">Radio</HiddenLabel>
-      <HiddenLabel lang="nb">Lokal-TV</HiddenLabel>
-      <HiddenLabel lang="nn">Lokal-TV</HiddenLabel>
-      <HiddenLabel lang="nb">Lokalradio</HiddenLabel>
-      <HiddenLabel lang="nn">Lokalradio</HiddenLabel>
-      <HiddenLabel lang="nb">Kabel-TV</HiddenLabel>
-      <HiddenLabel lang="nn">Kabel-TV</HiddenLabel>
-      <HiddenLabel lang="nb">TV</HiddenLabel>
-      <HiddenLabel lang="nn">TV</HiddenLabel>
-      <HiddenLabel lang="nb">Frekvenstillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Frekvensløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Lokalfjernsyn</HiddenLabel>
-      <HiddenLabel lang="nn">Lokalfjernsyn</HiddenLabel>
-      <Definition lang="nn">Med kringkasting meiner ein utsending av tale, musikk, bilde og liknande med radiobølgjer eller over tråd. Kringkastingsavgift er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/media-og-kommunikasjon</Broader>
    </Concept>
    <Concept path="ord/krisehandtering">
       <PrefLabel lang="en">Crisis management</PrefLabel>
@@ -5166,26 +5122,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
-   <Concept path="ord/post">
-      <PrefLabel lang="en">Mail</PrefLabel>
-      <PrefLabel lang="nb">Post</PrefLabel>
-      <PrefLabel lang="nn">Post</PrefLabel>
-      <HiddenLabel lang="nb">Adresseforandring</HiddenLabel>
-      <HiddenLabel lang="nn">Adresseendring</HiddenLabel>
-      <HiddenLabel lang="nb">Postadressebok</HiddenLabel>
-      <HiddenLabel lang="nn">Postadressebok</HiddenLabel>
-      <HiddenLabel lang="nb">Omadressering</HiddenLabel>
-      <HiddenLabel lang="nn">Omadressering</HiddenLabel>
-      <HiddenLabel lang="nb">Postnummer</HiddenLabel>
-      <HiddenLabel lang="nn">Postnummer</HiddenLabel>
-      <HiddenLabel lang="nb">Adresseendring</HiddenLabel>
-      <HiddenLabel lang="nn">Adresseendring</HiddenLabel>
-      <HiddenLabel lang="nb">Portotakst</HiddenLabel>
-      <HiddenLabel lang="nn">Portotakst</HiddenLabel>
-      <Definition lang="nn">Alle i Noreg skal sikrast grunnleggjande posttenester av høg kvalitet. Posten Norge AS er tildelt einerett til å utføre visse posttenester.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/media-og-kommunikasjon</Broader>
-   </Concept>
    <Concept path="ord/postordresalg">
       <PrefLabel lang="en">Mail-order sale</PrefLabel>
       <PrefLabel lang="nb">Postordresalg</PrefLabel>
@@ -6502,7 +6438,6 @@
       <HiddenLabel lang="nn">Mobiltelefon</HiddenLabel>
       <Definition lang="nn">Prisen på fasttelefoni, mobiltelefoni og Internett.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/internett</Related>
       <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
    <Concept path="ord/tilrettelagt-fritid">
@@ -7673,13 +7608,6 @@
       <PrefLabel lang="nn">Lovbrot og straff</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/rettslige-sporsmal</Broader>
-   </Concept>
-   <Concept path="tema/media-og-kommunikasjon">
-      <PrefLabel lang="en">Media and communication</PrefLabel>
-      <PrefLabel lang="nb">Media og kommunikasjon</PrefLabel>
-      <PrefLabel lang="nn">Media og kommunikasjon</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/naring">
       <PrefLabel lang="en">Business</PrefLabel>
