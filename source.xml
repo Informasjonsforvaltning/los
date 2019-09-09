@@ -3370,7 +3370,7 @@
       <HiddenLabel lang="nb">Selvangivelse</HiddenLabel>
       <HiddenLabel lang="nn">Sjølvmelding</HiddenLabel>
       <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.<Definition>
-      <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.<Definition>
+      <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
    </Concept>
