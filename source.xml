@@ -7239,15 +7239,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
-   <Concept path="ord/vikarfomidling">
-      <PrefLabel lang="en">Temporary employment services</PrefLabel>
-      <PrefLabel lang="nb">Vikarformidling</PrefLabel>
-      <PrefLabel lang="nn">Vikarformidling</PrefLabel>
-      <HiddenLabel lang="nb">Vikarstilling</HiddenLabel>
-      <HiddenLabel lang="nn">Vikarstilling</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
-   </Concept>
    <Concept path="ord/viltforvaltning">
       <PrefLabel lang="en">Wildlife management</PrefLabel>
       <PrefLabel lang="nb">Viltforvaltning</PrefLabel>
