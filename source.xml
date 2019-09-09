@@ -3166,22 +3166,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
-   <Concept path="ord/hovedavtalen">
-      <PrefLabel lang="en">Wage agreement</PrefLabel>
-      <PrefLabel lang="nb">Hovedavtalen</PrefLabel>
-      <PrefLabel lang="nn">Hovudavtalen</PrefLabel>
-      <HiddenLabel lang="nb">Arbeidstakerorganisasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidstakarorganisasjon</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidstagerorganisasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidstakarorganisasjon</HiddenLabel>
-      <HiddenLabel lang="nb">Hovedtariffavtalen</HiddenLabel>
-      <HiddenLabel lang="nn">Hovudtariffavtale</HiddenLabel>
-      <HiddenLabel lang="nb">Fagforening</HiddenLabel>
-      <HiddenLabel lang="nn">Fagforeining</HiddenLabel>
-      <Definition lang="nn">Avtale mellom LO og NHO. Regulerer tilhøve i arbeidslivet som ikkje er lovfesta.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
    <Concept path="ord/husdyrhold">
       <PrefLabel lang="en">Livestock farming</PrefLabel>
       <PrefLabel lang="nb">Husdyrhold</PrefLabel>
