@@ -2091,13 +2091,14 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
-   <Concept path="ord/ferie">
-      <PrefLabel lang="en">Holidays</PrefLabel>
-      <PrefLabel lang="nb">Ferie</PrefLabel>
-      <PrefLabel lang="nn">Ferie</PrefLabel>
+   <Concept path="ord/ferierettigheter">
+      <PrefLabel lang="en">Holiday right</PrefLabel>
+      <PrefLabel lang="nb">Ferierettigheter</PrefLabel>
+      <PrefLabel lang="nn">Ferierettar</PrefLabel>
       <HiddenLabel lang="nb">Fellesferie</HiddenLabel>
       <HiddenLabel lang="nn">Fellesferie</HiddenLabel>
-      <Definition lang="nn">Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før. Feriepengar er eige emneord.</Definition>
+      <Definition lang="nn">Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før.</Definition>
+      <Definition lang="nb">Alle arbeidstakere har krav på fire uker pluss en dags ferie hvert kalenderår. Mange har også krav på en femte ferieuke. Den er ikke lovbestemt, men en del av lønnsoppgjøret mellom partane i arbeidslivet. Om en får utbetalt lønn i ferien er avhengig av om en hadde inntekstgivende arbeid året før.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/feriepenger</Related>
       <Broader>tema/arbeidsliv</Broader>
