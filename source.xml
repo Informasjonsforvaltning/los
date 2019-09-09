@@ -1832,16 +1832,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
-   <Concept path="ord/eldresenter">
-      <PrefLabel lang="en">Senior citizen community centre</PrefLabel>
-      <PrefLabel lang="nb">Eldresenter</PrefLabel>
-      <PrefLabel lang="nn">Eldresenter</PrefLabel>
-      <HiddenLabel lang="nb">Seniorsenter</HiddenLabel>
-      <HiddenLabel lang="nn">Seniorsenter</HiddenLabel>
-      <Definition lang="nn">Eit eldresenter er ein open treffstad i nærmiljøet for heimebuande personar med pensjon eller trygd. Dagsenter er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/fritid</Broader>
-   </Concept>
    <Concept path="ord/energibruk">
       <PrefLabel lang="en">Energy consumption</PrefLabel>
       <PrefLabel lang="nb">Energibruk</PrefLabel>
@@ -2530,6 +2520,8 @@
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
         <PrefLabel lang="nn">Seniortilbod</PrefLabel>
+        <PrefLabel lang="nb">Eldresenter</PrefLabel>
+        <PrefLabel lang="nn">Eldresenter</PrefLabel>    
         <Definition lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</Definition>
         <Definition lang="nb">En samling aktiviteter og treffsteder for pensjonister.</Definition>
         <InScheme>ontologi/ord</InScheme>
