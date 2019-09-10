@@ -126,7 +126,8 @@
       <PrefLabel lang="nn">Båtplass</PrefLabel>
       <HiddenLabel lang="nb">Småbåthavn</HiddenLabel>
       <HiddenLabel lang="nn">Småbåthamn</HiddenLabel>
-      <Definition lang="nn">Hamn for småbåtar.</Definition>
+      <Definition lang="nn">Utleige av båtplassar og drift av småbåthamner.</Definition>
+      <Definition lang="nb">Utleie av båtplasser og drift av småbåthavner.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat</Broader>
    </Concept>
@@ -138,6 +139,8 @@
       <HiddenLabel lang="nn">Hamneavgift</HiddenLabel>
       <HiddenLabel lang="nb">Havnevesen</HiddenLabel>
       <HiddenLabel lang="nn">Hamnevesen</HiddenLabel>
+      <Definition lang="nn">Kommunale hamner kan omfatte ferjeterminalar, kaianlegg, utleige, fortøyings- og slepetenester m.m.</Definition>
+      <Definition lang="nb">Kommunale havner kan omfatte fergeterminaler, kaianlegg, utleie, fortøynings- og slepetjenester m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat</Broader>
     </Concept>
@@ -1311,8 +1314,8 @@
       <PrefLabel lang="nn">Bompengar</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
-      <Definition lang="nn">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling (ASB).</Definition>
-      <Definition lang="nb">Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass, et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling (ASB).</Definition>
+      <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
+      <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
       <Broader>tema/veg</Broader>
@@ -1814,7 +1817,8 @@
       <HiddenLabel lang="nn">Partnerskapsinngåing</HiddenLabel>
       <HiddenLabel lang="nb">Særeie</HiddenLabel>
       <HiddenLabel lang="nn">Særeige</HiddenLabel>
-      <Definition lang="nn">Ei samlivspakt mellom mann og kvinne. Det er fleire vilkår for at ein kan inngå ekteskap, m.a. at ein må ha fylt 18 år, ikkje vera i nær slekt og ha lovleg opphald i Noreg. Det er folkeregisteret som skal prøve ekteskapsvilkåra. Medrekna alle former for vigsler i inn- og utland, ektepakt, tinglysing av ektepakt m.m. Partenerskap er eige emneord.</Definition>
+      <Definition lang="nn">For å gifte seg i Noreg må ein oppfylle vilkåra. Det er Skatteetaten som skriv ut ein prøvingsattest når vilkåra er oppfylte. Kommunen er ansvarleg for borgarleg vigsel, krisesenter og barnevernet, i saker om tvangsekteskap.</Definition>
+      <Definition lang="nb">For å gifte seg i Norge må man oppfylle vilkårene. Det er Skatteetaten som skriver ut en prøvingsattest når vilkårene er oppfylt. Kommunen er ansvarlig for borgerlig vielse, krisesenter og barnevernet, i saker om tvangsekteskap.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/notarius-publicus</Related>
       <Broader>tema/samliv</Broader>
@@ -1829,6 +1833,8 @@
       <HiddenLabel lang="nn">El-bil</HiddenLabel>
       <HiddenLabel lang="nb">Ladestasjon</HiddenLabel>
       <HiddenLabel lang="nn">Ladestasjon</HiddenLabel>
+      <Definition lang="nn">Utbygging av ladestasjonar, miljørabattar på bomstasjonar og parkering, tilskot til ladestasjonar i burettslag og anna.</Definition>
+      <Definition lang="nb">Utbygging av ladestasjoner, miljørabatter på bomstasjoner og parkering, tilskudd til ladestasjoner i borettslag og annet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -4120,6 +4126,8 @@
       <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
       <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
       <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
+      <Definition lang="nn">Alle former for løysingar, tiltak og verkemiddel som gjer transport meir miljøvennleg enn det den er i dag. </Definition>
+      <Definition lang="nb">Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
       <Broader>tema/transporttilbud</Broader>
@@ -4961,7 +4969,8 @@
       <HiddenLabel lang="nn">Piggdekkpant</HiddenLabel>
       <HiddenLabel lang="nb">Piggdekkoblat</HiddenLabel>
       <HiddenLabel lang="nn">Piggdekkoblat</HiddenLabel>
-      <Definition lang="nn">Frå og med første måndag etter 2. påskedag og til og med 31. oktober er det ikkje tillate å bruke piggdekk eller kjettingar. I Nordland, Troms og Finnmark er tilsvarande periode frå og med 1. mai til og med 15. oktober.</Definition>
+      <Definition lang="nn">Kommunen kan fastsetje gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarleg  vegstøv.</Definition>
+      <Definition lang="nn">Kommunen kan fastsette gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarlig  veistøv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -5291,8 +5300,8 @@
       <HiddenLabel lang="nn">Bussbillett</HiddenLabel>
       <HiddenLabel lang="nb">Ekspressbåt</HiddenLabel>
       <HiddenLabel lang="nn">Ekspressbåt</HiddenLabel>
-      <Definition lang="nn">Billettar innan transport. Flybillett, togbillett, busbillett og båtbillett vert nytta av alle som driv offentleg transport mot betaling.</Definition>
-      <Definition lang="nb">Billetter innen transport. Flybillett, togbillett, busbillett og båtbillett vert benyttet av alle som driver offentlig transport mot betaling.</Definition>
+      <Definition lang="nn">Ordningar for billettkjøp og prisar til kollektivtrafikk og andre transportmiddel.</Definition>
+      <Definition lang="nb">Ordninger for billettkjøp og priser til kollektivtrafikk og andre transportmidler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
@@ -5302,7 +5311,8 @@
       <PrefLabel lang="nn">Reisegaranti</PrefLabel>
       <HiddenLabel lang="nb">Drosjerefusjon</HiddenLabel>
       <HiddenLabel lang="nn">Drosjerefusjon</HiddenLabel>
-      <Definition lang="nn">Garanti for at reisetilbydar skaffar alternativ transport eller erstattar alle dokumenterte kostander for raskast mogleg transport ved avvik eller forseinking av ordinær transport.</Definition>
+      <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
+      <Definition lang="nn">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
@@ -7136,7 +7146,8 @@
       <PrefLabel lang="nn">Vrakpant</PrefLabel>
       <HiddenLabel lang="nb">Bilvrak</HiddenLabel>
       <HiddenLabel lang="nn">Bilvrak</HiddenLabel>
-      <Definition lang="nn">Betaling bileigarar får ved innlevering av brukte motorkøyretøy.</Definition>
+      <Definition lang="nn">Vrakpant er ei panteordning for bil, og er eit tiltak for at fleire skal gjenvinne audlagga/gamle bilar istadenfor at dei skal stå å skade miljøet.</Definition>
+      <Definition lang="nb">Vrakpant er en panteordning for bil, og er et tiltak for at flere skal gjenvinne ødelagte/gamle biler istedenfor at de skal stå å skade miljøet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
