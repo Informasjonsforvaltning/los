@@ -2521,7 +2521,7 @@
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
         <PrefLabel lang="nn">Seniortilbod</PrefLabel>
         <PrefLabel lang="nb">Eldresenter</PrefLabel>
-        <PrefLabel lang="nn">Eldresenter</PrefLabel>    
+        <PrefLabel lang="nn">Eldresenter</PrefLabel>
         <Definition lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</Definition>
         <Definition lang="nb">En samling aktiviteter og treffsteder for pensjonister.</Definition>
         <InScheme>ontologi/ord</InScheme>
@@ -7052,6 +7052,7 @@
       <HiddenLabel lang="nb">Skoleutvalg</HiddenLabel>
       <HiddenLabel lang="nn">Skuleutval</HiddenLabel>
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
+      <Definition lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
