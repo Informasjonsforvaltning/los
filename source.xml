@@ -2788,8 +2788,6 @@
       <HiddenLabel lang="nn">Fortau</HiddenLabel>
       <HiddenLabel lang="nb">Gangsti</HiddenLabel>
       <HiddenLabel lang="nn">Gangsti</HiddenLabel>
-      <Definition lang="nn">Kommunen utviklar og vedlikeheld gongvegar og sykkelstiar.</Definition>
-      <Definition lang="nb">Kommunen utvikler og vedlikeholder gangveier og sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
    </Concept>
@@ -2817,8 +2815,6 @@
       <HiddenLabel lang="nn">Veglys</HiddenLabel>
       <HiddenLabel lang="nb">Veibelysning</HiddenLabel>
       <HiddenLabel lang="nn">Veglys</HiddenLabel>
-      <Definition lang="nn">Meldingar til kommunen om feil på gatelys.</Definition>
-      <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
@@ -2905,8 +2901,7 @@
       <HiddenLabel lang="nn">Terrenginngrep</HiddenLabel>
       <HiddenLabel lang="nb">Gravetillatelse</HiddenLabel>
       <HiddenLabel lang="nn">Graveløyve</HiddenLabel>
-      <Definition lang="nn">Kommunen gir løyve til å grave i kommunale vegar, parkområde og friområde.</Definition>
-      <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
+      <Definition lang="nn">Gravemelding skal leverast ved graving på offentleg grunn. Arbeid kan ikkje starte opp før det er gitt løyve frå kommunen. Gjeld all graving/ arbeid i jorda, t.d. graving av tomt, drenering, grøft, pilarar, gjerdepålar, merkepinnar, p-plass osb.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
@@ -4736,8 +4731,7 @@
       <HiddenLabel lang="nn">Parkeringsavgift</HiddenLabel>
       <HiddenLabel lang="nb">Parkeringsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsløyve</HiddenLabel>
-      <Definition lang="nn">Parkeringsløyve, parkeringsgebyr, regelverk for gateparkering, parkering for bevegelseshemja, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
-      <Definition lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
+      <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
    </Concept>
@@ -5849,8 +5843,8 @@
       <HiddenLabel lang="nn">Skuleveg</HiddenLabel>
       <HiddenLabel lang="nb">Skolebuss</HiddenLabel>
       <HiddenLabel lang="nn">Skulebuss</HiddenLabel>
-      <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen, som har særleg farleg eller vanskeleg skuleveg eller har nedsett funksjonsvene. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
-	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen, har særlig farlig eller vanskelig skoleveg eller har nedsatt funksjonsevne. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
+      <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
+	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskoleopplaring</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
@@ -6318,8 +6312,6 @@
       <HiddenLabel lang="nn">Sykkelsti</HiddenLabel>
       <HiddenLabel lang="nb">Sykkelparkering</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelparkering</HiddenLabel>
-      <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
-      <Definition lang="nb">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
       <Broader>tema/friluftsliv</Broader>
