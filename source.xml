@@ -6953,6 +6953,8 @@
       <HiddenLabel lang="nn">Skogsveg</HiddenLabel>
       <HiddenLabel lang="nb">Tunnelbygging</HiddenLabel>
       <HiddenLabel lang="nn">Tunellbygging</HiddenLabel>
+      <Definition lang="nn">Løyve til bygging av private vegar som landbruksvegar og utvikling av det kommunale vegnettet.</Definition>
+      <Definition lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/tekniske-tjenester</Broader>
@@ -6981,6 +6983,8 @@
       <HiddenLabel lang="nn">Privat veg</HiddenLabel>
       <HiddenLabel lang="nb">Feiebil</HiddenLabel>
       <HiddenLabel lang="nn">Feiebil</HiddenLabel>
+      <Definition lang="nn">Vedlikehald av kommunale veg, trafikktryggleik langs veg, asfaltering og grusing, haldeplassar og leskur.</Definition>
+      <Definition lang="nb">Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Broader>tema/tekniske-tjenester</Broader>
