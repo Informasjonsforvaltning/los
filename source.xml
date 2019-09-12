@@ -287,7 +287,8 @@
       <PrefLabel lang="en">International Certificate of Competence for Operators of Pleasure Craft (ICC)</PrefLabel>
       <PrefLabel lang="nb">Internasjonalt båtsertifikat (ICC)</PrefLabel>
       <PrefLabel lang="nn">Internasjonalt båtsertifikat (ICC)</PrefLabel>
-      <Definition lang="nn">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er en internasjonal standard for fritidsbåtsertifikat.</Definition>
+      <Definition lang="nn">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er ein internasjonal standard for fritidsbåtsertifikat.</Definition>
+      <Definition lang="nb">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er en internasjonal standard for fritidsbåtsertifikat.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -1973,7 +1974,8 @@
       <PrefLabel lang="nn">Fagopplæring</PrefLabel>
       <HiddenLabel lang="nb">Lærling</HiddenLabel>
       <HiddenLabel lang="nn">Lærling</HiddenLabel>
-      <Definition lang="nn">Opplæring innanfor vidaregåande opplæring. Skil seg frå anna vidaregåande opplæring ved at den involverer både lærlingen, bedrifta, skulen og yrkesopplæringsnemnda. Fører fram til yrkeskompetanse. Fagskuleutdanning er eige emneord.</Definition>
+      <Definition lang="nn">Opplæring innanfor eit fag eller eit yrke som gir kompetanseprov og/eller sveinebrev.</Definition>
+      <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
       <Broader>tema/videregaende-opplaring</Broader>
@@ -2789,6 +2791,8 @@
       <HiddenLabel lang="nn">Fortau</HiddenLabel>
       <HiddenLabel lang="nb">Gangsti</HiddenLabel>
       <HiddenLabel lang="nn">Gangsti</HiddenLabel>
+      <Definition lang="nn">Kommunen utviklar og vedlikeheld gangvegar og sykkelstiar.</Definition>
+      <Definition lang="nb">Kommunen utvikler og vedlikeholder gangveier og sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
    </Concept>
@@ -2816,6 +2820,8 @@
       <HiddenLabel lang="nn">Veglys</HiddenLabel>
       <HiddenLabel lang="nb">Veibelysning</HiddenLabel>
       <HiddenLabel lang="nn">Veglys</HiddenLabel>
+      <Definition lang="nn">Henvendelsar til kommunen om feil på gatelys.</Definition>
+      <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
@@ -2856,7 +2862,8 @@
       <HiddenLabel lang="nn">Inkasso</HiddenLabel>
       <HiddenLabel lang="nb">Livsopphold</HiddenLabel>
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
-      <Definition lang="nn">Tilbod om økonomisk rådgjeving til personar med alvorlege gjeldsproblem.</Definition>
+      <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
+      <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/privatokonomi</Broader>
       <Broader>tema/okonomiske-ytelser</Broader>
@@ -2902,7 +2909,8 @@
       <HiddenLabel lang="nn">Terrenginngrep</HiddenLabel>
       <HiddenLabel lang="nb">Gravetillatelse</HiddenLabel>
       <HiddenLabel lang="nn">Graveløyve</HiddenLabel>
-      <Definition lang="nn">Gravemelding skal leverast ved graving på offentleg grunn. Arbeid kan ikkje starte opp før det er gitt løyve frå kommunen. Gjeld all graving/ arbeid i jorda, t.d. graving av tomt, drenering, grøft, pilarar, gjerdepålar, merkepinnar, p-plass osb.</Definition>
+      <Definition lang="nn">Kommunen gir løyve til å grave i kommunale vegar, parkområde og friområde.</Definition>
+      <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
@@ -3349,6 +3357,7 @@
       <HiddenLabel lang="nb">Miljøinformasjon</HiddenLabel>
       <HiddenLabel lang="nn">Miljøinformasjon</HiddenLabel>
       <Definition lang="nn">Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast.</Definition>
+      <Definition lang="nb">Rett til innsyn og informasjon om egne personopplysninger for å ta vare på eget personvern. Det kan kreves at feilaktige eller unødvendige opplysninger skal slettes.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -4733,6 +4742,7 @@
       <HiddenLabel lang="nb">Parkeringsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsløyve</HiddenLabel>
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
+      <Definition lang="nn">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
    </Concept>
@@ -4971,7 +4981,7 @@
       <HiddenLabel lang="nb">Piggdekkoblat</HiddenLabel>
       <HiddenLabel lang="nn">Piggdekkoblat</HiddenLabel>
       <Definition lang="nn">Kommunen kan fastsetje gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarleg  vegstøv.</Definition>
-      <Definition lang="nn">Kommunen kan fastsette gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarlig  veistøv.</Definition>
+      <Definition lang="nb">Kommunen kan fastsette gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarlig  veistøv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -5313,7 +5323,7 @@
       <HiddenLabel lang="nb">Drosjerefusjon</HiddenLabel>
       <HiddenLabel lang="nn">Drosjerefusjon</HiddenLabel>
       <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
-      <Definition lang="nn">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
+      <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/transporttilbud</Broader>
    </Concept>
@@ -6313,6 +6323,8 @@
       <HiddenLabel lang="nn">Sykkelsti</HiddenLabel>
       <HiddenLabel lang="nb">Sykkelparkering</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelparkering</HiddenLabel>
+      <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
+      <Definition lang="nn">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg</Broader>
       <Broader>tema/friluftsliv</Broader>
@@ -6599,6 +6611,7 @@
       <HiddenLabel lang="nb">Trafikksikkerhetsplan</HiddenLabel>
       <HiddenLabel lang="nn">Trafikktryggleiksplan</HiddenLabel>
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
+      <Definition lang="nn">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/vegtrafikk</Broader>
    </Concept>
