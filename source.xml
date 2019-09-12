@@ -982,7 +982,8 @@
       <PrefLabel lang="nn">Avløysartilskot</PrefLabel>
       <HiddenLabel lang="nb">Avløserordning</HiddenLabel>
       <HiddenLabel lang="nn">Avløysarordning</HiddenLabel>
-      <Definition lang="nn">Tilskot til gardbrukarar slik at dei kan ta ferie og få ordna fritid eller leige inn avløysar ved sjukdom mv.</Definition>
+      <Definition lang="nn">Avløysarordningane er ein del av velferdsordningane i landbruket. Husdyrbrukarar skal få avløysing ved feriar, sjukdom o.l.</Definition>
+      <Definition lang="nb">Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -3592,7 +3593,7 @@
       <HiddenLabel lang="nb">Kloakkavgift</HiddenLabel>
       <HiddenLabel lang="nn">Kloakkavgift</HiddenLabel>
       <Definition lang="nn">Avgifter er indirekte skattar som blir lagde på omsetning av varer og tenester. Gebyr er ei betaling for offentleg eller privat utført teneste, slik som renovasjonsgebyr og feiegebyr. </Definition>
-      <Definition lang="nn">Avgifter er indirekte skatter på omsetning av varer og tjenester. Gebyr er en betaling for offentlig eller privat utført tjeneste, slik som renovasjonsgebyr og feiegebyr.</Definition>
+      <Definition lang="nb">Avgifter er indirekte skatter på omsetning av varer og tjenester. Gebyr er en betaling for offentlig eller privat utført tjeneste, slik som renovasjonsgebyr og feiegebyr.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Related>ord/renovasjon</Related>
