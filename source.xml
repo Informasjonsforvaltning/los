@@ -2898,6 +2898,7 @@
       <HiddenLabel lang="nb">Godsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Godsløyve</HiddenLabel>
       <Definition lang="nn">Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunane har det administrative ansvaret for løyveordningane. Privatpersonar eller t.d. eit idrettslag kan i einskildshøve gjennomføre transportoppdrag utan løyve.</Definition>
+      <Definition lang="nb">Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunene har det administrative ansvaret for løyveordningene. Privatpersoner eller t.d. et idrettslag kan i enkelttilfeller gjennomføre transportoppdrag uten løyve.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/yrkestransport</Broader>
    </Concept>
