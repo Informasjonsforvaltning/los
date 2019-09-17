@@ -445,10 +445,12 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="tema/veg">
-      <PrefLabel lang="en">Road</PrefLabel>
-      <PrefLabel lang="nb">Veg</PrefLabel>
-      <PrefLabel lang="nn">Veg</PrefLabel>
+   <Concept path="tema/veg-og-vegregulering">
+      <PrefLabel lang="en">Road and road regulation</PrefLabel>
+      <PrefLabel lang="nb">Veg og vegregulering</PrefLabel>
+      <PrefLabel lang="nn">Veg og vegregulering</PrefLabel>
+      <HiddenLabel lang="nn">Vegtrafikk</HiddenLabel>
+      <HiddenLabel lang="nb">Vegtrafikk</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -542,7 +544,7 @@
       <Definition lang="nn">Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense.</Definition>
       <Definition lang="nb">Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere under en viss grense.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/akvakultur">
       <PrefLabel lang="en">Fish farming</PrefLabel>
@@ -1324,7 +1326,7 @@
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vielse">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -1416,7 +1418,7 @@
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/byggekostnad">
@@ -2798,7 +2800,7 @@
       <Definition lang="nn">Kommunen utviklar og vedlikeheld gangvegar og sykkelstiar.</Definition>
       <Definition lang="nb">Kommunen utvikler og vedlikeholder gangveier og sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/garanti">
       <PrefLabel lang="en">Guarantee</PrefLabel>
@@ -2827,7 +2829,7 @@
       <Definition lang="nn">Henvendelsar til kommunen om feil på gatelys.</Definition>
       <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/gift">
@@ -4749,7 +4751,7 @@
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
       <Definition lang="nn">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
       <PrefLabel lang="en">Ombudsman for patients</PrefLabel>
@@ -6332,7 +6334,7 @@
       <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
       <Definition lang="nn">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/friluftsliv</Broader>
    </Concept>
    <Concept path="ord/tannhelsetjeneste">
@@ -6971,7 +6973,7 @@
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/landbruk</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
       <PrefLabel lang="en">Road maintenance</PrefLabel>
