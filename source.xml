@@ -1727,7 +1727,6 @@
       <HiddenLabel lang="nn">Bustadsal</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Related>ord/kontrakt</Related>
       <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/eiendomsregister">
@@ -1868,7 +1867,6 @@
       <Definition lang="nn">Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot.</Definition>
       <Definition lang="nb">Ulike måter å redusere bruken av energi. For eksempel energisparingstiltak og tilskudd.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kraftpris</Related>
       <Broader>tema/energi</Broader>
    </Concept>
    <Concept path="ord/energimerking">
@@ -1876,7 +1874,6 @@
       <PrefLabel lang="nb">Energimerking</PrefLabel>
       <PrefLabel lang="nn">Energimerking</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/etisk-forbruk</Related>
       <Broader>tema/energi</Broader>
    </Concept>
    <Concept path="ord/ergoterapi">
@@ -3844,7 +3841,6 @@
       <HiddenLabel lang="nn">Framleige</HiddenLabel>
       <Definition lang="nn">Avtalar om bruksrett til husrom mot vederlag.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kontrakt</Related>
       <Broader>tema/leie-og-utleie</Broader>
    </Concept>
    <Concept path="ord/leirskole">
