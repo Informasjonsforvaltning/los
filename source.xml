@@ -679,18 +679,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
-   <Concept path="ord/angrerett">
-      <PrefLabel lang="en">Returns and refunds</PrefLabel>
-      <PrefLabel lang="nb">Angrerett</PrefLabel>
-      <PrefLabel lang="nn">Angrerett</PrefLabel>
-      <HiddenLabel lang="nb">Angrefrist</HiddenLabel>
-      <HiddenLabel lang="nn">Angrefrist</HiddenLabel>
-      <HiddenLabel lang="nb">Bytterett</HiddenLabel>
-      <HiddenLabel lang="nn">Byterett</HiddenLabel>
-      <Definition lang="nn">Ein rett som gjeld for alle avtalar om kjøp av varer og tenester som er inngått utanfor fast utsalsstad eller via fjernsal. Lova gjev 14 dagars angrefrist, men fristen kan i visse tilfelle forlengjast til 3 månader, og i enkelte tilfelle til 1 år. Det er ingen angrerett ved kjøp frå butikk eller verkstad. Medrekna angrefrist, angreskjema.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
    <Concept path="ord/anmeldelse">
       <PrefLabel lang="en">Reporting a crime</PrefLabel>
       <PrefLabel lang="nb">Anmeldelse</PrefLabel>
@@ -1945,23 +1933,6 @@
       <Broader>tema/barnehage</Broader>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/etisk-forbruk">
-      <PrefLabel lang="en">Ethical consumption</PrefLabel>
-      <PrefLabel lang="nb">Etisk forbruk</PrefLabel>
-      <PrefLabel lang="nn">Etisk forbruk</PrefLabel>
-      <HiddenLabel lang="nb">Miljømerking</HiddenLabel>
-      <HiddenLabel lang="nn">Miljømerking</HiddenLabel>
-      <HiddenLabel lang="nb">Etisk handel</HiddenLabel>
-      <HiddenLabel lang="nn">Etisk handel</HiddenLabel>
-      <HiddenLabel lang="nb">Fairtrade</HiddenLabel>
-      <HiddenLabel lang="nn">Fairtrade</HiddenLabel>
-      <HiddenLabel lang="nb">Rettferdig handel</HiddenLabel>
-      <HiddenLabel lang="nn">Rettferdig handel</HiddenLabel>
-      <Definition lang="nn">Vektlegging av etiske sider knytt til produkt og tenester. Det kan handle om sider ved produksjonsprosessen, t.d. arbeidsvilkår, politiske forhold i produksjonslandet, utarming av livsmiljø og ressursgrunnlag hos lokalbefolkninga, og dyrevelferd.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/energimerking</Related>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
       <PrefLabel lang="en">Further education</PrefLabel>
       <PrefLabel lang="nb">Etterutdanning og videreutdanning</PrefLabel>
@@ -2264,48 +2235,6 @@
       <Definition lang="nn">Eittårig skuletibod (august til mai) på ein sjølvstendig, ubunden og eksamensfri internatskule. Det finst både kristene og frilynte folkehøgskular. Dei fleste har ei nedre aldersgrene på 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehogskole</Broader>
-   </Concept>
-   <Concept path="ord/forbrukerklage">
-      <PrefLabel lang="en">Consumer complaint</PrefLabel>
-      <PrefLabel lang="nb">Forbrukerklage</PrefLabel>
-      <PrefLabel lang="nn">Forbrukarklage</PrefLabel>
-      <HiddenLabel lang="nb">Klagenemnder</HiddenLabel>
-      <HiddenLabel lang="nn">Klagenemnder</HiddenLabel>
-      <HiddenLabel lang="nb">Forbrukertvist</HiddenLabel>
-      <HiddenLabel lang="nn">Forbrukartvist</HiddenLabel>
-      <HiddenLabel lang="nb">Reklamasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Reklamasjon</HiddenLabel>
-      <Definition lang="nn">Klage på varer og tenester. Medrekna klagerettleiing, reklamasjon, behandling i klagenemnder m.m.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
-   <Concept path="ord/forbrukertest">
-      <PrefLabel lang="en">Consumer test</PrefLabel>
-      <PrefLabel lang="nb">Forbrukertest</PrefLabel>
-      <PrefLabel lang="nn">Forbrukartest</PrefLabel>
-      <Definition lang="nn">Testar av varer og tenester.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
-   <Concept path="ord/forbruksutgifter">
-      <PrefLabel lang="en">Consumption expenditure</PrefLabel>
-      <PrefLabel lang="nb">Forbruksutgifter</PrefLabel>
-      <PrefLabel lang="nn">Forbruksutgifter</PrefLabel>
-      <HiddenLabel lang="nb">Priskalkulator</HiddenLabel>
-      <HiddenLabel lang="nn">Priskalkulator</HiddenLabel>
-      <HiddenLabel lang="nb">Konsumprisindeks</HiddenLabel>
-      <HiddenLabel lang="nn">Konsumprisindeks</HiddenLabel>
-      <HiddenLabel lang="nb">Prisindeks</HiddenLabel>
-      <HiddenLabel lang="nn">Prisindeks</HiddenLabel>
-      <HiddenLabel lang="nb">Standardbudsjett</HiddenLabel>
-      <HiddenLabel lang="nn">Standardbudsjett</HiddenLabel>
-      <HiddenLabel lang="nb">Prisvekstkalkulator</HiddenLabel>
-      <HiddenLabel lang="nn">Prisvekstkalkulator</HiddenLabel>
-      <HiddenLabel lang="nb">Husholdningsbudsjett</HiddenLabel>
-      <HiddenLabel lang="nn">Hushaldningsbudsjett</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer standardbudsjett frå SIFO, Statens institutt for forbruksforsking. Budsjettet viser vanlege forbruksutgifter for ulike typar hushald.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/privatokonomi</Broader>
    </Concept>
    <Concept path="ord/foreldrepermisjon">
       <PrefLabel lang="en">Parental leave</PrefLabel>
@@ -2811,16 +2740,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
-   <Concept path="ord/garanti">
-      <PrefLabel lang="en">Guarantee</PrefLabel>
-      <PrefLabel lang="nb">Garanti</PrefLabel>
-      <PrefLabel lang="nn">Garanti</PrefLabel>
-      <HiddenLabel lang="nb">Reklamasjonsrett</HiddenLabel>
-      <HiddenLabel lang="nn">Reklamasjonsrett</HiddenLabel>
-      <Definition lang="nn">Ein garanti er eit løfte frå ein produsent, importør eller selgjar. Garantien skal gje rettar utover forbrukarkjøpslova.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
    <Concept path="ord/gatelys">
       <PrefLabel lang="en">Street lighting</PrefLabel>
       <PrefLabel lang="nb">Gatelys</PrefLabel>
@@ -2880,7 +2799,6 @@
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
       <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/privatokonomi</Broader>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/gjenlevendepensjon">
@@ -3679,29 +3597,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/kontrakt">
-      <PrefLabel lang="en">Contract</PrefLabel>
-      <PrefLabel lang="nb">Kontrakt</PrefLabel>
-      <PrefLabel lang="nn">Kontrakt</PrefLabel>
-      <HiddenLabel lang="nb">Kontraktsregulering</HiddenLabel>
-      <HiddenLabel lang="nn">Kontraktsregulering</HiddenLabel>
-      <HiddenLabel lang="nb">Kjøpskontrakt</HiddenLabel>
-      <HiddenLabel lang="nn">Kjøpskontrakt</HiddenLabel>
-      <HiddenLabel lang="nb">Husleiekontrakt</HiddenLabel>
-      <HiddenLabel lang="nn">Husleigekontrakt</HiddenLabel>
-      <HiddenLabel lang="nb">Kjøpekontrakt</HiddenLabel>
-      <HiddenLabel lang="nn">Kjøpekontrakt</HiddenLabel>
-      <HiddenLabel lang="nb">Standardkontrakt</HiddenLabel>
-      <HiddenLabel lang="nn">Standardkontrakt</HiddenLabel>
-      <HiddenLabel lang="nb">Leiekontrakt</HiddenLabel>
-      <HiddenLabel lang="nn">Leigekontrakt</HiddenLabel>
-      <Definition lang="nn">Skriftleg avtale eller overeinskomst.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/leieforhold</Related>
-      <Related>ord/eiendomsomsetning</Related>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
-    <Concept path="ord/korttidsopphold">
+   <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
       <PrefLabel lang="nb">Korttidsopphold</PrefLabel>
       <PrefLabel lang="nn">Korttidsopphald</PrefLabel>
@@ -3718,17 +3614,6 @@
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-   </Concept>
-   <Concept path="ord/kraftpris">
-      <PrefLabel lang="en">Energy prices</PrefLabel>
-      <PrefLabel lang="nb">Kraftpris</PrefLabel>
-      <PrefLabel lang="nn">Kraftpris</PrefLabel>
-      <HiddenLabel lang="nb">Strømpris</HiddenLabel>
-      <HiddenLabel lang="nn">Straumpris</HiddenLabel>
-      <Definition lang="nn">Prisen på elektrisk kraft.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/energibruk</Related>
-      <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
    <Concept path="ord/krisehandtering">
       <PrefLabel lang="en">Crisis management</PrefLabel>
@@ -5099,22 +4984,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
-   <Concept path="ord/postordresalg">
-      <PrefLabel lang="en">Mail-order sale</PrefLabel>
-      <PrefLabel lang="nb">Postordresalg</PrefLabel>
-      <PrefLabel lang="nn">Postordresal</PrefLabel>
-      <HiddenLabel lang="nb">Internetthandel</HiddenLabel>
-      <HiddenLabel lang="nn">Internetthandel</HiddenLabel>
-      <HiddenLabel lang="nb">E-handel</HiddenLabel>
-      <HiddenLabel lang="nn">E-handel</HiddenLabel>
-      <HiddenLabel lang="nb">Elektronisk handel</HiddenLabel>
-      <HiddenLabel lang="nn">Elektronisk handel</HiddenLabel>
-      <HiddenLabel lang="nb">Netthandel</HiddenLabel>
-      <HiddenLabel lang="nn">Netthandel</HiddenLabel>
-      <Definition lang="nn">Postordresalg er kjøp av varer som selgjar i katalog, brosjyre, annonse eller annan marknadsføring har tilbode å sende til kjøparen.Ved slikt sal har kjøparen normalt ikkje høve til å sjå vara på førehand, og han får ikkje opplysningar utover dei som er gitt i annonse og anna reklamemateriell. Forbrukaren har av denne grunn særlege rettar ved avtalar som vert inngådde ved postordre.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
    <Concept path="ord/prevensjon">
       <PrefLabel lang="en">Contraception</PrefLabel>
       <PrefLabel lang="nb">Prevensjon</PrefLabel>
@@ -5148,7 +5017,6 @@
       <HiddenLabel lang="nn">Produktmerking</HiddenLabel>
       <Definition lang="nn">At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap og Statens forureiningstilsyn forvaltar produktkontrolllova.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/psykisk-helsevern">
@@ -5385,16 +5253,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
-   </Concept>
-   <Concept path="ord/reklame-og-telefonsalg">
-      <PrefLabel lang="en">Advertising and telesales</PrefLabel>
-      <PrefLabel lang="nb">Reklame og telefonsalg</PrefLabel>
-      <PrefLabel lang="nn">Reklame og telefonsal</PrefLabel>
-      <HiddenLabel lang="nb">Reservasjonsregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Reservasjonsregisteret</HiddenLabel>
-      <Definition lang="nn">Ein kan reservere seg mot adressert reklame og telefonsal ved å kontakte Reservasjonsregisteret i Brønnøysundregistra. Verksemder som driv direkte marknadsføring pliktar å oppdatere telefon- og adresselistene fire gonger pr år.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -6367,20 +6225,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/kultur</Broader>
-   </Concept>
-   <Concept path="ord/telepris">
-      <PrefLabel lang="en">Telecommunication prices</PrefLabel>
-      <PrefLabel lang="nb">Telepris</PrefLabel>
-      <PrefLabel lang="nn">Telepris</PrefLabel>
-      <HiddenLabel lang="nb">Fasttelefon</HiddenLabel>
-      <HiddenLabel lang="nn">Fasttelefon</HiddenLabel>
-      <HiddenLabel lang="nb">Mobilpriser</HiddenLabel>
-      <HiddenLabel lang="nn">Mobilprisar</HiddenLabel>
-      <HiddenLabel lang="nb">Mobiltelefon</HiddenLabel>
-      <HiddenLabel lang="nn">Mobiltelefon</HiddenLabel>
-      <Definition lang="nn">Prisen på fasttelefoni, mobiltelefoni og Internett.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
    <Concept path="ord/tilrettelagt-fritid">
       <PrefLabel lang="en">Leisure activities for disabled persons</PrefLabel>
@@ -7358,13 +7202,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/forbrukersporsmal">
-      <PrefLabel lang="en">Consumer questions</PrefLabel>
-      <PrefLabel lang="nb">Forbrukerspørsmål</PrefLabel>
-      <PrefLabel lang="nn">Forbrukarspørsmål</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/forurensning-og-straling">
       <PrefLabel lang="en">Pollution and radiation</PrefLabel>
       <PrefLabel lang="nb">Forurensning og stråling</PrefLabel>
@@ -7633,13 +7470,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
-   <Concept path="tema/privatokonomi">
-      <PrefLabel lang="en">Personal finances</PrefLabel>
-      <PrefLabel lang="nb">Privatøkonomi</PrefLabel>
-      <PrefLabel lang="nn">Privatøkonomi</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/forbrukersporsmal</Broader>
-   </Concept>
    <Concept path="tema/psykisk-helse">
       <PrefLabel lang="en">Mental health</PrefLabel>
       <PrefLabel lang="nb">Psykisk helse</PrefLabel>
@@ -7744,13 +7574,6 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-og-miljo</Broader>
-   </Concept>
-   <Concept path="tema/varer-og-tjenester">
-      <PrefLabel lang="en">Goods and services</PrefLabel>
-      <PrefLabel lang="nb">Varer og tjenester</PrefLabel>
-      <PrefLabel lang="nn">Varer og tenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/forbrukersporsmal</Broader>
    </Concept>
    <Concept path="tema/videregaende-opplaring">
       <PrefLabel lang="en">Upper secondary education</PrefLabel>
