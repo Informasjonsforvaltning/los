@@ -2958,6 +2958,16 @@
       <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
+   <Concept path="ord/gravferdsstonad">
+      <PrefLabel lang="en">Funeral support</PrefLabel>
+      <PrefLabel lang="nb">Gravferdsstønad</PrefLabel>
+      <PrefLabel lang="nn">Gravferdsstønad</PrefLabel>
+      <Definition lang="nn">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
+      <Definition lang="nb">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
+   </Concept>
    <Concept path="ord/gravplass">
       <PrefLabel lang="en">Cemetary</PrefLabel>
       <PrefLabel lang="nb">Gravplass</PrefLabel>
