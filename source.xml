@@ -5719,7 +5719,8 @@
       <PrefLabel lang="nn">Skattekort</PrefLabel>
       <HiddenLabel lang="nb">Frikort</HiddenLabel>
       <HiddenLabel lang="nn">Frikort</HiddenLabel>
-      <Definition lang="nn">Opplysningar om inntekt og formue frå tidlegare likning. Grunnlag for utrekning av førehandsskatt.</Definition>
+      <Definition lang="nn">Skattekortet er eit elektronisk dokument som viser kor mykje skatt arbeidsgjevaren din skal trekkje før løna vert utbetalt til deg.</Definition>
+      <Definition lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
       <Broader>tema/skatt</Broader>
