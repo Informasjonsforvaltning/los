@@ -427,13 +427,24 @@
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-  <Concept path="tema/transporttilbud">
-      <PrefLabel lang="en">Transport service</PrefLabel>
-      <PrefLabel lang="nb">Transporttilbod</PrefLabel>
-      <PrefLabel lang="nn">Transporttilbud</PrefLabel>
+  <Concept path="tema/mobilitetstilbud">
+      <PrefLabel lang="en">Mobility services</PrefLabel>
+      <PrefLabel lang="nb">Mobilitetstilbud</PrefLabel>
+      <PrefLabel lang="nn">Mobilitetstilbod</PrefLabel>
+      <AltLabel lang="nn">Transporttilbod</AltLabel>
+      <AltLabel lang="nb">Transporttilbud</AltLabel>
+      <HiddenLabel lang="nn">Kollektivtilbud</HiddenLabel>
+      <HiddenLabel lang="nb">Kollektivtilbod</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+   <Concept path="tema/inntektssikring">
+       <PrefLabel lang="en">Income security</PrefLabel>
+       <PrefLabel lang="nb">Inntektssikring</PrefLabel>
+       <PrefLabel lang="nn">Inntektssikring</PrefLabel>
+       <InScheme>ontologi/tema</InScheme>
+       <Broader>tema/arbeid</Broader>
+    </Concept>
    <Concept path="tema/utenlandsreiser">
       <PrefLabel lang="en">Trips abroad</PrefLabel>
       <PrefLabel lang="nb">Utenlandsreiser</PrefLabel>
@@ -441,17 +452,21 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="tema/veg">
-      <PrefLabel lang="en">Road</PrefLabel>
-      <PrefLabel lang="nb">Veg</PrefLabel>
-      <PrefLabel lang="nn">Veg</PrefLabel>
+   <Concept path="tema/veg-og-vegregulering">
+      <PrefLabel lang="en">Road and road regulation</PrefLabel>
+      <PrefLabel lang="nb">Veg og vegregulering</PrefLabel>
+      <PrefLabel lang="nn">Veg og vegregulering</PrefLabel>
+      <HiddenLabel lang="nn">Vegtrafikk</HiddenLabel>
+      <HiddenLabel lang="nb">Vegtrafikk</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
-   <Concept path="tema/vegtrafikk">
-      <PrefLabel lang="en">Road traffic</PrefLabel>
-      <PrefLabel lang="nb">Vegtrafikk</PrefLabel>
-      <PrefLabel lang="nn">Vegtrafikk</PrefLabel>
+   <Concept path="tema/trafikkinformasjon">
+      <PrefLabel lang="en">Trafic information</PrefLabel>
+      <PrefLabel lang="nb">Trafikkinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Trafikkinformasjon</PrefLabel>
+      <HiddenLabel lang="nn">Vegtrafikk</HiddenLabel>
+      <HiddenLabel lang="nb">Vegtrafikk</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -538,7 +553,7 @@
       <Definition lang="nn">Innskrenking av kor tunge køyretøy som kan køyre på ein veg. Akseltrykket må vere under ei viss grense.</Definition>
       <Definition lang="nb">Innskrenking av hvor tunge kjøretøy som kan kjøre på en veg. Akseltrykket må vere under en viss grense.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/akvakultur">
       <PrefLabel lang="en">Fish farming</PrefLabel>
@@ -786,7 +801,7 @@
       <Definition lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmiljo">
       <PrefLabel lang="en">Work environment</PrefLabel>
@@ -857,7 +872,7 @@
       <Related>ord/ventestonad</Related>
       <Related>ord/ventelonn</Related>
       <Related>ord/dagpenger</Related>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstid">
       <PrefLabel lang="en">Working hours</PrefLabel>
@@ -889,7 +904,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstvist">
       <PrefLabel lang="en">Labour dispute</PrefLabel>
@@ -1320,7 +1335,7 @@
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vielse">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -1412,7 +1427,7 @@
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Broader>tema/eiendom</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/byggekostnad">
@@ -1489,7 +1504,7 @@
       <HiddenLabel lang="nn">Curriculum vitae</HiddenLabel>
       <Definition lang="nn">Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/d-nummer">
       <PrefLabel lang="en">D-number</PrefLabel>
@@ -2794,7 +2809,7 @@
       <Definition lang="nn">Kommunen utviklar og vedlikeheld gangvegar og sykkelstiar.</Definition>
       <Definition lang="nb">Kommunen utvikler og vedlikeholder gangveier og sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/garanti">
       <PrefLabel lang="en">Guarantee</PrefLabel>
@@ -2823,7 +2838,7 @@
       <Definition lang="nn">Henvendelsar til kommunen om feil på gatelys.</Definition>
       <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/gift">
@@ -3452,7 +3467,7 @@
       <HiddenLabel lang="nn">Pendling</HiddenLabel>
       <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i kollektivfeltet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/karakterer">
       <PrefLabel lang="en">Grades</PrefLabel>
@@ -4141,8 +4156,8 @@
       <Definition lang="nb">Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
-      <Broader>tema/transporttilbud</Broader>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/minid">
       <PrefLabel lang="en">MinID digital identity</PrefLabel>
@@ -4745,7 +4760,7 @@
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
       <Definition lang="nn">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
       <PrefLabel lang="en">Ombudsman for patients</PrefLabel>
@@ -5316,7 +5331,7 @@
       <Definition lang="nn">Ordningar for billettkjøp og prisar til kollektivtrafikk og andre transportmiddel.</Definition>
       <Definition lang="nb">Ordninger for billettkjøp og priser til kollektivtrafikk og andre transportmidler.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/reisegaranti">
       <PrefLabel lang="en">Travel guarantee</PrefLabel>
@@ -5327,7 +5342,7 @@
       <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
       <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/reiseinformasjon">
       <PrefLabel lang="en">Travel information</PrefLabel>
@@ -5381,30 +5396,6 @@
       <Definition lang="nn">Ein kan reservere seg mot adressert reklame og telefonsal ved å kontakte Reservasjonsregisteret i Brønnøysundregistra. Verksemder som driv direkte marknadsføring pliktar å oppdatere telefon- og adresselistene fire gonger pr år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/varer-og-tjenester</Broader>
-   </Concept>
-   <Concept path="ord/rekruttering">
-      <PrefLabel lang="en">Recruitment</PrefLabel>
-      <PrefLabel lang="nb">Rekruttering</PrefLabel>
-      <PrefLabel lang="nn">Rekruttering</PrefLabel>
-      <HiddenLabel lang="nb">Bemanningsbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Bemanningsbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Rekrutteringsfirma</HiddenLabel>
-      <HiddenLabel lang="nn">Rekrutteringsfirma</HiddenLabel>
-      <HiddenLabel lang="nb">Rekrutteringsbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Rekrutteringsbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nb">Stillingsutlysing</HiddenLabel>
-      <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
-      <HiddenLabel lang="nb">Vikarbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Vikarbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nn">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nb">Stillingsutlysning</HiddenLabel>
-      <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
-      <Definition lang="nn">Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne fram til arbeidstakarar til både faste og mellombelse jobbar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -5572,7 +5563,7 @@
       <Definition lang="nn">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <Definition lang="nb">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/ruteplanlegger">
       <PrefLabel lang="en">Route planner</PrefLabel>
@@ -5585,7 +5576,7 @@
       <Definition lang="nn">Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
 	  <Definition lang="nb">Automatisert informasjon på Internett der en kan få hjelp til valg av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/sarskilt-norskopplaring">
       <PrefLabel lang="en">Norwegian classes for special needs groups</PrefLabel>
@@ -5720,7 +5711,8 @@
       <PrefLabel lang="nn">Skattekort</PrefLabel>
       <HiddenLabel lang="nb">Frikort</HiddenLabel>
       <HiddenLabel lang="nn">Frikort</HiddenLabel>
-      <Definition lang="nn">Opplysningar om inntekt og formue frå tidlegare likning. Grunnlag for utrekning av førehandsskatt.</Definition>
+      <Definition lang="nn">Skattekortet er eit elektronisk dokument som viser kor mykje skatt arbeidsgjevaren din skal trekkje før løna vert utbetalt til deg.</Definition>
+      <Definition lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
       <Broader>tema/skatt</Broader>
@@ -5861,7 +5853,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskoleopplaring</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
       <PrefLabel lang="en">Avalanche warning</PrefLabel>
@@ -6328,7 +6320,7 @@
       <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
       <Definition lang="nn">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/friluftsliv</Broader>
    </Concept>
    <Concept path="ord/tannhelsetjeneste">
@@ -6428,7 +6420,7 @@
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
 	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/tilsyn-og-godkjenning-av-barnehager">
       <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
@@ -6590,7 +6582,7 @@
       <Definition lang="nn">Informasjon om veg og trafikkforhold.</Definition>
 	  <Definition lang="nb">Informasjon om veg og trafikkforhold.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/trafikksikkerhet">
       <PrefLabel lang="en">Traffic safety</PrefLabel>
@@ -6615,7 +6607,7 @@
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
       <Definition lang="nn">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
      <Concept path="ord/trygghetsalarm">
       <PrefLabel lang="en">Personal safety alarm</PrefLabel>
@@ -6967,7 +6959,7 @@
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/landbruk</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
       <PrefLabel lang="en">Road maintenance</PrefLabel>
@@ -6996,7 +6988,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Broader>tema/tekniske-tjenester</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
       <PrefLabel lang="en">Care leave</PrefLabel>
@@ -7171,6 +7163,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
+<<<<<<< HEAD
    <Concept path="ord/yrkesautorisasjon">
       <PrefLabel lang="en">Professional qualifications</PrefLabel>
       <PrefLabel lang="nb">Yrkesautorisasjon</PrefLabel>
@@ -7180,6 +7173,16 @@
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+=======
+   <Concept path="ord/yrkesrettet-attforing">
+      <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
+      <PrefLabel lang="nb">Yrkesrettet attføring</PrefLabel>
+      <PrefLabel lang="nn">Yrkesretta attføring</PrefLabel>
+      <Definition lang="nn">Økonomisk stønad til personar som på grunn av sjukdom, skade eller lyte har fått nedsett evne til å utføre inntektsgjevande arbeid. Målet er å skaffe arbeid eller halde fram i noverande arbeid.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/arbeidsavklaringspenger</Related>
+      <Broader>tema/arbeidsliv</Broader>
+>>>>>>> 8df495f2e3bb0a69aaa2d464dde93facab208a25
    </Concept>
    <Concept path="ord/yrkesskade">
       <PrefLabel lang="en">Occupational injury</PrefLabel>
@@ -7211,13 +7214,6 @@
       <PrefLabel lang="en">Employment</PrefLabel>
       <PrefLabel lang="nb">Arbeidsliv</PrefLabel>
       <PrefLabel lang="nn">Arbeidsliv</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/arbeid</Broader>
-   </Concept>
-   <Concept path="tema/arbeidssoking-og-rekruttering">
-      <PrefLabel lang="en">Job seeking and recruitment</PrefLabel>
-      <PrefLabel lang="nb">Arbeidssøking og rekruttering</PrefLabel>
-      <PrefLabel lang="nn">Arbeidssøking og rekruttering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
@@ -7708,8 +7704,8 @@
    </Concept>
    <Concept path="tema/skatt">
       <PrefLabel lang="en">Taxation</PrefLabel>
-      <PrefLabel lang="nb">Skatt og likning</PrefLabel>
-      <PrefLabel lang="nn">Skatt og likning</PrefLabel>
+      <PrefLabel lang="nb">Skatt</PrefLabel>
+      <PrefLabel lang="nn">Skatt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
