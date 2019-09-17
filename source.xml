@@ -7231,13 +7231,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="tema/arbeidssoking-og-rekruttering">
-      <PrefLabel lang="en">Job seeking and recruitment</PrefLabel>
-      <PrefLabel lang="nb">Arbeidssøking og rekruttering</PrefLabel>
-      <PrefLabel lang="nn">Arbeidssøking og rekruttering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/arbeid</Broader>
-   </Concept>
    <Concept path="tema/avfallshandtering">
       <PrefLabel lang="en">Waste management</PrefLabel>
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
