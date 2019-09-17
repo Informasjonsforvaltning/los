@@ -7716,8 +7716,8 @@
    </Concept>
    <Concept path="tema/skatt">
       <PrefLabel lang="en">Taxation</PrefLabel>
-      <PrefLabel lang="nb">Skatt og likning</PrefLabel>
-      <PrefLabel lang="nn">Skatt og likning</PrefLabel>
+      <PrefLabel lang="nb">Skatt</PrefLabel>
+      <PrefLabel lang="nn">Skatt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
