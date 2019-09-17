@@ -454,10 +454,12 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
-   <Concept path="tema/vegtrafikk">
-      <PrefLabel lang="en">Road traffic</PrefLabel>
-      <PrefLabel lang="nb">Vegtrafikk</PrefLabel>
-      <PrefLabel lang="nn">Vegtrafikk</PrefLabel>
+   <Concept path="tema/trafikkinformasjon">
+      <PrefLabel lang="en">Trafic information</PrefLabel>
+      <PrefLabel lang="nb">Trafikkinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Trafikkinformasjon</PrefLabel>
+      <HiddenLabel lang="nn">Vegtrafikk</HiddenLabel>
+      <HiddenLabel lang="nb">Vegtrafikk</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -4148,7 +4150,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/minid">
       <PrefLabel lang="en">MinID digital identity</PrefLabel>
@@ -6596,7 +6598,7 @@
       <Definition lang="nn">Informasjon om veg og trafikkforhold.</Definition>
 	  <Definition lang="nb">Informasjon om veg og trafikkforhold.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/trafikksikkerhet">
       <PrefLabel lang="en">Traffic safety</PrefLabel>
@@ -6621,7 +6623,7 @@
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
       <Definition lang="nn">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/vegtrafikk</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
      <Concept path="ord/trygghetsalarm">
       <PrefLabel lang="en">Personal safety alarm</PrefLabel>
