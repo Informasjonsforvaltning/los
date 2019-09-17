@@ -7163,7 +7163,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
-<<<<<<< HEAD
    <Concept path="ord/yrkesautorisasjon">
       <PrefLabel lang="en">Professional qualifications</PrefLabel>
       <PrefLabel lang="nb">Yrkesautorisasjon</PrefLabel>
@@ -7173,17 +7172,7 @@
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidssoking-og-rekruttering</Broader>
-=======
-   <Concept path="ord/yrkesrettet-attforing">
-      <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
-      <PrefLabel lang="nb">Yrkesrettet attføring</PrefLabel>
-      <PrefLabel lang="nn">Yrkesretta attføring</PrefLabel>
-      <Definition lang="nn">Økonomisk stønad til personar som på grunn av sjukdom, skade eller lyte har fått nedsett evne til å utføre inntektsgjevande arbeid. Målet er å skaffe arbeid eller halde fram i noverande arbeid.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidsavklaringspenger</Related>
-      <Broader>tema/arbeidsliv</Broader>
->>>>>>> 8df495f2e3bb0a69aaa2d464dde93facab208a25
-   </Concept>
+</Concept>
    <Concept path="ord/yrkesskade">
       <PrefLabel lang="en">Occupational injury</PrefLabel>
       <PrefLabel lang="nb">Yrkesskade</PrefLabel>
