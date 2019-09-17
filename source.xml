@@ -438,6 +438,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+   <Concept path="tema/inntektssikring">
+       <PrefLabel lang="en">Income security</PrefLabel>
+       <PrefLabel lang="nb">Inntektssikring</PrefLabel>
+       <PrefLabel lang="nn">Inntektssikring</PrefLabel>
+       <InScheme>ontologi/tema</InScheme>
+       <Broader>tema/arbeid</Broader>
+    </Concept>
    <Concept path="tema/utenlandsreiser">
       <PrefLabel lang="en">Trips abroad</PrefLabel>
       <PrefLabel lang="nb">Utenlandsreiser</PrefLabel>
