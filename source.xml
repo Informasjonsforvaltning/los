@@ -4824,6 +4824,7 @@
       <HiddenLabel lang="nb">Buss</HiddenLabel>
       <HiddenLabel lang="nn">Buss</HiddenLabel>
       <Definition lang="nn">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten.</Definition>
+      <Definition lang="nb">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordnede ansvaret for den samlede transportpolitikken, og skal utvikle og fastsette rammevilkårene for kollektivtransporten.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/reiselivsnaring</Broader>
       <Broader>tema/yrkestransport</Broader>
@@ -7002,15 +7003,16 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
-   <Concept path="ord/yrkesrettet-attforing">
-      <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
-      <PrefLabel lang="nb">Yrkesrettet attføring</PrefLabel>
-      <PrefLabel lang="nn">Yrkesretta attføring</PrefLabel>
-      <Definition lang="nn">Økonomisk stønad til personar som på grunn av sjukdom, skade eller lyte har fått nedsett evne til å utføre inntektsgjevande arbeid. Målet er å skaffe arbeid eller halde fram i noverande arbeid.</Definition>
+   <Concept path="ord/yrkesautorisasjon">
+      <PrefLabel lang="en">Professional qualifications</PrefLabel>
+      <PrefLabel lang="nb">Yrkesautorisasjon</PrefLabel>
+      <PrefLabel lang="nn">Yrkesautorisasjon</PrefLabel>
+      <HiddenLabel lang="nb">Autorisasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
+      <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidsavklaringspenger</Related>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
+      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+</Concept>
    <Concept path="ord/yrkesskade">
       <PrefLabel lang="en">Occupational injury</PrefLabel>
       <PrefLabel lang="nb">Yrkesskade</PrefLabel>
