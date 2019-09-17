@@ -5389,30 +5389,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/varer-og-tjenester</Broader>
    </Concept>
-   <Concept path="ord/rekruttering">
-      <PrefLabel lang="en">Recruitment</PrefLabel>
-      <PrefLabel lang="nb">Rekruttering</PrefLabel>
-      <PrefLabel lang="nn">Rekruttering</PrefLabel>
-      <HiddenLabel lang="nb">Bemanningsbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Bemanningsbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Rekrutteringsfirma</HiddenLabel>
-      <HiddenLabel lang="nn">Rekrutteringsfirma</HiddenLabel>
-      <HiddenLabel lang="nb">Rekrutteringsbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Rekrutteringsbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nb">Stillingsutlysing</HiddenLabel>
-      <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
-      <HiddenLabel lang="nb">Vikarbyrå</HiddenLabel>
-      <HiddenLabel lang="nn">Vikarbyrå</HiddenLabel>
-      <HiddenLabel lang="nb">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nn">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nb">Stillingsutlysning</HiddenLabel>
-      <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
-      <Definition lang="nn">Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne fram til arbeidstakarar til både faste og mellombelse jobbar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
       <PrefLabel lang="nb">Renovasjon</PrefLabel>
@@ -7178,16 +7154,6 @@
       <Definition lang="nb">Vrakpant er en panteordning for bil, og er et tiltak for at flere skal gjenvinne ødelagte/gamle biler istedenfor at de skal stå å skade miljøet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-   </Concept>
-   <Concept path="ord/yrkesautorisasjon">
-      <PrefLabel lang="en">Professional qualifications</PrefLabel>
-      <PrefLabel lang="nb">Yrkesautorisasjon</PrefLabel>
-      <PrefLabel lang="nn">Yrkesautorisasjon</PrefLabel>
-      <HiddenLabel lang="nb">Autorisasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
-      <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/yrkesrettet-attforing">
       <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
