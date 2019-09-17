@@ -433,8 +433,8 @@
       <PrefLabel lang="nn">Mobilitetstilbod</PrefLabel>
       <AltLabel lang="nn">Transporttilbod</AltLabel>
       <AltLabel lang="nb">Transporttilbud</AltLabel>
-      <HiddenLabel lang="nn">Kollektivtilbud<HiddenLabel>
-      <HiddenLabel lang="nb">Kollektivtilbod<HiddenLabel>
+      <HiddenLabel lang="nn">Kollektivtilbud</HiddenLabel>
+      <HiddenLabel lang="nb">Kollektivtilbod</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
@@ -7004,7 +7004,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Broader>tema/tekniske-tjenester</Broader>
-      <Broader>tema/veg</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
       <PrefLabel lang="en">Care leave</PrefLabel>
