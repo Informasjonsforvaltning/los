@@ -794,7 +794,7 @@
       <Definition lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmiljo">
       <PrefLabel lang="en">Work environment</PrefLabel>
@@ -865,7 +865,7 @@
       <Related>ord/ventestonad</Related>
       <Related>ord/ventelonn</Related>
       <Related>ord/dagpenger</Related>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstid">
       <PrefLabel lang="en">Working hours</PrefLabel>
@@ -897,7 +897,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstvist">
       <PrefLabel lang="en">Labour dispute</PrefLabel>
@@ -1497,7 +1497,7 @@
       <HiddenLabel lang="nn">Curriculum vitae</HiddenLabel>
       <Definition lang="nn">Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/d-nummer">
       <PrefLabel lang="en">D-number</PrefLabel>
@@ -5411,7 +5411,7 @@
       <HiddenLabel lang="nn">Stillingsutlysing</HiddenLabel>
       <Definition lang="nn">Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne fram til arbeidstakarar til både faste og mellombelse jobbar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -7187,7 +7187,7 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/yrkesrettet-attforing">
       <PrefLabel lang="en">Occupational rehabilitation</PrefLabel>
