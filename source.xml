@@ -427,10 +427,14 @@
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
-  <Concept path="tema/transporttilbud">
-      <PrefLabel lang="en">Transport service</PrefLabel>
-      <PrefLabel lang="nb">Transporttilbod</PrefLabel>
-      <PrefLabel lang="nn">Transporttilbud</PrefLabel>
+  <Concept path="tema/mobilitetstilbud">
+      <PrefLabel lang="en">Mobility services</PrefLabel>
+      <PrefLabel lang="nb">Mobilitetstilbud</PrefLabel>
+      <PrefLabel lang="nn">Mobilitetstilbod</PrefLabel>
+      <AltLabel lang="nn">Transporttilbod</AltLabel>
+      <AltLabel lang="nb">Transporttilbud</AltLabel>
+      <HiddenLabel lang="nn">Kollektivtilbud<HiddenLabel>
+      <HiddenLabel lang="nb">Kollektivtilbod<HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
@@ -3452,7 +3456,7 @@
       <HiddenLabel lang="nn">Pendling</HiddenLabel>
       <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i kollektivfeltet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/karakterer">
       <PrefLabel lang="en">Grades</PrefLabel>
@@ -4141,7 +4145,7 @@
       <Definition lang="nb">Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
       <Broader>tema/vegtrafikk</Broader>
    </Concept>
    <Concept path="ord/minid">
@@ -5315,7 +5319,7 @@
       <Definition lang="nn">Ordningar for billettkjøp og prisar til kollektivtrafikk og andre transportmiddel.</Definition>
       <Definition lang="nb">Ordninger for billettkjøp og priser til kollektivtrafikk og andre transportmidler.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/reisegaranti">
       <PrefLabel lang="en">Travel guarantee</PrefLabel>
@@ -5326,7 +5330,7 @@
       <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
       <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/reiseinformasjon">
       <PrefLabel lang="en">Travel information</PrefLabel>
@@ -5571,7 +5575,7 @@
       <Definition lang="nn">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <Definition lang="nb">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/ruteplanlegger">
       <PrefLabel lang="en">Route planner</PrefLabel>
@@ -5584,7 +5588,7 @@
       <Definition lang="nn">Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
 	  <Definition lang="nb">Automatisert informasjon på Internett der en kan få hjelp til valg av transportmiddel og informasjon om reisetider mellom ulike reisemål.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/sarskilt-norskopplaring">
       <PrefLabel lang="en">Norwegian classes for special needs groups</PrefLabel>
@@ -5861,7 +5865,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskoleopplaring</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
       <PrefLabel lang="en">Avalanche warning</PrefLabel>
@@ -6428,7 +6432,7 @@
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
 	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/transporttilbud</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/tilsyn-og-godkjenning-av-barnehager">
       <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
