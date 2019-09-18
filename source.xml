@@ -708,7 +708,6 @@
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/yrkesrettet-attforing</Related>
       <Related>ord/uforepensjon</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
@@ -7001,8 +7000,8 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidssoking-og-rekruttering</Broader>
-</Concept>
+      <Broader>tema/arbeid</Broader>
+   </Concept>
    <Concept path="ord/yrkesskade">
       <PrefLabel lang="en">Occupational injury</PrefLabel>
       <PrefLabel lang="nb">Yrkesskade</PrefLabel>
