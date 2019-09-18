@@ -1903,7 +1903,7 @@
       <HiddenLabel lang="nb">Næringsmiddel</HiddenLabel>
       <HiddenLabel lang="nn">Næringsmiddel</HiddenLabel>
       <Definition lang="nn">Kosthald og kosthaldstilrådingar</Definition>
-      <Definition lang="nn">Kosthold og kostholdstilrådinger</Definition>  
+      <Definition lang="nn">Kosthold og kostholdstilrådinger</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
@@ -7048,7 +7048,7 @@
       <PrefLabel lang="nb">Avlastning og støtte</PrefLabel>
       <PrefLabel lang="nn">Avlastning og støtte</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/familie-og-barn">
       <PrefLabel lang="en">Family and children</PrefLabel>
@@ -7237,6 +7237,13 @@
       <PrefLabel lang="en">Health services</PrefLabel>
       <PrefLabel lang="nb">Helsetjenester</PrefLabel>
       <PrefLabel lang="nn">Helsetenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/helse-og-omsorg</Broader>
+   </Concept>
+   <Concept path="tema/hjemmetjenester">
+      <PrefLabel lang="en">Home health</PrefLabel>
+      <PrefLabel lang="nb">Hjemmetjenester</PrefLabel>
+      <PrefLabel lang="nn">Heimetenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
