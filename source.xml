@@ -1902,7 +1902,8 @@
       <HiddenLabel lang="nn">Mat</HiddenLabel>
       <HiddenLabel lang="nb">Næringsmiddel</HiddenLabel>
       <HiddenLabel lang="nn">Næringsmiddel</HiddenLabel>
-      <Definition lang="nn">Kosthald. Kosthaldstilrådingar. Drikkevatn er eige emneord.</Definition>
+      <Definition lang="nn">Kosthald og kosthaldstilrådingar</Definition>
+      <Definition lang="nn">Kosthold og kostholdstilrådinger</Definition>  
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
