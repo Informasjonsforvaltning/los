@@ -7029,13 +7029,6 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-   <Concept path="tema/begravelser_og_dodsfall">
-      <PrefLabel lang="en">Funerals and death</PrefLabel>
-      <PrefLabel lang="nb">Begravelser og dødsfall</PrefLabel>
-      <PrefLabel lang="nn">Begravelser og dødsfall</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/familie_og_barn</Broader>
-   </Concept>
    <Concept path="tema/arbeidsliv">
       <PrefLabel lang="en">Employment</PrefLabel>
       <PrefLabel lang="nb">Arbeidsliv</PrefLabel>
