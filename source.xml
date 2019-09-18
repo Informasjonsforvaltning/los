@@ -445,13 +445,6 @@
        <InScheme>ontologi/tema</InScheme>
        <Broader>tema/arbeid</Broader>
     </Concept>
-   <Concept path="tema/utenlandsreiser">
-      <PrefLabel lang="en">Trips abroad</PrefLabel>
-      <PrefLabel lang="nb">Utenlandsreiser</PrefLabel>
-      <PrefLabel lang="nn">Utanlandsreiser</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-og-transport</Broader>
-   </Concept>
    <Concept path="tema/veg-og-vegregulering">
       <PrefLabel lang="en">Road and road regulation</PrefLabel>
       <PrefLabel lang="nb">Veg og vegregulering</PrefLabel>
@@ -1949,7 +1942,6 @@
       <HiddenLabel lang="nn">Helseforsikring</HiddenLabel>
       <Definition lang="nn">Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/utenlandsreiser</Broader>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/fagopplaring">
@@ -4699,7 +4691,6 @@
       <Definition lang="nn">Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. (Noreg.no)</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innvandring-og-innreise</Broader>
-      <Broader>tema/utenlandsreiser</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/patent">
@@ -5218,16 +5209,6 @@
       <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
-   <Concept path="ord/reiseinformasjon">
-      <PrefLabel lang="en">Travel information</PrefLabel>
-      <PrefLabel lang="nb">Reiseinformasjon</PrefLabel>
-      <PrefLabel lang="nn">Reiseinformasjon</PrefLabel>
-      <HiddenLabel lang="nb">Landinformasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Landinformasjon</HiddenLabel>
-      <Definition lang="nn">Informasjon frå Utanriksdepartementet om råd og hjelp til nordmenn som reiser i utlandet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/utenlandsreiser</Broader>
    </Concept>
    <Concept path="ord/reiseregning">
       <PrefLabel lang="en">Travel expenses invoice</PrefLabel>
@@ -6658,7 +6639,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/helsestasjon</Related>
       <Related>ord/smittevern</Related>
-      <Broader>tema/utenlandsreiser</Broader>
       <Broader>tema/folkehelse</Broader>
    </Concept>
    <Concept path="ord/valg">
@@ -6992,7 +6972,6 @@
       <PrefLabel lang="nn">Visum</PrefLabel>
       <Definition lang="nn">Utanlandske borgarar som ønskjer å reise til Noreg, må i hovudregelen ha visum. Formålet med besøket avgjer kva type visum ein treng.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/utenlandsreiser</Broader>
       <Broader>tema/innvandring-og-innreise</Broader>
    </Concept>
    <Concept path="ord/voldsoffererstatning">
