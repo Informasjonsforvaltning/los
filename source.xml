@@ -7173,14 +7173,14 @@
       <PrefLabel lang="nb">Folkehelse</PrefLabel>
       <PrefLabel lang="nn">Folkehelse</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
 	     </Concept>
 	<Concept path="tema/akutt-hjelp">
       <PrefLabel lang="en">Emergency help</PrefLabel>
       <PrefLabel lang="nb">Akutt hjelp</PrefLabel>
       <PrefLabel lang="nn">Akutt hjelp</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
 	     </Concept>
    <Concept path="tema/folkehogskole">
       <PrefLabel lang="en">Folk high schools</PrefLabel>
@@ -7224,10 +7224,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
-   <Concept path="tema/helse">
-      <PrefLabel lang="en">Health</PrefLabel>
-      <PrefLabel lang="nb">Helse</PrefLabel>
-      <PrefLabel lang="nn">Helse</PrefLabel>
+   <Concept path="tema/helse-og-omsorg">
+      <PrefLabel lang="en">Health and care</PrefLabel>
+      <PrefLabel lang="nb">Helse og omsorg</PrefLabel>
+      <PrefLabel lang="nn">Helse og omsorg</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
       <ExactMatch>http://publications.europa.eu/resource/authority/data-theme/HEAL</ExactMatch>
@@ -7237,7 +7237,7 @@
       <PrefLabel lang="nb">Helsetjenester</PrefLabel>
       <PrefLabel lang="nn">Helsetenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/hoyere-utdanning">
       <PrefLabel lang="en">Higher education</PrefLabel>
@@ -7427,7 +7427,7 @@
       <PrefLabel lang="nb">Pasientrettigheter</PrefLabel>
       <PrefLabel lang="nn">Pasientrettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/pensjon">
       <PrefLabel lang="en">Pensions</PrefLabel>
@@ -7462,7 +7462,7 @@
       <PrefLabel lang="nb">Psykisk helse</PrefLabel>
       <PrefLabel lang="nn">Psykisk helse</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/reiselivsnaring">
       <PrefLabel lang="en">Tourism industry</PrefLabel>
@@ -7546,7 +7546,7 @@
       <PrefLabel lang="nb">Svangerskap og fødsel</PrefLabel>
       <PrefLabel lang="nn">Svangerskap og fødsel</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/tekniske-tjenester">
       <PrefLabel lang="en">Technical services</PrefLabel>
