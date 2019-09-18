@@ -37,7 +37,6 @@
       <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
       <Related>ord/personlig-assistent</Related>
-      <Related>ord/ledsager</Related>
       <Related>ord/habilitering-og-rehabilitering</Related>
       <Related>ord/sykehus</Related>
    </Concept>
@@ -1496,7 +1495,7 @@
       <HiddenLabel lang="nn">Dagsenter</HiddenLabel>
       <Definition lang="nn">Dagsenter er eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå. Eldresenter er eige stikkord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
+      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/dans">
       <PrefLabel lang="en">Dance</PrefLabel>
@@ -1544,21 +1543,6 @@
       <PrefLabel lang="nn">Dødsmelding</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/dodsfall</Broader>
-   </Concept>
-   <Concept path="ord/dovetolk">
-      <PrefLabel lang="en">Interpreter for the deaf</PrefLabel>
-      <PrefLabel lang="nb">Døvetolk</PrefLabel>
-      <PrefLabel lang="nn">Døvetolk</PrefLabel>
-      <HiddenLabel lang="nb">Tegnspråk</HiddenLabel>
-      <HiddenLabel lang="nn">Teiknspråk</HiddenLabel>
-      <HiddenLabel lang="nb">Døvblindetolk</HiddenLabel>
-      <HiddenLabel lang="nn">Døvblindetolk</HiddenLabel>
-      <HiddenLabel lang="nb">Tolkledsagerhjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Tolkefølgjehjelp</HiddenLabel>
-      <Definition lang="nn">Tegnspråktolk/døvetolk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/tolketjeneste</Related>
-      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/dokumentavgift">
       <PrefLabel lang="en">Stamp duty</PrefLabel>
@@ -3761,24 +3745,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
-   </Concept>
-   <Concept path="ord/ledsager">
-      <PrefLabel lang="en">Companion</PrefLabel>
-      <PrefLabel lang="nb">Ledsager</PrefLabel>
-      <PrefLabel lang="nn">Følgje ("Ledsager")</PrefLabel>
-      <HiddenLabel lang="nb">Ledsagertjeneste</HiddenLabel>
-      <HiddenLabel lang="nn">Følgjeteneste</HiddenLabel>
-      <HiddenLabel lang="nb">Ledsagerbevis</HiddenLabel>
-      <HiddenLabel lang="nn">Følgjebevis</HiddenLabel>
-      <HiddenLabel lang="nb">Følgeteneste</HiddenLabel>
-      <HiddenLabel lang="nn">Følgeteneste</HiddenLabel>
-      <HiddenLabel lang="nb">Følgebevis</HiddenLabel>
-      <HiddenLabel lang="nn">Følgjeprov</HiddenLabel>
-      <HiddenLabel lang="nb">Ledsagerstøtte</HiddenLabel>
-      <HiddenLabel lang="nn">Følgjestøtte</HiddenLabel>
-      <Definition lang="nn">Ein person som er følgje og hjelper til under pasienttransport, når det er medisinske grunnar til dette. Funksjonshemma, personar i rullestol, blinde og svaksynte m.fl. kan også vere avhengig av å ha med seg følgje under reise. Til dette høyrer følgjekort ("ledsagerbevis") m.m. Tilrettelagd transport er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
    <Concept path="ord/legemiddel">
       <PrefLabel lang="en">Medicines</PrefLabel>
@@ -6324,7 +6290,6 @@
       <Definition lang="nn">Å tolke eller gje att meininga i ein tekst på eit anna språk.</Definition>
       <Definition lang="nb">Å tolke eller gjengi meningen i en tekst på et annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/dovetolk</Related>
       <Broader>tema/integrering</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
