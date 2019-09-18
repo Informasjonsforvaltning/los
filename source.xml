@@ -7579,6 +7579,6 @@
     <Collection path="samling/kommune-los">
         <PrefLabel lang="nb">Kommune-los</PrefLabel>
         <Member>tema/arbeid</Member>
-        <Member>tema/helse</Member>
+        <Member>tema/helse-og-omsorg</Member>
     </Collection>
 </Skos>
