@@ -825,7 +825,8 @@
       <HiddenLabel lang="nn">Arbeidsmiljøutval</HiddenLabel>
       <HiddenLabel lang="nb">Skiftende arbeidsplass</HiddenLabel>
       <HiddenLabel lang="nn">Skiftande arbeidsplass</HiddenLabel>
-      <Definition lang="nn">Rettane til arbeidstaken og pliktene til arbeidsgjevaren i forhold til arbeidsmiljølova, t.d. krav til dei fysiske, psyko-sosiale og organisatoriske forholda på ein arbeidsplass.</Definition>
+      <Definition lang="nn">Rettane til arbeidstaker og pliktene til arbeidsgjevaren i forhold til arbeidsmiljølova, t.d. krav til dei fysiske, psyko-sosiale og organisatoriske forholda på ein arbeidsplass.</Definition>
+      <Definition lang="nb">Rettene til arbeidstaker og pliktene til arbeidsgiveren i forhold til arbeidsmiljøloven, t.d. krav til de fysiske, psyko-sosiale og organisatoriske forholdene på en arbeidsplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
