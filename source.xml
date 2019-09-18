@@ -7240,6 +7240,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
+   <Concept path="tema/rusomsorg">
+      <PrefLabel lang="en">Health services</PrefLabel>
+      <PrefLabel lang="nb">Rusomsorg</PrefLabel>
+      <PrefLabel lang="nn">Rusomsorg</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/helse-og-omsorg</Broader>
+   </Concept>
    <Concept path="tema/hjemmetjenester">
       <PrefLabel lang="en">Home health</PrefLabel>
       <PrefLabel lang="nb">Hjemmetjenester</PrefLabel>
