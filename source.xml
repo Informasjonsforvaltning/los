@@ -931,26 +931,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/avlastningsbolig">
-      <PrefLabel lang="en">Auxiliary housing</PrefLabel>
-      <PrefLabel lang="nb">Avlastningsbolig</PrefLabel>
-      <PrefLabel lang="nn">Avlastingsbustad</PrefLabel>
-      <HiddenLabel lang="nb">Barnebolig</HiddenLabel>
-      <HiddenLabel lang="nn">Barnebustad</HiddenLabel>
-      <Definition lang="nn">Bustad med særlig tilpassing og med hjelpe- og vernetiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stotte</Broader>
-   </Concept>
-   <Concept path="ord/avlastningshjem">
-      <PrefLabel lang="en">Auxilary home</PrefLabel>
-      <PrefLabel lang="nb">Avlastningshjem</PrefLabel>
-      <PrefLabel lang="nn">Avlastingsheim</PrefLabel>
-      <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta.</Definition>
-      <Definition lang="nb">Hjelpetiltak for å bedre foreldrenes omsorg for barna sine. Avlastningshjemmet må godkjennes av barnevertjenesten.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/besokshjem</Related>
-      <Broader>tema/avlastning-og-stotte</Broader>
-   </Concept>
    <Concept path="ord/avlopshandtering">
       <PrefLabel lang="en">Drain management</PrefLabel>
       <PrefLabel lang="nb">Avløpshåndtering</PrefLabel>
@@ -1154,7 +1134,6 @@
       <Definition lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen må godkjennast av barnevertenesta.</Definition>
       <Definition lang="nb">Hjelpetiltak for å bedre foreldrenes omsorg for barna sine, for å hindre adferdsproblemer hos et barn eller hindre problem i nettverket til barnet eller familien. Besøkshjemmet må godkjennes av barnevertjenesten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/avlastningshjem</Related>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
    <Concept path="ord/bibliotektjenester">
