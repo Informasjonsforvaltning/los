@@ -3833,6 +3833,17 @@
       <HiddenLabel lang="nn">Akutthjelp</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
+      <Broader>tema/akutt-hjelp</Broader>
+   </Concept>
+   <Concept path="ord/livskriser">
+      <PrefLabel lang="en">Life crises</PrefLabel>
+      <PrefLabel lang="nb">Livskriser</PrefLabel>
+      <PrefLabel lang="nn">Livskriser</PrefLabel>
+      <Definition lang="nn">Akutt psykologisk hjelp i ein krisesituasjon. Tenesta tilbyr samtale, rådgjeving, hjelp til sjølvhjelp og formidlar kontakt med andre hjelpeinstansar.</Definition>
+      <Definition lang="nb">Akutt psykologisk hjelp i en krisesituasjon. Tjenesten tilbyr samtale, rådgivning, hjelp til selvhjelp og formidler kontakt med andre hjelpeinstanser.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+      <Broader>tema/akutt-hjelp</Broader>
    </Concept>
    <Concept path="ord/leieforhold">
       <PrefLabel lang="en">Rent conditions</PrefLabel>
