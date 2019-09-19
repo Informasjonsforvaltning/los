@@ -6293,6 +6293,22 @@
       <Broader>tema/integrering</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
+   <Concept path="ord/tegnspraktolk">
+      <PrefLabel lang="en">Sign language interpreter</PrefLabel>
+      <PrefLabel lang="nb">Tegnspråktolk</PrefLabel>
+      <PrefLabel lang="nn">Teiknspråktolk</PrefLabel>
+      <HiddenLabel lang="nb">Tolking</HiddenLabel>
+      <HiddenLabel lang="nn">Tolking</HiddenLabel>
+      <HiddenLabel lang="nb">Translatør</HiddenLabel>
+      <HiddenLabel lang="nn">Translatør</HiddenLabel>
+      <HiddenLabel lang="nb">Døvetolk</HiddenLabel>
+      <HiddenLabel lang="nn">Døvetolk</HiddenLabel>
+      <Definition lang="nn">Å tolke eller gje att meininga i ein tekst, tale eller samtale på teiknspråk.</Definition>
+      <Definition lang="nb">Å tolke eller gjengi meningen i en tekst, tale eller samtale på tegnspråk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
+   </Concept>
    <Concept path="ord/toll">
       <PrefLabel lang="en">Customs</PrefLabel>
       <PrefLabel lang="nb">Toll</PrefLabel>
