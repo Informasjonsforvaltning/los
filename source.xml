@@ -4779,6 +4779,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
+   <Concept path="ord/tilrettelagt-arbeidstilbud">
+      <PrefLabel lang="en">Assisted job opportunities</PrefLabel>
+      <PrefLabel lang="nb">Tilrettelagt arbeidstilbud</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagt arbeidstilbod</PrefLabel>
+      <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
+      <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
+      <Definition lang="nb">Kommunen kan tilby og koordinere tiltak slik at yrkeshemmede og utviklingshemmede som har arbeidsevne og kapasitet, skal få varig  og tilrettelagt arbeid etter endt utdanning.</Definition>
+      <Definition lang="nn">Kommunen kan tilby og koordinere tiltak slik at yrkeshemma og utviklingshemma som har arbeidsevne og kapasitet, skal få varig  og tilrettelagd arbeid etter enda utdanning.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
    <Concept path="ord/personnavn">
       <PrefLabel lang="en">First names</PrefLabel>
       <PrefLabel lang="nb">Personnavn</PrefLabel>
