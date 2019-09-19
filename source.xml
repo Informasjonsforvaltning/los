@@ -4768,6 +4768,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
+   <Concept path="ord/radgivning-og-kurs">
+      <PrefLabel lang="en">Consultation and courses</PrefLabel>
+      <PrefLabel lang="nb">Rådgivning og kurs</PrefLabel>
+      <PrefLabel lang="nn">Rettleiing og kurs</PrefLabel>
+      <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
+      <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
+      <Definition lang="nb">Tjenester og tilbud til pårørende eller til de som midlertidig eller varig trenger støtte eller avlastning.</Definition>
+      <Definition lang="nn">Tenester og tilbod til pårørande eller til dei som mellombels eller varig treng stønad eller avlasting.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
    <Concept path="ord/personnavn">
       <PrefLabel lang="en">First names</PrefLabel>
       <PrefLabel lang="nb">Personnavn</PrefLabel>
