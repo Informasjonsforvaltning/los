@@ -4438,6 +4438,16 @@
       <Broader>tema/permisjonsordninger</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
+   <Concept path="ord/kontantstøtte">
+      <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
+      <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
+      <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
+      <Definition lang="nn">Bidra til at familiane blir gitt valfridom når det gjeld omsorgsform for barn.</Definition>
+      <Definition lang="nb">Bidra til at familiene gis valgfrihet når det gjelder omsorgsform for barn.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
    <Concept path="ord/ytelser-til-foreldre-og-foresatte">
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
       <PrefLabel lang="nb">Ytelser til foreldre og foresatte</PrefLabel>
