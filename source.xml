@@ -3589,8 +3589,19 @@
       <PrefLabel lang="nn">Følgjebevis</PrefLabel>
       <HiddenLabel lang="nb">Ledsager</HiddenLabel>
       <HiddenLabel lang="nn">Følgje</HiddenLabel>
-      <Definition lang="nn">Eit følgjebevis gjer det mulig å ta med seg følje utan ekstra kostnader på kultur- og fritidsarrangement og på transportmiddel der ordninga vert akseptert.</Definition>
-      <Definition lang="nb">Et ledsagerbevis gjør det mulig å ta med seg en ledsager uten ekstra kostnader på kultur- og fritidsarrangement og på transportmidler der ordningen aksepteres.</Definition>
+      <Definition lang="nn">Eit dokument gjer det mulig å ta med seg følje utan ekstra kostnader på kultur- og fritidsarrangement og på transportmiddel der ordninga vert akseptert.</Definition>
+      <Definition lang="nb">Et dokument gjør det mulig å ta med seg en ledsager uten ekstra kostnader på kultur- og fritidsarrangement og på transportmidler der ordningen aksepteres.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
+   <Concept path="ord/rehabilitering">
+      <PrefLabel lang="en">Rehabilitation</PrefLabel>
+      <PrefLabel lang="nb">Rehabilitering</PrefLabel>
+      <PrefLabel lang="nn">Rehabilitering</PrefLabel>
+      <HiddenLabel lang="nb">Attføring</HiddenLabel>
+      <HiddenLabel lang="nn">Attføring</HiddenLabel>
+      <Definition lang="nb">Hjelp til personer med sammensatte behov på grunn av nye skader, som hjerneslag, trafikkskade o.l.</Definition>
+      <Definition lang="nn">Hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
