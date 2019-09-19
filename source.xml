@@ -3560,6 +3560,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
+   <Concept path="ord/ledsagerbevis">
+      <PrefLabel lang="en">Care assistant certificate</PrefLabel>
+      <PrefLabel lang="nb">Ledsagerbevis</PrefLabel>
+      <PrefLabel lang="nn">Ledsagerbevis</PrefLabel>
+      <HiddenLabel lang="nb">Ledsager</HiddenLabel>
+      <HiddenLabel lang="nn">Ledsager</HiddenLabel>
+      <Definition lang="nn">Eit ledsagerbevis gjer det mulig å ta med seg ein ledsager utan ekstra kostnader på kultur- og fritidsarrangement og på transportmiddel der ordninga vert akseptert.</Definition>
+      <Definition lang="nb">Et ledsagerbevis gjør det mulig å ta med seg en ledsager uten ekstra kostnader på kultur- og fritidsarrangement og på transportmidler der ordningen aksepteres.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
       <PrefLabel lang="nb">Korttidsopphold</PrefLabel>
