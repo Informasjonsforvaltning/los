@@ -4427,6 +4427,16 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
+   <Concept path="ord/barnebidrag">
+      <PrefLabel lang="en">Child support</PrefLabel>
+      <PrefLabel lang="nb">Barnebidrag</PrefLabel>
+      <PrefLabel lang="nn">Barnebidrag</PrefLabel>
+      <Definition lang="nn">Barnebidrag er eit bidrag frå ein forelder til ein annan til forsørging av felles barn som ikkje bur saman med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
+      <Definition lang="nn">Barnebidrag er et bidrag fra en forelder til en annen til forsørgelse av felles barn som ikke bor sammen med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
    <Concept path="ord/omsorgspermisjon">
       <PrefLabel lang="en">Personal care leave</PrefLabel>
       <PrefLabel lang="nb">Omsorgspermisjon</PrefLabel>
