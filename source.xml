@@ -1493,7 +1493,8 @@
       <HiddenLabel lang="nn">Dagopphald</HiddenLabel>
       <HiddenLabel lang="nb">Dagsenter</HiddenLabel>
       <HiddenLabel lang="nn">Dagsenter</HiddenLabel>
-      <Definition lang="nn">Dagsenter er eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå. Eldresenter er eige stikkord.</Definition>
+      <Definition lang="nn">Eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå.</Definition>
+      <Definition lang="nn">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -5904,7 +5905,8 @@
       <HiddenLabel lang="nn">Fritidskontakt</HiddenLabel>
       <HiddenLabel lang="nb">Fritidsassistent</HiddenLabel>
       <HiddenLabel lang="nn">Fritidsassistent</HiddenLabel>
-      <Definition lang="nn">Eit tilbod til personar med behov for kontakt, hjelp og rettleiing i kvardagen. Støttekontakten tilbyr melom anna sosialt samver etter behov og følgje til ulike fritidsaktivitetar.</Definition>
+      <Definition lang="nn">Eit tilbod til personar med behov for kontakt, hjelp og rettleiing i kvardagen. Støttekontakten tilbyr mellom anna sosialt samvær etter behov og følgje til ulike fritidsaktivitetar.</Definition>
+      <Definition lang="nb">Et tilbud til personer med behov for kontakt, hjelp og veiledning i hverdagen. Støttekontakten tilbyr melmom annet sosialt samvær etter behov og følge til ulike fritidsaktiviteter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
       <Broader>tema/avlastning-og-stotte</Broader>
