@@ -4439,7 +4439,7 @@
    </Concept>
    <Concept path="ord/Stønad-til-enslig-forsørger">
       <PrefLabel lang="en">Child support</PrefLabel>
-      <PrefLabel lang="nb">stønad til enslig forsørger</PrefLabel>
+      <PrefLabel lang="nb">Stønad til enslig forsørger</PrefLabel>
       <PrefLabel lang="nn">Stønad til einsleg forsørgar</PrefLabel>
       <Definition lang="nn">Stønad til einsleg mor eller far som har aleineomsorgen for barn. Det omfattar også stønad til barnetilsyn, tilleggsstønader og stønad til skulepengar mv.</Definition>
       <Definition lang="nb">Stønad til enslig mor eller far som har aleneomsorgen for barn, Det omfatter også stønad til barnetilsyn, tilleggsstønader og stønad til skolepenger mv.</Definition>
@@ -4482,8 +4482,6 @@
       <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
       <HiddenLabel lang="nb">Omsorgspenger</HiddenLabel>
       <HiddenLabel lang="nn">Omsorgspengar</HiddenLabel>
-      <HiddenLabel lang="nb">Støtte til enslig forsørger</HiddenLabel>
-      <HiddenLabel lang="nn">Stønad til einsleg forsørgjar</HiddenLabel>
       <HiddenLabel lang="nb">Bidragsforskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
       <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
@@ -4499,6 +4497,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
       <Related>ord/barnebidrag</Related>
+      <Related>ord/stønad-til-enslig-forsørger</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
