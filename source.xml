@@ -4604,8 +4604,6 @@
       <PrefLabel lang="nn">Overgrep</PrefLabel>
       <HiddenLabel lang="nb">Seksuelle overgrep</HiddenLabel>
       <HiddenLabel lang="nn">Seksuelle overgrep</HiddenLabel>
-      <HiddenLabel lang="nb">Krisesenter</HiddenLabel>
-      <HiddenLabel lang="nn">Krisesenter</HiddenLabel>
       <HiddenLabel lang="nb">Barnemishandling</HiddenLabel>
       <HiddenLabel lang="nn">Barnemishandling</HiddenLabel>
       <HiddenLabel lang="nb">Incest</HiddenLabel>
@@ -4765,6 +4763,28 @@
       <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
       <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
       <Definition lang="nn">Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
+   <Concept path="ord/radgivning-og-kurs">
+      <PrefLabel lang="en">Consultation and courses</PrefLabel>
+      <PrefLabel lang="nb">Rådgivning og kurs</PrefLabel>
+      <PrefLabel lang="nn">Rettleiing og kurs</PrefLabel>
+      <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
+      <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
+      <Definition lang="nb">Tjenester og tilbud til pårørende eller til de som midlertidig eller varig trenger støtte eller avlastning.</Definition>
+      <Definition lang="nn">Tenester og tilbod til pårørande eller til dei som mellombels eller varig treng stønad eller avlasting.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
+   <Concept path="ord/tilrettelagt-arbeidstilbud">
+      <PrefLabel lang="en">Assisted job opportunities</PrefLabel>
+      <PrefLabel lang="nb">Tilrettelagt arbeidstilbud</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagt arbeidstilbod</PrefLabel>
+      <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
+      <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
+      <Definition lang="nb">Kommunen kan tilby og koordinere tiltak slik at yrkeshemmede og utviklingshemmede som har arbeidsevne og kapasitet, skal få varig  og tilrettelagt arbeid etter endt utdanning.</Definition>
+      <Definition lang="nn">Kommunen kan tilby og koordinere tiltak slik at yrkeshemma og utviklingshemma som har arbeidsevne og kapasitet, skal få varig  og tilrettelagd arbeid etter enda utdanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
