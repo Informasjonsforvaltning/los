@@ -5485,6 +5485,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
+   <Concept path="ord/livsstil">
+      <PrefLabel lang="en">Lifestyle</PrefLabel>
+      <PrefLabel lang="nb">Livsstil</PrefLabel>
+      <PrefLabel lang="nn">Livsstil</PrefLabel>
+      <HiddenLabel lang="nb">Samfunnstjeneste</HiddenLabel>
+      <HiddenLabel lang="nn">Samfunnsteneste</HiddenLabel>
+      <Definition lang="nn">Kommunen tilbyr aktiviteter som fremmer helse og forebygger skade og sykdom.</Definition>
+      <Definition lang="nb">Kommunen tilbyr aktivitetar som fremjar helse og førebygger skade og sjukdom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/folkehelse</Broader>
+   </Concept>
    <Concept path="ord/samlivsbrudd">
       <PrefLabel lang="en">Relationship break-up</PrefLabel>
       <PrefLabel lang="nb">Samlivsbrudd</PrefLabel>
