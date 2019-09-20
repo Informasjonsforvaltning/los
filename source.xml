@@ -4479,8 +4479,18 @@
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/ytelser-ved-sykdom-i-familien">
-      <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
+      <PrefLabel lang="en">Benefits for familiy illness </PrefLabel>
       <PrefLabel lang="nb">Ytelser ved sykdom i familien</PrefLabel>
+      <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
+      <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
+      <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
+      <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
       <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
