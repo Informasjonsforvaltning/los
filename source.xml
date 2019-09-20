@@ -1496,7 +1496,7 @@
       <Definition lang="nn">Eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå.</Definition>
       <Definition lang="nn">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/omsorgsavlastning">
       <PrefLabel lang="en">Care relief</PrefLabel>
