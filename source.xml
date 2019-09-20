@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
+   <Concept path="ord/tilleggsstonader-til-arbeidsrettede-tiltak">
+      <PrefLabel lang="en">Supplementary benefits to workoriented measures</PrefLabel>
+      <PrefLabel lang="nb">Tilleggstønader til arbeidsrettede tiltak</PrefLabel>
+      <PrefLabel lang="nn">Tilleggstønader til arbeidsretta tiltak</PrefLabel>
+      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsretta tiltak.</Definition>
+      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/inntektssikring</Broader>
+   </Concept>
    <Concept path="ord/anmeldelse">
       <PrefLabel lang="en">Reporting a crime</PrefLabel>
       <PrefLabel lang="nb">Anmeldelse</PrefLabel>
@@ -705,10 +714,10 @@
       <HiddenLabel lang="nn">Tidsavgrensa uførestønad</HiddenLabel>
       <HiddenLabel lang="nb">Attføringspenger</HiddenLabel>
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
-      <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er eige emneord.</Definition>
+      <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/uforepensjon</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/arbeidsavtale">
       <PrefLabel lang="en">Work contracts</PrefLabel>
@@ -1052,7 +1061,7 @@
       <PrefLabel lang="en">Childrens pension</PrefLabel>
       <PrefLabel lang="nb">Barnepensjon</PrefLabel>
       <PrefLabel lang="nn">Barnepensjon</PrefLabel>
-      <Definition lang="nn">Ei yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald. Barnetrygd er eige emneord.</Definition>
+      <Definition lang="nn">Ei yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -4422,6 +4431,36 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
+   <Concept path="ord/barnebidrag">
+      <PrefLabel lang="en">Child support</PrefLabel>
+      <PrefLabel lang="nb">Barnebidrag</PrefLabel>
+      <PrefLabel lang="nn">Barnebidrag</PrefLabel>
+      <Definition lang="nn">Barnebidrag er eit bidrag frå ein forelder til ein annan til forsørging av felles barn som ikkje bur saman med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
+      <Definition lang="nb">Barnebidrag er et bidrag fra en forelder til en annen til forsørgelse av felles barn som ikke bor sammen med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/barnetrygd">
+      <PrefLabel lang="en">Child allowance</PrefLabel>
+      <PrefLabel lang="nb">Barnetrygd</PrefLabel>
+      <PrefLabel lang="nn">Barnetrygd</PrefLabel>
+      <Definition lang="nn">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</Definition>
+      <Definition lang="nb">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/stønad-til-enslig-forsørger">
+      <PrefLabel lang="en">Support for single parents</PrefLabel>
+      <PrefLabel lang="nb">Stønad til enslig forsørger</PrefLabel>
+      <PrefLabel lang="nn">Stønad til einsleg forsørgar</PrefLabel>
+      <Definition lang="nn">Stønad til einsleg mor eller far som har aleineomsorgen for barn. Det omfattar også stønad til barnetilsyn, tilleggsstønader og stønad til skulepengar mv.</Definition>
+      <Definition lang="nb">Stønad til enslig mor eller far som har aleneomsorgen for barn, Det omfatter også stønad til barnetilsyn, tilleggsstønader og stønad til skolepenger mv.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
    <Concept path="ord/omsorgspermisjon">
       <PrefLabel lang="en">Personal care leave</PrefLabel>
       <PrefLabel lang="nb">Omsorgspermisjon</PrefLabel>
@@ -4432,6 +4471,56 @@
       <Related>ord/foreldrepermisjon</Related>
       <Broader>tema/permisjonsordninger</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
+   </Concept>
+   <Concept path="ord/kontantstøtte">
+      <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
+      <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
+      <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
+      <Definition lang="nn">Bidra til at familiane blir gitt valfridom når det gjeld omsorgsform for barn.</Definition>
+      <Definition lang="nb">Bidra til at familiene gis valgfrihet når det gjelder omsorgsform for barn.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/ytelser-ved-sykdom-i-familien">
+      <PrefLabel lang="en">Benefits for familiy illness </PrefLabel>
+      <PrefLabel lang="nb">Ytelser ved sykdom i familien</PrefLabel>
+      <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
+      <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
+      <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
+      <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
+      <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
+      <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/fastsettelse-av-foreldreskap">
+      <PrefLabel lang="en">Determination of parenthood</PrefLabel>
+      <PrefLabel lang="nb">Fastsettelse av foreldreskap</PrefLabel>
+      <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
+      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
+      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
+   <Concept path="ord/ytelser-til-gjenlevende">
+      <PrefLabel lang="en">Benefits to survivors</PrefLabel>
+      <PrefLabel lang="nb">Ytelser til gjenlevende</PrefLabel>
+      <PrefLabel lang="nn">Ytelsar til gjenlevende</PrefLabel>
+      <Definition lang="nn">Gjenlevendepensjon og overgangsstønad til gjenlevande ektefelle / samboar. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon blir gitt når ein eller begge foreldre er døde. Ytelsar til einsleg tidligere familiepleier som ikkje kan forsørge seg sjølv etter pleieforholdets opphør.</Definition>
+      <Definition lang="nb">Gjenlevendepensjon og overgangsstønad til gjenlevende ektefelle / samboer. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon gis når en eller begge foreldre er døde. Ytelser til enslig tidligere familiepleier som ikke kan forsørge seg selv etter pleieforholdets opphør.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-foreldre-og-foresatte">
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
@@ -4445,18 +4534,18 @@
       <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
       <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
       <HiddenLabel lang="nn">Foreldrepengar</HiddenLabel>
-      <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
-      <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
       <HiddenLabel lang="nb">Omsorgspenger</HiddenLabel>
       <HiddenLabel lang="nn">Omsorgspengar</HiddenLabel>
-      <HiddenLabel lang="nb">Støtte til enslig forsørger</HiddenLabel>
-      <HiddenLabel lang="nn">Stønad til einsleg forsørgjar</HiddenLabel>
       <HiddenLabel lang="nb">Bidragsforskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
       <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
       <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
+      <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
+      <HiddenLabel lang="nb">Stønad til enslig forsørger</HiddenLabel>
+      <HiddenLabel lang="nn">Stønad til einsleg forsørgar</HiddenLabel>
       <HiddenLabel lang="nb">Stønad til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nn">Støtte til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nb">Overgangsstønad</HiddenLabel>
@@ -4465,6 +4554,9 @@
       <Definition lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
+      <Related>ord/kontantstøtte</Related>
+      <Related>ord/barnebidrag</Related>
+      <Related>ord/stønad-til-enslig-forsørger</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -6302,6 +6394,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
+   <Concept path="ord/tilrettelegging-pa-arbeidsplassen">
+      <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
+      <PrefLabel lang="nb">Tilrettelegging på arbeidsplassen</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelegging på arbeidsplassen</PrefLabel>
+      <Definition lang="nn">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
+      <Definition lang="nb">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/arbeidsliv</Broader>
+   </Concept>
    <Concept path="ord/tinglysing">
       <PrefLabel lang="en">Official registration</PrefLabel>
       <PrefLabel lang="nb">Tinglysing</PrefLabel>
@@ -6547,20 +6648,16 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/ekteskap</Broader>
    </Concept>
-   <Concept path="ord/uforepensjon">
-      <PrefLabel lang="en">Disability pension</PrefLabel>
-      <PrefLabel lang="nb">Uførepensjon</PrefLabel>
-      <PrefLabel lang="nn">Uførepensjon</PrefLabel>
-      <HiddenLabel lang="nb">Grunnbeløp</HiddenLabel>
-      <HiddenLabel lang="nn">Grunnbeløp</HiddenLabel>
-      <HiddenLabel lang="nb">Uføregrad</HiddenLabel>
-      <HiddenLabel lang="nn">Uføregrad</HiddenLabel>
-      <HiddenLabel lang="nb">Uføretrygd</HiddenLabel>
-      <HiddenLabel lang="nn">Uføretrygd</HiddenLabel>
-      <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne. Uførestønad er eige emneord.</Definition>
+   <Concept path="ord/uforetrygd">
+      <PrefLabel lang="en">Disability benefits</PrefLabel>
+      <PrefLabel lang="nb">Uføretrygd</PrefLabel>
+      <PrefLabel lang="nn">Uføretrygd</PrefLabel>
+      <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</Definition>
+      <Definition lang="nn">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/ufrivillig-barnloshet">
       <PrefLabel lang="en">Involuntary childlessness</PrefLabel>
@@ -7129,6 +7226,13 @@
       <PrefLabel lang="en">Child and family welfare</PrefLabel>
       <PrefLabel lang="nb">Barnevern og foreldrestøtte</PrefLabel>
       <PrefLabel lang="nn">Barnevern og foreldrestøtte</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
+   </Concept>
+   <Concept path="tema/familieytelser">
+      <PrefLabel lang="en">Family benefits</PrefLabel>
+      <PrefLabel lang="nb">Familieytelser</PrefLabel>
+      <PrefLabel lang="nn">Familieytelsar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
