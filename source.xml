@@ -1863,7 +1863,6 @@
       <HiddenLabel lang="nn">Ergoterapeut</HiddenLabel>
       <Definition lang="nn">Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade. Fysioterapi er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/hjelpemidler</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/ernaring">
@@ -2678,7 +2677,6 @@
       <HiddenLabel lang="nn">Manuellterapi</HiddenLabel>
       <Definition lang="nn">Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi. Ergoterapi, kiropraktikk og eigendelar er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/hjelpemidler</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/fysisk-aktivitet">
@@ -7282,13 +7280,6 @@
       <PrefLabel lang="en">Health services</PrefLabel>
       <PrefLabel lang="nb">Helsetjenester</PrefLabel>
       <PrefLabel lang="nn">Helsetenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse-og-omsorg</Broader>
-   </Concept>
-   <Concept path="tema/hjelpemidler">
-      <PrefLabel lang="en">Health aids</PrefLabel>
-      <PrefLabel lang="nb">Hjelpemiddler</PrefLabel>
-      <PrefLabel lang="nn">Hjelpemiddel</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
