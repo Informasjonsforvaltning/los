@@ -6607,21 +6607,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/ekteskap</Broader>
    </Concept>
-   <Concept path="ord/uforepensjon">
-      <PrefLabel lang="en">Disability pension</PrefLabel>
-      <PrefLabel lang="nb">Uførepensjon</PrefLabel>
-      <PrefLabel lang="nn">Uførepensjon</PrefLabel>
-      <HiddenLabel lang="nb">Grunnbeløp</HiddenLabel>
-      <HiddenLabel lang="nn">Grunnbeløp</HiddenLabel>
-      <HiddenLabel lang="nb">Uføregrad</HiddenLabel>
-      <HiddenLabel lang="nn">Uføregrad</HiddenLabel>
-      <HiddenLabel lang="nb">Uføretrygd</HiddenLabel>
-      <HiddenLabel lang="nn">Uføretrygd</HiddenLabel>
-      <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne. Uførestønad er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidsavklaringspenger</Related>
-      <Broader>tema/pensjon</Broader>
-   </Concept>
    <Concept path="ord/uforetrygd">
       <PrefLabel lang="en">Disability benefits</PrefLabel>
       <PrefLabel lang="nb">Uføretrygd</PrefLabel>
@@ -6631,6 +6616,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/ufrivillig-barnloshet">
       <PrefLabel lang="en">Involuntary childlessness</PrefLabel>
