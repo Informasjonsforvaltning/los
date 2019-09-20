@@ -7159,7 +7159,7 @@
       <PrefLabel lang="nb">Botilbud</PrefLabel>
       <PrefLabel lang="nn">Butilbod</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
+      <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/bygging">
       <PrefLabel lang="en">Construction</PrefLabel>
@@ -7462,7 +7462,7 @@
       <PrefLabel lang="nb">Økonomiske ytelser</PrefLabel>
       <PrefLabel lang="nn">Økonomiske ytingar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
+      <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/avgift">
       <PrefLabel lang="en">Taxes</PrefLabel>
@@ -7483,7 +7483,7 @@
       <PrefLabel lang="nb">Omsorgstjenester</PrefLabel>
       <PrefLabel lang="nn">Omsorgstenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/opphavsrett">
       <PrefLabel lang="en">Copyright</PrefLabel>
@@ -7491,6 +7491,13 @@
       <PrefLabel lang="nn">Opphavsrett</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
+   </Concept>
+   <Concept path="tema/sosiale-tjenester">
+      <PrefLabel lang="en">Social services</PrefLabel>
+      <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
+      <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/pasientrettigheter">
       <PrefLabel lang="en">Patient rights</PrefLabel>
@@ -7504,7 +7511,7 @@
       <PrefLabel lang="nb">Pensjon</PrefLabel>
       <PrefLabel lang="nn">Pensjon</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/omsorg-trygd-og-sosiale-tjenester</Broader>
+      <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/permisjonsordninger">
       <PrefLabel lang="en">Leave of absence schemes</PrefLabel>
