@@ -3017,7 +3017,17 @@
       <HiddenLabel lang="nn">Praktisk bistand i heimen</HiddenLabel>
       <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
+      <Broader>tema/hjemmetjenester</Broader>
+   </Concept>
+   <Concept path="ord/hjemmeteknologi">
+      <PrefLabel lang="en">Home tech</PrefLabel>
+      <PrefLabel lang="nb">Hjemmeteknologi</PrefLabel>
+      <PrefLabel lang="nn">Heimeteknologi</PrefLabel>
+      <HiddenLabel lang="nb">Velferdsteknologi</HiddenLabel>
+      <HiddenLabel lang="nn">Velferdsteknologi</HiddenLabel>
+      <Definition lang="nn">*Beskrivelse mangler </Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjemmetjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmesykepleie">
       <PrefLabel lang="en">Home nurse</PrefLabel>
@@ -3032,7 +3042,7 @@
       <Definition lang="nn">Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis. Heimehjelp er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/omsorgstjenester</Broader>
+      <Broader>tema/hjemmetjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmeundervisning">
       <PrefLabel lang="en">Home teaching</PrefLabel>
@@ -3956,15 +3966,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/matombringing">
+   <Concept path="ord/matlevering">
       <PrefLabel lang="en">Meals on wheels</PrefLabel>
-      <PrefLabel lang="nb">Matombringing</PrefLabel>
-      <PrefLabel lang="nn">Matombringing</PrefLabel>
+      <PrefLabel lang="nb">Matlevering</PrefLabel>
+      <PrefLabel lang="nn">Matlevering</PrefLabel>
       <HiddenLabel lang="nb">Matombringning</HiddenLabel>
       <HiddenLabel lang="nn">Matombringing</HiddenLabel>
       <Definition lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
+      <Broader>tema/hjemmetjenester</Broader>
    </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
