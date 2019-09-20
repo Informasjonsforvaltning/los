@@ -2989,25 +2989,12 @@
       <Related>ord/vaksine</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/hjelpemidler">
+   <Concept path="tema/hjelpemidler">
       <PrefLabel lang="en">Disability aids</PrefLabel>
       <PrefLabel lang="nb">Hjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Hjelpemiddel</PrefLabel>
-      <HiddenLabel lang="nb">Hjelpemiddelsentralen</HiddenLabel>
-      <HiddenLabel lang="nn">Hjelpemiddelsentralen</HiddenLabel>
-      <HiddenLabel lang="nb">Hjelpemiddel</HiddenLabel>
-      <HiddenLabel lang="nn">Hjelpemiddel</HiddenLabel>
-      <HiddenLabel lang="nb">Førerhund</HiddenLabel>
-      <HiddenLabel lang="nn">Førarhund</HiddenLabel>
-      <HiddenLabel lang="nb">Tekniske hjelpemidler</HiddenLabel>
-      <HiddenLabel lang="nn">Tekniske hjelpemiddel</HiddenLabel>
-      <HiddenLabel lang="nb">Teknisk hjelpemiddel</HiddenLabel>
-      <HiddenLabel lang="nn">Teknisk hjelpemiddel</HiddenLabel>
-      <Definition lang="nn">Tekniske hjelpemiddel som kan gjevast til personar som er funksjonshemma, utsette for skade, opererte eller som har redusert funksjonsevne på grunn av sjukdom. Føremålet er at dei skal kunne få ein lettare kvardag. Hjelpemidla kan lånast ut for ein kortare eller lengre periode.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ergoterapi</Related>
-      <Related>ord/fysioterapi</Related>
-      <Broader>tema/avlastning-og-stotte</Broader>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="ord/hjemmehjelp">
       <PrefLabel lang="en">Home help</PrefLabel>
