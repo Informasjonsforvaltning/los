@@ -705,10 +705,11 @@
       <HiddenLabel lang="nn">Tidsavgrensa uførestønad</HiddenLabel>
       <HiddenLabel lang="nb">Attføringspenger</HiddenLabel>
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
-      <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte. Uførepensjon er eige emneord.</Definition>
+      <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/uforepensjon</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/arbeidsavtale">
       <PrefLabel lang="en">Work contracts</PrefLabel>
