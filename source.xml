@@ -4478,6 +4478,16 @@
       <Broader>tema/barn-og-familie</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
+   <Concept path="ord/fastsettelse-av-foreldreskap">
+      <PrefLabel lang="en">Determination of parenthood</PrefLabel>
+      <PrefLabel lang="nb">Fastsettelse av foreldreskap</PrefLabel>
+      <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
+      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
+      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/barn-og-familie</Broader>
+      <Broader>tema/familieytelser</Broader>
+   </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
       <PrefLabel lang="nb">Ytelser til gjenlevende</PrefLabel>
