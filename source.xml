@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
+   <Concept path="ord/tilleggsstonader-til-arbeidsrettede-tiltak">
+      <PrefLabel lang="en">Supplementary benefits to workoriented measures</PrefLabel>
+      <PrefLabel lang="nb">Tilleggstønader til arbeidsrettede tiltak</PrefLabel>
+      <PrefLabel lang="nn">Tilleggstønader til arbeidsretta tiltak</PrefLabel>
+      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsretta tiltak.</Definition>
+      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/inntektssikring</Broader>
+   </Concept>
    <Concept path="ord/anmeldelse">
       <PrefLabel lang="en">Reporting a crime</PrefLabel>
       <PrefLabel lang="nb">Anmeldelse</PrefLabel>
