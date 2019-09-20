@@ -6353,6 +6353,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
+   <Concept path="ord/tilrettelegging-pa-arbeidsplassen">
+      <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
+      <PrefLabel lang="nb">Tilrettelegging på arbeidsplassen</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelegging på arbeidsplassen</PrefLabel>
+      <Definition lang="nn">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
+      <Definition lang="nb">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/arbeidsliv</Broader>
+   </Concept>
    <Concept path="ord/tinglysing">
       <PrefLabel lang="en">Official registration</PrefLabel>
       <PrefLabel lang="nb">Tinglysing</PrefLabel>
