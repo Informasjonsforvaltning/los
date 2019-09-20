@@ -4534,6 +4534,8 @@
       <PrefLabel lang="nn">Ytelsar til foreldre og føresette</PrefLabel>
       <HiddenLabel lang="nb">Barnetrygd</HiddenLabel>
       <HiddenLabel lang="nn">Barnetrygd</HiddenLabel>
+      <HiddenLabel lang="nb">Barnebidrag</HiddenLabel>
+      <HiddenLabel lang="nn">Barnebidrag</HiddenLabel>
       <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
       <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
       <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
@@ -4546,6 +4548,10 @@
       <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
+      <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
+      <HiddenLabel lang="nb">Stønad til enslig forsørger</HiddenLabel>
+      <HiddenLabel lang="nn">Stønad til einsleg forsørgar</HiddenLabel>
       <HiddenLabel lang="nb">Stønad til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nn">Støtte til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nb">Overgangsstønad</HiddenLabel>
