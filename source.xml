@@ -754,6 +754,7 @@
       <HiddenLabel lang="nb">Arbeidsgjevaransvar</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsgjevaransvar</HiddenLabel>
       <Definition lang="nn">Alle som har tilsett arbeidstakarar for å utføre arbeid i si teneste.</Definition>
+      <Definition lang="nb">Enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -825,8 +826,8 @@
       <HiddenLabel lang="nn">Arbeidsmiljøutval</HiddenLabel>
       <HiddenLabel lang="nb">Skiftende arbeidsplass</HiddenLabel>
       <HiddenLabel lang="nn">Skiftande arbeidsplass</HiddenLabel>
-      <Definition lang="nn">Rettane til arbeidstaker og pliktene til arbeidsgjevaren i forhold til arbeidsmiljølova, t.d. krav til dei fysiske, psyko-sosiale og organisatoriske forholda på ein arbeidsplass.</Definition>
-      <Definition lang="nb">Rettene til arbeidstaker og pliktene til arbeidsgiveren i forhold til arbeidsmiljøloven, t.d. krav til de fysiske, psyko-sosiale og organisatoriske forholdene på en arbeidsplass.</Definition>
+      <Definition lang="nn">Forholda for arbeidstakarane på ein arbeidsplass, særleg dei fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholda.</Definition>
+      <Definition lang="nb">Forholdene for arbeidstakerne på en arbeidsplass, særlig de fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholdene.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -879,7 +880,8 @@
       <HiddenLabel lang="nn">Overtid</HiddenLabel>
       <HiddenLabel lang="nb">Turnus</HiddenLabel>
       <HiddenLabel lang="nn">Turnus</HiddenLabel>
-      <Definition lang="nn">Lovregulert arbeidstid. Redusert arbeidstid, fleksibel arbeidstid.</Definition>
+      <Definition lang="nn">Arbeidstid er tida du jobbar. I denne tida går du med på at arbeidsplassen bestem over arbeidskraften din mot at du kompenserast med lønn.</Definition>
+      <Definition lang="nb">Arbeidstid er tida du jobber. I denne tida går du med på at arbeidsplassen bestemmer over arbeidskraften din mot at du kompenseres med lønn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -915,7 +917,8 @@
       <HiddenLabel lang="nn">Arbeidskonflikt</HiddenLabel>
       <HiddenLabel lang="nb">Fagforening</HiddenLabel>
       <HiddenLabel lang="nn">Fagforeining</HiddenLabel>
-      <Definition lang="nn">Arbeidskonfliktar og streik.</Definition>
+      <Definition lang="nn">Arbeidstvist er ein spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følgje av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om oppretting av tariffavtale og/eller ved reforhandling av eksisterande tariffavtale</Definition>
+      <Definition lang="nb">Arbeidstvist er en spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følge av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om opprettelse av tariffavtale og/eller ved reforhandling av eksisterende tariffavtale</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -2058,8 +2061,8 @@
       <PrefLabel lang="nn">Ferierettar</PrefLabel>
       <HiddenLabel lang="nb">Fellesferie</HiddenLabel>
       <HiddenLabel lang="nn">Fellesferie</HiddenLabel>
-      <Definition lang="nn">Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før.</Definition>
-      <Definition lang="nb">Alle arbeidstakere har krav på fire uker pluss en dags ferie hvert kalenderår. Mange har også krav på en femte ferieuke. Den er ikke lovbestemt, men en del av lønnsoppgjøret mellom partane i arbeidslivet. Om en får utbetalt lønn i ferien er avhengig av om en hadde inntekstgivende arbeid året før.</Definition>
+      <Definition lang="nn">Ferie er ein vanleg nemning på samanhengande rekkje av dagar då man har fri frå arbeidet. I Norge er dette regulert i ferielova.</Definition>
+      <Definition lang="nb">Ferie er en vanlig betegnelse på sammenhengende rekke av dager da man har fri fra sitt arbeid. I Norge reguleres dette i ferieloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/feriepenger</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -3224,7 +3227,8 @@
       <HiddenLabel lang="nn">IA-avtale</HiddenLabel>
       <HiddenLabel lang="nb">Tilretteleggingstilskudd</HiddenLabel>
       <HiddenLabel lang="nn">Tilretteleggingstilskot</HiddenLabel>
-      <Definition lang="nn">Intensjonsavtale som er inngått mellom partane i arbeidslivet og regjeringa. Hovudmål for avtalen er å gje plass til alle som kan, og vil arbeide.</Definition>
+      <Definition lang="nn">Eit avtalesamarbeid som skal skape eit arbeidsliv med plass til alle gjennom å førebyggje sjukefråvær og fråfall og på denne måten bidra til å øke sysselsettningen.</Definition>
+      <Definition lang="nb">Et avtalesamarbeid som skal skape et arbeidsliv med plass til alle gjennom å forebygge sykefravær og frafall og på denne måten bidra til å auke sysselsetjinga.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -4671,7 +4675,8 @@
       <HiddenLabel lang="nn">Overflødig</HiddenLabel>
       <HiddenLabel lang="nb">Avskjed</HiddenLabel>
       <HiddenLabel lang="nn">Avskil</HiddenLabel>
-      <Definition lang="nn">Her brukt om oppseiing av arbeidsforhold. For at ei oppseiing skal vere korrekt etter arbeidsmiljølova må fleire vilkår vera oppfylte. Til dømes må oppseiinga vere skriftleg, oppseinga frå arbeidsgjevaren skal vere sakleg begrunna, og ho skal leverast til arbeidstakaren personleg eller sendast rekommandert.</Definition>
+      <Definition lang="nn">Oppseiing er den vanlegaste måten å avslutte eit arbeidsforhold på. Det finnast faste reglar for korleis ei oppseeing skal skje. Desse reglane finn ein i arbeidsmiljølova.</Definition>
+      <Definition lang="nb">Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på. Det finnes faste regler for hvordan en oppsigelse skal skje. Disse reglene finner man i arbeidsmiljøloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ventelonn</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -4847,6 +4852,7 @@
       <PrefLabel lang="nb">Permittering</PrefLabel>
       <PrefLabel lang="nn">Permittering</PrefLabel>
       <Definition lang="nn">Permittering inneber at arbeidstakaren vert heilt eller delvis løyst frå arbeidet på grunn av innskrenking i drifta eller arbeidsstans bestemt av arbeidsgjevar.</Definition>
+      <Definition lang="nb">Permittering innebærer at en eller flere ansatte midlertidig, helt eller delvis blir løst fra arbeidsplikten, fordi virksomheten har besluttet å redusere eller stanse driften.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -6146,7 +6152,8 @@
       <HiddenLabel lang="nn">Sjukemelding</HiddenLabel>
       <HiddenLabel lang="nb">Sykmelding</HiddenLabel>
       <HiddenLabel lang="nn">Sjukmelding</HiddenLabel>
-      <Definition lang="nn">Fråver frå arbeid i samband med sjukdom eller skade.</Definition>
+      <Definition lang="nn">Sjukefråver er fråver frå lønna arbeid på grunn av sjukdom. .</Definition>
+      <Definition lang="nb">Sykefravær er fravær fra lønnet arbeid på grunn av sykdom. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykepenger</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -7142,7 +7149,8 @@
       <HiddenLabel lang="nn">Skadeforklaring</HiddenLabel>
       <HiddenLabel lang="nb">Yrkesskadeforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Yrkesskadeforsikring</HiddenLabel>
-      <Definition lang="nn">Personskade, sjukdom eller dødsfall som følgje av arbeidsulukke. Ein sjukdom kan også bli godkjend som yrkessjukdom dersom han er ei følgje av skadeleg påverknad frå arbeidsmiljøet og er ein av dei sjukdomane som er nemnde i forskrift om yrkessjukdomar.</Definition>
+      <Definition lang="nn">Yrkesskade er ein skade som skjer ved ei ulykke i arbeidstiden. Yrkesskadedekningen gir særfordelar utover folketrygda sitt ordinære stønadssystem.</Definition>
+      <Definition lang="nn">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/menerstatning</Related>
       <Broader>tema/arbeidsliv</Broader>
