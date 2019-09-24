@@ -6229,6 +6229,15 @@
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
+   <Concept path="ord/uforetrygd">
+      <PrefLabel lang="en">Disability benefits</PrefLabel>
+      <PrefLabel lang="nb">Uføretrygd</PrefLabel>
+      <PrefLabel lang="nn">Uføretrygd</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/sykefravar</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/inntektssikring</Broader>
+   </Concept>
    <Concept path="ord/separasjon-og-skilsmisse">
       <PrefLabel lang="en">Separation and divorce</PrefLabel>
       <PrefLabel lang="nb">Separasjon og skilsmisse</PrefLabel>
@@ -7144,10 +7153,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="ord/yrkesskade">
-      <PrefLabel lang="en">Occupational injury</PrefLabel>
-      <PrefLabel lang="nb">Yrkesskade</PrefLabel>
-      <PrefLabel lang="nn">Yrkesskade</PrefLabel>
+   <Concept path="ord/yrkesskadedekning">
+      <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
+      <PrefLabel lang="nb">Yrkesskadedekning</PrefLabel>
+      <PrefLabel lang="nn">Yrkesskadedekning</PrefLabel>
       <HiddenLabel lang="nb">Yrkessykdom</HiddenLabel>
       <HiddenLabel lang="nn">Yrkessjukdom</HiddenLabel>
       <HiddenLabel lang="nb">Arbeidsulykke</HiddenLabel>
