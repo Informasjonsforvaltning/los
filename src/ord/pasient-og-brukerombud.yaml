@@ -14,10 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Helsetilsynet i fylket kan etter forspurnad frå pasient eller pårørande vurdere
-    om helsepersonell i spesialisthelsetenesta har gitt forsvarleg behandling. Ein
-    eventuell klage skal sendast til Statens helsetilsyn for vurdering etter helsepersonelllova.
-    @nn
+  - Helsetilsynet i fylket kan etter forspurnad frå pasient eller pårørande vurdere om helsepersonell i spesialisthelsetenesta har gitt forsvarleg behandling. Ein eventuell klage skal sendast til Statens helsetilsyn for vurdering etter helsepersonelllova. @nn
 relation:
   broader:
   - tema/omsorgstjenester

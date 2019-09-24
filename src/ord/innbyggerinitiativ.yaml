@@ -9,9 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar
-    å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjararne,
-    alternativt 300 i kommunen eller 500 i fylket, står bak framlegget. @nn
+  - Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjararne, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget. @nn
 relation:
   broader:
   - tema/politikk-og-valg

@@ -18,12 +18,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk,
-    landbruk m.m. @nn
+  - Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk, landbruk m.m. @nn
 relation:
   broader:
-  - tema/forurensning-og-straling
+  - tema/forurensning-og-straaling
   related:
   - ord/universell-utforming
-  - ord/avlopshandtering
+  - ord/avloepshaandtering
   - ord/vannforsyning

@@ -26,9 +26,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte
-    grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege
-    tannhelsetenesta. @nn
+  - Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege tannhelsetenesta. @nn
 relation:
   broader:
   - tema/helsetjenester

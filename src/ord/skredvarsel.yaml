@@ -28,10 +28,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Varsling om vegstrekningar og område som er særleg utsette for ras og skred i
-    form av jord, leire, snø eller stein. @nn
+  - Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein. @nn
 relation:
   broader:
-  - tema/var-og-klima
+  - tema/vaer-og-klima
   related:
   - ord/naturskade

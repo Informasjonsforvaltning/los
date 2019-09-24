@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Skolefrukt @nb
+  - Skulefrukt @nn
+  - Skolemelk @nb
+  - Skulemjølk @nn
+  - Skolemat @nb
+  - Skulemat @nn
+  preferred:
+  - School meals @en
+  - Skolemåltid @nb
+  - Skulemåltid @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Tilbod om gratis måltid i grunnskulen. Prøveprosjekt i ein del kommunar. @nn
+relation:
+  broader:
+  - tema/grunnskoleopplaering
+  related:
+  - ord/ernaering

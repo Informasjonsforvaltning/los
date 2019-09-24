@@ -9,9 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Feriepengar må tenast opp året før ferien skal avviklast. Dersom ein ikkje har
-    vore i arbeid året før, har ein rett på ferie, men ikkje rett til feriepengar.
-    Ferie er eige stikkord. @nn
+  - Feriepengar må tenast opp året før ferien skal avviklast. Dersom ein ikkje har vore i arbeid året før, har ein rett på ferie, men ikkje rett til feriepengar. Ferie er eige stikkord. @nn
 relation:
   broader:
   - tema/inntekt

@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - Familiebarnehage @nb
+  - Familiebarnehage @nn
+  - Privat barnehage @nb
+  - Privat barnehage @nn
+  - Barnehageetablering @nb
+  - Barnehageetablering @nn
+  preferred:
+  - Setting up a kindergarten @en
+  - Etablering av barnehage @nb
+  - Etablering av barnehage @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar. Barnepark er eige emneord. @nn
+relation:
+  broader:
+  - tema/barnehage
+  - tema/naeringsutvikling

@@ -22,12 +22,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein embetsmann som skriv under og dermed stadfestar visse rettslege forhold. Notarius
-    publicus utfører vigsler og registreringar av partnarskap, og gjev notarialstadfestingar,
-    herunder stadfesting av underskrift og rett kopi. Det er tingrettane og byfutane
-    som utfører notarialforretningar. Også lensmenn kan gjere dette, med det er då
-    i hovusak avgrensa til å stadfeste at ei underskrift er rett og utferding av leveattestar.
-    @nn
+  - Ein embetsmann som skriv under og dermed stadfestar visse rettslege forhold. Notarius publicus utfører vigsler og registreringar av partnarskap, og gjev notarialstadfestingar, herunder stadfesting av underskrift og rett kopi. Det er tingrettane og byfutane som utfører notarialforretningar. Også lensmenn kan gjere dette, med det er då i hovusak avgrensa til å stadfeste at ei underskrift er rett og utferding av leveattestar. @nn
 relation:
   broader:
   - tema/rettsvesen

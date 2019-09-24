@@ -25,10 +25,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ved oppstart av terrenginngrep/graving er regelen at tiltakshavar pliktar å vurdere
-    og eventuelt undersøkje om det er forureina grunn i området. I så fall skal det
-    utarbeidast tiltaksplan som skal godkjennast av kommunen før gjennomføring av
-    arbeidet. @nn
+  - Ved oppstart av terrenginngrep/graving er regelen at tiltakshavar pliktar å vurdere og eventuelt undersøkje om det er forureina grunn i området. I så fall skal det utarbeidast tiltaksplan som skal godkjennast av kommunen før gjennomføring av arbeidet. @nn
 relation:
   broader:
-  - tema/forurensning-og-straling
+  - tema/forurensning-og-straaling

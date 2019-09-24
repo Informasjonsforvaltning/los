@@ -42,11 +42,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei samlivspakt mellom mann og kvinne. Det er fleire vilkår for at ein kan inngå
-    ekteskap, m.a. at ein må ha fylt 18 år, ikkje vera i nær slekt og ha lovleg opphald
-    i Noreg. Det er folkeregisteret som skal prøve ekteskapsvilkåra. Medrekna alle
-    former for vigsler i inn- og utland, ektepakt, tinglysing av ektepakt m.m. Partenerskap
-    er eige emneord. @nn
+  - Ei samlivspakt mellom mann og kvinne. Det er fleire vilkår for at ein kan inngå ekteskap, m.a. at ein må ha fylt 18 år, ikkje vera i nær slekt og ha lovleg opphald i Noreg. Det er folkeregisteret som skal prøve ekteskapsvilkåra. Medrekna alle former for vigsler i inn- og utland, ektepakt, tinglysing av ektepakt m.m. Partenerskap er eige emneord. @nn
 relation:
   broader:
   - tema/samliv

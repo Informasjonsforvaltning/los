@@ -14,10 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel
-    og informasjon om reisetider mellom ulike reisemål. @nn
-  - Automatisert informasjon på Internett der en kan få hjelp til valg av transportmiddel
-    og informasjon om reisetider mellom ulike reisemål. @nb
+  - Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og og informasjon om reistider mellom ulike reisemål. @nn
 relation:
   broader:
-  - tema/transporttilbud
+  - tema/veg-og-vegtrafikk

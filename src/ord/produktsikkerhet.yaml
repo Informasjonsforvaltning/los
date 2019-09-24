@@ -16,9 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører
-    en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap
-    og Statens forureiningstilsyn forvaltar produktkontrolllova. @nn
+  - At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap og Statens forureiningstilsyn forvaltar produktkontrolllova. @nn
 relation:
   broader:
   - tema/varer-og-tjenester

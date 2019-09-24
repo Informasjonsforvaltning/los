@@ -1,0 +1,46 @@
+!Concept
+label:
+  hidden:
+  - HMS @nb
+  - HMT @nn
+  - Omplassering @nb
+  - Omplassering @nn
+  - Arbeid av barn og ungdom @nb
+  - Arbeid av barn og ungdom @nn
+  - Midlertidig arbeidsplass @nb
+  - Mellombels arbeidsplass @nn
+  - BHT @nb
+  - BHT @nn
+  - Arbeidstilsynet @nb
+  - Arbeidstilsynet @nn
+  - Unge arbeidstakere @nb
+  - Unge arbeidstakarar @nn
+  - Bedriftshelsetjeneste @nb
+  - Bedriftshelseteneste @nn
+  - AMU @nb
+  - AMU @nn
+  - Verneombud @nb
+  - Verneombod @nn
+  - Helse-, miljø- og sikkerhetsarbeid @nb
+  - Helse-, miljø- og sikkerheitsarbeid @nn
+  - Helse-, miljø- og tryggleiksarbeid @nb
+  - Helse-, miljø- og tryggleiksarbeid @nn
+  - Gravide arbeidstakere @nb
+  - Gravide arbeidstakarar @nn
+  - Arbeidsmiljøutvalg @nb
+  - Arbeidsmiljøutval @nn
+  - Skiftende arbeidsplass @nb
+  - Skiftande arbeidsplass @nn
+  preferred:
+  - Work environment @en
+  - Arbeidsmiljø @nb
+  - Arbeidsmiljø @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Rettane til arbeidstaken og pliktene til arbeidsgjevaren i forhold til arbeidsmiljølova, t.d. krav til dei fysiske, psyko-sosiale og organisatoriske forholda på ein arbeidsplass. @nn
+relation:
+  broader:
+  - tema/arbeidsliv

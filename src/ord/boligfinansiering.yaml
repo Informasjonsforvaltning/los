@@ -32,8 +32,8 @@ documentation:
 relation:
   broader:
   - tema/bygging
-  - tema/kjop-og-salg
+  - tema/kjoep-og-salg
   related:
-  - ord/bostotte
+  - ord/bostoette
   - ord/byggesak
   - ord/eiendomsomsetning

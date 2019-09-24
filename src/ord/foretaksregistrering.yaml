@@ -32,4 +32,4 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/naringsutvikling
+  - tema/naeringsutvikling

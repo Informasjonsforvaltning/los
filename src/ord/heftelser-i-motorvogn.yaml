@@ -9,8 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.
-    @nn
+  - Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy. @nn
 relation:
   broader:
-  - tema/kjoretoy
+  - tema/kjoeretoey

@@ -52,8 +52,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Domstolane er ei av dei tre statsmaktene i Noreg, og utøver den dømmande makta.
-    Herunder også forliksråd og spesialdomstolane. @nn
+  - Domstolane er ei av dei tre statsmaktene i Noreg, og utøver den dømmande makta. Herunder også forliksråd og spesialdomstolane. @nn
 relation:
   broader:
   - tema/rettsvesen

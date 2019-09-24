@@ -18,14 +18,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand
-    frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til
-    skyss gjeld ikkje til/frå skulefritidsordninga (SFO). @nn
-  - Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand
-    fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til
-    skyss gjeld ikke til/fra skolefritidsordningen (SFO). @nb
+  - Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO). @nn
 relation:
   broader:
-  - tema/grunnskoleopplaring
-  - tema/videregaende-opplaring
-  - tema/transporttilbud
+  - tema/grunnskoleopplaering
+  - tema/videregaaende-opplaering
+  - tema/veg-og-vegtrafikk

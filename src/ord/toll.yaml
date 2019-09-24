@@ -30,9 +30,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på
-    importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll
-    (skatt på gjennomførsel av utanlandske varer). @nn
+  - Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer). @nn
 relation:
   broader:
   - tema/handel-og-service

@@ -16,8 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Intensjonsavtale som er inngått mellom partane i arbeidslivet og regjeringa. Hovudmål
-    for avtalen er å gje plass til alle som kan, og vil arbeide. @nn
+  - Intensjonsavtale som er inngått mellom partane i arbeidslivet og regjeringa. Hovudmål for avtalen er å gje plass til alle som kan, og vil arbeide. @nn
 relation:
   broader:
   - tema/arbeidsliv

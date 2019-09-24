@@ -28,8 +28,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot.
-    Fornybar energi og kraftpris er eigne emneord. @nn
+  - Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot. Fornybar energi og kraftpris er eigne emneord. @nn
 relation:
   broader:
   - tema/energi

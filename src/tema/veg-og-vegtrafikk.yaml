@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Road and traffic services @en
+  - Veg og vegtrafikk @nb
+  - Veg og vegtrafikk @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/trafikk-reiser-og-samferdsel

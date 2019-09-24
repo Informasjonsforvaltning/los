@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Playground @en
+  - Lekeplass @nb
+  - Leikeplass @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ein avgrensa stad utandørs som er lagt til rette for at barn kan leike. @nn
+relation:
+  broader:
+  - tema/barn-og-foreldre
+  - tema/fritid

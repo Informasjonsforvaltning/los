@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Haiking @nb
+  - Haiking @nn
+  - Pendling @nb
+  - Pendling @nn
+  preferred:
+  - Journey sharing @en
+  - Kameratkjøring @nb
+  - Kameratkøyring @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i sambruksfeltet. @nn
+relation:
+  broader:
+  - tema/kollektivtransport

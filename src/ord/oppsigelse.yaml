@@ -14,12 +14,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Her brukt om oppseiing av arbeidsforhold. For at ei oppseiing skal vere korrekt
-    etter arbeidsmiljølova må fleire vilkår vera oppfylte. Til dømes må oppseiinga
-    vere skriftleg, oppseinga frå arbeidsgjevaren skal vere sakleg begrunna, og ho
-    skal leverast til arbeidstakaren personleg eller sendast rekommandert. @nn
+  - Her brukt om oppseiing av arbeidsforhold. For at ei oppseiing skal vere korrekt etter arbeidsmiljølova må fleire vilkår vera oppfylte. Til dømes må oppseiinga vere skriftleg, oppseinga frå arbeidsgjevaren skal vere sakleg begrunna, og ho skal leverast til arbeidstakaren personleg eller sendast rekommandert. @nn
 relation:
   broader:
   - tema/arbeidsliv
   related:
-  - ord/ventelonn
+  - ord/venteloenn

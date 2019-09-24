@@ -1,0 +1,60 @@
+!Concept
+label:
+  hidden:
+  - Fradeling @nb
+  - Frådeling @nn
+  - Justering av grense @nb
+  - Justering av grense @nn
+  - Målebrev @nb
+  - Målebrev @nn
+  - Dele @nb
+  - Dele @nn
+  - Ortofoto @nb
+  - Ortofoto @nn
+  - Påvisning av grense @nb
+  - Påvising av grense @nn
+  - Flyfoto @nb
+  - Flyfoto @nn
+  - Grunnlagsnett @nb
+  - Grunnlagsnett @nn
+  - Kartverk @nb
+  - Kartverk @nn
+  - Sammenføyning av eiendommer @nb
+  - Samanføying av eigedommar @nn
+  - Grensepåvisning @nb
+  - Grensepåvising @nn
+  - Grensejustering @nb
+  - Grensejustering @nn
+  - Tomt @nb
+  - Tomt @nn
+  - Kartdata @nb
+  - Kartdata @nn
+  - Eiendomsmåling @nb
+  - Eigedomsmåling @nn
+  - Eiendomsdeling @nb
+  - Eigedomsdeling @nn
+  - Kartforretning @nb
+  - Kartforretning @nn
+  - Flybilde @nb
+  - Flybilete @nn
+  - Delingsforretning @nb
+  - Delingsforretning @nn
+  - Fastmerke @nb
+  - Fastmerke @nn
+  - Deling av grunneiendom @nb
+  - Deling av grunneigedom @nn
+  - Delingssøknad @nb
+  - Delingssøknad @nn
+  preferred:
+  - Surveying @en
+  - Oppmåling @nb
+  - Oppmåling @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Medrekna kartforretning som er ein prosedyre for fastlegging av nye, og eksisterande usikre, grenser. Medrekna målebrev som blir utarbeidd på grunnlag av ein kartforretning og som gjev opplysningar om gnr./bnr. og kven som har rekvirert oppmålinga. Målebrevet blir sendt til tinglysingsmyndigheitene og dannar grunnlag for sal, pantsetjing m.m. @nn
+relation:
+  broader:
+  - tema/eiendom

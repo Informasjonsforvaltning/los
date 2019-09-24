@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Death notice @en
+  - Dødsmelding @nb
+  - Dødsmelding @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/doedsfall

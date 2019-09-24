@@ -14,9 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei avgift betalt av arbeidsgjevar. Det er ulike satsar for dei fem sonene i landet.
-    Det er den registrerte adressa til verksemda og ikkje dei tilsette sin bustadkommune
-    som avgjer kva sone ein er i. @nn
+  - Ei avgift betalt av arbeidsgjevar. Det er ulike satsar for dei fem sonene i landet. Det er den registrerte adressa til verksemda og ikkje dei tilsette sin bustadkommune som avgjer kva sone ein er i. @nn
 relation:
   broader:
   - tema/offentlige-avgifter

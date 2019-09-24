@@ -18,10 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for
-    å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad
-    om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar
-    og kvenar, og for barn i barneheim, fosterheim og spesialskular. @nn
+  - Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular. @nn
 relation:
   broader:
   - tema/erstatningsordninger

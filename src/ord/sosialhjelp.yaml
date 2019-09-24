@@ -36,9 +36,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Økonomisk yting som skal sikre hjelp til livsopphald. Med dette meiner ein pengar
-    til det som vert rekna som nødvendig for å leve, slik som mat, husleige, straum
-    og eventuelt nødvendige klede. @nn
+  - Økonomisk yting som skal sikre hjelp til livsopphald. Med dette meiner ein pengar til det som vert rekna som nødvendig for å leve, slik som mat, husleige, straum og eventuelt nødvendige klede. @nn
 relation:
   broader:
-  - tema/okonomiske-ytelser
+  - tema/oekonomiske-ytelser

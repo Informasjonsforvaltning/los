@@ -22,8 +22,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle i Noreg skal sikrast grunnleggjande posttenester av høg kvalitet. Posten
-    Norge AS er tildelt einerett til å utføre visse posttenester. @nn
+  - Alle i Noreg skal sikrast grunnleggjande posttenester av høg kvalitet. Posten Norge AS er tildelt einerett til å utføre visse posttenester. @nn
 relation:
   broader:
   - tema/media-og-kommunikasjon

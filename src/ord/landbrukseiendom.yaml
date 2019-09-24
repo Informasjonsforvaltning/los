@@ -24,9 +24,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eigedom som er nytta eller kan nyttast til jordbruk eller skogbruk. Eigedom, eller
-    rettar som ligg til eigedommen, kan ikkje delast utan samtykke frå departementet.
-    Til dette høyrer odel og bu- og driveplikt. @nn
+  - Eigedom som er nytta eller kan nyttast til jordbruk eller skogbruk. Eigedom, eller rettar som ligg til eigedommen, kan ikkje delast utan samtykke frå departementet. Til dette høyrer odel og bu- og driveplikt. @nn
 relation:
   broader:
   - tema/eiendom

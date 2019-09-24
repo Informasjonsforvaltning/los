@@ -20,8 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid.
-    @nn
+  - Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid. @nn
 relation:
   broader:
   - tema/innvandring-og-innreise

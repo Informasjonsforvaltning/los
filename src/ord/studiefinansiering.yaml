@@ -24,8 +24,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar
-    i vidaregåande og høgare utdanning. @nn
+  - Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning. @nn
 relation:
   broader:
   - tema/studiefinansiering

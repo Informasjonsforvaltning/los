@@ -9,12 +9,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må
-    godkjennast av barnevertenesta. @nn
-  - Hjelpetiltak for å bedre foreldrenes omsorg for barna sine. Avlastningshjemmet
-    må godkjennes av barnevertjenesten. @nb
+  - Hjelpetiltak for å betre foreldras omsorg for barna sine. Avlastningsheimen må godkjennast av barnevertenesta. Fosterheim er eige emneord. @nn
 relation:
   broader:
-  - tema/avlastning-og-stotte
+  - tema/avlastning-og-stoette
   related:
-  - ord/besokshjem
+  - ord/besoekshjem

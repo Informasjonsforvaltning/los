@@ -20,12 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Opphavsrett (eller åndsverk eller copyright) er retten til litterære og kunstnariske
-    åndsverk, t.d. eit musikkstykke, ei bok, eit maleri, brukskunst, ein film m.m.
-    (Patentstyret) ((Retten til resultat av åndeleg skaparverksemd slik som forfattarrettar,
-    fotografirettar, patentrettar m.m. )) Copyright er den engelske/amerikanske nemninga
-    for reglane som tilsvarar opphavsrett.(Clara) Ikkje medrekna designvern ('designbeskyttelse')
-    og patent som er eigne emneord. @nn
+  - Opphavsrett (eller åndsverk eller copyright) er retten til litterære og kunstnariske åndsverk, t.d. eit musikkstykke, ei bok, eit maleri, brukskunst, ein film m.m. (Patentstyret) ((Retten til resultat av åndeleg skaparverksemd slik som forfattarrettar, fotografirettar, patentrettar m.m. )) Copyright er den engelske/amerikanske nemninga for reglane som tilsvarar opphavsrett.(Clara) Ikkje medrekna designvern ('designbeskyttelse') og patent som er eigne emneord. @nn
 relation:
   broader:
   - tema/opphavsrett

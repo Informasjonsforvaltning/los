@@ -12,10 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein kiropraktor gjev leddfrigjerande /manipulasjonsbehandling, men behandlar også
-    muskulaturen. Behandlinga kan bli gjeven som førebyggjande helsearbeid og ved
-    behandling av sjukdom og skade. Fysioterapi, ergoterapi og eigendelar er eigne
-    emneord. @nn
+  - Ein kiropraktor gjev leddfrigjerande /manipulasjonsbehandling, men behandlar også muskulaturen. Behandlinga kan bli gjeven som førebyggjande helsearbeid og ved behandling av sjukdom og skade. Fysioterapi, ergoterapi og eigendelar er eigne emneord. @nn
 relation:
   broader:
   - tema/helsetjenester

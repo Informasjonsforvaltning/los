@@ -18,10 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i
-    konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling
-    i separasjons- og skilsmissesaker og rettsmekling. Mekling i arbeidstvistar høyrer
-    til emneordet lønn. @nn
+  - Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling i separasjons- og skilsmissesaker og rettsmekling. Mekling i arbeidstvistar høyrer til emneordet lønn. @nn
 relation:
   broader:
   - tema/rettsvesen

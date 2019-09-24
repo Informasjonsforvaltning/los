@@ -40,17 +40,14 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avgifter er indirekte skattar som blir lagde på omsetning av varer og tenester.
-    Gebyr er ei betaling for offentleg eller privat utført teneste, slik som renovasjonsgebyr
-    og feiegebyr. Vatn og avløp, brøyting, renovasjon og eigedomsskatt er eigne emneord.
-    @nn
+  - Avgifter er indirekte skattar som blir lagde på omsetning av varer og tenester. Gebyr er ei betaling for offentleg eller privat utført teneste, slik som renovasjonsgebyr og feiegebyr. Vatn og avløp, brøyting, renovasjon og eigedomsskatt er eigne emneord. @nn
 relation:
   broader:
   - tema/eiendom
   - tema/offentlige-avgifter
   related:
-  - ord/broyting
+  - ord/broeyting
   - ord/renovasjon
   - ord/feiing
   - ord/vannforsyning
-  - ord/avlopshandtering
+  - ord/avloepshaandtering

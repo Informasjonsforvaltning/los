@@ -16,8 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Klage på varer og tenester. Medrekna klagerettleiing, reklamasjon, behandling
-    i klagenemnder m.m. @nn
+  - Klage på varer og tenester. Medrekna klagerettleiing, reklamasjon, behandling i klagenemnder m.m. @nn
 relation:
   broader:
   - tema/varer-og-tjenester

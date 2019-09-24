@@ -30,8 +30,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Sal av alkoholhaldig drikk som øl, vin og sprit. T.d. søknad om skjenkeløyve,
-    avgrensing av skjenketid, krav om bordservering, krav om ordensvakter m.m. @nn
+  - Sal av alkoholhaldig drikk som øl, vin og sprit. T.d. søknad om skjenkeløyve, avgrensing av skjenketid, krav om bordservering, krav om ordensvakter m.m. @nn
 relation:
   broader:
   - tema/handel-og-service

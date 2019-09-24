@@ -28,8 +28,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret
-    av Noreg. @nn
+  - Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg. @nn
 relation:
   broader:
   - tema/beredskap-og-sikkerhet

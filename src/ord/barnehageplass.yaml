@@ -20,10 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Barnehagen er ei pedagogisk tilrettelagt verksemd for barn under opplæringspliktig
-    alder. Felles søknadsskjema for kommunale og private barnehagar. @nn
-  - Barnehagen er en pedagogisk tilrettelagt virksomhet for barn under opplæringspliktig
-    alder. Felles søknadsskjema for kommunale og private barnehager. @nb
+  - Barnehagen er ei pedagogisk tilrettelagt verksemd for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehagar. @nn
 relation:
   broader:
   - tema/barnehage

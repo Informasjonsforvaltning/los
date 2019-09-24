@@ -16,8 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid
-    med skuleverket og kulturlivet elles. @nn
+  - Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid med skuleverket og kulturlivet elles. @nn
 relation:
   broader:
   - tema/fritid

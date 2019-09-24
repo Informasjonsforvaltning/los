@@ -16,9 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande
-    helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi.
-    Ergoterapi, kiropraktikk og eigendelar er eigne emneord. @nn
+  - Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi. Ergoterapi, kiropraktikk og eigendelar er eigne emneord. @nn
 relation:
   broader:
   - tema/helsetjenester

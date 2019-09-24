@@ -36,10 +36,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Arbeidet i med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste
-    tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder
-    eller ved delegert vedtak. I nokre tilfelle ligg myndigheita hos Direktoratet
-    for naturforvaltning. @nn
+  - Arbeidet i med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak. I nokre tilfelle ligg myndigheita hos Direktoratet for naturforvaltning. @nn
 relation:
   broader:
   - tema/fiske-fangst-og-akvakultur

@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Grunnbeløp @nb
+  - Grunnbeløp @nn
+  - Uføregrad @nb
+  - Uføregrad @nn
+  - Uføretrygd @nb
+  - Uføretrygd @nn
+  preferred:
+  - Disability pension @en
+  - Uførepensjon @nb
+  - Uførepensjon @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne. Uførestønad er eige emneord. @nn
+relation:
+  broader:
+  - tema/pensjon
+  related:
+  - ord/arbeidsavklaringspenger

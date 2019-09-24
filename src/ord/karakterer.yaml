@@ -16,8 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til
-    dette høyrer høyrer karakterar på alle nivå i utdanninga. @nn
+  - Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga. @nn
 relation:
   broader:
   - tema/karakterer-og-evaluering

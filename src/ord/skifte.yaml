@@ -22,10 +22,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom
-    ektefeller ved skilsmisse.Privat eller offentleg skifte. @nn
+  - Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte. @nn
 relation:
   broader:
-  - tema/dodsfall
+  - tema/doedsfall
   related:
   - ord/samlivsbrudd

@@ -30,13 +30,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kommunane skal syte for innsamling av hushaldningsavfall, dvs. avfall frå private
-    hushaldningar. Farleg avfall skal leverast på eige mottak. Det finst eigne returordningar
-    for bestemte typar av avfall. @nn
+  - Kommunane skal syte for innsamling av hushaldningsavfall, dvs. avfall frå private hushaldningar. Farleg avfall skal leverast på eige mottak. Det finst eigne returordningar for bestemte typar av avfall. @nn
 relation:
   broader:
   - tema/eiendom
-  - tema/avfallshandtering
+  - tema/avfallshaandtering
   - tema/tekniske-tjenester
   related:
   - ord/kommunale-avgifter-og-gebyrer

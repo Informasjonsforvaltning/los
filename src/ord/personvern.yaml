@@ -26,9 +26,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Personopplysningslova inneheld rettar om opplysninar om ein sjølv. Det er ikkje
-    høve til å bruke informasjon om den einskilde utan at det vert gjeve samtykke
-    til at opplysningane kan nyttast. Verksemder skal sikra opplysningane. @nn
+  - Personopplysningslova inneheld rettar om opplysninar om ein sjølv. Det er ikkje høve til å bruke informasjon om den einskilde utan at det vert gjeve samtykke til at opplysningane kan nyttast. Verksemder skal sikra opplysningane. @nn
 relation:
   broader:
   - tema/personopplysninger

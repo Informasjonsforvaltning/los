@@ -1,0 +1,18 @@
+!Concept
+label:
+  hidden:
+  - Folkehøyskole @nb
+  - Folkehøgskule @nn
+  preferred:
+  - Folk high school @en
+  - Folkehøgskole @nb
+  - Folkehøgskule @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Eittårig skuletibod (august til mai) på ein sjølvstendig, ubunden og eksamensfri internatskule. Det finst både kristene og frilynte folkehøgskular. Dei fleste har ei nedre aldersgrene på 18 år. @nn
+relation:
+  broader:
+  - tema/folkehoegskole

@@ -20,9 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande
-    med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad
-    og sjukeheim er eigne emneord. @nn
+  - Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord. @nn
 relation:
   broader:
-  - tema/avlastning-og-stotte
+  - tema/avlastning-og-stoette

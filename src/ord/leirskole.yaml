@@ -9,9 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som
-    legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes
-    fjellet, sjøen eller skogen. @nn
+  - Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes fjellet, sjøen eller skogen. @nn
 relation:
   broader:
-  - tema/grunnskoleopplaring
+  - tema/grunnskoleopplaering

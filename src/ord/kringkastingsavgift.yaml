@@ -14,8 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avgift som skal betalast av alle som har kringkastingsmottakar. Blir fastsett
-    av Stortinget. @nn
+  - Avgift som skal betalast av alle som har kringkastingsmottakar. Blir fastsett av Stortinget. @nn
 relation:
   broader:
   - tema/offentlige-avgifter

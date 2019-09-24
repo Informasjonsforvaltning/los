@@ -20,9 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Handtering av brannfarlege, trykksette, eksplosjonsfarlege og andre farlege stoff.
-    Til dette høyrer også transport av farleg gods på veg og jernbane og førebyggjande
-    brannvern. Fyrverkeri er eige emneord. @nn
+  - Handtering av brannfarlege, trykksette, eksplosjonsfarlege og andre farlege stoff. Til dette høyrer også transport av farleg gods på veg og jernbane og førebyggjande brannvern. Fyrverkeri er eige emneord. @nn
 relation:
   broader:
   - tema/beredskap-og-sikkerhet
