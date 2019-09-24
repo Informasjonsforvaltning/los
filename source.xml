@@ -1067,7 +1067,8 @@
       <PrefLabel lang="en">Childrens pension</PrefLabel>
       <PrefLabel lang="nb">Barnepensjon</PrefLabel>
       <PrefLabel lang="nn">Barnepensjon</PrefLabel>
-      <Definition lang="nn">Ei yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
+      <Definition lang="nn">En yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
+      <Definition lang="nb">En ytelse til barn som har mistet en eller begge foreldrene. Pensjonen skal sikre barnet inntekt til livsopphold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
