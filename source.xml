@@ -4012,7 +4012,7 @@
       <PrefLabel lang="nn">Meinerstatning</PrefLabel>
       <Definition lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/yrkesskade</Related>
+      <Related>ord/yrkesskadedekning</Related>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/menneskerettigheter">
@@ -6230,15 +6230,6 @@
       <PrefLabel lang="nn">Sjukepengar</PrefLabel>
       <Definition lang="nn">Gjev kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre på grunn av sjukdom eller skade.</Definition>
       <Definition lang="nb">Gir kompensasjon for bortfall av arbeidsinntekt for yrkesaktive som er arbeidsuføre på grunn av sykdom eller skade.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/sykefravar</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
-      <Broader>tema/inntektssikring</Broader>
-   </Concept>
-   <Concept path="ord/uforetrygd">
-      <PrefLabel lang="en">Disability benefits</PrefLabel>
-      <PrefLabel lang="nb">Uføretrygd</PrefLabel>
-      <PrefLabel lang="nn">Uføretrygd</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykefravar</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
