@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit eldresenter er ein open treffstad i nærmiljøet for heimebuande personar med
-    pensjon eller trygd. Dagsenter er eige emneord. @nn
+  - Eit eldresenter er ein open treffstad i nærmiljøet for heimebuande personar med pensjon eller trygd. Dagsenter er eige emneord. @nn
 relation:
   broader:
   - tema/fritid

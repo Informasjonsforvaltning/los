@@ -26,9 +26,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Å oppretthalde god plantehelse og redusere risikoen for introduksjon og spreiing
-    av planteskadegjerarar med plantedelar, trelast, jord m.m. Mattilsynet har ansvaret
-    for dette her i landet. @nn
+  - Å oppretthalde god plantehelse og redusere risikoen for introduksjon og spreiing av planteskadegjerarar med plantedelar, trelast, jord m.m. Mattilsynet har ansvaret for dette her i landet. @nn
 relation:
   broader:
   - tema/landbruk

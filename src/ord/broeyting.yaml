@@ -1,0 +1,29 @@
+!Concept
+label:
+  hidden:
+  - Veisalting @nb
+  - Vegsalting @nn
+  - Vegsalting @nb
+  - Vegsalting @nn
+  - Strøing @nb
+  - Strøing @nn
+  - Brøyteavtale @nb
+  - Brøyteavtale @nn
+  preferred:
+  - Snow clearing @en
+  - Brøyting @nb
+  - Brøyting @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Snørydding og vintervedlikehald. @nn
+relation:
+  broader:
+  - tema/eiendom
+  - tema/veg-og-vegtrafikk
+  - tema/tekniske-tjenester
+  related:
+  - ord/vegvedlikehold
+  - ord/kommunale-avgifter-og-gebyrer

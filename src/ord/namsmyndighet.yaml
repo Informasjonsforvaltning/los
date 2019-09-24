@@ -20,10 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tingrett og namsmann (namsfut, ("namsfogd")) vedtek og føretek tvangsfullføringa.
-    I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen
-    eller det lokale politiet som fungerer som namsmann. Gjeldsordning høyrer til
-    emneordet gjeldsrådgjeving. @nn
+  - Tingrett og namsmann (namsfut, ("namsfogd")) vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann. Gjeldsordning høyrer til emneordet gjeldsrådgjeving. @nn
 relation:
   broader:
   - tema/rettsvesen

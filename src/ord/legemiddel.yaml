@@ -26,8 +26,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre
-    sjukdom, symptom, skade eller smerte hos menneske og dyr. @nn
+  - Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre sjukdom, symptom, skade eller smerte hos menneske og dyr. @nn
 relation:
   broader:
   - tema/helsetjenester

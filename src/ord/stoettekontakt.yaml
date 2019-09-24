@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Fritidskontakt @nb
+  - Fritidskontakt @nn
+  - Fritidsassistent @nb
+  - Fritidsassistent @nn
+  preferred:
+  - Support person @en
+  - Støttekontakt @nb
+  - Støttekontakt @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Eit tilbod til personar med behov for kontakt, hjelp og rettleiing i kvardagen. Støttekontakten tilbyr melom anna sosialt samver etter behov og følgje til ulike fritidsaktivitetar. @nn
+relation:
+  broader:
+  - tema/avlastning-og-stoette
+  related:
+  - ord/tilrettelagt-fritid

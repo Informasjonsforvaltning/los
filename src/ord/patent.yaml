@@ -16,10 +16,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit patent gjev einerett til å utnytte ei oppfinning kommersielt for eit avgrensa
-    tidsrom. I denne perioden kan ikkje andre produsere, importere eller selje ei
-    oppfinning som er patentert. For å få patent må ei oppfinning oppfylle visse krav.
-    @nn
+  - Eit patent gjev einerett til å utnytte ei oppfinning kommersielt for eit avgrensa tidsrom. I denne perioden kan ikkje andre produsere, importere eller selje ei oppfinning som er patentert. For å få patent må ei oppfinning oppfylle visse krav. @nn
 relation:
   broader:
-  - tema/naringsutvikling
+  - tema/naeringsutvikling

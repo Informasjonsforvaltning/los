@@ -23,7 +23,6 @@ scheme:
 documentation:
   definition:
   - Informasjon om veg og trafikkforhold. @nn
-  - Informasjon om veg og trafikkforhold. @nb
 relation:
   broader:
-  - tema/vegtrafikk
+  - tema/veg-og-vegtrafikk

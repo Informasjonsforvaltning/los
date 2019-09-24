@@ -42,10 +42,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe. Sports-
-    og kjæledyr er eige emneord. @nn
+  - Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe. Sports- og kjæledyr er eige emneord. @nn
 relation:
   broader:
   - tema/landbruk
   related:
-  - ord/kjaledyr-og-sportsdyr
+  - ord/kjaeledyr-og-sportsdyr

@@ -12,9 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som
-    står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller
-    skade. Fysioterapi er eige emneord. @nn
+  - Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade. Fysioterapi er eige emneord. @nn
 relation:
   broader:
   - tema/helsetjenester

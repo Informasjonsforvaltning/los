@@ -42,13 +42,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Med motorferdsel meiner ein bruk av køyretøy og båt eller anna flytande eller
-    svevande fartøy drive med motor. Det inkluderer også landing og start med motordrive
-    luftfartøy. Med utmark meiner ein udyrka mark. I praksis vil det seie hovuddelen
-    av strender, svaberg, vatn, myr, hei, skog og fjell. I lov om motorferdsel i utmark
-    blir også setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligg
-    i utmark, rekna likt med utmark. @nn
+  - Med motorferdsel meiner ein bruk av køyretøy og båt eller anna flytande eller svevande fartøy drive med motor. Det inkluderer også landing og start med motordrive luftfartøy. Med utmark meiner ein udyrka mark. I praksis vil det seie hovuddelen av strender, svaberg, vatn, myr, hei, skog og fjell. I lov om motorferdsel i utmark blir også setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligg i utmark, rekna likt med utmark. @nn
 relation:
   broader:
   - tema/naturforvaltning
-  - tema/kjoretoy
+  - tema/kjoeretoey

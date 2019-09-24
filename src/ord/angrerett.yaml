@@ -14,11 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein rett som gjeld for alle avtalar om kjøp av varer og tenester som er inngått
-    utanfor fast utsalsstad eller via fjernsal. Lova gjev 14 dagars angrefrist, men
-    fristen kan i visse tilfelle forlengjast til 3 månader, og i enkelte tilfelle
-    til 1 år. Det er ingen angrerett ved kjøp frå butikk eller verkstad. Medrekna
-    angrefrist, angreskjema. @nn
+  - Ein rett som gjeld for alle avtalar om kjøp av varer og tenester som er inngått utanfor fast utsalsstad eller via fjernsal. Lova gjev 14 dagars angrefrist, men fristen kan i visse tilfelle forlengjast til 3 månader, og i enkelte tilfelle til 1 år. Det er ingen angrerett ved kjøp frå butikk eller verkstad. Medrekna angrefrist, angreskjema. @nn
 relation:
   broader:
   - tema/varer-og-tjenester

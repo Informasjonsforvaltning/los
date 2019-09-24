@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Fritidsbåtskippersertifikat @nb
+  - Fritidsbåtskippersertifikat @nn
+  - Båtførersertifikat @nb
+  - Båtførarsertifikat @nn
+  - Kystskippersertifikat @nb
+  - Kystskippersertifikat @nn
+  preferred:
+  - International Certificate of Competence for Operators of Pleasure Craft @en
+  - Båtsertifikat @nb
+  - Båtsertifikat @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Løyve for å føra fritidsbåt. Båtførarbeviset skal vere i bankkortformat og ha bilete av innehavaren. @nn
+relation:
+  broader:
+  - tema/foererkort-og-sertifikat

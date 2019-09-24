@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Informasjon frå Utanriksdepartementet om råd og hjelp til nordmenn som reiser
-    i utlandet. @nn
+  - Informasjon frå Utanriksdepartementet om råd og hjelp til nordmenn som reiser i utlandet. @nn
 relation:
   broader:
   - tema/utenlandsreiser

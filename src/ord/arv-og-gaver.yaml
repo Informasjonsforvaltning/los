@@ -13,12 +13,6 @@ label:
   - Arvelatar @nn
   - Livsarving @nb
   - Livsarving @nn
-  - Arvemelding @nb
-  - Arvemelding @nn
-  - Arveoppgjør @nb
-  - Arveoppgjer @nn
-  - Melding om arv @nb
-  - Melding om arv @nn
   preferred:
   - Inheritance and donations @en
   - Arv og gaver @nb
@@ -28,12 +22,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Arv- eller gåvemelding skal sendast til skatteetaten i det fylket der arvelataren
-    (den ein arvar frå) eller gjevaren bur eller budde. @nn
-  - Arv- eller gavemelding skal sendes til skatteetaten i det fylket der arvelateren
-    (den en arver fra) eller givaren bur eller budde. @nn
+  - Arv- eller gåvemelding skal sendast til skattefutkontoret i det fylket der arvelataren (den ein arvar frå) eller gjevaren bur. @nn
 relation:
   broader:
-  - tema/begravelser-og-dodsfall
+  - tema/doedsfall
   - tema/skatt-og-likning
-  - tema/foreldre-og-foresatte
+  - tema/barn-og-foreldre

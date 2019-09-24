@@ -12,9 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Innførsel av varer til Noreg. Må meldast til Tollvesenet. Det er restriksjonar
-    på ei rekkje varer. I tillegg kjem toll og avgifter ved innførsel. Toll, meirverdiavgift
-    og motorvognavgifter er eigne emneord. @nn
+  - Innførsel av varer til Noreg. Må meldast til Tollvesenet. Det er restriksjonar på ei rekkje varer. I tillegg kjem toll og avgifter ved innførsel. Toll, meirverdiavgift og motorvognavgifter er eigne emneord. @nn
 relation:
   broader:
   - tema/handel-og-service

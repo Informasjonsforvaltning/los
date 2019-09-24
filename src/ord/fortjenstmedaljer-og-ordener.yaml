@@ -18,8 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Søknader om tildeling av Den Kongelege Norske St. Olavs orden og Kongens fortenestmedalje.
-    Søknaden skal stilast til H.M. Kongen og sendast via Fylkesmannen. @nn
+  - Søknader om tildeling av Den Kongelege Norske St. Olavs orden og Kongens fortenestmedalje. Søknaden skal stilast til H.M. Kongen og sendast via Fylkesmannen. @nn
 relation:
   broader:
   - tema/flagg-og-ordener

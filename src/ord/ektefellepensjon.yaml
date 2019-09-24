@@ -9,8 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar
-    ved dødsfall. @nn
+  - Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall. @nn
 relation:
   broader:
   - tema/pensjon

@@ -26,8 +26,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne
-    fram til arbeidstakarar til både faste og mellombelse jobbar. @nn
+  - Arbeidsgjevarar med rekrutteringsbehov kan kontakte NAV for å få hjelp til finne fram til arbeidstakarar til både faste og mellombelse jobbar. @nn
 relation:
   broader:
-  - tema/arbeidssoking-og-rekruttering
+  - tema/arbeidssoeking-og-rekruttering

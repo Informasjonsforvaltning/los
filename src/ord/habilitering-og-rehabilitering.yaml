@@ -22,10 +22,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Habilitering er hjelp til personar med samansette behov som på grunn av medfødde
-    tilstandar eller tidlig ervervede tilstander som f.eks CP, Downs syndrom og autisme.
-    Rehabilitering er hjelp til personar med samansette behov som har si årsak i nye
-    skader, t.d. hjerneslag, trafikkskade o.l. @nn
+  - Habilitering er hjelp til personar med samansette behov som på grunn av medfødde tilstandar eller tidlig ervervede tilstander som f.eks CP, Downs syndrom og autisme. Rehabilitering er hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l. @nn
 relation:
   broader:
   - tema/helsetjenester

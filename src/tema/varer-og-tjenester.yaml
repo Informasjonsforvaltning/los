@@ -9,4 +9,4 @@ scheme:
   - ontologi/tema
 relation:
   broader:
-  - tema/forbrukersporsmal
+  - tema/forbrukerspoersmaal

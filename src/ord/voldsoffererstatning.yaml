@@ -9,8 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Statleg erstatning som vert ytt til skadelidande etter visse valdshandlingar,
-    mellom anna overfall, mishandling og valdtekt. @nn
+  - Statleg erstatning som vert ytt til skadelidande etter visse valdshandlingar, mellom anna overfall, mishandling og valdtekt. @nn
 relation:
   broader:
   - tema/erstatningsordninger

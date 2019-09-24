@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma
-    med samansette og omfattande behov. @nn
+  - Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov. @nn
 relation:
   broader:
-  - tema/avlastning-og-stotte
+  - tema/avlastning-og-stoette

@@ -20,11 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass.
-    Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet
-    som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir
-    kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet
-    blir ein tilrådd å ta med pass. (Noreg.no) @nn
+  - Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. (Noreg.no) @nn
 relation:
   broader:
   - tema/innvandring-og-innreise

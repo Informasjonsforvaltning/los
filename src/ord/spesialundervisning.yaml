@@ -13,5 +13,5 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/grunnskoleopplaring
-  - tema/voksenopplaring
+  - tema/grunnskoleopplaering
+  - tema/voksenopplaering

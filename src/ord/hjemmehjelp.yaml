@@ -12,9 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming,
-    rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål.
-    Heimesjukepleie er eige emneord. @nn
+  - Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord. @nn
 relation:
   broader:
   - tema/omsorgstjenester

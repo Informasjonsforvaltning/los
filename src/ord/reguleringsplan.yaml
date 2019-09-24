@@ -24,13 +24,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner
-    framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større
-    byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan. @nn
+  - Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan. @nn
 relation:
   broader:
   - tema/kommunal-planlegging
   related:
   - ord/byggesak
-  - ord/naringsareal
+  - ord/naeringsareal
   - ord/vegbygging

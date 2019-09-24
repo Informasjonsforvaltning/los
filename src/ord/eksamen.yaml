@@ -20,8 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avgangsprøve i grunnskule, vidaregåande skule, universitet og høgskular m.fl.
-    @nn
+  - Avgangsprøve i grunnskule, vidaregåande skule, universitet og høgskular m.fl. @nn
 relation:
   broader:
   - tema/karakterer-og-evaluering

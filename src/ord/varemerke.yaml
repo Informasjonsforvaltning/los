@@ -14,8 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande
-    kan ved registrering oppnå einerett til bruken av figur, ord eller slagord. @nn
+  - Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande kan ved registrering oppnå einerett til bruken av figur, ord eller slagord. @nn
 relation:
   broader:
-  - tema/naringsutvikling
+  - tema/naeringsutvikling

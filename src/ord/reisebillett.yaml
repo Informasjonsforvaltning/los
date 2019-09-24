@@ -46,10 +46,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Billettar innan transport. Flybillett, togbillett, busbillett og båtbillett vert
-    nytta av alle som driv offentleg transport mot betaling. @nn
-  - Billetter innen transport. Flybillett, togbillett, busbillett og båtbillett vert
-    benyttet av alle som driver offentlig transport mot betaling. @nb
+  - Billettar innan transport. Flybillett, togbillett, busbillett og båtbillett vert nytta av alle som driv offentleg transport mot betaling. @nn
 relation:
   broader:
-  - tema/transporttilbud
+  - tema/kollektivtransport

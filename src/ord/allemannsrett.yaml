@@ -14,9 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein av dei viktigaste føresetnadene for utøving av friluftsliv. Allemannsretten
-    gjeld i utmark. Alllemannsretten er ein opphalds- og ferdselsrett, men gjev også
-    rett til å hauste t.d. bær, sopp og blomster. @nn
+  - Ein av dei viktigaste føresetnadene for utøving av friluftsliv. Allemannsretten gjeld i utmark. Alllemannsretten er ein opphalds- og ferdselsrett, men gjev også rett til å hauste t.d. bær, sopp og blomster. @nn
 relation:
   broader:
   - tema/naturforvaltning

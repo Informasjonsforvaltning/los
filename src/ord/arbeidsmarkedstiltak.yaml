@@ -20,14 +20,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane,
-    gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe
-    skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis
-    i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift
-    m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna
-    dei. @nn
+  - Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei. @nn
 relation:
   broader:
-  - tema/arbeidssoking-og-rekruttering
+  - tema/arbeidssoeking-og-rekruttering
   related:
-  - ord/stonad-ved-arbeidsmarkedstiltak
+  - ord/stoenad-ved-arbeidsmarkedstiltak

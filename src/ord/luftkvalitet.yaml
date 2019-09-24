@@ -38,8 +38,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg
-    aktivitet. Klima er eige emneord. @nn
+  - Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet. Klima er eige emneord. @nn
 relation:
   broader:
-  - tema/forurensning-og-straling
+  - tema/forurensning-og-straaling

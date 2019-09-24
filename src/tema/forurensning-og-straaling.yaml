@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Pollution and radiation @en
+  - Forurensning og stråling @nb
+  - Forureining og stråling @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/natur-og-miljoe

@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre
-    årsaker ikkje er i stand til å lage mat. @nn
+  - Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat. @nn
 relation:
   broader:
   - tema/omsorgstjenester

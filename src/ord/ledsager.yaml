@@ -20,10 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein person som er følgje og hjelper til under pasienttransport, når det er medisinske
-    grunnar til dette. Funksjonshemma, personar i rullestol, blinde og svaksynte m.fl.
-    kan også vere avhengig av å ha med seg følgje under reise. Til dette høyrer følgjekort
-    ("ledsagerbevis") m.m. Tilrettelagd transport er eige emneord. @nn
+  - Ein person som er følgje og hjelper til under pasienttransport, når det er medisinske grunnar til dette. Funksjonshemma, personar i rullestol, blinde og svaksynte m.fl. kan også vere avhengig av å ha med seg følgje under reise. Til dette høyrer følgjekort ("ledsagerbevis") m.m. Tilrettelagd transport er eige emneord. @nn
 relation:
   broader:
-  - tema/avlastning-og-stotte
+  - tema/avlastning-og-stoette

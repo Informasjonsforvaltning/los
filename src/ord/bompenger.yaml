@@ -12,13 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass,
-    et norsk system for elektronisk betaling av bompengar, og Autopass samla betaling
-    (ASB). @nn
-  - Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette hører Autopass,
-    et norsk systemet for elektronisk betaling av bompenger, og Autopass samlet betaling
-    (ASB). @nb
+  - Avgift for å finansiere veg-, bru- og tunnelprosjekt. Til dette høyrer Autopass, det norske systemet for elektronisk betaling av bompengar, og Autopass samla betaling (ASB). @nn
 relation:
   broader:
   - tema/offentlige-avgifter
-  - tema/veg
+  - tema/veg-og-vegtrafikk

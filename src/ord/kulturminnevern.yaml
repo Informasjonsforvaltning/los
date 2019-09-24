@@ -34,8 +34,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Arbeid med å ta vare på kulturarven vår, både frå nær og fjern fortid. Dette kan
-    vere materielle så vel som immaterielle kulturelement. @nn
+  - Arbeid med å ta vare på kulturarven vår, både frå nær og fjern fortid. Dette kan vere materielle så vel som immaterielle kulturelement. @nn
 relation:
   broader:
   - tema/kultur

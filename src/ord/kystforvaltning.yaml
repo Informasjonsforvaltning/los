@@ -18,8 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer
-    trygg ferdsel på sjøen, fyr, merkjer og losteneste. @nn
+  - Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste. @nn
 relation:
   broader:
-  - tema/bat
+  - tema/baattrafikk

@@ -1,0 +1,23 @@
+!Concept
+label:
+  hidden:
+  - Ventepenger @nb
+  - Ventepengar @nn
+  - Vartpenger @nb
+  - Vartpengar @nn
+  preferred:
+  - Severance pay @en
+  - Ventelønn @nb
+  - Ventelønn @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder. @nn
+relation:
+  broader:
+  - tema/oekonomiske-ytelser
+  related:
+  - ord/arbeidssoeking
+  - ord/oppsigelse

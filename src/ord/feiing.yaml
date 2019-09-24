@@ -14,8 +14,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver,
-    som feiing og tilsyn. @nn
+  - Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn. @nn
 relation:
   broader:
   - tema/tekniske-tjenester

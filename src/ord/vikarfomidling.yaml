@@ -12,4 +12,4 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/arbeidssoking-og-rekruttering
+  - tema/arbeidssoeking-og-rekruttering

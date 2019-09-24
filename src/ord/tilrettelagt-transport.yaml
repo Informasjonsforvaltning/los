@@ -22,14 +22,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport.
-    Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre
-    nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise
-    til fysioterapi eller andre reiser som vert dekka av folketrygda. @nn
-  - En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport.
-    Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare
-    benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise
-    til fysioterapi eller andre reiser som blir dekket av folketrygden. @nb
+  - Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda. @nn
 relation:
   broader:
-  - tema/transporttilbud
+  - tema/veg-og-vegtrafikk
+  - tema/transporttjenester

@@ -14,10 +14,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ta til seg eit barn som sitt eige. @nn
-  - Ta til seg et barn som sitt eget. @nb
+  - Ta til seg eit barn som sitt eige. Eingongsstønad er eige emneord. @nn
 relation:
   broader:
-  - tema/foreldre-og-foresatte
+  - tema/barn-og-foreldre
   related:
-  - ord/ufrivillig-barnloshet
+  - ord/ufrivillig-barnloeshet

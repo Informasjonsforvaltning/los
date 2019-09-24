@@ -18,10 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller
-    eller delar av slike celler til å framstille produkt, eller til å modifisere og
-    forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi.
-    @nn
+  - All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller eller delar av slike celler til å framstille produkt, eller til å modifisere og forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi. @nn
 relation:
   broader:
   - tema/folkehelse

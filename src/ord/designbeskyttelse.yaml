@@ -12,10 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Design refererer til utsjånaden og forma til eit produkt eller del av eit produkt.
-    Ei designregistrering dokumenterer retten til ein bestemt design i eit bestemt
-    tidsrom, og ein kan lettare hindre andre i å utnytte same designen. Patentvern
-    høyrer til emneordet patent. @nn
+  - Design refererer til utsjånaden og forma til eit produkt eller del av eit produkt. Ei designregistrering dokumenterer retten til ein bestemt design i eit bestemt tidsrom, og ein kan lettare hindre andre i å utnytte same designen. Patentvern høyrer til emneordet patent. @nn
 relation:
   broader:
-  - tema/naringsutvikling
+  - tema/naeringsutvikling

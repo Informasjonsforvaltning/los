@@ -17,7 +17,7 @@ scheme:
 relation:
   broader:
   - tema/fritid
-  - tema/avlastning-og-stotte
+  - tema/avlastning-og-stoette
   related:
-  - ord/stottekontakt
+  - ord/stoettekontakt
   - ord/psykisk-helsevern

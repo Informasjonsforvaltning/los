@@ -9,4 +9,4 @@ scheme:
   - ontologi/tema
 relation:
   broader:
-  - tema/familie-og-barn
+  - tema/barn-og-familie

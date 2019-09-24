@@ -9,8 +9,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg.
-    @nn
+  - Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg. @nn
 relation:
   broader:
   - tema/helsetjenester

@@ -12,9 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ein kan reservere seg mot adressert reklame og telefonsal ved å kontakte Reservasjonsregisteret
-    i Brønnøysundregistra. Verksemder som driv direkte marknadsføring pliktar å oppdatere
-    telefon- og adresselistene fire gonger pr år. @nn
+  - Ein kan reservere seg mot adressert reklame og telefonsal ved å kontakte Reservasjonsregisteret i Brønnøysundregistra. Verksemder som driv direkte marknadsføring pliktar å oppdatere telefon- og adresselistene fire gonger pr år. @nn
 relation:
   broader:
   - tema/varer-og-tjenester

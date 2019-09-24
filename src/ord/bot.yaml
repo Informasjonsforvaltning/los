@@ -12,9 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Pengeyting som blir pålagt i samband med rettsbrot. Til dette høyrer fartsbot.
-    Parkeringsbot høyrer til emneordet parkering. Klage på parkeringsbot høyrer til
-    emneordet forbrukarklage. @nn
+  - Pengeyting som blir pålagt i samband med rettsbrot. Til dette høyrer fartsbot. Parkeringsbot høyrer til emneordet parkering. Klage på parkeringsbot høyrer til emneordet forbrukarklage. @nn
 relation:
   broader:
   - tema/lovbrudd-og-straff

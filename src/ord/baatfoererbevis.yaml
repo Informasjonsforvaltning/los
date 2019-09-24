@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Norwegian boatmanship licence @en
+  - Båtførerbevis @nb
+  - Båtførarbevis @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/foererkort-og-sertifikat

@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Helsetilstand og trivnad til husdyr. Sports- og kjæledyr, reindrift, oppdrettsnæring
-    og landbruk er alle eigne emneord. @nn
+  - Helsetilstand og trivnad til husdyr. Sports- og kjæledyr, reindrift, oppdrettsnæring og landbruk er alle eigne emneord. @nn
 relation:
   broader:
   - tema/landbruk

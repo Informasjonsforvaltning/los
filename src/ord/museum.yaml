@@ -18,9 +18,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Institusjon eller bygning med samling av gjenstandar av kulturhistorisk, historisk,
-    naturvitskapleg, teknisk eller kunstnerisk interesse. Er systematisk ordna og
-    open for publikum. @nn
+  - Institusjon eller bygning med samling av gjenstandar av kulturhistorisk, historisk, naturvitskapleg, teknisk eller kunstnerisk interesse. Er systematisk ordna og open for publikum. @nn
 relation:
   broader:
   - tema/kultur

@@ -20,10 +20,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Personskade, sjukdom eller dødsfall som følgje av arbeidsulukke. Ein sjukdom kan
-    også bli godkjend som yrkessjukdom dersom han er ei følgje av skadeleg påverknad
-    frå arbeidsmiljøet og er ein av dei sjukdomane som er nemnde i forskrift om yrkessjukdomar.
-    @nn
+  - Personskade, sjukdom eller dødsfall som følgje av arbeidsulukke. Ein sjukdom kan også bli godkjend som yrkessjukdom dersom han er ei følgje av skadeleg påverknad frå arbeidsmiljøet og er ein av dei sjukdomane som er nemnde i forskrift om yrkessjukdomar. @nn
 relation:
   broader:
   - tema/arbeidsliv

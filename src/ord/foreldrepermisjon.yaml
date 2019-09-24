@@ -24,13 +24,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Permisjon frå arbeid for mor og far i samband med fødsel og adopsjon, dersom vilkåra
-    for opptening er oppfylte.  @nn
-  - Permisjon fra arbeid for mor og far i forbindelse med fødsel og adopsjon, dersom
-    vilkårene for opptening er oppfylte.  @nb
+  - Permisjon frå arbeid for mor og far i samband med fødsel og adopsjon, dersom vilkåra for opptening er oppfylte. Eingongsstønad er eige emneord. @nn
 relation:
   broader:
   - tema/permisjonsordninger
-  - tema/foreldre-og-foresatte
+  - tema/barn-og-foreldre
   related:
-  - ord/omsorgspermisjon
+  - ord/foreldrepenger

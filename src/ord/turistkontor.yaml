@@ -12,8 +12,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Informasjonskontor retta mot turistar. Tilbyr oversikt over overnatting, turistattraksjonar,
-    aktivitetar, serveringsstader og arrangement. @nn
+  - Informasjonskontor retta mot turistar. Tilbyr oversikt over overnatting, turistattraksjonar, aktivitetar, serveringsstader og arrangement. @nn
 relation:
   broader:
-  - tema/reiselivsnaring
+  - tema/reiselivsnaering

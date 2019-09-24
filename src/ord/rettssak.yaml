@@ -30,8 +30,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast
-    slik at domstolen på best mogeleg grunnlag kan dømme. @nn
+  - Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme. @nn
 relation:
   broader:
   - tema/rettsvesen

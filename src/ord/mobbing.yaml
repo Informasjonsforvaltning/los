@@ -9,10 +9,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Når ein person gjentekne gonger vert utsett for negative handlingar frå andre.
-    Det kan dreie seg om trakassering, plaging, utfrysing og liknande. @nn
+  - Når ein person gjentekne gonger vert utsett for negative handlingar frå andre. Det kan dreie seg om trakassering, plaging, utfrysing og liknande. @nn
 relation:
   broader:
   - tema/psykisk-helse
   - tema/arbeidsliv
-  - tema/skolemiljo
+  - tema/skolemiljoe

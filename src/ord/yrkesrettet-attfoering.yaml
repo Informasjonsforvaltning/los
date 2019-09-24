@@ -1,0 +1,17 @@
+!Concept
+label:
+  preferred:
+  - Occupational rehabilitation @en
+  - Yrkesrettet attføring @nb
+  - Yrkesretta attføring @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomisk stønad til personar som på grunn av sjukdom, skade eller lyte har fått nedsett evne til å utføre inntektsgjevande arbeid. Målet er å skaffe arbeid eller halde fram i noverande arbeid. @nn
+relation:
+  broader:
+  - tema/arbeidsliv
+  related:
+  - ord/arbeidsavklaringspenger

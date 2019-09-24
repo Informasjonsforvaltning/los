@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Children and parents @en
+  - Barn og foreldre @nb
+  - Barn og foreldre @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/barn-og-familie

@@ -30,8 +30,7 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar.
-    Det skal også betalast skatt av nettoformue over eit visst nivå. @nn
+  - Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå. @nn
 relation:
   broader:
   - tema/skatt-og-likning
