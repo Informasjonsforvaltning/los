@@ -715,6 +715,7 @@
       <HiddenLabel lang="nb">Attføringspenger</HiddenLabel>
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</Definition>
+      <Definition lang="nb">Økonomisk støtte som skal sikre inntekt til livsopphold til personer som har fått inntektsevnen langvarig nedsett pga. sykdom, skade eller lyte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/inntektssikring</Broader>
@@ -1474,7 +1475,8 @@
       <HiddenLabel lang="nn">Kandidatsøk</HiddenLabel>
       <HiddenLabel lang="nb">Curriculum vitae</HiddenLabel>
       <HiddenLabel lang="nn">Curriculum vitae</HiddenLabel>
-      <Definition lang="nn">Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord.</Definition>
+      <Definition lang="nn">Eit samandrag over erfaringar og kvalifikasjonar fra utdanning og yrkesliv. Det er vanlig å leggje ved ein CV når ein søker på ein stilling. Ein CV inneheld vanlegvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og liknande.</Definition>
+      <Definition lang="nb">Et sammendrag over en persons erfaringer og kvalifikasjoner fra utdanning og yrkesliv. Det er vanlig å legge ved en CV når man søker på en stilling. En CV inneholder vanligvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og lignende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -2072,7 +2074,8 @@
       <PrefLabel lang="en">Holiday pay</PrefLabel>
       <PrefLabel lang="nb">Feriepenger</PrefLabel>
       <PrefLabel lang="nn">Feriepengar</PrefLabel>
-      <Definition lang="nn">Feriepengar må tenast opp året før ferien skal avviklast. Dersom ein ikkje har vore i arbeid året før, har ein rett på ferie, men ikkje rett til feriepengar. Ferie er eige stikkord.</Definition>
+      <Definition lang="nn">Feriepengar er ei godtgjersle ein arbeidstakar opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepeng er eit prosenttillegg til den løna som er utbetalt året før pengane skal utbetalast. Retten til feriepeng er nedfelt i ferielova.</Definition>
+      <Definition lang="nb">Feriepenger er en godtgjørelse en arbeidstaker opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepenger er et prosenttillegg til den lønnen som er utbetalt året før pengene skal utbetales. Retten til feriepenger er nedfelt i ferieloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ferierettigheter</Related>
       <Broader>tema/inntekt</Broader>
@@ -3908,6 +3911,7 @@
       <HiddenLabel lang="nb">Tariffavtale</HiddenLabel>
       <HiddenLabel lang="nn">Tariffavtale</HiddenLabel>
       <Definition lang="nn">Betaling for utført arbeid. Regulert av lovverk og avtalar.</Definition>
+      <Definition lang="nb">Betaling for utført arbeid. Regulert av lovverk og avtaler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
    </Concept>
@@ -6218,10 +6222,12 @@
       <PrefLabel lang="en">Sickness benefit</PrefLabel>
       <PrefLabel lang="nb">Sykepenger</PrefLabel>
       <PrefLabel lang="nn">Sjukepengar</PrefLabel>
-      <Definition lang="nn">Sjukepengar skal gje kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre pga. sjukdom eller skade.</Definition>
+      <Definition lang="nn">Gjev kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre på grunn av sjukdom eller skade.</Definition>
+      <Definition lang="nb">Gir kompensasjon for bortfall av arbeidsinntekt for yrkesaktive som er arbeidsuføre på grunn av sykdom eller skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykefravar</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/separasjon-og-skilsmisse">
       <PrefLabel lang="en">Separation and divorce</PrefLabel>
@@ -6698,6 +6704,7 @@
       <HiddenLabel lang="nb">Studiepermisjon</HiddenLabel>
       <HiddenLabel lang="nn">Studiepermisjon</HiddenLabel>
       <Definition lang="nn">Rett til heiltids- eller deltidspermisjon til arbeidstakarar som etter ei tid i arbeidslivet ønskjer seg meir utdanning. Kan krevjast for inntil tre år og er ein del av kompetansereformen.</Definition>
+      <Definition lang="nb">Rett til heltids- eller deltidspermisjon til arbeidstakere som etter en tid i arbeidslivet ønsker seg mer utdanning. Kan kreves for inntil tre år og er en del av kompetansereformen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
@@ -6959,6 +6966,7 @@
       <PrefLabel lang="nb">Velferdspermisjon</PrefLabel>
       <PrefLabel lang="nn">Velferdspermisjon</PrefLabel>
       <Definition lang="nn">Fri frå arbeid når det er viktige grunnar for det.</Definition>
+      <Definition lang="nb">Fri fra arbeid når det er viktige grunner for det.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
