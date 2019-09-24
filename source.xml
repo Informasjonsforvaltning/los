@@ -891,7 +891,8 @@
       <PrefLabel lang="nn">Arbeidsløyve</PrefLabel>
       <HiddenLabel lang="nb">Arbeidsinnvandring</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsinnvandring</HiddenLabel>
-      <Definition lang="nn">Utlendingar som ønskjer å ta arbeid i Noreg må ha arbeidsløyve. Grunnvilkåret for eit slikt løyve er at søkaren har fått bindande tilbod om arbeid frå arbeidsgjevar. Dei vanlegaste løyva er løyve som sesongarbeidar eller som fagutdanna/spesialist.</Definition>
+      <Definition lang="nn">Om du er frå eit land utanfor EU/EØS og ynskjer å arbeide i Noreg, må du ha oppholdstillatelse. Hvis du ikkje allereie har oppholdstillatelse, må du søke om oppholdstillatelse for arbeid. Tidlegere blei dette kalla ein arbeidstillatelse.  Dette kan for eksempel vere ein oppholdstillatelse for faglærte arbeidarar, nasjonalitetskokker, sesongarbeidere, sjølvstendig næringsdrivande eller tilsett i ein humanitær, ideell eller religiøs organisasjon.</Definition>
+      <Definition lang="nb">Hvis du er fra et land utenfor EU/EØS og ønsker å arbeide i Norge, må du ha en oppholdstillatelse. Hvis du ikke allerede har en oppholdstillatelse, må du søke om en oppholdstillatelse for arbeid. Tidligere ble dette kalt en arbeidstillatelse.  Dette kan for eksempel være en oppholdstillatelse for faglærte arbeidere, nasjonalitetskokker, sesongarbeidere, selvstendig næringsdrivende eller ansatte i en humanitær, ideell eller religiøs organisasjon.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
