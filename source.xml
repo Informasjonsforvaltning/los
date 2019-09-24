@@ -596,6 +596,7 @@
       <HiddenLabel lang="nb">Pensjonsfond</HiddenLabel>
       <HiddenLabel lang="nn">Pensjonsfond</HiddenLabel>
       <Definition lang="nn">Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m.</Definition>
+      <Definition lang="nb">Pensjonsutbetaling fra folketrygden etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medregnet avtalefestet pensjon, pensjonsberekning m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
