@@ -16,7 +16,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis. Heimehjelp er eige emneord. @nn
+  - Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie,
+    medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert
+    utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis. Heimehjelp
+    er eige emneord. @nn
 relation:
   broader:
   - tema/helsetjenester

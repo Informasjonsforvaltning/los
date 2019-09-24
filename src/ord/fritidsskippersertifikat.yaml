@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Båtførerprøven @nb
+  - Båtførarprøven @nn
+  preferred:
+  - Norwegian boating licence @en
+  - Fritidsskippersertifikat @nb
+  - Fritidsskipparsertifikat @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - ' For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha eit fritidsskipparsertifikat.  @nn'
+  - ' For å kunne føre fritidsbåt mellom 15 og 24 meter må du ha et fritidsskippersertifikat.
+    @nb'
+relation:
+  broader:
+  - tema/forerkort-og-sertifikat

@@ -38,7 +38,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad. Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald. @nn
+  - Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei
+    som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad.
+    Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald. @nn
 relation:
   broader:
   - tema/botilbud

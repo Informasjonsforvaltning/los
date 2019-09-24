@@ -9,6 +9,6 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/forurensning-og-straaling
-  - tema/kollektivtransport
-  - tema/veg-og-vegtrafikk
+  - tema/forurensning-og-straling
+  - tema/transporttilbud
+  - tema/vegtrafikk

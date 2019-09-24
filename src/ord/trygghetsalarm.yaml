@@ -9,7 +9,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell rykkjer ut heile døgnet dersom alarmen går. @nn
+  - Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral
+    som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell
+    rykkjer ut heile døgnet dersom alarmen går. @nn
 relation:
   broader:
   - tema/helsetjenester

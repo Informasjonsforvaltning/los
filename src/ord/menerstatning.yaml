@@ -9,7 +9,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art. @nn
+  - Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade
+    av medisinsk art. @nn
 relation:
   broader:
   - tema/erstatningsordninger

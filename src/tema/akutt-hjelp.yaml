@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Emergency help @en
+  - Akutt hjelp @nb
+  - Akutt hjelp @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/helse

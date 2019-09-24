@@ -20,11 +20,15 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Søknad om separasjon skal sendast til Fylkesmannen. Etter eitt år med separasjon kan ein søkja om skilsmisse. Ektefeller som flytter frå kvarandre utan å vere separerte, kan søkje om skilsmisse to år etter samlivsbrotet. Dersom ektefellene har felles barn under 16 år, må dei møte til mekling før dei kan separerast eller skiljast. @nn
+  - Søknad om separasjon skal sendast til Fylkesmannen. Etter eitt år med separasjon
+    kan ein søkja om skilsmisse. Ektefeller som flytter frå kvarandre utan å vere
+    separerte, kan søkje om skilsmisse to år etter samlivsbrotet. Dersom ektefellene
+    har felles barn under 16 år, må dei møte til mekling før dei kan separerast eller
+    skiljast. @nn
 relation:
   broader:
   - tema/samliv
   related:
   - ord/mekling
-  - ord/barnebidrag
+  - ord/ytelser-til-foreldre-og-foresatte
   - ord/skifte

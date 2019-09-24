@@ -1,0 +1,44 @@
+!Concept
+label:
+  hidden:
+  - Barnetrygd @nb
+  - Barnetrygd @nn
+  - Barnebidrag @nb
+  - Barnebidrag @nn
+  - Engangsstønad @nb
+  - Eingongsstønad @nn
+  - Foreldrepenger @nb
+  - Foreldrepengar @nn
+  - Kontantstøtte @nb
+  - Kontantstøtte @nn
+  - Omsorgspenger @nb
+  - Omsorgspengar @nn
+  - Støtte til enslig forsørger @nb
+  - Stønad til einsleg forsørgjar @nn
+  - Bidragsforskudd @nb
+  - Bidragsforskot @nn
+  - Adopsjonspenger @nb
+  - Adopsjonspengar @nn
+  - Fødselspenger @nb
+  - Fødselspengar @nn
+  - Stønad til barnetilsyn @nb
+  - Støtte til barnetilsyn @nn
+  - Overgangsstønad @nb
+  - Overgangsstønad @nn
+  preferred:
+  - Benefits to parents and guardians @en
+  - Ytelser til foreldre og foresatte @nb
+  - Ytelsar til foreldre og føresette @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Økonomiske ytingar i samband med det å ha barn. @nn
+  - Økonomiske ytelser i forbindelse med det å ha barn. @nb
+relation:
+  broader:
+  - tema/okonomiske-ytelser
+  - tema/foreldre-og-foresatte
+  related:
+  - ord/foreldrepermisjon

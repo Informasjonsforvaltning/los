@@ -1,0 +1,9 @@
+sudo: required
+
+language: bash
+
+services:
+  - docker
+
+script:
+  - docker run --rm -it -v $(pwd):/src klakegg/skos-viewer

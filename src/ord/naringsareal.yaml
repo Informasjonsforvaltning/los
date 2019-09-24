@@ -1,0 +1,14 @@
+!Concept
+label:
+  preferred:
+  - Business space @en
+  - Næringsareal @nb
+  - Næringsareal @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/naringsutvikling
+  related:
+  - ord/reguleringsplan

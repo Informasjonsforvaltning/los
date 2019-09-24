@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg. @nn
+  - Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda
+    av påtalemakta. Medrekna forenkla førelegg. @nn
 relation:
   broader:
   - tema/lovbrudd-og-straff

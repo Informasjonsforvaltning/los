@@ -12,7 +12,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt tilbod om ventelisteplass. @nn
+  - Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning
+    av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt
+    tilbod om ventelisteplass. @nn
 relation:
   broader:
-  - tema/hoeyere-utdanning
+  - tema/hoyere-utdanning

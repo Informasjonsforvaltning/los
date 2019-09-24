@@ -1,0 +1,25 @@
+!Concept
+label:
+  hidden:
+  - Besøksfamilie @nb
+  - Besøksfamilie @nn
+  preferred:
+  - Temporary home @en
+  - Besøkshjem @nb
+  - Besøksheim @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem
+    hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen
+    må godkjennast av barnevertenesta. @nn
+  - Hjelpetiltak for å bedre foreldrenes omsorg for barna sine, for å hindre adferdsproblemer
+    hos et barn eller hindre problem i nettverket til barnet eller familien. Besøkshjemmet
+    må godkjennes av barnevertjenesten. @nb
+relation:
+  broader:
+  - tema/barnevern-og-foreldrestotte
+  related:
+  - ord/avlastningshjem

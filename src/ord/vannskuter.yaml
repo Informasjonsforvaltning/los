@@ -1,0 +1,19 @@
+!Concept
+label:
+  preferred:
+  - Water scooter @en
+  - Vannskuter @nb
+  - Vasskuter @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunen vedtek i forskrift løyve og forbod om køyring av vannskuter og andre
+    motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper. @nn
+  - Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og
+    andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper. @nb
+relation:
+  broader:
+  - tema/kjoretoy
+  - tema/forerkort-og-sertifikat

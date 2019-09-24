@@ -29,4 +29,5 @@ scheme:
 relation:
   broader:
   - tema/religion-og-livssyn
-  - tema/doedsfall
+  - tema/dodsfall
+  - tema/begravelser-og-dodsfall

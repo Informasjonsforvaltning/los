@@ -1,0 +1,18 @@
+!Concept
+label:
+  preferred:
+  - Å ha et alvorlig sykt barn @nb
+  - Å ha et alvorleg sjukt barn @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/omsorgslonn
+  - ord/skoleskyss
+  - ord/frikort-for-helsetjenester
+  - ord/stotte-til-familier
+  - ord/personlig-assistent
+  - ord/ledsager
+  - ord/habilitering-og-rehabilitering
+  - ord/sykehus

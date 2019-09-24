@@ -24,7 +24,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing, opplysningsverksemd samt samlivs- og foreldrerettleiing. @nn
+  - Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til
+    god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing,
+    opplysningsverksemd samt samlivs- og foreldrerettleiing. @nn
 relation:
   broader:
-  - tema/svangerskap-og-foedsel
+  - tema/svangerskap-og-fodsel

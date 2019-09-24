@@ -1,0 +1,26 @@
+!Concept
+label:
+  hidden:
+  - Elevråd @nb
+  - Elevråd @nn
+  - Skolemiljøutvalg @nb
+  - Skulemiljøutval @nn
+  - Skoleutvalg @nb
+  - Skuleutval @nn
+  preferred:
+  - Upper secondary school @en
+  - Videregående skole @nb
+  - Vidaregående skule @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og
+    høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har
+    lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta
+    plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring
+    eller i arbeid. @nn
+relation:
+  broader:
+  - tema/videregaende-opplaring

@@ -14,4 +14,4 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/baattrafikk
+  - tema/bat

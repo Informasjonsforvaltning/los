@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Marriage @en
+  - Ekteskap @nb
+  - Ekteskap @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/familie-og-barn

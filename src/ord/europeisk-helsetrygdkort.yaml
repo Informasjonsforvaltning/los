@@ -14,7 +14,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits. @nn
+  - Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane
+    i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits. @nn
 relation:
   broader:
   - tema/utenlandsreiser

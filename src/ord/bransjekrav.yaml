@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Regelverk for verksemder. Medrekna kva krav som blir stilt til bransjar innanfor ulike område. @nn
+  - Regelverk for verksemder. Medrekna kva krav som blir stilt til bransjar innanfor
+    ulike område. @nn
 relation:
   broader:
-  - tema/naeringsutvikling
+  - tema/naringsutvikling

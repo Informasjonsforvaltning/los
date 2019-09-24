@@ -28,7 +28,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Planlegging med sikte på å samordne den fysiske, økonomiske, sosiale, kulturelle og estetiske utviklinga innanfor kommunen. @nn
+  - Planlegging med sikte på å samordne den fysiske, økonomiske, sosiale, kulturelle
+    og estetiske utviklinga innanfor kommunen. @nn
 relation:
   broader:
   - tema/kommunal-planlegging

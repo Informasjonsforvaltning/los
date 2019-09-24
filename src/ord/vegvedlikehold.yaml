@@ -29,6 +29,6 @@ scheme:
 relation:
   broader:
   - tema/tekniske-tjenester
-  - tema/veg-og-vegtrafikk
+  - tema/veg
   related:
-  - ord/broeyting
+  - ord/broyting

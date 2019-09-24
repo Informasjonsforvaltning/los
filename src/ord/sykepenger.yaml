@@ -9,9 +9,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Sjukepengar skal gje kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre pga. sjukdom eller skade. @nn
+  - Sjukepengar skal gje kompensasjon for bortfall av arbeidsinntekt for yrkesaktive
+    folketrygd-medlemmer som er arbeidsuføre pga. sjukdom eller skade. @nn
 relation:
   broader:
-  - tema/oekonomiske-ytelser
+  - tema/okonomiske-ytelser
   related:
-  - ord/sykefravaer
+  - ord/sykefravar

@@ -1,0 +1,35 @@
+!Concept
+label:
+  hidden:
+  - Vêrdata @nb
+  - Vêrdata @nn
+  - Kystvarsel @nb
+  - Kystvarsel @nn
+  - Havvarsel @nb
+  - Havvarsel @nn
+  - Småbåtvarsel @nb
+  - Småbåtvarsel @nn
+  - Vêrstatistikk @nb
+  - Vêrstatistikk @nn
+  - Vindvarsel @nb
+  - Vindvarsel @nn
+  - Værmelding @nb
+  - Vêrmelding @nn
+  - Kulingvarsel @nb
+  - Kulingvarsel @nn
+  - Vêrvarsling @nb
+  - Vêrvarsling @nn
+  - Vermelding @nb
+  - Vermelding @nn
+  - Værvarsling @nb
+  - Vervarsling @nn
+  preferred:
+  - Weather forecast @en
+  - Værvarsel @nb
+  - Vêrvarsel @nn
+scheme:
+  in:
+  - ontologi/ord
+relation:
+  broader:
+  - tema/var-og-klima

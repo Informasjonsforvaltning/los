@@ -22,7 +22,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Økonomisk stønad til idrettsføremål. Det kan søkjast om statlege spelemidlar til idrettsføremål, t.d. til anlegg og område for idrett og friluftsliv. @nn
+  - Økonomisk stønad til idrettsføremål. Det kan søkjast om statlege spelemidlar til
+    idrettsføremål, t.d. til anlegg og område for idrett og friluftsliv. @nn
 relation:
   broader:
-  - tema/tilskuddsordninger
+  - tema/tilskudd-til-kultur-idrett-og-fritid

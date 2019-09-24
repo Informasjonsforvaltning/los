@@ -24,7 +24,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei rettsavgjerd som avsluttar saka. I ei sivil sak vert kravet som er sett fram avgjort. I ei straffesak blir det avgjort om tiltalte er skuldig i ei straffbar handling og kva straff han i tilfelle skal ha. @nn
+  - Ei rettsavgjerd som avsluttar saka. I ei sivil sak vert kravet som er sett fram
+    avgjort. I ei straffesak blir det avgjort om tiltalte er skuldig i ei straffbar
+    handling og kva straff han i tilfelle skal ha. @nn
 relation:
   broader:
   - tema/rettsvesen

@@ -1,0 +1,34 @@
+!Concept
+label:
+  hidden:
+  - Sankthansbål @nb
+  - Jonsokbål @nn
+  - Bråtebrann @nb
+  - Bråtebrann @nn
+  - Bråtebrenning @nb
+  - Bråtebrenning @nn
+  - Grillplass @nb
+  - Grillplass @nn
+  - St. Hansbål @nb
+  - St. Hansbål @nn
+  - Bålplass @nb
+  - Bålplass @nn
+  preferred:
+  - Bonfires @en
+  - Bålbrenning @nb
+  - Bålbrenning @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Utandørs brenning eller brenning av avfall i småomnar. Kommunen fastset lokale
+    reglar. @nn
+  - Utendørs brenning eller brenning av avfall i småovner. Kommunen fastsetter lokale
+    regler. @nb
+relation:
+  broader:
+  - tema/friluftsliv
+  - tema/naturforvaltning
+  related:
+  - ord/friomrade

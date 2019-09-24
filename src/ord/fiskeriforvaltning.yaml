@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Regulering og kontroll med fiske og fangst i salt- og ferskvatn. Fritidsfiske er eige emneord. @nn
+  - Regulering og kontroll med fiske og fangst i salt- og ferskvatn. Fritidsfiske
+    er eige emneord. @nn
 relation:
   broader:
   - tema/fiske-fangst-og-akvakultur

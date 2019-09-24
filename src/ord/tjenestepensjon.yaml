@@ -12,7 +12,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid i foretaket. @nn
+  - Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt
+    til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid
+    i foretaket. @nn
 relation:
   broader:
   - tema/pensjon

@@ -1,0 +1,18 @@
+!Concept
+label:
+  preferred:
+  - International Certificate of Competence for Operators of Pleasure Craft (ICC)
+    @en
+  - Internasjonalt båtsertifikat (ICC) @nb
+  - Internasjonalt båtsertifikat (ICC) @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat.
+    International Cerfiticate of Competency (ICC), er en internasjonal standard for
+    fritidsbåtsertifikat. @nn
+relation:
+  broader:
+  - tema/forerkort-og-sertifikat

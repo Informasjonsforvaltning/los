@@ -20,10 +20,12 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tinglysing er ei offentleg registrering av ein avtale mellom to partar om rettar og plikter som gjeld fast eigedom eller visse typar lausøyre. Tinglyste dokument som gjeld fast eigedom blir registrerte i grunnboka. @nn
+  - Tinglysing er ei offentleg registrering av ein avtale mellom to partar om rettar
+    og plikter som gjeld fast eigedom eller visse typar lausøyre. Tinglyste dokument
+    som gjeld fast eigedom blir registrerte i grunnboka. @nn
 relation:
   broader:
-  - tema/kjoep-og-salg
+  - tema/kjop-og-salg
   related:
   - ord/eiendomsregister
   - ord/dokumentavgift

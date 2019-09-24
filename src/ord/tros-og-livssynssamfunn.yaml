@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Trus- og livssynssamfunn utanom Den norske kyrkja. Ekteskap og gravferd er eigne emneord. @nn
+  - Trus- og livssynssamfunn utanom Den norske kyrkja. Ekteskap og gravferd er eigne
+    emneord. @nn
 relation:
   broader:
   - tema/religion-og-livssyn

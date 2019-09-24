@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Dependent supplement @en
+  - Forsørgingstillegg @nb
+  - Forsørgingstillegg @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Ei behovsprøvd yting til alders- og uførepensjonistar som forsørgjer ektefelle
+    og/eller barn under 18 år. @nn
+relation:
+  broader:
+  - tema/pensjon

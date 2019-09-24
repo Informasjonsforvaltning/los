@@ -28,7 +28,7 @@ scheme:
   - ontologi/ord
 relation:
   broader:
-  - tema/kjoep-og-salg
+  - tema/kjop-og-salg
   related:
   - ord/boligfinansiering
   - ord/kontrakt

@@ -16,7 +16,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m. Menneskerettar er eige emneord. @nn
+  - Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar
+    og asylsøkjarar har m.m. Menneskerettar er eige emneord. @nn
 relation:
   broader:
   - tema/innvandring-og-innreise

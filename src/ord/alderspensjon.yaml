@@ -38,7 +38,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m. @nn
+  - Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det
+    også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m. @nn
 relation:
   broader:
   - tema/pensjon

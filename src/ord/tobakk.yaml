@@ -28,7 +28,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk. @nn
+  - Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd
+    for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern
+    mot eksponering for tobakksrøyk. @nn
 relation:
   broader:
   - tema/folkehelse

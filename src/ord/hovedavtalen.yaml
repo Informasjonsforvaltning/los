@@ -18,7 +18,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avtale mellom LO og NHO. Regulerer tilhøve i arbeidslivet som ikkje er lovfesta. @nn
+  - Avtale mellom LO og NHO. Regulerer tilhøve i arbeidslivet som ikkje er lovfesta.
+    @nn
 relation:
   broader:
   - tema/arbeidsliv

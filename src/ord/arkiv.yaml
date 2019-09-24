@@ -20,7 +20,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid. @nn
+  - Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik
+    at dokumenta er tryggja som informasjonskjelder for samtid og ettertid. @nn
 relation:
   broader:
   - tema/kultur

@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Snøscooter @nb
+  - Snøscooter @nn
+  preferred:
+  - Snowmobile @en
+  - Snøskuter @nb
+  - Snøskuter @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy,
+    motorfartøy eller luftfartøy utanfor fastsette løyper. @nn
+  - Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre
+    motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper. @nb
+relation:
+  broader:
+  - tema/kjoretoy
+  - tema/forerkort-og-sertifikat

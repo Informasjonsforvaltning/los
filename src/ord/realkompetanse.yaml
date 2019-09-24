@@ -9,7 +9,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Realkompetanse er all kunnskap og alle ferdigheiter som arbeidstakarar har fått gjennom utdanning, lønna eller ulønna arbeid, organisasjonserfaring, fritidsaktivitetar eller på annan måte. Som ein del av kompetansereforma har fylkeskommunane etablert ordningar for å vurdere og kartleggje realkompetansen til vaksne. @nn
+  - Realkompetanse er all kunnskap og alle ferdigheiter som arbeidstakarar har fått
+    gjennom utdanning, lønna eller ulønna arbeid, organisasjonserfaring, fritidsaktivitetar
+    eller på annan måte. Som ein del av kompetansereforma har fylkeskommunane etablert
+    ordningar for å vurdere og kartleggje realkompetansen til vaksne. @nn
 relation:
   broader:
   - tema/karakterer-og-evaluering

@@ -30,10 +30,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar. @nn
+  - Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame
+    sjukdommar. @nn
 relation:
   broader:
   - tema/folkehelse
   related:
-  - ord/kjaeledyr-og-sportsdyr
+  - ord/kjaledyr-og-sportsdyr
   - ord/vaksine

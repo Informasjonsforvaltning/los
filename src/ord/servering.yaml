@@ -16,7 +16,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord. @nn
+  - Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord.
+    @nn
 relation:
   broader:
   - tema/handel-og-service

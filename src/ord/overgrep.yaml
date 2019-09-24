@@ -24,7 +24,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Eit overgrep vil sei at eit menneske krenkar rettane til eit anna menneske. Overgrep kan ramme begge kjønn i alle aldrar. @nn
+  - Kommunen kan tilby vern og hjelp ved vald og overgrep @nn
+  - Kommunen kan tilby beskyttelse og bistand ved vold og overgrep. @nb
 relation:
   broader:
-  - tema/barnevern-og-familievern
+  - tema/barnevern-og-foreldrestotte
+  - tema/akutt-hjelp

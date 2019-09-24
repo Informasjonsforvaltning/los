@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Biologisk prosess der planterestar og anna organisk materiale blir brote ned. @nn
+  - Biologisk prosess der planterestar og anna organisk materiale blir brote ned.
+    @nn
 relation:
   broader:
-  - tema/avfallshaandtering
+  - tema/avfallshandtering

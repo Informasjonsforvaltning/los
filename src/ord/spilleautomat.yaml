@@ -14,7 +14,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst. @nn
+  - Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein
+    pengegevinst. @nn
 relation:
   broader:
   - tema/lotteri-og-pengespill

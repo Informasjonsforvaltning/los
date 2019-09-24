@@ -30,7 +30,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Frå og med første måndag etter 2. påskedag og til og med 31. oktober er det ikkje tillate å bruke piggdekk eller kjettingar. I Nordland, Troms og Finnmark er tilsvarande periode frå og med 1. mai til og med 15. oktober. @nn
+  - Frå og med første måndag etter 2. påskedag og til og med 31. oktober er det ikkje
+    tillate å bruke piggdekk eller kjettingar. I Nordland, Troms og Finnmark er tilsvarande
+    periode frå og med 1. mai til og med 15. oktober. @nn
 relation:
   broader:
-  - tema/kjoeretoey
+  - tema/kjoretoy

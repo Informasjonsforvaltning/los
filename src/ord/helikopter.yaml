@@ -1,0 +1,22 @@
+!Concept
+label:
+  hidden:
+  - Luftfartøyregister @nb
+  - Luftfartøyregister @nn
+  - Landingstillatelse @nb
+  - Landingsløyve @nn
+  - Landingsplass @nb
+  - Landingsplass @nn
+  preferred:
+  - Helicopters @en
+  - Helikopter @nb
+  - Helikopter @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Landingsløyve, landingsplass m.m. for helikopter. @nn
+relation:
+  broader:
+  - tema/luftfart

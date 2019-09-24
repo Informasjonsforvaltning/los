@@ -9,7 +9,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av partane er motvillig. @nn
+  - Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av
+    partane er motvillig. @nn
+  - Benevnelse for et arrangert ekteskap som blir gjennomført til tross for at minst
+    én av partene er motvillig @nb
 relation:
   broader:
-  - tema/barnevern-og-familievern
+  - tema/ekteskap

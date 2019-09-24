@@ -1,0 +1,19 @@
+!Concept
+label:
+  hidden:
+  - Droneflyving @nb
+  - Droneflyging @nn
+  preferred:
+  - Drone @en
+  - Drone @nb
+  - Drone @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - ' *  @nn'
+  - ' * @nb'
+relation:
+  broader:
+  - tema/luftfart

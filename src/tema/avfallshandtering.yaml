@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Waste management @en
+  - Avfallshåndtering @nb
+  - Avfallshandtering @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/natur-og-miljo

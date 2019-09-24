@@ -18,7 +18,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Symbol for nasjon eller geografisk region. Reglar for bruk av flagget. Flaggdagar. @nn
+  - Symbol for nasjon eller geografisk region. Reglar for bruk av flagget. Flaggdagar.
+    @nn
 relation:
   broader:
   - tema/flagg-og-ordener

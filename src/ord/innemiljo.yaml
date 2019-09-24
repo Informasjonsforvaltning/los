@@ -1,0 +1,28 @@
+!Concept
+label:
+  hidden:
+  - Ventilasjon @nb
+  - Ventilasjon @nn
+  - Renhold @nb
+  - Reinhald @nn
+  - Inneklima @nb
+  - Inneklima @nn
+  - Hygiene @nb
+  - Hygiene @nn
+  preferred:
+  - Indoor environment @en
+  - Innemiljø @nb
+  - Innemiljø @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Innemiljø er etter Verdas helseorganisasjon (WHO) sin definisjon dei fem inneklimafaktorane,
+    med tillegg av estetiske og psykososiale forhold. Inneklimafaktorane er temperatur,
+    luft, lys/stråling, lyd/støy og utforming/innreiinng. @nn
+relation:
+  broader:
+  - tema/skolemiljo
+  - tema/arbeidsliv
+  - tema/folkehelse

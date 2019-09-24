@@ -12,7 +12,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kartlegging av forfedre og deira samtid ved hjelp av ressursar som til dømes kyrkjebøker, tingbøker, folketeljingar og emigrantprotokollar. @nn
+  - Kartlegging av forfedre og deira samtid ved hjelp av ressursar som til dømes kyrkjebøker,
+    tingbøker, folketeljingar og emigrantprotokollar. @nn
 relation:
   broader:
   - tema/kultur

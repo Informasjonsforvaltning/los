@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Personal finances @en
+  - Privatøkonomi @nb
+  - Privatøkonomi @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/forbrukersporsmal

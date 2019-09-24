@@ -40,7 +40,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avstemning for å peike ut personar til verv, stillingar og posisjonar. I Noreg er det stortingsval og kommune- og fylkestingsval kvart fjerde år. Alle norske borgarar som er fylt 18 år innan valåret har stemmerett. @nn
+  - Avstemning for å peike ut personar til verv, stillingar og posisjonar. I Noreg
+    er det stortingsval og kommune- og fylkestingsval kvart fjerde år. Alle norske
+    borgarar som er fylt 18 år innan valåret har stemmerett. @nn
 relation:
   broader:
   - tema/politikk-og-valg

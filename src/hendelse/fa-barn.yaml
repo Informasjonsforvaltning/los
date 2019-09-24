@@ -1,0 +1,15 @@
+!Concept
+label:
+  preferred:
+  - Å få barn @nb
+  - Å få barn @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/fodselsattest
+  - ord/personnavn
+  - ord/svangerskapsomsorg
+  - ord/foreldrepermisjon
+  - ord/ytelser-til-foreldre-og-foresatte

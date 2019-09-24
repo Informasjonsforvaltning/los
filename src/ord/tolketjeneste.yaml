@@ -22,6 +22,6 @@ documentation:
 relation:
   broader:
   - tema/integrering
-  - tema/spraak
+  - tema/sprak
   related:
-  - ord/doevetolk
+  - ord/dovetolk

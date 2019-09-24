@@ -12,7 +12,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Rett til heiltids- eller deltidspermisjon til arbeidstakarar som etter ei tid i arbeidslivet ønskjer seg meir utdanning. Kan krevjast for inntil tre år og er ein del av kompetansereformen. @nn
+  - Rett til heiltids- eller deltidspermisjon til arbeidstakarar som etter ei tid
+    i arbeidslivet ønskjer seg meir utdanning. Kan krevjast for inntil tre år og er
+    ein del av kompetansereformen. @nn
 relation:
   broader:
   - tema/permisjonsordninger

@@ -46,7 +46,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld også alt undervisningsmateriell. @nn
+  - Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på
+    skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld
+    også alt undervisningsmateriell. @nn
 relation:
   broader:
-  - tema/grunnskoleopplaering
+  - tema/grunnskoleopplaring

@@ -9,7 +9,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda @nn
+  - Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor
+    offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda @nn
 relation:
   broader:
   - tema/helsetjenester

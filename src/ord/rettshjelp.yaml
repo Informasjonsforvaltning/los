@@ -22,7 +22,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Fri rettshjelp betyr at staten heilt eller delvis kan dekkje utgiftene til advokathjelp. Fri rettshjelp omfattar både fritt rettsråd og fri sakførsle. I nokre saker kan ein få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det eit vilkår at ein er under visse inntektsgrenser. @nn
+  - Fri rettshjelp betyr at staten heilt eller delvis kan dekkje utgiftene til advokathjelp.
+    Fri rettshjelp omfattar både fritt rettsråd og fri sakførsle. I nokre saker kan
+    ein få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det eit
+    vilkår at ein er under visse inntektsgrenser. @nn
 relation:
   broader:
   - tema/rettsvesen

@@ -20,10 +20,13 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Tekniske hjelpemiddel som kan gjevast til personar som er funksjonshemma, utsette for skade, opererte eller som har redusert funksjonsevne på grunn av sjukdom. Føremålet er at dei skal kunne få ein lettare kvardag. Hjelpemidla kan lånast ut for ein kortare eller lengre periode. @nn
+  - Tekniske hjelpemiddel som kan gjevast til personar som er funksjonshemma, utsette
+    for skade, opererte eller som har redusert funksjonsevne på grunn av sjukdom.
+    Føremålet er at dei skal kunne få ein lettare kvardag. Hjelpemidla kan lånast
+    ut for ein kortare eller lengre periode. @nn
 relation:
   broader:
-  - tema/avlastning-og-stoette
+  - tema/avlastning-og-stotte
   related:
   - ord/ergoterapi
   - ord/fysioterapi

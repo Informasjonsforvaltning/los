@@ -12,7 +12,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Garanti for at reisetilbydar skaffar alternativ transport eller erstattar alle dokumenterte kostander for raskast mogleg transport ved avvik eller forseinking av ordinær transport. @nn
+  - Garanti for at reisetilbydar skaffar alternativ transport eller erstattar alle
+    dokumenterte kostander for raskast mogleg transport ved avvik eller forseinking
+    av ordinær transport. @nn
 relation:
   broader:
-  - tema/kollektivtransport
+  - tema/transporttilbud

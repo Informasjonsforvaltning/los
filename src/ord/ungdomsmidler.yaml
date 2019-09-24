@@ -16,7 +16,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom. @nn
+  - Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive
+    aktivitetar retta mot ungdom. @nn
 relation:
   broader:
-  - tema/tilskuddsordninger
+  - tema/tilskudd-til-kultur-idrett-og-fritid

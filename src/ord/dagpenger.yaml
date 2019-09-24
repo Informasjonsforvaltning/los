@@ -14,9 +14,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m. @nn
+  - Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for
+    tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning
+    av utdanning med rett til dagpengar m.m. @nn
 relation:
   broader:
-  - tema/oekonomiske-ytelser
+  - tema/okonomiske-ytelser
   related:
-  - ord/arbeidssoeking
+  - ord/arbeidssoking

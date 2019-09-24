@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Child and family welfare @en
+  - Barnevern og foreldrestøtte @nb
+  - Barnevern og foreldrestøtte @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/familie-og-barn

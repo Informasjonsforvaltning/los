@@ -12,9 +12,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje. @nn
+  - Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald.
+    Medrekna utgifter til følgje. @nn
 relation:
   broader:
-  - tema/oekonomiske-ytelser
+  - tema/okonomiske-ytelser
   related:
   - ord/syketransport

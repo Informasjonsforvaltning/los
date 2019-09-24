@@ -1,0 +1,18 @@
+!Concept
+label:
+  preferred:
+  - Supervision and approval of kindergartens @en
+  - Tilsyn og godkjenning av barnehager @nb
+  - Tilsyn og godkjenning av barnehagar @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunen fører tilsyn med private og kommunale barnehagar og skal godkjenne barnehagar
+    under oppføring. @nn
+  - Kommunen fører tilsyn med private og kommunale barnehager og skal godkjenne barnehager
+    under oppføring. @nb
+relation:
+  broader:
+  - tema/barnehage

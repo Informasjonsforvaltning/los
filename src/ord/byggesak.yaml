@@ -52,7 +52,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Løyve og dokument i samband med oppføring eller endring av eit bygg, som t.d. byggjemelding, byggjeløyve, nabovarsel m.m. Reguleringsplan og oppmåling er eigne emneord. @nn
+  - Løyve og dokument i samband med oppføring eller endring av eit bygg, som t.d.
+    byggjemelding, byggjeløyve, nabovarsel m.m. Reguleringsplan og oppmåling er eigne
+    emneord. @nn
 relation:
   broader:
   - tema/bygging

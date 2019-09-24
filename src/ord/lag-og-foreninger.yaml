@@ -13,7 +13,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Sjølveigande institusjonar, med føremål av ideell, politisk eller annan art. Frivilligsentral er eige emneord. @nn
+  - Sjølveigande institusjonar, med føremål av ideell, politisk eller annan art. Frivilligsentral
+    er eige emneord. @nn
 relation:
   broader:
   - tema/fritid

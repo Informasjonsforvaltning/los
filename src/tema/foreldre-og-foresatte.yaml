@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Parents and guardians @en
+  - Foreldre og foresatte @nb
+  - Foreldre føresette @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/familie-og-barn

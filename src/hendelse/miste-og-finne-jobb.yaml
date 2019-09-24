@@ -1,0 +1,18 @@
+!Concept
+label:
+  preferred:
+  - Miste og finne jobb, inkludert ta et utdanningsvalg @nb
+  - Miste og finne jobb, inkludert ta eit utdanningsvalg @nn
+scheme:
+  in:
+  - ontologi/hendelse
+relation:
+  related:
+  - ord/arbeidssoking
+  - ord/dagpenger
+  - ord/etterutdanning-og-videreutdanning
+  - ord/fagskoleutdanning
+  - ord/grunnskoleopplaring-for-voksne
+  - ord/hogskole-og-universitet
+  - ord/inkluderende-arbeidsliv
+  - ord/permittering

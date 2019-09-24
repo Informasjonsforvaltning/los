@@ -1,0 +1,12 @@
+!Concept
+label:
+  preferred:
+  - Harbour and coast @en
+  - Havn og kyst @nb
+  - Hamn og kyst @nn
+scheme:
+  in:
+  - ontologi/tema
+relation:
+  broader:
+  - tema/trafikk-og-transport

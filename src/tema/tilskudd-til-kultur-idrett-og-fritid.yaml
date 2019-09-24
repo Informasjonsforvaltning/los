@@ -1,0 +1,16 @@
+!Concept
+label:
+  preferred:
+  - Funding for culture, sport and recreation @en
+  - Tilskudd til kultur, idrett og fritid @nb
+  - Tilskot til kultur, idrett og fritid @nn
+scheme:
+  in:
+  - ontologi/tema
+documentation:
+  definition:
+  - Tilskot og støtteordningar knytt til kultur, idrett og fritid. @nn
+  - Tilskudd og støtteordningar knytt til kultur, idrett og fritid. @nb
+relation:
+  broader:
+  - tema/kultur-idrett-og-fritid

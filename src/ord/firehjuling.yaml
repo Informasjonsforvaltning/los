@@ -1,0 +1,25 @@
+!Concept
+label:
+  hidden:
+  - ATV @en
+  - ATV @nb
+  - ATV @nn
+  - Terrengkjøretøy @nb
+  - Terrengkøyretøy @nn
+  preferred:
+  - All terrain vehicle @en
+  - Firehjuling @nb
+  - Firehjuling @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre
+    motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper. @nn
+  - Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og
+    andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper. @nb
+relation:
+  broader:
+  - tema/kjoretoy
+  - tema/forerkort-og-sertifikat

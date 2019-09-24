@@ -30,10 +30,20 @@ label:
 scheme:
   in:
   - ontologi/ord
+documentation:
+  definition:
+  - Bibliotektenester omfattar lån av medium, lesing og studium, men er også ein møteplass
+    og sosial arena og lokale for kulturarrangement. Biblioteket skal være gratis
+    for alle. Formålet er å arbeide for opplysing, utdanning og anna kulturell verksemd.
+    @nn
+  - Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass
+    og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis
+    for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.
+    @nb
 relation:
   broader:
   - tema/bibliotek
-  - tema/hoeyere-utdanning
+  - tema/hoyere-utdanning
   - tema/kultur
-  - tema/videregaaende-opplaering
-  - tema/grunnskoleopplaering
+  - tema/videregaende-opplaring
+  - tema/grunnskoleopplaring

@@ -9,8 +9,15 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Permisjonsrettar for arbeidstakarar i samband med fødsel og adopsjon. Arbeidsmiljølova gjev fedrar rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre i samband med at dei overtek omsorga for barnet. Fødselspermisjon er eige emneord. @nn
+  - Permisjonsrettar for arbeidstakarar i samband med fødsel og adopsjon. Arbeidsmiljølova
+    gjev fedrar rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre
+    i samband med at dei overtek omsorga for barnet.  @nn
+  - Permisjonsretter for arbeidstakere i sforbindelse med fødsel og adopsjon. Arbeidsmiljøloven
+    gir fedre rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder
+    adoptivforeldre i forbindelse med at de overtar omsorgen for barnet.  @nb
 relation:
   broader:
   - tema/permisjonsordninger
-  - tema/barn-og-foreldre
+  - tema/foreldre-og-foresatte
+  related:
+  - ord/foreldrepermisjon

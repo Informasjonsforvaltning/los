@@ -18,10 +18,14 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak. @nn
+  - Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar
+    under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule.
+    Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid
+    med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd
+    ei sakkunnig vurdering om behov for spesialpedagogiske tiltak. @nn
 relation:
   broader:
   - tema/psykisk-helse
-  - tema/grunnskoleopplaering
-  - tema/videregaaende-opplaering
+  - tema/grunnskoleopplaring
+  - tema/videregaende-opplaring
   - tema/barnehage

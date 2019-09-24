@@ -42,7 +42,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Sjølvmeldinga skal innehalde ei spesifisert oppstilling over all bruttoformue og bruttoinntekt, frådragspostar og andre nødvendige opplysningar. Alle personlege skatteytarar får i utgangspunktet tilsendt ei førehandsutfylt sjølvmelding. Fristen for å levere sjølvmeldinga er 30. april. @nn
+  - Sjølvmeldinga skal innehalde ei spesifisert oppstilling over all bruttoformue
+    og bruttoinntekt, frådragspostar og andre nødvendige opplysningar. Alle personlege
+    skatteytarar får i utgangspunktet tilsendt ei førehandsutfylt sjølvmelding. Fristen
+    for å levere sjølvmeldinga er 30. april. @nn
 relation:
   broader:
   - tema/skatt-og-likning

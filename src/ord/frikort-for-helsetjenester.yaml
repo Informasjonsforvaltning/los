@@ -16,7 +16,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Den delen av ei helseteneste ein må betale sjølv. Summen blir fastsett av Stortinget kvart år. Eigenbetaling er eige emneord. @nn
+  - Den delen av ei helseteneste ein må betale sjølv. Summen blir fastsett av Stortinget
+    kvart år. Eigenbetaling er eige emneord. @nn
 relation:
   broader:
   - tema/helsetjenester

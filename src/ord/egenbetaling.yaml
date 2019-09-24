@@ -14,7 +14,10 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule. Eigendel (ved betaling av helsetenester) er eige emneord. @nn
+  - Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling
+    for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage,
+    skulefritidsordning eller kulturskule. Eigendel (ved betaling av helsetenester)
+    er eige emneord. @nn
 relation:
   broader:
   - tema/omsorgstjenester

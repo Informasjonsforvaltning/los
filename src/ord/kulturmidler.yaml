@@ -40,7 +40,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Offentleg tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend. @nn
+  - Offentleg tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar,
+    kulturstipend, festivalstøtte og kunstnarstipend. @nn
 relation:
   broader:
-  - tema/tilskuddsordninger
+  - tema/tilskudd-til-kultur-idrett-og-fritid

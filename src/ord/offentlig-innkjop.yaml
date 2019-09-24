@@ -1,0 +1,20 @@
+!Concept
+label:
+  hidden:
+  - Offentlig anskaffelse @nb
+  - Offentleg anskaffelse @nn
+  - Offentleg anskaffing @nn
+  preferred:
+  - Public procurement @en
+  - Offentlig innkjøp @nb
+  - Offentleg innkjøp @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Innkjøp av varer, tenester der statlege, kommunale og fylkeskommunale styresmakter
+    og offentlegrettslege organ er oppdragsgjevar. @nn
+relation:
+  broader:
+  - tema/handel-og-service

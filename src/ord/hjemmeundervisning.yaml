@@ -9,7 +9,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga. @nn
+  - Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.
+    @nn
 relation:
   broader:
-  - tema/grunnskoleopplaering
+  - tema/grunnskoleopplaring

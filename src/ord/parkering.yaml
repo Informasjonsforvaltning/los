@@ -30,8 +30,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre. @nn
+  - Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal
+    syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også
+    ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap
+    og andre. @nn
 relation:
   broader:
   - tema/transporttjenester
-  - tema/veg-og-vegtrafikk
+  - tema/veg

@@ -12,7 +12,9 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast. @nn
+  - Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige
+    personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast.
+    @nn
 relation:
   broader:
   - tema/innbyggerrettigheter

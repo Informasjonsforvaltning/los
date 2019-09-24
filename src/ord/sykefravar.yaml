@@ -1,0 +1,24 @@
+!Concept
+label:
+  hidden:
+  - Egenmelding @nb
+  - Eigenmelding @nn
+  - Sykemelding @nb
+  - Sjukemelding @nn
+  - Sykmelding @nb
+  - Sjukmelding @nn
+  preferred:
+  - Sick leave @en
+  - Sykefravær @nb
+  - Sjukefråver @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Fråver frå arbeid i samband med sjukdom eller skade. @nn
+relation:
+  broader:
+  - tema/arbeidsliv
+  related:
+  - ord/sykepenger

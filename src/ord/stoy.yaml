@@ -1,0 +1,25 @@
+!Concept
+label:
+  hidden:
+  - Støyklage @nb
+  - Støyklage @nn
+  - Støyskjerming @nb
+  - Støyskjerming @nn
+  - Trafikkstøy @nb
+  - Trafikkstøy @nn
+  preferred:
+  - Noise @en
+  - Støy @nb
+  - Støy @nn
+scheme:
+  in:
+  - ontologi/ord
+documentation:
+  definition:
+  - Blir rekna som forureining, og er eit av dei miljøproblema som rammar flest menneske
+    i Noreg. Dei fire viktigaste støykjeldene er vegtrafikk, fly, jernbane og industri.
+    @nn
+relation:
+  broader:
+  - tema/folkehelse
+  - tema/forurensning-og-straling

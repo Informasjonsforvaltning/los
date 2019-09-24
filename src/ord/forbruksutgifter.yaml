@@ -22,7 +22,8 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Til dette høyrer standardbudsjett frå SIFO, Statens institutt for forbruksforsking. Budsjettet viser vanlege forbruksutgifter for ulike typar hushald. @nn
+  - Til dette høyrer standardbudsjett frå SIFO, Statens institutt for forbruksforsking.
+    Budsjettet viser vanlege forbruksutgifter for ulike typar hushald. @nn
 relation:
   broader:
-  - tema/privatoekonomi
+  - tema/privatokonomi

@@ -28,9 +28,11 @@ scheme:
   - ontologi/ord
 documentation:
   definition:
-  - Avfall som det ikkje er tilrådeleg å behandle saman med anna hushaldsavfall eller næringsavfall på grunn av storleiken eller fordi det kan medføre alvorlig forureining eller fare for skade på menneske eller dyr. @nn
+  - Avfall som det ikkje er tilrådeleg å behandle saman med anna hushaldsavfall eller
+    næringsavfall på grunn av storleiken eller fordi det kan medføre alvorlig forureining
+    eller fare for skade på menneske eller dyr. @nn
 relation:
   broader:
-  - tema/avfallshaandtering
+  - tema/avfallshandtering
   related:
   - ord/renovasjon
