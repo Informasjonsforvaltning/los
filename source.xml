@@ -1778,6 +1778,7 @@
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
       <PrefLabel lang="nn">Ektefellepensjon</PrefLabel>
       <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
+      <Definition lang="nn">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -2331,6 +2332,7 @@
       <PrefLabel lang="nb">Forsørgingstillegg</PrefLabel>
       <PrefLabel lang="nn">Forsørgingstillegg</PrefLabel>
       <Definition lang="nn">Ei behovsprøvd yting til alders- og uførepensjonistar som forsørgjer ektefelle og/eller barn under 18 år.</Definition>
+      <Definition lang="nb">En behovsprøvd ytelse til alders- og uførepensjonister som forsørger ektefelle og/eller barn under 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -4850,7 +4852,8 @@
       <HiddenLabel lang="nn">Pensjonsutrekning</HiddenLabel>
       <HiddenLabel lang="nb">Pensjonsberegning</HiddenLabel>
       <HiddenLabel lang="nn">Pensjonsutrekning</HiddenLabel>
-      <Definition lang="nn">Automatisert informasjon på Internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett.</Definition>
+      <Definition lang="nn">Automatisert informasjon på internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett.</Definition>
+      <Definition lang="nb">Automatisert informasjon på internett der man kan regne ut fremtidig alderspensjon fra folketrygden. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberegninger på internett.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -4909,6 +4912,7 @@
       <HiddenLabel lang="nb">Samordning</HiddenLabel>
       <HiddenLabel lang="nn">Samordning</HiddenLabel>
       <Definition lang="nn">Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane må sjåast som supplerande ordningar til folketrygda.</Definition>
+      <Definition lang="nb">Folketrygden er den mest generelle trygdeordningen, og den omfatter alle som er bosatt i Noreg. Personskadetrygdene (krigspensjon og "gammel" yrkesskadetrygd) og tenestepensjonsordningene må sees som supplerende ordninger til folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -6429,6 +6433,7 @@
       <HiddenLabel lang="nb">Samordning</HiddenLabel>
       <HiddenLabel lang="nn">Samordning</HiddenLabel>
       <Definition lang="nn">Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid i foretaket.</Definition>
+      <Definition lang="nb">En alderspensjons-opptening i tillegg til folketrygden. Arbeidsgivere har plikt til å opprette en pensjonsordning for tilsette og personer som utfører arbeid i foretaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
