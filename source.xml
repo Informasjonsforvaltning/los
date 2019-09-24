@@ -596,6 +596,7 @@
       <HiddenLabel lang="nb">Pensjonsfond</HiddenLabel>
       <HiddenLabel lang="nn">Pensjonsfond</HiddenLabel>
       <Definition lang="nn">Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m.</Definition>
+      <Definition lang="nb">Pensjonsutbetaling fra folketrygden etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medregnet avtalefestet pensjon, pensjonsberekning m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -715,6 +716,7 @@
       <HiddenLabel lang="nb">Attføringspenger</HiddenLabel>
       <HiddenLabel lang="nn">Attføringspengar</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</Definition>
+      <Definition lang="nb">Økonomisk støtte som skal sikre inntekt til livsopphold til personer som har fått inntektsevnen langvarig nedsett pga. sykdom, skade eller lyte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/inntektssikring</Broader>
@@ -754,6 +756,7 @@
       <HiddenLabel lang="nb">Arbeidsgjevaransvar</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsgjevaransvar</HiddenLabel>
       <Definition lang="nn">Alle som har tilsett arbeidstakarar for å utføre arbeid i si teneste.</Definition>
+      <Definition lang="nb">Enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -825,8 +828,8 @@
       <HiddenLabel lang="nn">Arbeidsmiljøutval</HiddenLabel>
       <HiddenLabel lang="nb">Skiftende arbeidsplass</HiddenLabel>
       <HiddenLabel lang="nn">Skiftande arbeidsplass</HiddenLabel>
-      <Definition lang="nn">Rettane til arbeidstaker og pliktene til arbeidsgjevaren i forhold til arbeidsmiljølova, t.d. krav til dei fysiske, psyko-sosiale og organisatoriske forholda på ein arbeidsplass.</Definition>
-      <Definition lang="nb">Rettene til arbeidstaker og pliktene til arbeidsgiveren i forhold til arbeidsmiljøloven, t.d. krav til de fysiske, psyko-sosiale og organisatoriske forholdene på en arbeidsplass.</Definition>
+      <Definition lang="nn">Forholda for arbeidstakarane på ein arbeidsplass, særleg dei fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholda.</Definition>
+      <Definition lang="nb">Forholdene for arbeidstakerne på en arbeidsplass, særlig de fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholdene.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -879,7 +882,8 @@
       <HiddenLabel lang="nn">Overtid</HiddenLabel>
       <HiddenLabel lang="nb">Turnus</HiddenLabel>
       <HiddenLabel lang="nn">Turnus</HiddenLabel>
-      <Definition lang="nn">Lovregulert arbeidstid. Redusert arbeidstid, fleksibel arbeidstid.</Definition>
+      <Definition lang="nn">Arbeidstid er tida du jobbar. I denne tida går du med på at arbeidsplassen bestem over arbeidskraften din mot at du kompenserast med lønn.</Definition>
+      <Definition lang="nb">Arbeidstid er tida du jobber. I denne tida går du med på at arbeidsplassen bestemmer over arbeidskraften din mot at du kompenseres med lønn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -889,7 +893,8 @@
       <PrefLabel lang="nn">Arbeidsløyve</PrefLabel>
       <HiddenLabel lang="nb">Arbeidsinnvandring</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsinnvandring</HiddenLabel>
-      <Definition lang="nn">Utlendingar som ønskjer å ta arbeid i Noreg må ha arbeidsløyve. Grunnvilkåret for eit slikt løyve er at søkaren har fått bindande tilbod om arbeid frå arbeidsgjevar. Dei vanlegaste løyva er løyve som sesongarbeidar eller som fagutdanna/spesialist.</Definition>
+      <Definition lang="nn">Om du er frå eit land utanfor EU/EØS og ynskjer å arbeide i Noreg, må du ha oppholdstillatelse. Hvis du ikkje allereie har oppholdstillatelse, må du søke om oppholdstillatelse for arbeid. Tidlegere blei dette kalla ein arbeidstillatelse.  Dette kan for eksempel vere ein oppholdstillatelse for faglærte arbeidarar, nasjonalitetskokker, sesongarbeidere, sjølvstendig næringsdrivande eller tilsett i ein humanitær, ideell eller religiøs organisasjon.</Definition>
+      <Definition lang="nb">Hvis du er fra et land utenfor EU/EØS og ønsker å arbeide i Norge, må du ha en oppholdstillatelse. Hvis du ikke allerede har en oppholdstillatelse, må du søke om en oppholdstillatelse for arbeid. Tidligere ble dette kalt en arbeidstillatelse.  Dette kan for eksempel være en oppholdstillatelse for faglærte arbeidere, nasjonalitetskokker, sesongarbeidere, selvstendig næringsdrivende eller ansatte i en humanitær, ideell eller religiøs organisasjon.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
@@ -915,7 +920,8 @@
       <HiddenLabel lang="nn">Arbeidskonflikt</HiddenLabel>
       <HiddenLabel lang="nb">Fagforening</HiddenLabel>
       <HiddenLabel lang="nn">Fagforeining</HiddenLabel>
-      <Definition lang="nn">Arbeidskonfliktar og streik.</Definition>
+      <Definition lang="nn">Arbeidstvist er ein spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følgje av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om oppretting av tariffavtale og/eller ved reforhandling av eksisterande tariffavtale</Definition>
+      <Definition lang="nb">Arbeidstvist er en spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følge av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om opprettelse av tariffavtale og/eller ved reforhandling av eksisterende tariffavtale</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -1061,7 +1067,8 @@
       <PrefLabel lang="en">Childrens pension</PrefLabel>
       <PrefLabel lang="nb">Barnepensjon</PrefLabel>
       <PrefLabel lang="nn">Barnepensjon</PrefLabel>
-      <Definition lang="nn">Ei yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
+      <Definition lang="nn">En yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
+      <Definition lang="nb">En ytelse til barn som har mistet en eller begge foreldrene. Pensjonen skal sikre barnet inntekt til livsopphold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -1470,7 +1477,8 @@
       <HiddenLabel lang="nn">Kandidatsøk</HiddenLabel>
       <HiddenLabel lang="nb">Curriculum vitae</HiddenLabel>
       <HiddenLabel lang="nn">Curriculum vitae</HiddenLabel>
-      <Definition lang="nn">Curriculum vitae. Opplysningar om utdanning og tidlegare arbeid. Medrekna registrering av CV hos t.d. Nav. Arbeidssøking er eige emneord.</Definition>
+      <Definition lang="nn">Eit samandrag over erfaringar og kvalifikasjonar fra utdanning og yrkesliv. Det er vanlig å leggje ved ein CV når ein søker på ein stilling. Ein CV inneheld vanlegvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og liknande.</Definition>
+      <Definition lang="nb">Et sammendrag over en persons erfaringer og kvalifikasjoner fra utdanning og yrkesliv. Det er vanlig å legge ved en CV når man søker på en stilling. En CV inneholder vanligvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og lignende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -1770,6 +1778,7 @@
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
       <PrefLabel lang="nn">Ektefellepensjon</PrefLabel>
       <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
+      <Definition lang="nn">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -2057,8 +2066,8 @@
       <PrefLabel lang="nn">Ferierettar</PrefLabel>
       <HiddenLabel lang="nb">Fellesferie</HiddenLabel>
       <HiddenLabel lang="nn">Fellesferie</HiddenLabel>
-      <Definition lang="nn">Alle arbeidstakarar har krav på fire veker pluss ein dags ferie kvart kalenderår. Mange har også krav på ei femte ferieveke. Den er ikkje lovbestemt, men ein del av lønnsoppgjeret mellom partane i arbeidslivet. Om ein får utbetalt lønn i ferien er avhengig av om ein hadde inntekstgivande arbeid året før.</Definition>
-      <Definition lang="nb">Alle arbeidstakere har krav på fire uker pluss en dags ferie hvert kalenderår. Mange har også krav på en femte ferieuke. Den er ikke lovbestemt, men en del av lønnsoppgjøret mellom partane i arbeidslivet. Om en får utbetalt lønn i ferien er avhengig av om en hadde inntekstgivende arbeid året før.</Definition>
+      <Definition lang="nn">Ferie er ein vanleg nemning på samanhengande rekkje av dagar då man har fri frå arbeidet. I Norge er dette regulert i ferielova.</Definition>
+      <Definition lang="nb">Ferie er en vanlig betegnelse på sammenhengende rekke av dager da man har fri fra sitt arbeid. I Norge reguleres dette i ferieloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/feriepenger</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -2067,7 +2076,8 @@
       <PrefLabel lang="en">Holiday pay</PrefLabel>
       <PrefLabel lang="nb">Feriepenger</PrefLabel>
       <PrefLabel lang="nn">Feriepengar</PrefLabel>
-      <Definition lang="nn">Feriepengar må tenast opp året før ferien skal avviklast. Dersom ein ikkje har vore i arbeid året før, har ein rett på ferie, men ikkje rett til feriepengar. Ferie er eige stikkord.</Definition>
+      <Definition lang="nn">Feriepengar er ei godtgjersle ein arbeidstakar opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepeng er eit prosenttillegg til den løna som er utbetalt året før pengane skal utbetalast. Retten til feriepeng er nedfelt i ferielova.</Definition>
+      <Definition lang="nb">Feriepenger er en godtgjørelse en arbeidstaker opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepenger er et prosenttillegg til den lønnen som er utbetalt året før pengene skal utbetales. Retten til feriepenger er nedfelt i ferieloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ferierettigheter</Related>
       <Broader>tema/inntekt</Broader>
@@ -2321,6 +2331,7 @@
       <PrefLabel lang="nb">Forsørgingstillegg</PrefLabel>
       <PrefLabel lang="nn">Forsørgingstillegg</PrefLabel>
       <Definition lang="nn">Ei behovsprøvd yting til alders- og uførepensjonistar som forsørgjer ektefelle og/eller barn under 18 år.</Definition>
+      <Definition lang="nb">En behovsprøvd ytelse til alders- og uførepensjonister som forsørger ektefelle og/eller barn under 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -3219,7 +3230,8 @@
       <HiddenLabel lang="nn">IA-avtale</HiddenLabel>
       <HiddenLabel lang="nb">Tilretteleggingstilskudd</HiddenLabel>
       <HiddenLabel lang="nn">Tilretteleggingstilskot</HiddenLabel>
-      <Definition lang="nn">Intensjonsavtale som er inngått mellom partane i arbeidslivet og regjeringa. Hovudmål for avtalen er å gje plass til alle som kan, og vil arbeide.</Definition>
+      <Definition lang="nn">Eit avtalesamarbeid som skal skape eit arbeidsliv med plass til alle gjennom å førebyggje sjukefråvær og fråfall og på denne måten bidra til å øke sysselsettningen.</Definition>
+      <Definition lang="nb">Et avtalesamarbeid som skal skape et arbeidsliv med plass til alle gjennom å forebygge sykefravær og frafall og på denne måten bidra til å auke sysselsetjinga.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -3898,6 +3910,7 @@
       <HiddenLabel lang="nb">Tariffavtale</HiddenLabel>
       <HiddenLabel lang="nn">Tariffavtale</HiddenLabel>
       <Definition lang="nn">Betaling for utført arbeid. Regulert av lovverk og avtalar.</Definition>
+      <Definition lang="nb">Betaling for utført arbeid. Regulert av lovverk og avtaler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
    </Concept>
@@ -3994,7 +4007,7 @@
       <PrefLabel lang="nn">Meinerstatning</PrefLabel>
       <Definition lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/yrkesskade</Related>
+      <Related>ord/yrkesskadedekning</Related>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/menneskerettigheter">
@@ -4666,7 +4679,8 @@
       <HiddenLabel lang="nn">Overflødig</HiddenLabel>
       <HiddenLabel lang="nb">Avskjed</HiddenLabel>
       <HiddenLabel lang="nn">Avskil</HiddenLabel>
-      <Definition lang="nn">Her brukt om oppseiing av arbeidsforhold. For at ei oppseiing skal vere korrekt etter arbeidsmiljølova må fleire vilkår vera oppfylte. Til dømes må oppseiinga vere skriftleg, oppseinga frå arbeidsgjevaren skal vere sakleg begrunna, og ho skal leverast til arbeidstakaren personleg eller sendast rekommandert.</Definition>
+      <Definition lang="nn">Oppseiing er den vanlegaste måten å avslutte eit arbeidsforhold på. Det finnast faste reglar for korleis ei oppseeing skal skje. Desse reglane finn ein i arbeidsmiljølova.</Definition>
+      <Definition lang="nb">Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på. Det finnes faste regler for hvordan en oppsigelse skal skje. Disse reglene finner man i arbeidsmiljøloven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ventelonn</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -4831,7 +4845,8 @@
       <HiddenLabel lang="nn">Pensjonsutrekning</HiddenLabel>
       <HiddenLabel lang="nb">Pensjonsberegning</HiddenLabel>
       <HiddenLabel lang="nn">Pensjonsutrekning</HiddenLabel>
-      <Definition lang="nn">Automatisert informasjon på Internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett.</Definition>
+      <Definition lang="nn">Automatisert informasjon på internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett.</Definition>
+      <Definition lang="nb">Automatisert informasjon på internett der man kan regne ut fremtidig alderspensjon fra folketrygden. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberegninger på internett.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -4840,6 +4855,7 @@
       <PrefLabel lang="nb">Permittering</PrefLabel>
       <PrefLabel lang="nn">Permittering</PrefLabel>
       <Definition lang="nn">Permittering inneber at arbeidstakaren vert heilt eller delvis løyst frå arbeidet på grunn av innskrenking i drifta eller arbeidsstans bestemt av arbeidsgjevar.</Definition>
+      <Definition lang="nb">Permittering innebærer at en eller flere ansatte midlertidig, helt eller delvis blir løst fra arbeidsplikten, fordi virksomheten har besluttet å redusere eller stanse driften.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -4911,6 +4927,7 @@
       <HiddenLabel lang="nb">Samordning</HiddenLabel>
       <HiddenLabel lang="nn">Samordning</HiddenLabel>
       <Definition lang="nn">Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane må sjåast som supplerande ordningar til folketrygda.</Definition>
+      <Definition lang="nb">Folketrygden er den mest generelle trygdeordningen, og den omfatter alle som er bosatt i Noreg. Personskadetrygdene (krigspensjon og "gammel" yrkesskadetrygd) og tenestepensjonsordningene må sees som supplerende ordninger til folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -6172,7 +6189,8 @@
       <HiddenLabel lang="nn">Sjukemelding</HiddenLabel>
       <HiddenLabel lang="nb">Sykmelding</HiddenLabel>
       <HiddenLabel lang="nn">Sjukmelding</HiddenLabel>
-      <Definition lang="nn">Fråver frå arbeid i samband med sjukdom eller skade.</Definition>
+      <Definition lang="nn">Sjukefråver er fråver frå lønna arbeid på grunn av sjukdom. .</Definition>
+      <Definition lang="nb">Sykefravær er fravær fra lønnet arbeid på grunn av sykdom. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykepenger</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -6236,10 +6254,12 @@
       <PrefLabel lang="en">Sickness benefit</PrefLabel>
       <PrefLabel lang="nb">Sykepenger</PrefLabel>
       <PrefLabel lang="nn">Sjukepengar</PrefLabel>
-      <Definition lang="nn">Sjukepengar skal gje kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre pga. sjukdom eller skade.</Definition>
+      <Definition lang="nn">Gjev kompensasjon for bortfall av arbeidsinntekt for yrkesaktive folketrygd-medlemmer som er arbeidsuføre på grunn av sjukdom eller skade.</Definition>
+      <Definition lang="nb">Gir kompensasjon for bortfall av arbeidsinntekt for yrkesaktive som er arbeidsuføre på grunn av sykdom eller skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykefravar</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/separasjon-og-skilsmisse">
       <PrefLabel lang="en">Separation and divorce</PrefLabel>
@@ -6430,6 +6450,7 @@
       <HiddenLabel lang="nb">Samordning</HiddenLabel>
       <HiddenLabel lang="nn">Samordning</HiddenLabel>
       <Definition lang="nn">Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid i foretaket.</Definition>
+      <Definition lang="nb">En alderspensjons-opptening i tillegg til folketrygden. Arbeidsgivere har plikt til å opprette en pensjonsordning for tilsette og personer som utfører arbeid i foretaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -6716,6 +6737,7 @@
       <HiddenLabel lang="nb">Studiepermisjon</HiddenLabel>
       <HiddenLabel lang="nn">Studiepermisjon</HiddenLabel>
       <Definition lang="nn">Rett til heiltids- eller deltidspermisjon til arbeidstakarar som etter ei tid i arbeidslivet ønskjer seg meir utdanning. Kan krevjast for inntil tre år og er ein del av kompetansereformen.</Definition>
+      <Definition lang="nb">Rett til heltids- eller deltidspermisjon til arbeidstakere som etter en tid i arbeidslivet ønsker seg mer utdanning. Kan kreves for inntil tre år og er en del av kompetansereformen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
@@ -6977,6 +6999,7 @@
       <PrefLabel lang="nb">Velferdspermisjon</PrefLabel>
       <PrefLabel lang="nn">Velferdspermisjon</PrefLabel>
       <Definition lang="nn">Fri frå arbeid når det er viktige grunnar for det.</Definition>
+      <Definition lang="nb">Fri fra arbeid når det er viktige grunner for det.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
@@ -7154,10 +7177,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="ord/yrkesskade">
-      <PrefLabel lang="en">Occupational injury</PrefLabel>
-      <PrefLabel lang="nb">Yrkesskade</PrefLabel>
-      <PrefLabel lang="nn">Yrkesskade</PrefLabel>
+   <Concept path="ord/yrkesskadedekning">
+      <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
+      <PrefLabel lang="nb">Yrkesskadedekning</PrefLabel>
+      <PrefLabel lang="nn">Yrkesskadedekning</PrefLabel>
       <HiddenLabel lang="nb">Yrkessykdom</HiddenLabel>
       <HiddenLabel lang="nn">Yrkessjukdom</HiddenLabel>
       <HiddenLabel lang="nb">Arbeidsulykke</HiddenLabel>
@@ -7168,7 +7191,8 @@
       <HiddenLabel lang="nn">Skadeforklaring</HiddenLabel>
       <HiddenLabel lang="nb">Yrkesskadeforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Yrkesskadeforsikring</HiddenLabel>
-      <Definition lang="nn">Personskade, sjukdom eller dødsfall som følgje av arbeidsulukke. Ein sjukdom kan også bli godkjend som yrkessjukdom dersom han er ei følgje av skadeleg påverknad frå arbeidsmiljøet og er ein av dei sjukdomane som er nemnde i forskrift om yrkessjukdomar.</Definition>
+      <Definition lang="nn">Yrkesskade er ein skade som skjer ved ei ulykke i arbeidstiden. Yrkesskadedekningen gir særfordelar utover folketrygda sitt ordinære stønadssystem.</Definition>
+      <Definition lang="nn">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/menerstatning</Related>
       <Broader>tema/arbeidsliv</Broader>
