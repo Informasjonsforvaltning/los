@@ -4463,6 +4463,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
+   <Concept path="ord/tilrettelagte-botilbud">
+      <PrefLabel lang="en">Arranged housing offers</PrefLabel>
+      <PrefLabel lang="nb">Tilrettelagte botilbud</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagde butilbod</PrefLabel>
+      <Definition lang="nn">Kommunal bolig for personer med psykiske lidelser eller rusproblemer.</Definition>
+      <Definition lang="nb">Kommunal bolig for personer med psykiske lidelser eller rusproblemer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/botilbud</Broader>
+   </Concept>
    <Concept path="ord/omsorgslonn">
       <PrefLabel lang="en">Carer allowance</PrefLabel>
       <PrefLabel lang="nb">Omsorgslønn</PrefLabel>
