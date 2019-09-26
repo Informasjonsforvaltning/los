@@ -4499,6 +4499,12 @@
       <PrefLabel lang="en">Benefits for familiy illness </PrefLabel>
       <PrefLabel lang="nb">Ytelser ved sykdom i familien</PrefLabel>
       <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <HiddenLabel lang="nb">Pleiepenger</HiddenLabel>
+      <HiddenLabel lang="nn">Pleiepengar</HiddenLabel>
+      <HiddenLabel lang="nb">Omsorgspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Omsorgspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Opplæringspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Opplæringspengar</HiddenLabel>
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4509,6 +4515,12 @@
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
       <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
       <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
+      <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
+      <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
+      <HiddenLabel lang="nn">Foreldrepengar</HiddenLabel>
+      <HiddenLabel lang="nb">Svangerskapspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Svangerskapspengar</HiddenLabel>
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
