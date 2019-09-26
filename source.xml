@@ -1972,8 +1972,8 @@
       <PrefLabel lang="en">Qualification program</PrefLabel>
       <PrefLabel lang="nb">Kvalifiseringsprogram</PrefLabel>
       <PrefLabel lang="nn">Kvalifiseringsprogram</PrefLabel>
-      <Definition lang="nn">Kvalifiseringsprogrammet er eit tilbod frå Nav for personar som treng tett og koordinert oppfølging over tid for å komma ut i arbeid</Definition>
-      <Definition lang="nb"Kvalifiseringsprogrammet er et tilbud fra Nav for personer som trenger tett og koordinert oppfølging over tid for å komme ut i arbeid.</Definition>
+      <Definition lang="nn">Kvalifiseringsprogrammet er eit tilbod frå Nav for personar som treng tett og koordinert oppfølging over tid for å komma ut i arbeid.</Definition>
+      <Definition lang="nb">Kvalifiseringsprogrammet er et tilbud fra Nav for personer som trenger tett og koordinert oppfølging over tid for å komme ut i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kvalifisering-til-arbeid</Broader>
    </Concept>
