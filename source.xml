@@ -1951,12 +1951,11 @@
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Fagopplæring</PrefLabel>
       <PrefLabel lang="nn">Fagopplæring</PrefLabel>
-      <HiddenLabel lang="nb">Lærling</HiddenLabel>
-      <HiddenLabel lang="nn">Lærling</HiddenLabel>
       <Definition lang="nn">Opplæring innanfor eit fag eller eit yrke som gir kompetanseprov og/eller sveinebrev.</Definition>
       <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
+      <Related>ord/lærling</Related>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/lærling">
@@ -1966,8 +1965,8 @@
       <Definition lang="nn">Ein lærling utdannar seg til eit yrke ved å jobbe i ei bedrift. Bedrifter som ønskjer lærlingar kan søkje om å bli godkjent lærebedrift og tilby læreplassar.</Definition>
       <Definition lang="nb">En lærling utdanner seg til et yrke ved å jobbe i en bedrift. Bedrifter som ønsker lærlinger kan søke om å bli godkjent lærebedrift og tilby læreplasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagskoleutdanning</Related>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Related>ord/fagopplæring</Related>
+      <Broader>tema/kvalifisering-til-arbeid</Broader>
    </Concept>
    <Concept path="ord/fagskoleutdanning">
       <PrefLabel lang="en">Vocational education</PrefLabel>
