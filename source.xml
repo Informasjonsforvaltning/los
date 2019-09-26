@@ -3511,8 +3511,6 @@
       <HiddenLabel lang="nn">Mellombels husvære</HiddenLabel>
       <HiddenLabel lang="nb">Kommunal leilighet</HiddenLabel>
       <HiddenLabel lang="nn">Kommunal leilegheit</HiddenLabel>
-      <HiddenLabel lang="nb">Midlertidig botilbud</HiddenLabel>
-      <HiddenLabel lang="nn">Mellombels butilbod</HiddenLabel>
       <HiddenLabel lang="nb">Midlertidig bolig</HiddenLabel>
       <HiddenLabel lang="nn">Mellombels bustad</HiddenLabel>
       <Definition lang="nn">Bustad ått av kommunen som blir brukt til å leige ut bustad til dei med økonomiske problem.</Definition>
@@ -4469,6 +4467,15 @@
       <PrefLabel lang="nn">Tilrettelagde butilbod</PrefLabel>
       <Definition lang="nn">Kommunal bolig for personer med psykiske lidelser eller rusproblemer.</Definition>
       <Definition lang="nb">Kommunal bolig for personer med psykiske lidelser eller rusproblemer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/botilbud</Broader>
+   </Concept>
+   <Concept path="ord/midlertidig-botilbud">
+      <PrefLabel lang="en">Arranged housing offers</PrefLabel>
+      <PrefLabel lang="nb">Midlertidig botilbud</PrefLabel>
+      <PrefLabel lang="nn">Mellombels bustad</PrefLabel>
+      <Definition lang="nn">Bustad eigd av kommunen og brukt til å skaffe bustad i ein nødsituasjon.</Definition>
+      <Definition lang="nb">Bolig eid av kommunen og brukt til å skaffe bolig i en nødsituasjon.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
