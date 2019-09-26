@@ -4436,6 +4436,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
+   <Concept path="ord/akuttovernatting">
+      <PrefLabel lang="en">Emergency shelter for homeless migrants</PrefLabel>
+      <PrefLabel lang="nb">Akuttovernatting</PrefLabel>
+      <PrefLabel lang="nn">Akuttovernatting</PrefLabel>
+      <Definition lang="nn">Akuttovernatting for bustadslause tilreisande.</Definition>
+      <Definition lang="nb">Akuttovernatting for bostedsløse tilreisende.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/botilbud</Broader>
+   </Concept>
    <Concept path="ord/omsorgslonn">
       <PrefLabel lang="en">Carer allowance</PrefLabel>
       <PrefLabel lang="nb">Omsorgslønn</PrefLabel>
