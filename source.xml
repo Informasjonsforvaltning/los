@@ -1959,6 +1959,16 @@
       <Related>ord/fagskoleutdanning</Related>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
+   <Concept path="ord/lærling">
+      <PrefLabel lang="en">Vocational training</PrefLabel>
+      <PrefLabel lang="nb">Lærling</PrefLabel>
+      <PrefLabel lang="nn">Lærling</PrefLabel>
+      <Definition lang="nn">Ein lærling utdannar seg til eit yrke ved å jobbe i ei bedrift. Bedrifter som ønskjer lærlingar kan søkje om å bli godkjent lærebedrift og tilby læreplassar.</Definition>
+      <Definition lang="nb">En lærling utdanner seg til et yrke ved å jobbe i en bedrift. Bedrifter som ønsker lærlinger kan søke om å bli godkjent lærebedrift og tilby læreplasser.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/fagskoleutdanning</Related>
+      <Broader>tema/videregaende-opplaring</Broader>
+   </Concept>
    <Concept path="ord/fagskoleutdanning">
       <PrefLabel lang="en">Vocational education</PrefLabel>
       <PrefLabel lang="nb">Fagskoleutdanning</PrefLabel>
@@ -7313,6 +7323,13 @@
       <PrefLabel lang="en">Housing schemes</PrefLabel>
       <PrefLabel lang="nb">Botilbud</PrefLabel>
       <PrefLabel lang="nn">Butilbod</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
+   <Concept path="tema/kvalifisering-til-arbeid">
+      <PrefLabel lang="en">Qualification for work</PrefLabel>
+      <PrefLabel lang="nb">Kvalifisering til arbeid</PrefLabel>
+      <PrefLabel lang="nn">Kvalifisering til arbeid</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
