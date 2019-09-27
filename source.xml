@@ -6032,7 +6032,7 @@
       <Definition lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
-      <Broader>tema/okonomisk-støtte-og-radgiving</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/spesialundervisning">
       <PrefLabel lang="en">Special needs education</PrefLabel>
