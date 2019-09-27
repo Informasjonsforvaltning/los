@@ -1350,6 +1350,17 @@
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
+   <Concept path="ord/okonomisk-radgiving">
+      <PrefLabel lang="en">Financial advice</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
+      <Definition lang="nb">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale.</Definition>
+      <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/boligfinansiering</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+   </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
       <PrefLabel lang="nb">Bot</PrefLabel>
