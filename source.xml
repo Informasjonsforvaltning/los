@@ -1285,7 +1285,7 @@
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
       <Broader>tema/bygging</Broader>
-      <Broader>tema/kjop-og-salg</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
@@ -1348,6 +1348,18 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+   </Concept>
+   <Concept path="ord/okonomisk-radgiving">
+      <PrefLabel lang="en">Financial advice</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
+      <Definition lang="nb">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale.</Definition>
+      <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/boligfinansiering</Related>
+      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
@@ -4447,7 +4459,7 @@
       <PrefLabel lang="nn">Omsorgsbustad</PrefLabel>
       <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
       <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
-      <Definition lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgns omsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</Definition>
+      <Definition lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgnsomsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</Definition>
       <Definition lang="nb">En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
@@ -6020,6 +6032,7 @@
       <Definition lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/spesialundervisning">
       <PrefLabel lang="en">Special needs education</PrefLabel>
@@ -7347,6 +7360,13 @@
       <PrefLabel lang="en">Housing schemes</PrefLabel>
       <PrefLabel lang="nb">Botilbud</PrefLabel>
       <PrefLabel lang="nn">Butilbod</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
+   <Concept path="tema/okonomisk-stotte-og-radgiving">
+      <PrefLabel lang="en">Financialsupport and advice</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk støtte og rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk støtte og rådgjeving</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
