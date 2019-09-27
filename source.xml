@@ -4447,7 +4447,7 @@
       <PrefLabel lang="nn">Omsorgsbustad</PrefLabel>
       <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
       <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
-      <Definition lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgns omsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</Definition>
+      <Definition lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgnsomsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</Definition>
       <Definition lang="nb">En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
