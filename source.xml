@@ -1348,6 +1348,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
