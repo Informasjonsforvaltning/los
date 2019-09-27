@@ -1285,7 +1285,7 @@
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
       <Broader>tema/bygging</Broader>
-      <Broader>tema/kjop-og-salg</Broader>
+      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
