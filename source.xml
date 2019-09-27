@@ -7350,6 +7350,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
+   <Concept path="tema/okonomisk-stotte-og-radgiving">
+      <PrefLabel lang="en">Financialsupport and advice</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk støtte og rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk støtte og rådgjeving</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
    <Concept path="tema/kvalifisering-til-arbeid">
       <PrefLabel lang="en">Qualification for work</PrefLabel>
       <PrefLabel lang="nb">Kvalifisering til arbeid</PrefLabel>
