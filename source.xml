@@ -662,6 +662,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/elevrettigheter">
+      <PrefLabel lang="en">Pupil rights</PrefLabel>
+      <PrefLabel lang="nb">Elevrettigheter</PrefLabel>
+      <PrefLabel lang="nn">Elevrettar</PrefLabel>
+      <Definition lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</Definition>
+      <Definition lang="nn">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/medvirkning</Broader>
+   </Concept>
    <Concept path="ord/ambulerende-vaktmester">
       <PrefLabel lang="en">Caretaker services</PrefLabel>
       <PrefLabel lang="nb">Ambulerende vaktmester</PrefLabel>
