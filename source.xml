@@ -3366,6 +3366,7 @@
       <Definition lang="nb">Introduksjonsprogrammet gir opplæring i norsk og samfunnskunnskap og skal gjøre det enklere for innvandrere å ta del i arbeidslivet og å gjøre dem mer økonomisk selvstendige.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
+      <Broader>tema/kvalifisering-til-arbeid</Broader>
       <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/jakt-og-fangst">
