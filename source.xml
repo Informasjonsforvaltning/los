@@ -7287,6 +7287,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
+   <Concept path="tema/apenhet">
+      <PrefLabel lang="en">Transparency</PrefLabel>
+      <PrefLabel lang="nb">Åpenhet</PrefLabel>
+      <PrefLabel lang="nn">Openheit</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+   </Concept>
    <Concept path="tema/avfallshandtering">
       <PrefLabel lang="en">Waste management</PrefLabel>
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
