@@ -7280,6 +7280,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
+   <Concept path="tema/medvirkning">
+      <PrefLabel lang="en">Involvement</PrefLabel>
+      <PrefLabel lang="nb">Medvirkning</PrefLabel>
+      <PrefLabel lang="nn">Medverkand</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+   </Concept>
    <Concept path="tema/avfallshandtering">
       <PrefLabel lang="en">Waste management</PrefLabel>
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
