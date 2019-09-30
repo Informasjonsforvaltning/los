@@ -3357,7 +3357,7 @@
       <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/introduksjonsprogram-for-innvandrere">
-      <PrefLabel lang="en">Introduction scheme for refugees</PrefLabel>
+      <PrefLabel lang="en">Introduction programme for refugees</PrefLabel>
       <PrefLabel lang="nb">Introduksjonsprogram for innvandrere</PrefLabel>
       <PrefLabel lang="nn">Introduksjonsprogram for innvandrarar</PrefLabel>
       <HiddenLabel lang="nb">Introduksjonsordning</HiddenLabel>
@@ -7298,6 +7298,13 @@
       <PrefLabel lang="en">Family and children</PrefLabel>
       <PrefLabel lang="nb">Familie og barn</PrefLabel>
       <PrefLabel lang="nn">Familie og barn</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/demokrati-og-innbyggerrettigheter">
+      <PrefLabel lang="en">Democracy and citizen rights</PrefLabel>
+      <PrefLabel lang="nb">Demokrati og innbyggerrettigheter</PrefLabel>
+      <PrefLabel lang="nn">Demokrati og innbyggjarrettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
