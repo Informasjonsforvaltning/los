@@ -260,6 +260,15 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+   <Concept path="ord/innbyggerforslag">
+      <PrefLabel lang="en">Citizen propositions</PrefLabel>
+      <PrefLabel lang="nb">Innbyggerforslag</PrefLabel>
+      <PrefLabel lang="nn">Innbyggjarforslag</PrefLabel>
+      <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjarane, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
+      <Definition lang="nb">Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+   </Concept>
    <Concept path="ord/batforerbevis">
       <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
       <PrefLabel lang="nb">Båtførerbevis</PrefLabel>
