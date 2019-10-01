@@ -7763,7 +7763,7 @@
       <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
       <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/sosiale-tjenester</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/pasientrettigheter">
       <PrefLabel lang="en">Patient rights</PrefLabel>
