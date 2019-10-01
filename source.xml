@@ -7779,6 +7779,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
+   <Concept path="tema/okonomisk-radgiving">
+      <PrefLabel lang="en">Financial support</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
    <Concept path="tema/permisjonsordninger">
       <PrefLabel lang="en">Leave of absence schemes</PrefLabel>
       <PrefLabel lang="nb">Permisjonsordninger</PrefLabel>
