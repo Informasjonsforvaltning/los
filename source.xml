@@ -2841,7 +2841,7 @@
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
       <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
    <Concept path="ord/gjenlevendepensjon">
       <PrefLabel lang="en">Surivors pension</PrefLabel>
@@ -7784,7 +7784,7 @@
       <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
       <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/sosiale-tjenester</Broader>
+      <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
    <Concept path="tema/permisjonsordninger">
       <PrefLabel lang="en">Leave of absence schemes</PrefLabel>
