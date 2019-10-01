@@ -4029,6 +4029,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
    </Concept>
+   <Concept path="ord/hjelp-ved-rusavhengighet">
+      <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
+      <Definition lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/rusomsorg</Broader>
+   </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
       <PrefLabel lang="nb">Mekling</PrefLabel>
