@@ -4038,6 +4038,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rusomsorg</Broader>
    </Concept>
+   <Concept path="ord/aktiviteter-og-livsmestring-for-rusavhengige">
+      <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <Definition lang="nn">Aktivitetar og ressursar som blir tilbydd rusavhengige, som arbeidstrening, helsesamtalar, fritidsaktivitetar, osv.</Definition>
+      <Definition lang="nb">Aktiviteter og ressurser som blir tilbudt rusavhengige, som arbeidstrening, helsesamtaler, fritidsaktiviteter, osv.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/rusomsorg</Broader>
+   </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
       <PrefLabel lang="nb">Mekling</PrefLabel>
