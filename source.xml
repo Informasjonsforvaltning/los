@@ -1462,7 +1462,6 @@
       <Related>ord/feiing</Related>
       <Related>ord/fyrverkeri</Related>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
@@ -7161,7 +7160,6 @@
       <Definition lang="nb">Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
