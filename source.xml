@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/friskliv-og-mestring">
+      <PrefLabel lang="en">Healthy life and coping</PrefLabel>
+      <PrefLabel lang="nb">Friskliv og mestring</PrefLabel>
+      <PrefLabel lang="nn">Friskliv og mestring</PrefLabel>
+      <Definition lang="nn">Kommunen tilbyr forskjellige tenester som bidreg til å halde innbyggjarane friske eller som bidreg til meistring av ein sjukdom.</Definition>
+      <Definition lang="nb">Kommunen tilbyr forskjellige tjenester som bidrar til å holde innbyggerne friske eller som bidrar til mestring av en sykdom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/helsestasjon-for-ungdom">
       <PrefLabel lang="en">Health station for youth</PrefLabel>
       <PrefLabel lang="nb">Helsestasjon for ungdom</PrefLabel>
