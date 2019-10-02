@@ -6965,13 +6965,15 @@
       <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/vaksine">
-      <PrefLabel lang="en">Vaccines</PrefLabel>
+      <PrefLabel lang="en">Vaccination</PrefLabel>
       <PrefLabel lang="nb">Vaksine</PrefLabel>
       <PrefLabel lang="nn">Vaksine</PrefLabel>
+      <Definition lang="nn">Vaksine mot smittsame sjukdomar blir tilboden heile befolkninga. Det er kommunen si helseteneste som står for tilbodet.</Definition>
+      <Definition lang="nb">Vaksine mot smittsomme sykdommer tilbys hele befolkningen. Det er kommunens helsetjeneste som står for tilbudet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/helsestasjon</Related>
       <Related>ord/smittevern</Related>
-      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/valg">
       <PrefLabel lang="en">Election</PrefLabel>
