@@ -1488,6 +1488,20 @@
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
+   <Concept path="ord/feiing-og-stroing">
+      <PrefLabel lang="en">Snow clearing</PrefLabel>
+      <PrefLabel lang="nb">Brøyting</PrefLabel>
+      <PrefLabel lang="nn">Brøyting</PrefLabel>
+      <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
+      <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
+      <Definition lang="nn">Feiing og rydding av sand og grus, vårreingjering av vegar, strøing av sand og grus om vinteren.</Definition>
+     <Definition lang="nb">Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/vegvedlikehold</Related>
+      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Broader>tema/eiendom</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
+   </Concept>
      <Concept path="ord/byggekostnad">
       <PrefLabel lang="en">Construction costs</PrefLabel>
       <PrefLabel lang="nb">Byggekostnad</PrefLabel>
