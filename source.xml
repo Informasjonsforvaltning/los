@@ -5815,6 +5815,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
+   <Concept path="ord/vann-og-avlop">
+      <PrefLabel lang="en">Water and drain</PrefLabel>
+      <PrefLabel lang="nb">Vann og avløp</PrefLabel>
+      <PrefLabel lang="nn">Vatn og avløp</PrefLabel>
+      <Definition lang="nn">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</Definition>
+      <Definition lang="nb">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
      <Concept path="ord/servering">
       <PrefLabel lang="en">Catering</PrefLabel>
       <PrefLabel lang="nb">Servering</PrefLabel>
