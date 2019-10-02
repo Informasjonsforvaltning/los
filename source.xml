@@ -1487,9 +1487,8 @@
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
-   <Concept path="ord/byggekostnad">
+     <Concept path="ord/byggekostnad">
       <PrefLabel lang="en">Construction costs</PrefLabel>
       <PrefLabel lang="nb">Byggekostnad</PrefLabel>
       <PrefLabel lang="nn">Byggjekostnad</PrefLabel>
