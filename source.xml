@@ -2158,7 +2158,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/fengselshelsetjeneste">
@@ -2867,7 +2866,6 @@
       <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/gift">
       <PrefLabel lang="en">Poisons</PrefLabel>
@@ -5580,7 +5578,6 @@
       <Related>ord/farlig-avfall</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/avfallshandtering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
       <PrefLabel lang="en">Ex gratia payments</PrefLabel>
@@ -7135,7 +7132,6 @@
       <Definition lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/landbruk</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
