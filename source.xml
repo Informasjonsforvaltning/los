@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/legehjelp">
+      <PrefLabel lang="en">Medical aid</PrefLabel>
+      <PrefLabel lang="nb">Legehjelp</PrefLabel>
+      <PrefLabel lang="nn">Legehjelp</PrefLabel>
+      <Definition lang="nn">Kommunale tilbod som omfattar legevakt og fastlege.</Definition>
+      <Definition lang="nb">Kommunale tilbud som omfatter legevakt og fastlege.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/langvarige-helsetjenester">
       <PrefLabel lang="en">Long term health services</PrefLabel>
       <PrefLabel lang="nb">Langvarige helsetjenester</PrefLabel>
