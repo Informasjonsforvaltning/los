@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/helsestasjon-for-ungdom">
+      <PrefLabel lang="en">Health station for youth</PrefLabel>
+      <PrefLabel lang="nb">Helsestasjon for ungdom</PrefLabel>
+      <PrefLabel lang="nn">Helsestasjon for ungdom</PrefLabel>
+      <Definition lang="nn">Unge under 20 år kan få råd og rettleiing om blant anna rus, seksualitet, kjønnssjukdomar, psykiske problem og kosthald.</Definition>
+      <Definition lang="nb">Unge under 20 år kan få råd og veiledning om blant annet rus, seksualitet, kjønnssykdommer, psykiske problemer og kosthold.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/elevrettigheter">
       <PrefLabel lang="en">Pupil rights</PrefLabel>
       <PrefLabel lang="nb">Elevrettigheter</PrefLabel>
