@@ -260,6 +260,15 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
+   <Concept path="ord/innbyggerforslag">
+      <PrefLabel lang="en">Citizen propositions</PrefLabel>
+      <PrefLabel lang="nb">Innbyggerforslag</PrefLabel>
+      <PrefLabel lang="nn">Innbyggjarforslag</PrefLabel>
+      <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjarane, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
+      <Definition lang="nb">Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+   </Concept>
    <Concept path="ord/batforerbevis">
       <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
       <PrefLabel lang="nb">Båtførerbevis</PrefLabel>
@@ -661,6 +670,15 @@
       <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/elevrettigheter">
+      <PrefLabel lang="en">Pupil rights</PrefLabel>
+      <PrefLabel lang="nb">Elevrettigheter</PrefLabel>
+      <PrefLabel lang="nn">Elevrettar</PrefLabel>
+      <Definition lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</Definition>
+      <Definition lang="nn">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/medvirkning</Broader>
    </Concept>
    <Concept path="ord/ambulerende-vaktmester">
       <PrefLabel lang="en">Caretaker services</PrefLabel>
@@ -1587,14 +1605,14 @@
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/dodsmelding">
       <PrefLabel lang="en">Death notice</PrefLabel>
       <PrefLabel lang="nb">Dødsmelding</PrefLabel>
       <PrefLabel lang="nn">Dødsmelding</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/dokumentavgift">
       <PrefLabel lang="en">Stamp duty</PrefLabel>
@@ -2939,7 +2957,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
-      <Broader>tema/dodsfall</Broader>
    </Concept>
    <Concept path="ord/grunnskole">
       <PrefLabel lang="en">Primary and secondary schools</PrefLabel>
@@ -4011,6 +4028,24 @@
       <Definition lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
+   </Concept>
+   <Concept path="ord/hjelp-ved-rusavhengighet">
+      <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
+      <Definition lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/rusomsorg</Broader>
+   </Concept>
+   <Concept path="ord/aktiviteter-og-livsmestring-for-rusavhengige">
+      <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <Definition lang="nn">Aktivitetar og ressursar som blir tilbydd rusavhengige, som arbeidstrening, helsesamtalar, fritidsaktivitetar, osv.</Definition>
+      <Definition lang="nb">Aktiviteter og ressurser som blir tilbudt rusavhengige, som arbeidstrening, helsesamtaler, fritidsaktiviteter, osv.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/rusomsorg</Broader>
    </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
@@ -5797,7 +5832,7 @@
       <Definition lang="nn">Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/samlivsbrudd</Related>
-      <Broader>tema/dodsfall</Broader>
+      <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/skogbrannvarsel">
       <PrefLabel lang="en">Forest fire warning</PrefLabel>
