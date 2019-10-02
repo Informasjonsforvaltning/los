@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/helsesykepleier">
+      <PrefLabel lang="en">Health nurse</PrefLabel>
+      <PrefLabel lang="nb">Helsesykepleier</PrefLabel>
+      <PrefLabel lang="nn">Helsesykepleier</PrefLabel>
+      <Definition lang="nn">Ein helsjukepleiar er ein sjukepleiar med vidareutdanning i helsefremjande og førebyggande arbeid på system- og individnivå og er eit tilbod til skuleelevar.</Definition>
+      <Definition lang="nb">En helsykepleier er en sykepleier med videreutdanning i helsefremmende og forebyggende arbeid på system- og individnivå og er et tilbud til skoleelever.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/friskliv-og-mestring">
       <PrefLabel lang="en">Healthy life and coping</PrefLabel>
       <PrefLabel lang="nb">Friskliv og mestring</PrefLabel>
