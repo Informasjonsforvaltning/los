@@ -671,6 +671,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+   <Concept path="ord/trygghet-i-hjemmet">
+      <PrefLabel lang="en">Safety at home</PrefLabel>
+      <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
+      <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
+      <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
+      <Definition lang="nn">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/legehjelp">
       <PrefLabel lang="en">Medical aid</PrefLabel>
       <PrefLabel lang="nb">Legehjelp</PrefLabel>
