@@ -57,7 +57,7 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/fodselsattest</Related>
       <Related>ord/personnavn</Related>
-      <Related>ord/svangerskapsomsorg</Related>
+      <Related>ord/jordmor-og-svangerskapsomsorg</Related>
       <Related>ord/foreldrepermisjon</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
    </Concept>
@@ -667,7 +667,61 @@
       <PrefLabel lang="en">Alternative treatment</PrefLabel>
       <PrefLabel lang="nb">Alternativ behandling</PrefLabel>
       <PrefLabel lang="nn">Alternativ behandling</PrefLabel>
-      <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda</Definition>
+      <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/trygghet-i-hjemmet">
+      <PrefLabel lang="en">Safety at home</PrefLabel>
+      <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
+      <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
+      <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
+      <Definition lang="nn">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/legehjelp">
+      <PrefLabel lang="en">Medical aid</PrefLabel>
+      <PrefLabel lang="nb">Legehjelp</PrefLabel>
+      <PrefLabel lang="nn">Legehjelp</PrefLabel>
+      <Definition lang="nn">Kommunale tilbod som omfattar legevakt og fastlege.</Definition>
+      <Definition lang="nb">Kommunale tilbud som omfatter legevakt og fastlege.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/langvarige-helsetjenester">
+      <PrefLabel lang="en">Long term health services</PrefLabel>
+      <PrefLabel lang="nb">Langvarige helsetjenester</PrefLabel>
+      <PrefLabel lang="nn">Langevarige helsetjenester</PrefLabel>
+      <Definition lang="nn">Somme har behov for tenester innanfor forskjellige område. Eksempel er tenester innanfor habilitering og rehabilitering, individuell plan og andre tverrfaglege eller koordinerte tenester.</Definition>
+      <Definition lang="nb">Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/helsesykepleier">
+      <PrefLabel lang="en">Health nurse</PrefLabel>
+      <PrefLabel lang="nb">Helsesykepleier</PrefLabel>
+      <PrefLabel lang="nn">Helsesykepleier</PrefLabel>
+      <Definition lang="nn">Ein helsjukepleiar er ein sjukepleiar med vidareutdanning i helsefremjande og førebyggande arbeid på system- og individnivå og er eit tilbod til skuleelevar.</Definition>
+      <Definition lang="nb">En helsykepleier er en sykepleier med videreutdanning i helsefremmende og forebyggende arbeid på system- og individnivå og er et tilbud til skoleelever.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/friskliv-og-mestring">
+      <PrefLabel lang="en">Healthy life and coping</PrefLabel>
+      <PrefLabel lang="nb">Friskliv og mestring</PrefLabel>
+      <PrefLabel lang="nn">Friskliv og mestring</PrefLabel>
+      <Definition lang="nn">Kommunen tilbyr forskjellige tenester som bidreg til å halde innbyggjarane friske eller som bidreg til meistring av ein sjukdom.</Definition>
+      <Definition lang="nb">Kommunen tilbyr forskjellige tjenester som bidrar til å holde innbyggerne friske eller som bidrar til mestring av en sykdom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/helsestasjon-for-ungdom">
+      <PrefLabel lang="en">Health station for youth</PrefLabel>
+      <PrefLabel lang="nb">Helsestasjon for ungdom</PrefLabel>
+      <PrefLabel lang="nn">Helsestasjon for ungdom</PrefLabel>
+      <Definition lang="nn">Unge under 20 år kan få råd og rettleiing om blant anna rus, seksualitet, kjønnssjukdomar, psykiske problem og kosthald.</Definition>
+      <Definition lang="nb">Unge under 20 år kan få råd og veiledning om blant annet rus, seksualitet, kjønnssykdommer, psykiske problemer og kosthold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -1408,7 +1462,6 @@
       <Related>ord/feiing</Related>
       <Related>ord/fyrverkeri</Related>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
@@ -1433,9 +1486,22 @@
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
-   <Concept path="ord/byggekostnad">
+   <Concept path="ord/feiing-og-stroing">
+      <PrefLabel lang="en">Snow clearing</PrefLabel>
+      <PrefLabel lang="nb">Brøyting</PrefLabel>
+      <PrefLabel lang="nn">Brøyting</PrefLabel>
+      <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
+      <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
+      <Definition lang="nn">Feiing og rydding av sand og grus, vårreingjering av vegar, strøing av sand og grus om vinteren.</Definition>
+     <Definition lang="nb">Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/vegvedlikehold</Related>
+      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Broader>tema/eiendom</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
+   </Concept>
+     <Concept path="ord/byggekostnad">
       <PrefLabel lang="en">Construction costs</PrefLabel>
       <PrefLabel lang="nb">Byggekostnad</PrefLabel>
       <PrefLabel lang="nn">Byggjekostnad</PrefLabel>
@@ -2091,7 +2157,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Related>ord/kommunale-avgifter-og-gebyrer</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/fengselshelsetjeneste">
@@ -2800,7 +2865,6 @@
       <Definition lang="nb">Henvendelser til kommunen om feil på gatelys.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/gift">
       <PrefLabel lang="en">Poisons</PrefLabel>
@@ -2841,7 +2905,7 @@
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
       <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
    <Concept path="ord/gjenlevendepensjon">
       <PrefLabel lang="en">Surivors pension</PrefLabel>
@@ -5513,7 +5577,6 @@
       <Related>ord/farlig-avfall</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/avfallshandtering</Broader>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
       <PrefLabel lang="en">Ex gratia payments</PrefLabel>
@@ -5749,6 +5812,15 @@
       <HiddenLabel lang="nn">Eigarseksjonering</HiddenLabel>
       <Definition lang="nn">Seksjonering vert nytta der ein eigedom består av fleire sjølvstendige einingar som skal seljast og pantsetjast kvar for seg, og der det ikkje er naturlig å dele eigedommen på vanlig måte ved ei delingsforretning.</Definition>
       <Definition lang="nb">Seksjonering blir brukt når en eiendom består av flere selvstendige enheter som skal selges og pantsettes hver for seg, og der det ikke er naturlig å dele eiendommen på vanlig måte ved en delingsforretning.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
+   <Concept path="ord/vann-og-avlop">
+      <PrefLabel lang="en">Water and drain</PrefLabel>
+      <PrefLabel lang="nb">Vann og avløp</PrefLabel>
+      <PrefLabel lang="nn">Vatn og avløp</PrefLabel>
+      <Definition lang="nn">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</Definition>
+      <Definition lang="nb">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
@@ -6253,10 +6325,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
-   <Concept path="ord/svangerskapsomsorg">
-      <PrefLabel lang="en">Prenatal care</PrefLabel>
-      <PrefLabel lang="nb">Svangerskapsomsorg</PrefLabel>
-      <PrefLabel lang="nn">Svangerskapsomsorg</PrefLabel>
+   <Concept path="ord/jordmor-og-svangerskapsomsorg">
+      <PrefLabel lang="en">Midwife and prenatal care</PrefLabel>
+      <PrefLabel lang="nb">Jordmor og svangerskapsomsorg</PrefLabel>
+      <PrefLabel lang="nn">Jordmor og svangerskapsomsorg</PrefLabel>
       <HiddenLabel lang="nb">Fødsel</HiddenLabel>
       <HiddenLabel lang="nn">Fødsel</HiddenLabel>
       <HiddenLabel lang="nb">Hjemmefødsel</HiddenLabel>
@@ -6272,8 +6344,9 @@
       <HiddenLabel lang="nb">Jordmortjeneste</HiddenLabel>
       <HiddenLabel lang="nn">Jordmorteneste</HiddenLabel>
       <Definition lang="nn">Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing, opplysningsverksemd samt samlivs- og foreldrerettleiing.</Definition>
+      <Definition lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
@@ -6910,13 +6983,15 @@
       <Broader>tema/var-og-klima</Broader>
    </Concept>
    <Concept path="ord/vaksine">
-      <PrefLabel lang="en">Vaccines</PrefLabel>
+      <PrefLabel lang="en">Vaccination</PrefLabel>
       <PrefLabel lang="nb">Vaksine</PrefLabel>
       <PrefLabel lang="nn">Vaksine</PrefLabel>
+      <Definition lang="nn">Vaksine mot smittsame sjukdomar blir tilboden heile befolkninga. Det er kommunen si helseteneste som står for tilbodet.</Definition>
+      <Definition lang="nb">Vaksine mot smittsomme sykdommer tilbys hele befolkningen. Det er kommunens helsetjeneste som står for tilbudet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/helsestasjon</Related>
       <Related>ord/smittevern</Related>
-      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/valg">
       <PrefLabel lang="en">Election</PrefLabel>
@@ -7065,7 +7140,6 @@
       <Definition lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/landbruk</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
@@ -7095,7 +7169,6 @@
       <Definition lang="nb">Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
@@ -7763,7 +7836,7 @@
       <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
       <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/sosiale-tjenester</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/pasientrettigheter">
       <PrefLabel lang="en">Patient rights</PrefLabel>
@@ -7778,6 +7851,13 @@
       <PrefLabel lang="nn">Pensjon</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
+   <Concept path="tema/okonomisk-radgiving">
+      <PrefLabel lang="en">Financial support</PrefLabel>
+      <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
    <Concept path="tema/permisjonsordninger">
       <PrefLabel lang="en">Leave of absence schemes</PrefLabel>
