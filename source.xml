@@ -667,7 +667,16 @@
       <PrefLabel lang="en">Alternative treatment</PrefLabel>
       <PrefLabel lang="nb">Alternativ behandling</PrefLabel>
       <PrefLabel lang="nn">Alternativ behandling</PrefLabel>
-      <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda</Definition>
+      <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+   <Concept path="ord/langvarige-helsetjenester">
+      <PrefLabel lang="en">Long term health services</PrefLabel>
+      <PrefLabel lang="nb">Langvarige helsetjenester</PrefLabel>
+      <PrefLabel lang="nn">Langevarige helsetjenester</PrefLabel>
+      <Definition lang="nn">Somme har behov for tenester innanfor forskjellige område. Eksempel er tenester innanfor habilitering og rehabilitering, individuell plan og andre tverrfaglege eller koordinerte tenester.</Definition>
+      <Definition lang="nb">Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
