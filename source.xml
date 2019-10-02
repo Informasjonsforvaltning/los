@@ -6346,7 +6346,7 @@
       <Definition lang="nn">Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing, opplysningsverksemd samt samlivs- og foreldrerettleiing.</Definition>
       <Definition lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helset</Broader>
+      <Broader>tema/helse</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
