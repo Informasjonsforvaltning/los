@@ -267,7 +267,7 @@
       <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjarane, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
       <Definition lang="nb">Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+      <Broader>tema/medvirkning</Broader>
    </Concept>
    <Concept path="ord/batforerbevis">
       <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
@@ -6316,8 +6316,8 @@
       <HiddenLabel lang="nn">Familievernkontor</HiddenLabel>
       <HiddenLabel lang="nb">Familiekontor</HiddenLabel>
       <HiddenLabel lang="nn">Familiekontor</HiddenLabel>
-      <Definition lang="nb">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</Definition>
-      <Definition lang="nn">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
+      <Definition lang="nn">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</Definition>
+      <Definition lang="nb">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
