@@ -7551,7 +7551,7 @@
       <PrefLabel lang="nb">Bygging</PrefLabel>
       <PrefLabel lang="nn">Bygging</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/dodsfall">
       <PrefLabel lang="en">Death</PrefLabel>
@@ -7565,7 +7565,7 @@
       <PrefLabel lang="nb">Eiendom</PrefLabel>
       <PrefLabel lang="nn">Eigedom</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/ekteskap">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -7600,7 +7600,7 @@
       <PrefLabel lang="nb">Flytting</PrefLabel>
       <PrefLabel lang="nn">Flytting</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/kommunale-planer">
       <PrefLabel lang="en">Municipal plans</PrefLabel>
@@ -7762,7 +7762,7 @@
       <PrefLabel lang="nb">Kjøp og salg</PrefLabel>
       <PrefLabel lang="nn">Kjøp og sal</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/kultur">
       <PrefLabel lang="en">Culture</PrefLabel>
@@ -7790,7 +7790,7 @@
       <PrefLabel lang="nb">Leie og utleie</PrefLabel>
       <PrefLabel lang="nn">Leige og utleige</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/lotteri-og-pengespill">
       <PrefLabel lang="en">Lotteries and gambling</PrefLabel>
@@ -8014,7 +8014,7 @@
       <PrefLabel lang="nb">Tekniske tjenester</PrefLabel>
       <PrefLabel lang="nn">Tekniske tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
