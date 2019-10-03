@@ -7563,6 +7563,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
+   <Concept path="tema/kommunale-planer">
+      <PrefLabel lang="en">Municipal plans</PrefLabel>
+      <PrefLabel lang="nb">Kommunale planer</PrefLabel>
+      <PrefLabel lang="nn">Kommunale planar</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/bygg-og-eiendom</Broader>
+   </Concept>
       <Concept path="tema/folkehelse">
       <PrefLabel lang="en">Public health</PrefLabel>
       <PrefLabel lang="nb">Folkehelse</PrefLabel>
