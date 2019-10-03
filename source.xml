@@ -5463,6 +5463,17 @@
       <Related>ord/vegbygging</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
+   <Concept path="ord/temaplan">
+      <PrefLabel lang="en">Theme plan</PrefLabel>
+      <PrefLabel lang="nb">Temaplan</PrefLabel>
+      <PrefLabel lang="nn">Temaplan</PrefLabel>
+      <Definition lang="nn">Temaplanar er kommunedelplanar for bestemte tema, sektorar eller tenester.</Definition>
+      <Definition lang="nb">Temaplaner er kommunedelplaner for bestemte temaer, sektorer eller tjenester.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/byggesak</Related>
+      <Related>ord/naringsareal</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
    <Concept path="ord/rehabiliteringspenger">
       <PrefLabel lang="en">Work assessment allowance</PrefLabel>
       <PrefLabel lang="nb">Rehabiliteringspenger</PrefLabel>
