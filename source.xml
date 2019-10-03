@@ -5474,6 +5474,15 @@
       <Related>ord/naringsareal</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
+   <Concept path="ord/betalingssatser-for-kommunale-planer">
+      <PrefLabel lang="en">Payment rates for municipal plans</PrefLabel>
+      <PrefLabel lang="nb">Betalingssatser for kommunale tjenester</PrefLabel>
+      <PrefLabel lang="nn">Betalingssatser for kommunale tjenester</PrefLabel>
+      <Definition lang="nn">Betaling for kommunale tenester, som feiing, vatn og avløpsgebyr, bostømming, osv.</Definition>
+      <Definition lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyrer, søppeltømming, osv.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+   </Concept>
    <Concept path="ord/rehabiliteringspenger">
       <PrefLabel lang="en">Work assessment allowance</PrefLabel>
       <PrefLabel lang="nb">Rehabiliteringspenger</PrefLabel>
