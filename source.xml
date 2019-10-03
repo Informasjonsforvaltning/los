@@ -7718,14 +7718,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bolig-og-eiendom</Broader>
    </Concept>
-
-   <Concept path="tema/kommunal-planlegging">
-      <PrefLabel lang="en">Municipal planning</PrefLabel>
-      <PrefLabel lang="nb">Kommunal planlegging</PrefLabel>
-      <PrefLabel lang="nn">Kommunal planlegging</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
-   </Concept>
    <Concept path="tema/kultur">
       <PrefLabel lang="en">Culture</PrefLabel>
       <PrefLabel lang="nb">Kultur</PrefLabel>
