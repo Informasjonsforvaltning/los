@@ -1174,7 +1174,7 @@
       <HiddenLabel lang="nb">Offentlig bebyggelsesplan</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg utbyggingsplan</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kommunal-planlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/bedriftsetablering">
       <PrefLabel lang="en">Business start-up</PrefLabel>
@@ -1685,7 +1685,7 @@
       <PrefLabel lang="nb">Dokumentavgift</PrefLabel>
       <PrefLabel lang="nn">Dokumentavgift</PrefLabel>
       <Definition lang="nb">Dokumentavgift er en særavgift som skal betales ved tinglysing av et dokument som overfører fast eiendom. Avgiften er på 2,5 % av markedsverdien på eiendommen på tinglysingstidspunktet. I enkelte tilfeller slipper du å betale dokumentavgift, f.eks. ved overføring av fast eiendom mellom ektefeller.</Definition>
-      <Definition lang="nn">Dokumentavgift er ei særavgift som skal betalast ved tinglysing av eit dokument som overfører fast eigendom. Avgifta er på 2,5 % av marknadsverdien på eigendommen på tinglysingstidspunktet. I enkelte tilfelle slepp du å betale dokumentavgift, f.eks. ved overføring av fast eigendom mellom ektefeller.</Definition>
+      <Definition lang="nn">Dokumentavgift er ei særavgift som skal betalast ved tinglysing av eit dokument som overfører fast eigedom. Avgifta er på 2,5 % av marknadsverdien på eigedommen på tinglysingstidspunktet. I enkelte tilfelle slepp du å betale dokumentavgift, f.eks. ved overføring av fast eigedom mellom ektefeller.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/avgift</Broader>
@@ -1838,18 +1838,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
-   </Concept>
-   <Concept path="ord/eiendomsskatt">
-      <PrefLabel lang="en">Property tax</PrefLabel>
-      <PrefLabel lang="nb">Eiendomsskatt</PrefLabel>
-      <PrefLabel lang="nn">Eigedomsskatt</PrefLabel>
-      <HiddenLabel lang="nb">Boligskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Bustadskatt</HiddenLabel>
-      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
-      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
-      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/eksamen">
       <PrefLabel lang="en">Exams</PrefLabel>
@@ -3629,8 +3617,6 @@
       <HiddenLabel lang="nn">Feieavgift</HiddenLabel>
       <HiddenLabel lang="nb">Brøyteavgift</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavgift</HiddenLabel>
-      <HiddenLabel lang="nb">Renovasjonsavgift</HiddenLabel>
-      <HiddenLabel lang="nn">Renovasjonsavgift</HiddenLabel>
       <HiddenLabel lang="nb">Kommunekasse</HiddenLabel>
       <HiddenLabel lang="nn">Kommunekasse</HiddenLabel>
       <HiddenLabel lang="nb">Kloakkgebyr</HiddenLabel>
@@ -3652,6 +3638,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Related>ord/renovasjon</Related>
+      <Related>ord/renovasjonsavgift</Related>
       <Related>ord/feiing</Related>
       <Related>ord/vannforsyning</Related>
       <Related>ord/avlopshandtering</Related>
@@ -3674,8 +3661,6 @@
       <HiddenLabel lang="nn">Arealdelen til kommuneplanen</HiddenLabel>
       <HiddenLabel lang="nb">Detaljregulering</HiddenLabel>
       <HiddenLabel lang="nn">Detaljregulering</HiddenLabel>
-      <HiddenLabel lang="nb">Kommunedelplan</HiddenLabel>
-      <HiddenLabel lang="nn">Kommunedelplan</HiddenLabel>
       <HiddenLabel lang="nb">Oversiktsplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Oversynsplanlegging</HiddenLabel>
       <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
@@ -3683,8 +3668,18 @@
       <Definition lang="nn">Kommuneplan er styrande for all planlegging i kommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for kommunen sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom kommunen, private lokale interesser og statlege og fylkeskommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer kommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
       <Definition lang="nb">Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kommunal-planlegging</Broader>
       <Broader>tema/samfunnsplanlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/kommunedelplan">
+      <PrefLabel lang="en">Municipal sector plan</PrefLabel>
+      <PrefLabel lang="nb">Kommunedelplan</PrefLabel>
+      <PrefLabel lang="nn">Kommunedelplan</PrefLabel>
+      <Definition lang="nn">En kommunedelplan omfattar ein bestemt del av det totale arealet til kommunen.</Definition>
+      <Definition lang="nb">En kommunedelplan omfatter en bestemt del av kommunens totale areal.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/samfunnsplanlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/kompostering">
       <PrefLabel lang="en">Composting</PrefLabel>
@@ -5421,12 +5416,87 @@
       <HiddenLabel lang="nn">Reguleringsforskrift</HiddenLabel>
       <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Arealplanlegging</HiddenLabel>
-      <Definition lang="nn">Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan.</Definition>
+      <Definition lang="nn">Ein reguleringsplan er ein politisk vedteken plan over eit avgrensa område. Reguleringsplanen fastset korleis området kan brukast og kva som kan byggjast der. Planen omfattar eit kart med reguleringsbestemmelsar.</Definition>
+      <Definition lang="nb">En reguleringsplan er en politisk vedtatt plan over et avgrenset område. Reguleringsplanen fastsetter hvordan området kan brukes og hva som kan bygges der. Planen består av et kart med reguleringsbestemmelser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/byggesak</Related>
       <Related>ord/naringsareal</Related>
       <Related>ord/vegbygging</Related>
-      <Broader>tema/kommunal-planlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/private-reguleringsplaner">
+      <PrefLabel lang="en">Private development plans</PrefLabel>
+      <PrefLabel lang="nb">Private reguleringsplaner</PrefLabel>
+      <PrefLabel lang="nn">Private reguleringsplanar</PrefLabel>
+      <HiddenLabel lang="nb">Arealbruksendring</HiddenLabel>
+      <HiddenLabel lang="nn">Arealbruksendring</HiddenLabel>
+      <HiddenLabel lang="nb">Reguleringsbestemmelse</HiddenLabel>
+      <HiddenLabel lang="nn">Reguleringsføresegn</HiddenLabel>
+      <HiddenLabel lang="nb">Privat reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Privat reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nb">Offentlig reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Offentleg reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nb">Ekspropriasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Oreigning</HiddenLabel>
+      <HiddenLabel lang="nb">Reguleringsforskrift</HiddenLabel>
+      <HiddenLabel lang="nn">Reguleringsforskrift</HiddenLabel>
+      <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
+      <HiddenLabel lang="nn">Arealplanlegging</HiddenLabel>
+      <Definition lang="nn">Ein reguleringsplan syner kva område det kan byggjast på. Private tiltakshavarar, organisasjonar og andre myndigheter kan fremja forslag til detaljregulering for dei områda som ikkje er regulerte.</Definition>
+      <Definition lang="nb">En reguleringsplan viser hvilke områder det kan bygges på. Private tiltakshavere, organisasjoner og andre myndigheter kan fremme forslag til detaljregulering for de områdene som ikke er regulert.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/byggesak</Related>
+      <Related>ord/naringsareal</Related>
+      <Related>ord/vegbygging</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/temaplan">
+      <PrefLabel lang="en">Theme plan</PrefLabel>
+      <PrefLabel lang="nb">Temaplan</PrefLabel>
+      <PrefLabel lang="nn">Temaplan</PrefLabel>
+      <Definition lang="nn">Temaplanar er kommunedelplanar for bestemte tema, sektorar eller tenester.</Definition>
+      <Definition lang="nb">Temaplaner er kommunedelplaner for bestemte temaer, sektorer eller tjenester.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/byggesak</Related>
+      <Related>ord/naringsareal</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/betalingssatser-for-kommunale-planer">
+      <PrefLabel lang="en">Payment rates for municipal plans</PrefLabel>
+      <PrefLabel lang="nb">Betalingssatser for kommunale tjenester</PrefLabel>
+      <PrefLabel lang="nn">Betalingssatser for kommunale tjenester</PrefLabel>
+      <Definition lang="nn">Betaling for kommunale tenester, som feiing, vatn og avløpsgebyr, bostømming, osv.</Definition>
+      <Definition lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyrer, søppeltømming, osv.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="ord/gebyr-for-byggesak">
+      <PrefLabel lang="en">Fee for construction case</PrefLabel>
+      <PrefLabel lang="nb">Gebyr for byggesak</PrefLabel>
+      <PrefLabel lang="nn">Gebyr for byggjesak</PrefLabel>
+      <Definition lang="nn">Kommunens politisk vedtekne regulativ for fastsetjing av gebyr og betalingssatsar.</Definition>
+      <Definition lang="nb">Kommunens politisk vedtatte regulativ for fastsettelse av gebyr og betalingssatser.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="ord/eiendomsskatt">
+      <PrefLabel lang="en">Property tax</PrefLabel>
+      <PrefLabel lang="nb">Eiendomsskatt</PrefLabel>
+      <PrefLabel lang="nn">Eigedomsskatt</PrefLabel>
+      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
+      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="ord/renovasjonsavgift">
+      <PrefLabel lang="en">Waste collection fee</PrefLabel>
+      <PrefLabel lang="nb">Renovasjonsavgift</PrefLabel>
+      <PrefLabel lang="nn">Renovasjonsavgift</PrefLabel>
+      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
+      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="ord/rehabiliteringspenger">
       <PrefLabel lang="en">Work assessment allowance</PrefLabel>
@@ -6904,7 +6974,7 @@
       <Related>ord/flomvarsel</Related>
       <Broader>tema/bygging</Broader>
       <Broader>tema/samfunnsplanlegging</Broader>
-      <Broader>tema/kommunal-planlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/utdanningspermisjon">
@@ -7479,13 +7549,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/bolig-og-eiendom">
-      <PrefLabel lang="en">Housing and property</PrefLabel>
-      <PrefLabel lang="nb">Bolig og eiendom</PrefLabel>
-      <PrefLabel lang="nn">Bustad og eigedom</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/botilbud">
       <PrefLabel lang="en">Housing schemes</PrefLabel>
       <PrefLabel lang="nb">Botilbud</PrefLabel>
@@ -7512,7 +7575,7 @@
       <PrefLabel lang="nb">Bygging</PrefLabel>
       <PrefLabel lang="nn">Bygging</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/dodsfall">
       <PrefLabel lang="en">Death</PrefLabel>
@@ -7526,7 +7589,7 @@
       <PrefLabel lang="nb">Eiendom</PrefLabel>
       <PrefLabel lang="nn">Eigedom</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/ekteskap">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -7561,7 +7624,14 @@
       <PrefLabel lang="nb">Flytting</PrefLabel>
       <PrefLabel lang="nn">Flytting</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="tema/kommunale-planer">
+      <PrefLabel lang="en">Municipal plans</PrefLabel>
+      <PrefLabel lang="nb">Kommunale planer</PrefLabel>
+      <PrefLabel lang="nn">Kommunale planar</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
       <Concept path="tema/folkehelse">
       <PrefLabel lang="en">Public health</PrefLabel>
@@ -7716,15 +7786,7 @@
       <PrefLabel lang="nb">Kjøp og salg</PrefLabel>
       <PrefLabel lang="nn">Kjøp og sal</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
-   </Concept>
-
-   <Concept path="tema/kommunal-planlegging">
-      <PrefLabel lang="en">Municipal planning</PrefLabel>
-      <PrefLabel lang="nb">Kommunal planlegging</PrefLabel>
-      <PrefLabel lang="nn">Kommunal planlegging</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/kultur">
       <PrefLabel lang="en">Culture</PrefLabel>
@@ -7752,7 +7814,14 @@
       <PrefLabel lang="nb">Leie og utleie</PrefLabel>
       <PrefLabel lang="nn">Leige og utleige</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="tema/priser-og-gebyr-for-bygg-og-eiendom">
+      <PrefLabel lang="en">Prices and fees for construction and property</PrefLabel>
+      <PrefLabel lang="nb">Priser og gebyr for bygg og eiendom</PrefLabel>
+      <PrefLabel lang="nn">Prisar og gebyr for bygg og eigedom</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/lotteri-og-pengespill">
       <PrefLabel lang="en">Lotteries and gambling</PrefLabel>
@@ -7835,6 +7904,13 @@
       <PrefLabel lang="en">Social services</PrefLabel>
       <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
       <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/bygg-og-eiendom">
+      <PrefLabel lang="en">Building and property</PrefLabel>
+      <PrefLabel lang="nb">Bygg og eiendom</PrefLabel>
+      <PrefLabel lang="nn">Bygg og eigedom</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7976,7 +8052,7 @@
       <PrefLabel lang="nb">Tekniske tjenester</PrefLabel>
       <PrefLabel lang="nn">Tekniske tenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bolig-og-eiendom</Broader>
+      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
