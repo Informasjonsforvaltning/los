@@ -3674,14 +3674,22 @@
       <HiddenLabel lang="nn">Arealdelen til kommuneplanen</HiddenLabel>
       <HiddenLabel lang="nb">Detaljregulering</HiddenLabel>
       <HiddenLabel lang="nn">Detaljregulering</HiddenLabel>
-      <HiddenLabel lang="nb">Kommunedelplan</HiddenLabel>
-      <HiddenLabel lang="nn">Kommunedelplan</HiddenLabel>
       <HiddenLabel lang="nb">Oversiktsplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Oversynsplanlegging</HiddenLabel>
       <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Arealplanlegging</HiddenLabel>
       <Definition lang="nn">Kommuneplan er styrande for all planlegging i kommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for kommunen sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom kommunen, private lokale interesser og statlege og fylkeskommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer kommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
       <Definition lang="nb">Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/samfunnsplanlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/kommunedelplan">
+      <PrefLabel lang="en">Municipal sector plan</PrefLabel>
+      <PrefLabel lang="nb">Kommunedelplan</PrefLabel>
+      <PrefLabel lang="nn">Kommunedelplan</PrefLabel>
+      <Definition lang="nn">En kommunedelplan omfattar ein bestemt del av det totale arealet til kommunen.</Definition>
+      <Definition lang="nb">En kommunedelplan omfatter en bestemt del av kommunens totale areal.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
