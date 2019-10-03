@@ -1174,7 +1174,7 @@
       <HiddenLabel lang="nb">Offentlig bebyggelsesplan</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg utbyggingsplan</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kommunal-planlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/bedriftsetablering">
       <PrefLabel lang="en">Business start-up</PrefLabel>
@@ -1838,18 +1838,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
-   </Concept>
-   <Concept path="ord/eiendomsskatt">
-      <PrefLabel lang="en">Property tax</PrefLabel>
-      <PrefLabel lang="nb">Eiendomsskatt</PrefLabel>
-      <PrefLabel lang="nn">Eigedomsskatt</PrefLabel>
-      <HiddenLabel lang="nb">Boligskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Bustadskatt</HiddenLabel>
-      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
-      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
-      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/eksamen">
       <PrefLabel lang="en">Exams</PrefLabel>
@@ -5498,6 +5486,7 @@
       <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
@@ -7915,6 +7904,13 @@
       <PrefLabel lang="en">Social services</PrefLabel>
       <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
       <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/bygg-og-eiendom">
+      <PrefLabel lang="en">Building and property</PrefLabel>
+      <PrefLabel lang="nb">Bygg og eiendom</PrefLabel>
+      <PrefLabel lang="nn">Bygg og eigedom</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
