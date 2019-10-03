@@ -267,7 +267,7 @@
       <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjarane, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
       <Definition lang="nb">Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
+      <Broader>tema/medvirkning</Broader>
    </Concept>
    <Concept path="ord/batforerbevis">
       <PrefLabel lang="en">Norwegian boating licence</PrefLabel>
@@ -1034,7 +1034,7 @@
       <Definition lang="nn">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</Definition>
       <Definition lang="nb">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/vannforurensning</Related>
       <Related>ord/utslippstillatelse</Related>
       <Broader>tema/tekniske-tjenester</Broader>
@@ -1483,7 +1483,7 @@
 	  <Definition lang="nb">Snørydding og vintervedlikehold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
@@ -1497,7 +1497,7 @@
      <Definition lang="nb">Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
@@ -1615,7 +1615,7 @@
       <PrefLabel lang="en">Care relief</PrefLabel>
       <PrefLabel lang="nb">Omsorgsavlastning</PrefLabel>
       <PrefLabel lang="nn">Omsorgsavlasting</PrefLabel>
-      <HiddenLabel lang="nb">Pleieavlasting</HiddenLabel>
+      <HiddenLabel lang="nb">Pleieavlastning</HiddenLabel>
       <HiddenLabel lang="nn">Pleieavlasting</HiddenLabel>
       <Definition lang="nn">Eit tilbod til enkeltpersonar eller familiar som har tunge omsorgsoppgåver. Skal bidra til at omsorgsytaren får eit liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av heimejelp, dagtilbod eller avlastningsopphold på sjukeheim.</Definition>
       <Definition lang="nn">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
@@ -1626,7 +1626,7 @@
       <PrefLabel lang="en">Care relief</PrefLabel>
       <PrefLabel lang="nb">Omsorgsavlastning</PrefLabel>
       <PrefLabel lang="nn">Omsorgsavlasting</PrefLabel>
-      <HiddenLabel lang="nb">Pleieavlasting</HiddenLabel>
+      <HiddenLabel lang="nb">Pleieavlastning</HiddenLabel>
       <HiddenLabel lang="nn">Pleieavlasting</HiddenLabel>
       <Definition lang="nn">Eit tilbod til enkeltpersonar eller familiar som har tunge omsorgsoppgåver. Skal bidra til at omsorgsytaren får eit liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av heimejelp, dagtilbod eller avlastningsopphold på sjukeheim.</Definition>
       <Definition lang="nn">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
@@ -2144,7 +2144,7 @@
       <Definition lang="nn">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/brannvern-og-eksplosjonsvern</Related>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/fengselshelsetjeneste">
@@ -3133,6 +3133,34 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
    </Concept>
+   <Concept path="ord/bevegelseshjelpemidler">
+      <PrefLabel lang="en">Mobility aid</PrefLabel>
+      <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
+   <Concept path="ord/synshjelpemidler">
+      <PrefLabel lang="en">Visual aid</PrefLabel>
+      <PrefLabel lang="nb">Synshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Synshjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
+   <Concept path="ord/kommunikasjon-og-kognisjon">
+      <PrefLabel lang="en">Commnication and  cognition</PrefLabel>
+      <PrefLabel lang="nb">Kommunikasjon og kognisjon</PrefLabel>
+      <PrefLabel lang="nn">Kommunikasjon og kognisjon</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
+   <Concept path="ord/hørselshjelpemidler">
+      <PrefLabel lang="en">Hearing aid</PrefLabel>
+      <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Høryselshjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
    <Concept path="ord/hjemmesykepleie">
       <PrefLabel lang="en">Home nurse</PrefLabel>
       <PrefLabel lang="nb">Hjemmesykepleie</PrefLabel>
@@ -3601,13 +3629,13 @@
       <Broader>tema/leie-og-utleie</Broader>
       <Broader>tema/botilbud</Broader>
    </Concept>
-   <Concept path="ord/kommunale-avgifter-og-gebyrer">
+   <Concept path="ord/kommunale-avgifter-og-gebyr">
       <PrefLabel lang="en">Municipal taxes and fees</PrefLabel>
-      <PrefLabel lang="nb">Kommunale avgifter og gebyrer</PrefLabel>
+      <PrefLabel lang="nb">Kommunale avgifter og gebyr</PrefLabel>
       <PrefLabel lang="nn">Kommunale avgifter og gebyr</PrefLabel>
       <HiddenLabel lang="nb">Feiegebyr</HiddenLabel>
       <HiddenLabel lang="nn">Feiegebyr</HiddenLabel>
-      <HiddenLabel lang="nb">Kommunale gebyrer</HiddenLabel>
+      <HiddenLabel lang="nb">Kommunale gebyr</HiddenLabel>
       <HiddenLabel lang="nn">Kommunale gebyr</HiddenLabel>
       <HiddenLabel lang="nb">Renovasjonsgebyr</HiddenLabel>
       <HiddenLabel lang="nn">Renovasjonsgebyr</HiddenLabel>
@@ -5466,7 +5494,7 @@
       <PrefLabel lang="nb">Betalingssatser for kommunale tjenester</PrefLabel>
       <PrefLabel lang="nn">Betalingssatser for kommunale tjenester</PrefLabel>
       <Definition lang="nn">Betaling for kommunale tenester, som feiing, vatn og avløpsgebyr, bostømming, osv.</Definition>
-      <Definition lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyrer, søppeltømming, osv.</Definition>
+      <Definition lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyr, søppeltømming, osv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
    </Concept>
@@ -5643,7 +5671,7 @@
       <Definition lang="nn">Kommunane sørgjer for innsamling av hushaldsavfall, mottak for farleg avfall og returordningar for bestemde typar avfall.</Definition>
       <Definition lang="nb">Kommunene sørger for innsamling av husholdningsavfall, mottak for farlig avfall og returordninger for bestemte typer avfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/farlig-avfall</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/avfallshandtering</Broader>
@@ -6316,8 +6344,8 @@
       <HiddenLabel lang="nn">Familievernkontor</HiddenLabel>
       <HiddenLabel lang="nb">Familiekontor</HiddenLabel>
       <HiddenLabel lang="nn">Familiekontor</HiddenLabel>
-      <Definition lang="nb">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</Definition>
-      <Definition lang="nn">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
+      <Definition lang="nn">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</Definition>
+      <Definition lang="nb">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
@@ -7117,7 +7145,7 @@
       <HiddenLabel lang="nb">Vanningsrestriksjon</HiddenLabel>
       <HiddenLabel lang="nn">Vatningsrestriksjon</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyrer</Related>
+      <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/vannforurensning</Related>
       <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
