@@ -3134,9 +3134,16 @@
       <Broader>tema/hjemmetjenester</Broader>
    </Concept>
    <Concept path="ord/bevegelseshjelpemidler">
-      <PrefLabel lang="en">Mobility aids</PrefLabel>
+      <PrefLabel lang="en">Mobility aid</PrefLabel>
       <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
+   <Concept path="ord/hørselshjelpemidler">
+      <PrefLabel lang="en">Hearing aid</PrefLabel>
+      <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Høryselshjelpemiddel</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
