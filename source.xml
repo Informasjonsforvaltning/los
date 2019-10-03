@@ -5429,7 +5429,8 @@
       <HiddenLabel lang="nn">Reguleringsforskrift</HiddenLabel>
       <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Arealplanlegging</HiddenLabel>
-      <Definition lang="nn">Ein reguleringsplan er eit kart over eit avgrensa område i ein kommue, og syner framtidig grunnutynytting. Det vert ikkje gjeve løyve til å setje i gong større byggje- og anleggsarbeid dersom det ikkje er laga reguleringsplan.</Definition>
+      <Definition lang="nn">Ein reguleringsplan er ein politisk vedteken plan over eit avgrensa område. Reguleringsplanen fastset korleis området kan brukast og kva som kan byggjast der. Planen omfattar eit kart med reguleringsbestemmelsar.</Definition>
+      <Definition lang="nb">En reguleringsplan er en politisk vedtatt plan over et avgrenset område. Reguleringsplanen fastsetter hvordan området kan brukes og hva som kan bygges der. Planen består av et kart med reguleringsbestemmelser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/byggesak</Related>
       <Related>ord/naringsareal</Related>
