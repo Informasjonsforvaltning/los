@@ -5437,6 +5437,32 @@
       <Related>ord/vegbygging</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
+   <Concept path="ord/private-reguleringsplaner">
+      <PrefLabel lang="en">Private development plans</PrefLabel>
+      <PrefLabel lang="nb">Private reguleringsplaner</PrefLabel>
+      <PrefLabel lang="nn">Private reguleringsplanar</PrefLabel>
+      <HiddenLabel lang="nb">Arealbruksendring</HiddenLabel>
+      <HiddenLabel lang="nn">Arealbruksendring</HiddenLabel>
+      <HiddenLabel lang="nb">Reguleringsbestemmelse</HiddenLabel>
+      <HiddenLabel lang="nn">Reguleringsføresegn</HiddenLabel>
+      <HiddenLabel lang="nb">Privat reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Privat reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nb">Offentlig reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Offentleg reguleringsplan</HiddenLabel>
+      <HiddenLabel lang="nb">Ekspropriasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Oreigning</HiddenLabel>
+      <HiddenLabel lang="nb">Reguleringsforskrift</HiddenLabel>
+      <HiddenLabel lang="nn">Reguleringsforskrift</HiddenLabel>
+      <HiddenLabel lang="nb">Arealplanlegging</HiddenLabel>
+      <HiddenLabel lang="nn">Arealplanlegging</HiddenLabel>
+      <Definition lang="nn">Ein reguleringsplan syner kva område det kan byggjast på. Private tiltakshavarar, organisasjonar og andre myndigheter kan fremja forslag til detaljregulering for dei områda som ikkje er regulerte.</Definition>
+      <Definition lang="nb">En reguleringsplan viser hvilke områder det kan bygges på. Private tiltakshavere, organisasjoner og andre myndigheter kan fremme forslag til detaljregulering for de områdene som ikke er regulert.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/byggesak</Related>
+      <Related>ord/naringsareal</Related>
+      <Related>ord/vegbygging</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
    <Concept path="ord/rehabiliteringspenger">
       <PrefLabel lang="en">Work assessment allowance</PrefLabel>
       <PrefLabel lang="nb">Rehabiliteringspenger</PrefLabel>
