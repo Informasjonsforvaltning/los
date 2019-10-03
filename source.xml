@@ -7479,13 +7479,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/bolig-og-eiendom">
-      <PrefLabel lang="en">Housing and property</PrefLabel>
-      <PrefLabel lang="nb">Bolig og eiendom</PrefLabel>
-      <PrefLabel lang="nn">Bustad og eigedom</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/botilbud">
       <PrefLabel lang="en">Housing schemes</PrefLabel>
       <PrefLabel lang="nb">Botilbud</PrefLabel>
