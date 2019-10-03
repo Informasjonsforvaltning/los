@@ -3140,6 +3140,13 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
+   <Concept path="ord/synshjelpemidler">
+      <PrefLabel lang="en">Visual aid</PrefLabel>
+      <PrefLabel lang="nb">Synshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Synshjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
    <Concept path="ord/kommunikasjon-og-kognisjon">
       <PrefLabel lang="en">Commnication and  cognition</PrefLabel>
       <PrefLabel lang="nb">Kommunikasjon og kognisjon</PrefLabel>
