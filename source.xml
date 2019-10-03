@@ -3629,8 +3629,6 @@
       <HiddenLabel lang="nn">Feieavgift</HiddenLabel>
       <HiddenLabel lang="nb">Brøyteavgift</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavgift</HiddenLabel>
-      <HiddenLabel lang="nb">Renovasjonsavgift</HiddenLabel>
-      <HiddenLabel lang="nn">Renovasjonsavgift</HiddenLabel>
       <HiddenLabel lang="nb">Kommunekasse</HiddenLabel>
       <HiddenLabel lang="nn">Kommunekasse</HiddenLabel>
       <HiddenLabel lang="nb">Kloakkgebyr</HiddenLabel>
@@ -3652,6 +3650,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
       <Related>ord/renovasjon</Related>
+      <Related>ord/renovasjonsavgift</Related>
       <Related>ord/feiing</Related>
       <Related>ord/vannforsyning</Related>
       <Related>ord/avlopshandtering</Related>
@@ -5496,6 +5495,15 @@
       <PrefLabel lang="en">Property tax</PrefLabel>
       <PrefLabel lang="nb">Eiendomsskatt</PrefLabel>
       <PrefLabel lang="nn">Eigedomsskatt</PrefLabel>
+      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
+      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+   </Concept>
+   <Concept path="ord/renovasjonsavgift">
+      <PrefLabel lang="en">Waste collection fee</PrefLabel>
+      <PrefLabel lang="nb">Renovasjonsavgift</PrefLabel>
+      <PrefLabel lang="nn">Renovasjonsavgift</PrefLabel>
       <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
