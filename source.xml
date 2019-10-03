@@ -3133,6 +3133,13 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
    </Concept>
+   <Concept path="ord/bevegelseshjelpemidler">
+      <PrefLabel lang="en">Mobility aids</PrefLabel>
+      <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
+      <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/hjelpemidler</Broader>
+   </Concept>
    <Concept path="ord/hjemmesykepleie">
       <PrefLabel lang="en">Home nurse</PrefLabel>
       <PrefLabel lang="nb">Hjemmesykepleie</PrefLabel>
