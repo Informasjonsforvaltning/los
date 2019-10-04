@@ -8019,13 +8019,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/rettslige-sporsmal</Broader>
    </Concept>
-   <Concept path="tema/samfunnsplanlegging">
-      <PrefLabel lang="en">Community planning</PrefLabel>
-      <PrefLabel lang="nb">Samfunnsplanlegging</PrefLabel>
-      <PrefLabel lang="nn">Samfunnsplanlegging</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
-   </Concept>
    <Concept path="tema/samliv">
       <PrefLabel lang="en">Living together</PrefLabel>
       <PrefLabel lang="nb">Samliv</PrefLabel>
