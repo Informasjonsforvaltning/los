@@ -7809,6 +7809,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
+   <Concept path="tema/forsvaret">
+      <PrefLabel lang="en">The defense</PrefLabel>
+      <PrefLabel lang="nb">Forsvaret</PrefLabel>
+      <PrefLabel lang="nn">Forsvaret</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/beredskap-og-sikkerhet</Broader>
+   </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
       <PrefLabel lang="nb">Lovbrudd og straff</PrefLabel>
