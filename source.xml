@@ -1256,7 +1256,7 @@
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
     <Concept path="ord/lanekort">
         <PrefLabel lang="en">Library card</PrefLabel>
@@ -3050,16 +3050,15 @@
       <HiddenLabel lang="nn">Ungdomssteg</HiddenLabel>
       <Definition lang="nn">Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld også alt undervisningsmateriell.</Definition>
       <Definition lang="nb">Den obligatoriske grunnskoleopplæringen i Norge er ti-årig, og barna starter på skolen det året de fyller er seks. Grunnskuleopplæringen er gratis. Det gjelder også alt undervisningsmateriell.</Definition>
-
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/grunnskoleopplaring-for-voksne">
       <PrefLabel lang="en">Compulsory education for adults</PrefLabel>
       <PrefLabel lang="nb">Grunnskoleopplæring for voksne</PrefLabel>
       <PrefLabel lang="nn">Grunnskuleopplæring for vaksne</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/habilitering-og-rehabilitering">
@@ -3180,7 +3179,7 @@
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/hogskole-og-universitet">
       <PrefLabel lang="en">High schools and universities</PrefLabel>
@@ -3528,6 +3527,7 @@
       <Definition lang="nn">Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
+      <Broader>tema/skolehverdag</Broader>
    </Concept>
    <Concept path="ord/kiropraktikk">
       <PrefLabel lang="en">Chiropractic services</PrefLabel>
@@ -3980,7 +3980,7 @@
       <PrefLabel lang="nn">Leirskule</PrefLabel>
       <Definition lang="nn">Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes fjellet, sjøen eller skogen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/likestilling">
       <PrefLabel lang="en">Equality</PrefLabel>
@@ -4990,7 +4990,7 @@
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/psykisk-helse</Broader>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/barnehage</Broader>
    </Concept>
@@ -5294,7 +5294,7 @@
       <HiddenLabel lang="nn">Friskule</HiddenLabel>
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/produktsikkerhet">
@@ -5792,7 +5792,7 @@
       <HiddenLabel lang="nn">Tospråkleg fagopplæring</HiddenLabel>
       <Definition lang="nn">Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge delar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/samboerskap">
       <PrefLabel lang="en">Cohabitation</PrefLabel>
@@ -6012,7 +6012,7 @@
       <Definition lang="nn">Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/skolehelsetjeneste">
       <PrefLabel lang="en">School health service</PrefLabel>
@@ -6041,7 +6041,7 @@
       <Definition lang="nn">Tilbod om gratis måltid i grunnskulen. Prøveprosjekt i ein del kommunar.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ernaring</Related>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/skolerute">
       <PrefLabel lang="en">School terms and holidays</PrefLabel>
@@ -6055,7 +6055,7 @@
       <HiddenLabel lang="nn">Skuleferie</HiddenLabel>
       <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
@@ -6073,8 +6073,8 @@
       <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
 	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
+      <Broader>tema/skolehverdag</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
@@ -6204,7 +6204,7 @@
       <HiddenLabel lang="nn">Spesialskule</HiddenLabel>
       <HiddenLabel lang="nn">Spesialundervising</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/spilleautomat">
@@ -7651,10 +7651,17 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/grunnskoleopplaring">
+   <Concept path="tema/grunnskole">
       <PrefLabel lang="en">Compulsory education</PrefLabel>
-      <PrefLabel lang="nb">Grunnskoleopplæring</PrefLabel>
-      <PrefLabel lang="nn">Grunnskuleopplæring</PrefLabel>
+      <PrefLabel lang="nb">Grunnskole</PrefLabel>
+      <PrefLabel lang="nn">Grunnskule</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skole-og-utdanning</Broader>
+   </Concept>
+   <Concept path="tema/skolehverdag">
+      <PrefLabel lang="en">School life</PrefLabel>
+      <PrefLabel lang="nb">Skolehverdag</PrefLabel>
+      <PrefLabel lang="nn">Skulekvardag</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
