@@ -7975,7 +7975,7 @@
       <PrefLabel lang="nb">Personopplysninger</PrefLabel>
       <PrefLabel lang="nn">Personopplysningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/politikk-og-valg">
       <PrefLabel lang="en">Politics and elections</PrefLabel>
