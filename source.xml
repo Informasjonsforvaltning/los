@@ -7299,7 +7299,7 @@
       <HiddenLabel lang="nn">Førstegongsteneste</HiddenLabel>
       <Definition lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/forsvaret</Broader>
    </Concept>
    <Concept path="ord/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
