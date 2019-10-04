@@ -2967,7 +2967,6 @@
       <Definition lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</Definition>
       <Definition lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravferdsstonad">
@@ -2977,7 +2976,6 @@
       <Definition lang="nn">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <Definition lang="nb">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravplass">
@@ -3696,7 +3694,6 @@
       <Definition lang="nn">Kommuneplan er styrande for all planlegging i kommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for kommunen sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom kommunen, private lokale interesser og statlege og fylkeskommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer kommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
       <Definition lang="nb">Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/kommunedelplan">
@@ -3706,7 +3703,6 @@
       <Definition lang="nn">En kommunedelplan omfattar ein bestemt del av det totale arealet til kommunen.</Definition>
       <Definition lang="nb">En kommunedelplan omfatter en bestemt del av kommunens totale areal.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/kompostering">
@@ -3782,35 +3778,6 @@
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-   </Concept>
-   <Concept path="ord/krisehandtering">
-      <PrefLabel lang="en">Crisis management</PrefLabel>
-      <PrefLabel lang="nb">Krisehåndtering</PrefLabel>
-      <PrefLabel lang="nn">Krisehandtering</PrefLabel>
-      <HiddenLabel lang="nb">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nb">Beredskapsplaner</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Krise</HiddenLabel>
-      <HiddenLabel lang="nn">Krise</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nn">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nb">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nb">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nn">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplan</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplan</HiddenLabel>
-      <Definition lang="nn">Handtering av kriser og katastrofar, samt beredskapsplanar for krisehandtering.</Definition>
-      <Definition lang="nb">Håndtering av kriser og katastrofer, samt beredskapsplaner.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="ord/krisesenter">
       <PrefLabel lang="en">Shelter</PrefLabel>
@@ -5379,17 +5346,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
-   <Concept path="ord/redningstjeneste">
-      <PrefLabel lang="en">Rescue services</PrefLabel>
-      <PrefLabel lang="nb">Redningstjeneste</PrefLabel>
-      <PrefLabel lang="nn">Redningsteneste</PrefLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Redningsaksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Redningsaksjon</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
-   </Concept>
    <Concept path="ord/regional-planlegging">
       <PrefLabel lang="en">Regional planning</PrefLabel>
       <PrefLabel lang="nb">Regional planlegging</PrefLabel>
@@ -5404,7 +5360,7 @@
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Definition lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane. Reguleringsplan og kommuneplanlegging er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/registrering-av-kjoretoy">
       <PrefLabel lang="en">Vehicle registration</PrefLabel>
@@ -7001,7 +6957,6 @@
       <Related>ord/fritidsfiske</Related>
       <Related>ord/flomvarsel</Related>
       <Broader>tema/bygging</Broader>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -7049,7 +7004,7 @@
       <HiddenLabel lang="nn">Våpensøknad</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/jakt-og-fangst</Related>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/fritid</Broader>
    </Concept>
    <Concept path="ord/varvarsel">
       <PrefLabel lang="en">Weather forecast</PrefLabel>
@@ -7341,7 +7296,7 @@
       <HiddenLabel lang="nn">Førstegongsteneste</HiddenLabel>
       <Definition lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/forsvaret</Broader>
    </Concept>
    <Concept path="ord/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
@@ -7568,7 +7523,7 @@
       <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
       <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/bibliotek">
       <PrefLabel lang="en">Libraries</PrefLabel>
@@ -7604,13 +7559,6 @@
       <PrefLabel lang="nn">Bygging</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bygg-og-eiendom</Broader>
-   </Concept>
-   <Concept path="tema/dodsfall">
-      <PrefLabel lang="en">Death</PrefLabel>
-      <PrefLabel lang="nb">Dødsfall</PrefLabel>
-      <PrefLabel lang="nn">Dødsfall</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/eiendom">
       <PrefLabel lang="en">Property</PrefLabel>
@@ -7772,7 +7720,7 @@
       <PrefLabel lang="nb">Innbyggerrettigheter</PrefLabel>
       <PrefLabel lang="nn">Innbyggjarettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/inntekt">
       <PrefLabel lang="en">Income</PrefLabel>
@@ -7857,6 +7805,13 @@
       <PrefLabel lang="nn">Lotteri og pengespel</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
+   </Concept>
+   <Concept path="tema/forsvaret">
+      <PrefLabel lang="en">The defense</PrefLabel>
+      <PrefLabel lang="nb">Forsvaret</PrefLabel>
+      <PrefLabel lang="nn">Forsvaret</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
@@ -7975,14 +7930,14 @@
       <PrefLabel lang="nb">Personopplysninger</PrefLabel>
       <PrefLabel lang="nn">Personopplysningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/politikk-og-valg">
       <PrefLabel lang="en">Politics and elections</PrefLabel>
       <PrefLabel lang="nb">Politikk og valg</PrefLabel>
       <PrefLabel lang="nn">Politikk og val</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/psykisk-helse">
       <PrefLabel lang="en">Mental health</PrefLabel>
@@ -8018,13 +7973,6 @@
       <PrefLabel lang="nn">Rettsvesen</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/rettslige-sporsmal</Broader>
-   </Concept>
-   <Concept path="tema/samfunnsplanlegging">
-      <PrefLabel lang="en">Community planning</PrefLabel>
-      <PrefLabel lang="nb">Samfunnsplanlegging</PrefLabel>
-      <PrefLabel lang="nn">Samfunnsplanlegging</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/samliv">
       <PrefLabel lang="en">Living together</PrefLabel>
