@@ -7007,7 +7007,7 @@
       <HiddenLabel lang="nn">Våpensøknad</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/jakt-og-fangst</Related>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/fritid</Broader>
    </Concept>
    <Concept path="ord/varvarsel">
       <PrefLabel lang="en">Weather forecast</PrefLabel>
