@@ -2967,7 +2967,6 @@
       <Definition lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</Definition>
       <Definition lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravferdsstonad">
@@ -2977,7 +2976,6 @@
       <Definition lang="nn">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <Definition lang="nb">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravplass">
@@ -7604,13 +7602,6 @@
       <PrefLabel lang="nn">Bygging</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bygg-og-eiendom</Broader>
-   </Concept>
-   <Concept path="tema/dodsfall">
-      <PrefLabel lang="en">Death</PrefLabel>
-      <PrefLabel lang="nb">Dødsfall</PrefLabel>
-      <PrefLabel lang="nn">Dødsfall</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/eiendom">
       <PrefLabel lang="en">Property</PrefLabel>
