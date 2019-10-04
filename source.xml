@@ -7657,6 +7657,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
+   <Concept path="tema/skolehverdag">
+      <PrefLabel lang="en">School life</PrefLabel>
+      <PrefLabel lang="nb">Skolehverdag</PrefLabel>
+      <PrefLabel lang="nn">Skulekvardag</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skole-og-utdanning</Broader>
+   </Concept>
    <Concept path="tema/handel-og-service">
       <PrefLabel lang="en">Trade and service</PrefLabel>
       <PrefLabel lang="nb">Handel og service</PrefLabel>
