@@ -7982,7 +7982,7 @@
       <PrefLabel lang="nb">Politikk og valg</PrefLabel>
       <PrefLabel lang="nn">Politikk og val</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/psykisk-helse">
       <PrefLabel lang="en">Mental health</PrefLabel>
