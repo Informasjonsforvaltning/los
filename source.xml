@@ -5348,17 +5348,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
-   <Concept path="ord/redningstjeneste">
-      <PrefLabel lang="en">Rescue services</PrefLabel>
-      <PrefLabel lang="nb">Redningstjeneste</PrefLabel>
-      <PrefLabel lang="nn">Redningsteneste</PrefLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Redningsaksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Redningsaksjon</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
-   </Concept>
    <Concept path="ord/regional-planlegging">
       <PrefLabel lang="en">Regional planning</PrefLabel>
       <PrefLabel lang="nb">Regional planlegging</PrefLabel>
