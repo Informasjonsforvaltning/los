@@ -3781,35 +3781,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
-   <Concept path="ord/krisehandtering">
-      <PrefLabel lang="en">Crisis management</PrefLabel>
-      <PrefLabel lang="nb">Krisehåndtering</PrefLabel>
-      <PrefLabel lang="nn">Krisehandtering</PrefLabel>
-      <HiddenLabel lang="nb">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nb">Beredskapsplaner</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Krise</HiddenLabel>
-      <HiddenLabel lang="nn">Krise</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nn">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nb">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nb">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nn">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplan</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplan</HiddenLabel>
-      <Definition lang="nn">Handtering av kriser og katastrofar, samt beredskapsplanar for krisehandtering.</Definition>
-      <Definition lang="nb">Håndtering av kriser og katastrofer, samt beredskapsplaner.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
-   </Concept>
    <Concept path="ord/krisesenter">
       <PrefLabel lang="en">Shelter</PrefLabel>
       <PrefLabel lang="nb">Krisesenter</PrefLabel>
