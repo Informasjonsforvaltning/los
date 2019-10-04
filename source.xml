@@ -3527,6 +3527,7 @@
       <Definition lang="nn">Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
+      <Broader>tema/skolehverdag</Broader>
    </Concept>
    <Concept path="ord/kiropraktikk">
       <PrefLabel lang="en">Chiropractic services</PrefLabel>
@@ -6073,7 +6074,7 @@
 	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/skolehverdag</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
