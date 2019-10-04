@@ -7566,7 +7566,7 @@
       <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
       <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/bibliotek">
       <PrefLabel lang="en">Libraries</PrefLabel>
@@ -7763,7 +7763,7 @@
       <PrefLabel lang="nb">Innbyggerrettigheter</PrefLabel>
       <PrefLabel lang="nn">Innbyggjarettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/inntekt">
       <PrefLabel lang="en">Income</PrefLabel>
