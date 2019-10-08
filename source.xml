@@ -4708,7 +4708,7 @@
       <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
       <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
