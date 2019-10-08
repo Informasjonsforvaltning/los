@@ -4090,7 +4090,7 @@
       <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
       <Definition lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/rusomsorg</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/aktiviteter-og-livsmestring-for-rusavhengige">
       <PrefLabel lang="en">Activities and aid for adiction problems</PrefLabel>
@@ -4099,7 +4099,7 @@
       <Definition lang="nn">Aktivitetar og ressursar som blir tilbydd rusavhengige, som arbeidstrening, helsesamtalar, fritidsaktivitetar, osv.</Definition>
       <Definition lang="nb">Aktiviteter og ressurser som blir tilbudt rusavhengige, som arbeidstrening, helsesamtaler, fritidsaktiviteter, osv.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/rus-og-spilleavhengighet</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
@@ -7688,7 +7688,7 @@
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/rus-og-avhengighet">
-      <PrefLabel lang="en">Health services</PrefLabel>
+      <PrefLabel lang="en">Addiction</PrefLabel>
       <PrefLabel lang="nb">Rus og avhengighet</PrefLabel>
       <PrefLabel lang="nn">Rus og avhengigheit</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
