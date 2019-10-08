@@ -7437,7 +7437,7 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeid</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/yrkesskadedekning">
       <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
