@@ -2100,17 +2100,6 @@
       <Related>ord/renovasjon</Related>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
-   <Concept path="ord/farskap">
-      <PrefLabel lang="en">Fatherhood</PrefLabel>
-      <PrefLabel lang="nb">Farskap</PrefLabel>
-      <PrefLabel lang="nn">Farskap</PrefLabel>
-      <HiddenLabel lang="nb">Folkeregister</HiddenLabel>
-      <HiddenLabel lang="nn">Folkeregister</HiddenLabel>
-      <Definition lang="nn">Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
-      <Definition lang="nb">Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova).</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foreldre-og-foresatte</Broader>
-   </Concept>
    <Concept path="ord/fastlege">
       <PrefLabel lang="en">General Practitioning Doctor</PrefLabel>
       <PrefLabel lang="nb">Fastlege</PrefLabel>
@@ -4683,6 +4672,7 @@
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
@@ -4698,15 +4688,20 @@
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/fastsettelse-av-foreldreskap">
       <PrefLabel lang="en">Determination of parenthood</PrefLabel>
       <PrefLabel lang="nb">Fastsettelse av foreldreskap</PrefLabel>
       <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
-      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
-      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
+      <HiddenLabel lang="nb">Farskap</HiddenLabel>
+      <HiddenLabel lang="nn">Farskap</HiddenLabel>
+      <HiddenLabel lang="nb">Medmorskap</HiddenLabel>
+      <HiddenLabel lang="nn">Medmorskap</HiddenLabel>
+      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap. Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
+      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap. Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
@@ -7442,7 +7437,7 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeid</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/yrkesskadedekning">
       <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
