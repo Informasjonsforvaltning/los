@@ -4683,6 +4683,7 @@
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
@@ -4698,6 +4699,7 @@
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/fastsettelse-av-foreldreskap">
       <PrefLabel lang="en">Determination of parenthood</PrefLabel>
