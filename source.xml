@@ -6229,7 +6229,7 @@
       <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleautomat</Related>
-      <Broader>tema/psykisk-helse</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/sprakkurs-og-spraktest">
       <PrefLabel lang="en">Language courses and tests</PrefLabel>
