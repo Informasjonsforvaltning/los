@@ -6375,14 +6375,16 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
-   <Concept path="ord/jordmor-og-svangerskapsomsorg">
-      <PrefLabel lang="en">Midwife and prenatal care</PrefLabel>
-      <PrefLabel lang="nb">Jordmor og svangerskapsomsorg</PrefLabel>
-      <PrefLabel lang="nn">Jordmor og svangerskapsomsorg</PrefLabel>
+   <Concept path="ord/svangerskapsomsorg">
+      <PrefLabel lang="en">Pprenatal care</PrefLabel>
+      <PrefLabel lang="nb">Svangerskapsomsorg</PrefLabel>
+      <PrefLabel lang="nn">Svangerskapsomsorg</PrefLabel>
       <HiddenLabel lang="nb">Fødsel</HiddenLabel>
       <HiddenLabel lang="nn">Fødsel</HiddenLabel>
       <HiddenLabel lang="nb">Hjemmefødsel</HiddenLabel>
       <HiddenLabel lang="nn">Heimefødsel</HiddenLabel>
+      <HiddenLabel lang="nb">Jordmor</HiddenLabel>
+      <HiddenLabel lang="nn">Jordmor</HiddenLabel>
       <HiddenLabel lang="nb">Graviditet</HiddenLabel>
       <HiddenLabel lang="nn">Graviditet</HiddenLabel>
       <HiddenLabel lang="nb">Fosterdiagnostikk</HiddenLabel>
@@ -6397,6 +6399,7 @@
       <Definition lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
