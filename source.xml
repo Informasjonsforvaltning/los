@@ -6510,7 +6510,6 @@
       <Related>ord/behandlingsreise</Related>
       <Related>ord/reiseutgifter</Related>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/pasientrettigheter</Broader>
    </Concept>
    <Concept path="ord/sykkel">
       <PrefLabel lang="en">Bicycle</PrefLabel>
