@@ -3341,7 +3341,6 @@
       <PrefLabel lang="nn">Individuell plan</PrefLabel>
       <Definition lang="nn">Kommunen har plikt til å utarbeide individuelle planar for personar som har behov for langvarige og koordinerte helse- og/eller sosialtenester. Staten har tilsvarande plikt for pasientar med behov for spesialisthelsetenester.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pasientrettigheter</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/inkluderende-arbeidsliv">
