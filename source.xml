@@ -1786,7 +1786,6 @@
       <PrefLabel lang="nn">Doping</PrefLabel>
       <Definition lang="nn">Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar.</Definition>
       <Definition lang="nb">Bruk av stoff som kan påvirke prestasjonsevnen til kroppen i ulike sammenhenger.</Definition>
-
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/rustiltak</Related>
       <Broader>tema/idrett</Broader>
@@ -5740,7 +5739,7 @@
       <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/doping</Related>
-      <Broader>tema/omsorgstjenester</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/ruteopplysning">
       <PrefLabel lang="en">Timetable information</PrefLabel>
