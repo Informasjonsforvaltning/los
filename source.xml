@@ -7299,6 +7299,13 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
+   <Concept path="ord/sesjon">
+      <PrefLabel lang="en">Session</PrefLabel>
+      <PrefLabel lang="nb">Sesjon</PrefLabel>
+      <PrefLabel lang="nn">Sesjon</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forsvaret</Broader>
+   </Concept>
    <Concept path="ord/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
