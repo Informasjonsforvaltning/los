@@ -1345,6 +1345,7 @@
       <Definition lang="nb">Kommunalt botilbud til psykisk utviklingshemmede, eldre, personer med funksjonsnedsettelser eller enslige mindreårige asylsøkere.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/boligfinansiering">
       <PrefLabel lang="en">Home financing</PrefLabel>
@@ -1650,6 +1651,7 @@
       <Definition lang="nn">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/omsorgsstønad</Broader>
    </Concept>
    <Concept path="ord/dans">
       <PrefLabel lang="en">Dance</PrefLabel>
@@ -3136,6 +3138,7 @@
       <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmeteknologi">
       <PrefLabel lang="en">Home tech</PrefLabel>
@@ -3189,6 +3192,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
       <Broader>tema/hjemmetjenester</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmeundervisning">
       <PrefLabel lang="en">Home teaching</PrefLabel>
@@ -4096,6 +4100,7 @@
       <Definition lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjelp-ved-rusavhengighet">
       <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
@@ -4557,6 +4562,7 @@
       <Definition lang="nb">En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/akuttovernatting">
       <PrefLabel lang="en">Emergency shelter for homeless migrants</PrefLabel>
@@ -6647,6 +6653,7 @@
 	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/tilsyn-og-godkjenning-av-barnehager">
       <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
@@ -6739,8 +6746,7 @@
       <Definition lang="nb">Å tolke eller gjengi meningen i en tekst på et annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
-      <Broader>tema/omsorgstjenester</Broader>
-   </Concept>
+      </Concept>
    <Concept path="ord/tegnspraktolk">
       <PrefLabel lang="en">Sign language interpreter</PrefLabel>
       <PrefLabel lang="nb">Tegnspråktolk</PrefLabel>
@@ -6755,7 +6761,6 @@
       <Definition lang="nb">Å tolke eller gjengi meningen i en tekst, tale eller samtale på tegnspråk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/toll">
       <PrefLabel lang="en">Customs</PrefLabel>
@@ -6867,7 +6872,6 @@
       <Definition lang="nn">Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell rykkjer ut heile døgnet dersom alarmen går.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/turisme">
       <PrefLabel lang="en">Tourism</PrefLabel>
