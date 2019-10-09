@@ -519,6 +519,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
+   <Concept path="ord/medmorskap">
+      <PrefLabel lang="en">Co-maternity</PrefLabel>
+      <PrefLabel lang="nb">Medmorskap</PrefLabel>
+      <PrefLabel lang="nn">Medmorskap</PrefLabel>
+      <Definition lang="nn">Søknad om medmorskap skal sendast folkeregistermyndigheita.</Definition>
+      <Definition lang="nb">Søknad om medmorskap sendes folkeregistermyndigheten.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
+   </Concept>
    <Concept path="ord/adopsjon">
       <PrefLabel lang="en">Adoption</PrefLabel>
       <PrefLabel lang="nb">Adopsjon</PrefLabel>
