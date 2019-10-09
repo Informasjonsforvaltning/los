@@ -7292,10 +7292,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
-   <Concept path="ord/heimevernet">
-      <PrefLabel lang="en">National guard</PrefLabel>
-      <PrefLabel lang="nb">Heimevernet</PrefLabel>
-      <PrefLabel lang="nn">Heimevernet</PrefLabel>
+   <Concept path="ord/repetisjonstjeneste">
+      <PrefLabel lang="en">Repetition service</PrefLabel>
+      <PrefLabel lang="nb">Repetisjonstjeneste</PrefLabel>
+      <PrefLabel lang="nn">Repetisjonstjeneste</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
