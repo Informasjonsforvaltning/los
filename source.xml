@@ -1098,8 +1098,8 @@
    </Concept>
    <Concept path="ord/barnehage-innhold-og-kvalitet">
       <PrefLabel lang="en">Kindergarten - content and quality</PrefLabel>
-      <PrefLabel lang="nn">Barnehage - innhald og kvalitet</PrefLabel>
-      <PrefLabel lang="nb">Barnehage - innhold og kvalitet</PrefLabel>
+      <PrefLabel lang="nb">Barnehage - innhald og kvalitet</PrefLabel>
+      <PrefLabel lang="nn">Barnehage - innhold og kvalitet</PrefLabel>
       <Definition lang="nn">Barnehagen skal vareta behovet til barna for omsorg og leik og fremje læring og danning som grunnlag for allsidig utvikling.</Definition>
       <Definition lang="nb">Barnehagen skal ivareta barnas behov for omsorg og lek og fremme læring og danning som grunnlag for allsidig utvikling.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -1256,7 +1256,7 @@
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
     <Concept path="ord/lanekort">
         <PrefLabel lang="en">Library card</PrefLabel>
@@ -2558,8 +2558,8 @@
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
         <PrefLabel lang="nn">Seniortilbod</PrefLabel>
-        <HiddenLabel lang="nb">Eldresenter</HiddenLabel>
-        <HiddenLabel lang="nn">Eldresenter</HiddenLabel>
+        <PrefLabel lang="nb">Eldresenter</PrefLabel>
+        <PrefLabel lang="nn">Eldresenter</PrefLabel>
         <Definition lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</Definition>
         <Definition lang="nb">En samling aktiviteter og treffsteder for pensjonister.</Definition>
         <InScheme>ontologi/ord</InScheme>
@@ -2956,7 +2956,6 @@
       <Definition lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</Definition>
       <Definition lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravferdsstonad">
@@ -2966,7 +2965,6 @@
       <Definition lang="nn">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <Definition lang="nb">Gravferdsstønad skal kompensere for utgifter i forbindelse med gravferd. Det kan også omfatte båretransport.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/gravplass">
@@ -3041,16 +3039,15 @@
       <HiddenLabel lang="nn">Ungdomssteg</HiddenLabel>
       <Definition lang="nn">Den obligatoriske grunnskoleopplæringa i Noreg er ti-årig, og barna startar på skulen det året dei fyller er seks. Grunnskuleopplæringa er gratis. Det gjeld også alt undervisningsmateriell.</Definition>
       <Definition lang="nb">Den obligatoriske grunnskoleopplæringen i Norge er ti-årig, og barna starter på skolen det året de fyller er seks. Grunnskuleopplæringen er gratis. Det gjelder også alt undervisningsmateriell.</Definition>
-
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/grunnskoleopplaring-for-voksne">
       <PrefLabel lang="en">Compulsory education for adults</PrefLabel>
       <PrefLabel lang="nb">Grunnskoleopplæring for voksne</PrefLabel>
       <PrefLabel lang="nn">Grunnskuleopplæring for vaksne</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/habilitering-og-rehabilitering">
@@ -3171,7 +3168,7 @@
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/hogskole-og-universitet">
       <PrefLabel lang="en">High schools and universities</PrefLabel>
@@ -3333,7 +3330,6 @@
       <PrefLabel lang="nn">Individuell plan</PrefLabel>
       <Definition lang="nn">Kommunen har plikt til å utarbeide individuelle planar for personar som har behov for langvarige og koordinerte helse- og/eller sosialtenester. Staten har tilsvarande plikt for pasientar med behov for spesialisthelsetenester.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pasientrettigheter</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/inkluderende-arbeidsliv">
@@ -3519,6 +3515,7 @@
       <Definition lang="nn">Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
+      <Broader>tema/skolehverdag</Broader>
    </Concept>
    <Concept path="ord/kiropraktikk">
       <PrefLabel lang="en">Chiropractic services</PrefLabel>
@@ -3685,7 +3682,6 @@
       <Definition lang="nn">Kommuneplan er styrande for all planlegging i kommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for kommunen sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom kommunen, private lokale interesser og statlege og fylkeskommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer kommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
       <Definition lang="nb">Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/kommunedelplan">
@@ -3695,7 +3691,6 @@
       <Definition lang="nn">En kommunedelplan omfattar ein bestemt del av det totale arealet til kommunen.</Definition>
       <Definition lang="nb">En kommunedelplan omfatter en bestemt del av kommunens totale areal.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/kompostering">
@@ -3771,35 +3766,6 @@
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-   </Concept>
-   <Concept path="ord/krisehandtering">
-      <PrefLabel lang="en">Crisis management</PrefLabel>
-      <PrefLabel lang="nb">Krisehåndtering</PrefLabel>
-      <PrefLabel lang="nn">Krisehandtering</PrefLabel>
-      <HiddenLabel lang="nb">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplan</HiddenLabel>
-      <HiddenLabel lang="nb">Beredskapsplaner</HiddenLabel>
-      <HiddenLabel lang="nn">Beredskapsplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseteam</HiddenLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Krise</HiddenLabel>
-      <HiddenLabel lang="nn">Krise</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nn">Katastrofe</HiddenLabel>
-      <HiddenLabel lang="nb">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Krisehjelp</HiddenLabel>
-      <HiddenLabel lang="nb">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nn">Sivilforsvaret</HiddenLabel>
-      <HiddenLabel lang="nb">Kriseplan</HiddenLabel>
-      <HiddenLabel lang="nn">Kriseplan</HiddenLabel>
-      <Definition lang="nn">Handtering av kriser og katastrofar, samt beredskapsplanar for krisehandtering.</Definition>
-      <Definition lang="nb">Håndtering av kriser og katastrofer, samt beredskapsplaner.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="ord/krisesenter">
       <PrefLabel lang="en">Shelter</PrefLabel>
@@ -4002,7 +3968,7 @@
       <PrefLabel lang="nn">Leirskule</PrefLabel>
       <Definition lang="nn">Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes fjellet, sjøen eller skogen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/likestilling">
       <PrefLabel lang="en">Equality</PrefLabel>
@@ -4112,16 +4078,16 @@
       <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
       <Definition lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/rusomsorg</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/aktiviteter-og-livsmestring-for-rusavhengige">
-      <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
-      <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="en">Activities and aid for adiction problems</PrefLabel>
+      <PrefLabel lang="nb">Aktiviteter og livsmestring for rusavhengige</PrefLabel>
+      <PrefLabel lang="nn">Aktivitetar og livsmeistring for rusavhengige</PrefLabel>
       <Definition lang="nn">Aktivitetar og ressursar som blir tilbydd rusavhengige, som arbeidstrening, helsesamtalar, fritidsaktivitetar, osv.</Definition>
       <Definition lang="nb">Aktiviteter og ressurser som blir tilbudt rusavhengige, som arbeidstrening, helsesamtaler, fritidsaktiviteter, osv.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/rusomsorg</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/mekling">
       <PrefLabel lang="en">Mediation</PrefLabel>
@@ -4218,16 +4184,6 @@
       <PrefLabel lang="nn">MinID</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
-   </Concept>
-   <Concept path="ord/mobbing">
-      <PrefLabel lang="en">Bullying</PrefLabel>
-      <PrefLabel lang="nb">Mobbing</PrefLabel>
-      <PrefLabel lang="nn">Mobbing</PrefLabel>
-      <Definition lang="nn">Når ein person gjentekne gonger vert utsett for negative handlingar frå andre. Det kan dreie seg om trakassering, plaging, utfrysing og liknande.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/psykisk-helse</Broader>
-      <Broader>tema/arbeidsliv</Broader>
-      <Broader>tema/skolemiljo</Broader>
    </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
@@ -4618,6 +4574,7 @@
       <Definition lang="nn">Barnebidrag er eit bidrag frå ein forelder til ein annan til forsørging av felles barn som ikkje bur saman med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
       <Definition lang="nb">Barnebidrag er et bidrag fra en forelder til en annen til forsørgelse av felles barn som ikke bor sammen med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/barnetrygd">
@@ -4627,6 +4584,7 @@
       <Definition lang="nn">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</Definition>
       <Definition lang="nb">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/stønad-til-enslig-forsørger">
@@ -4636,6 +4594,7 @@
       <Definition lang="nn">Stønad til einsleg mor eller far som har aleineomsorgen for barn. Det omfattar også stønad til barnetilsyn, tilleggsstønader og stønad til skulepengar mv.</Definition>
       <Definition lang="nb">Stønad til enslig mor eller far som har aleneomsorgen for barn, Det omfatter også stønad til barnetilsyn, tilleggsstønader og stønad til skolepenger mv.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/omsorgspermisjon">
@@ -4656,6 +4615,7 @@
       <Definition lang="nn">Bidra til at familiane blir gitt valfridom når det gjeld omsorgsform for barn.</Definition>
       <Definition lang="nb">Bidra til at familiene gis valgfrihet når det gjelder omsorgsform for barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/ytelser-ved-sykdom-i-familien">
@@ -4671,6 +4631,7 @@
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -4687,6 +4648,7 @@
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -4701,7 +4663,8 @@
       <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap. Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap. Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foreldre-og-foresatte</Broader>
+      <Broader>tema/familie-og-barn</Broader>
+      <Broader>tema/familieytelser</Broader>>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
@@ -4710,6 +4673,7 @@
       <Definition lang="nn">Gjenlevendepensjon og overgangsstønad til gjenlevande ektefelle / samboar. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon blir gitt når ein eller begge foreldre er døde. Ytelsar til einsleg tidligere familiepleier som ikkje kan forsørge seg sjølv etter pleieforholdets opphør.</Definition>
       <Definition lang="nb">Gjenlevendepensjon og overgangsstønad til gjenlevende ektefelle / samboer. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon gis når en eller begge foreldre er døde. Ytelser til enslig tidligere familiepleier som ikke kan forsørge seg selv etter pleieforholdets opphør.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-foreldre-og-foresatte">
@@ -4962,6 +4926,15 @@
       <Broader>tema/pasientrettigheter</Broader>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
+   <Concept path="ord/klage-pa-helse--og-omsorgstjenester">
+      <PrefLabel lang="en">Complaints about health and care services</PrefLabel>
+      <PrefLabel lang="nb">Klage på helse- og omsorgstjenester</PrefLabel>
+      <PrefLabel lang="nn">Klage på helse- og omsorgstenester</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/pasient-og-brukerombud</Related>
+      <Broader>tema/pasientrettigheter</Broader>
+      <Broader>tema/erstatningsordninger</Broader>
+   </Concept>
    <Concept path="ord/pass">
       <PrefLabel lang="en">Passports</PrefLabel>
       <PrefLabel lang="nb">Pass</PrefLabel>
@@ -5009,8 +4982,7 @@
       <HiddenLabel lang="nn">Logoped</HiddenLabel>
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/psykisk-helse</Broader>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/barnehage</Broader>
    </Concept>
@@ -5314,7 +5286,7 @@
       <HiddenLabel lang="nn">Friskule</HiddenLabel>
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/produktsikkerhet">
@@ -5331,7 +5303,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
-   <Concept path="ord/psykisk-helsevern">
+   <Concept path="ord/psykisk-helse">
       <PrefLabel lang="en">Mental health care</PrefLabel>
       <PrefLabel lang="nb">Psykisk helsevern</PrefLabel>
       <PrefLabel lang="nn">Psykisk helsevern</PrefLabel>
@@ -5356,7 +5328,7 @@
       <Definition lang="nn">I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no)</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
-      <Broader>tema/psykisk-helse</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/realkompetanse">
       <PrefLabel lang="en">Qualifications, knowledge and skills</PrefLabel>
@@ -5365,17 +5337,6 @@
       <Definition lang="nn">Realkompetanse er all kunnskap og alle ferdigheiter som arbeidstakarar har fått gjennom utdanning, lønna eller ulønna arbeid, organisasjonserfaring, fritidsaktivitetar eller på annan måte. Som ein del av kompetansereforma har fylkeskommunane etablert ordningar for å vurdere og kartleggje realkompetansen til vaksne.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/karakterer-og-evaluering</Broader>
-   </Concept>
-   <Concept path="ord/redningstjeneste">
-      <PrefLabel lang="en">Rescue services</PrefLabel>
-      <PrefLabel lang="nb">Redningstjeneste</PrefLabel>
-      <PrefLabel lang="nn">Redningsteneste</PrefLabel>
-      <HiddenLabel lang="nb">Ulykke</HiddenLabel>
-      <HiddenLabel lang="nn">Ulukke</HiddenLabel>
-      <HiddenLabel lang="nb">Redningsaksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Redningsaksjon</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="ord/regional-planlegging">
       <PrefLabel lang="en">Regional planning</PrefLabel>
@@ -5391,7 +5352,7 @@
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Definition lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane. Reguleringsplan og kommuneplanlegging er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/samfunnsplanlegging</Broader>
+      <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/registrering-av-kjoretoy">
       <PrefLabel lang="en">Vehicle registration</PrefLabel>
@@ -5759,7 +5720,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/doping</Related>
       <Broader>tema/omsorgstjenester</Broader>
-      <Broader>tema/psykisk-helse</Broader>
    </Concept>
    <Concept path="ord/ruteopplysning">
       <PrefLabel lang="en">Timetable information</PrefLabel>
@@ -5823,7 +5783,7 @@
       <HiddenLabel lang="nn">Tospråkleg fagopplæring</HiddenLabel>
       <Definition lang="nn">Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge delar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/samboerskap">
       <PrefLabel lang="en">Cohabitation</PrefLabel>
@@ -6043,7 +6003,7 @@
       <Definition lang="nn">Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/skolehelsetjeneste">
       <PrefLabel lang="en">School health service</PrefLabel>
@@ -6072,7 +6032,7 @@
       <Definition lang="nn">Tilbod om gratis måltid i grunnskulen. Prøveprosjekt i ein del kommunar.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ernaring</Related>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/skolerute">
       <PrefLabel lang="en">School terms and holidays</PrefLabel>
@@ -6086,7 +6046,7 @@
       <HiddenLabel lang="nn">Skuleferie</HiddenLabel>
       <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
@@ -6104,8 +6064,8 @@
       <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
 	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
+      <Broader>tema/skolehverdag</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
@@ -6235,7 +6195,7 @@
       <HiddenLabel lang="nn">Spesialskule</HiddenLabel>
       <HiddenLabel lang="nn">Spesialundervising</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskoleopplaring</Broader>
+      <Broader>tema/grunnskole</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/spilleautomat">
@@ -6248,19 +6208,19 @@
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Definition lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/spilleavhengighet</Related>
+      <Related>ord/spillavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
-   <Concept path="ord/spilleavhengighet">
+   <Concept path="ord/spillavhengighet">
       <PrefLabel lang="en">Gambling addiction</PrefLabel>
-      <PrefLabel lang="nb">Spilleavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Speleavhengigheit</PrefLabel>
+      <PrefLabel lang="nb">Spillavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Spelavhengigheit</PrefLabel>
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleautomat</Related>
-      <Broader>tema/psykisk-helse</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/sprakkurs-og-spraktest">
       <PrefLabel lang="en">Language courses and tests</PrefLabel>
@@ -6554,7 +6514,6 @@
       <Related>ord/behandlingsreise</Related>
       <Related>ord/reiseutgifter</Related>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/pasientrettigheter</Broader>
    </Concept>
    <Concept path="ord/sykkel">
       <PrefLabel lang="en">Bicycle</PrefLabel>
@@ -6642,7 +6601,6 @@
       <Definition lang="nb">Aktiviteter og tilbud for personer med fysisk eller psykisk funksjonsnedsettelse.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stottekontakt</Related>
-      <Related>ord/psykisk-helsevern</Related>
       <Broader>tema/fritid</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -6988,7 +6946,6 @@
       <Related>ord/fritidsfiske</Related>
       <Related>ord/flomvarsel</Related>
       <Broader>tema/bygging</Broader>
-      <Broader>tema/samfunnsplanlegging</Broader>
       <Broader>tema/kommunale-planer</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -7036,7 +6993,7 @@
       <HiddenLabel lang="nn">Våpensøknad</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/jakt-og-fangst</Related>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/fritid</Broader>
    </Concept>
    <Concept path="ord/varvarsel">
       <PrefLabel lang="en">Weather forecast</PrefLabel>
@@ -7328,7 +7285,21 @@
       <HiddenLabel lang="nn">Førstegongsteneste</HiddenLabel>
       <Definition lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/forsvaret</Broader>
+   </Concept>
+   <Concept path="ord/repetisjonstjeneste">
+      <PrefLabel lang="en">Repetition service</PrefLabel>
+      <PrefLabel lang="nb">Repetisjonstjeneste</PrefLabel>
+      <PrefLabel lang="nn">Repetisjonstjeneste</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forsvaret</Broader>
+   </Concept>
+   <Concept path="ord/sesjon">
+      <PrefLabel lang="en">Session</PrefLabel>
+      <PrefLabel lang="nb">Sesjon</PrefLabel>
+      <PrefLabel lang="nn">Sesjon</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/forsvaret</Broader>
    </Concept>
    <Concept path="ord/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
@@ -7555,7 +7526,7 @@
       <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
       <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/bibliotek">
       <PrefLabel lang="en">Libraries</PrefLabel>
@@ -7591,13 +7562,6 @@
       <PrefLabel lang="nn">Bygging</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/bygg-og-eiendom</Broader>
-   </Concept>
-   <Concept path="tema/dodsfall">
-      <PrefLabel lang="en">Death</PrefLabel>
-      <PrefLabel lang="nb">Dødsfall</PrefLabel>
-      <PrefLabel lang="nn">Dødsfall</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/eiendom">
       <PrefLabel lang="en">Property</PrefLabel>
@@ -7690,10 +7654,17 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/grunnskoleopplaring">
+   <Concept path="tema/grunnskole">
       <PrefLabel lang="en">Compulsory education</PrefLabel>
-      <PrefLabel lang="nb">Grunnskoleopplæring</PrefLabel>
-      <PrefLabel lang="nn">Grunnskuleopplæring</PrefLabel>
+      <PrefLabel lang="nb">Grunnskole</PrefLabel>
+      <PrefLabel lang="nn">Grunnskule</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skole-og-utdanning</Broader>
+   </Concept>
+   <Concept path="tema/skolehverdag">
+      <PrefLabel lang="en">School life</PrefLabel>
+      <PrefLabel lang="nb">Skolehverdag</PrefLabel>
+      <PrefLabel lang="nn">Skulekvardag</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
@@ -7719,10 +7690,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
-   <Concept path="tema/rusomsorg">
-      <PrefLabel lang="en">Health services</PrefLabel>
-      <PrefLabel lang="nb">Rusomsorg</PrefLabel>
-      <PrefLabel lang="nn">Rusomsorg</PrefLabel>
+   <Concept path="tema/rus-og-avhengighet">
+      <PrefLabel lang="en">Addiction</PrefLabel>
+      <PrefLabel lang="nb">Rus og avhengighet</PrefLabel>
+      <PrefLabel lang="nn">Rus og avhengigheit</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
@@ -7759,7 +7730,7 @@
       <PrefLabel lang="nb">Innbyggerrettigheter</PrefLabel>
       <PrefLabel lang="nn">Innbyggjarettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/inntekt">
       <PrefLabel lang="en">Income</PrefLabel>
@@ -7844,6 +7815,13 @@
       <PrefLabel lang="nn">Lotteri og pengespel</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
+   </Concept>
+   <Concept path="tema/forsvaret">
+      <PrefLabel lang="en">The defense</PrefLabel>
+      <PrefLabel lang="nb">Forsvaret</PrefLabel>
+      <PrefLabel lang="nn">Forsvaret</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
@@ -7962,21 +7940,14 @@
       <PrefLabel lang="nb">Personopplysninger</PrefLabel>
       <PrefLabel lang="nn">Personopplysningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/politikk-og-valg">
       <PrefLabel lang="en">Politics and elections</PrefLabel>
       <PrefLabel lang="nb">Politikk og valg</PrefLabel>
       <PrefLabel lang="nn">Politikk og val</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
-   </Concept>
-   <Concept path="tema/psykisk-helse">
-      <PrefLabel lang="en">Mental health</PrefLabel>
-      <PrefLabel lang="nb">Psykisk helse</PrefLabel>
-      <PrefLabel lang="nn">Psykisk helse</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse-og-omsorg</Broader>
+      <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="tema/reiselivsnaring">
       <PrefLabel lang="en">Tourism industry</PrefLabel>
@@ -8005,13 +7976,6 @@
       <PrefLabel lang="nn">Rettsvesen</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/rettslige-sporsmal</Broader>
-   </Concept>
-   <Concept path="tema/samfunnsplanlegging">
-      <PrefLabel lang="en">Community planning</PrefLabel>
-      <PrefLabel lang="nb">Samfunnsplanlegging</PrefLabel>
-      <PrefLabel lang="nn">Samfunnsplanlegging</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/individ-og-samfunn</Broader>
    </Concept>
    <Concept path="tema/samliv">
       <PrefLabel lang="en">Living together</PrefLabel>
