@@ -3154,6 +3154,7 @@
       <PrefLabel lang="en">Mobility aid</PrefLabel>
       <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
+      <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av røyrsle til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av bevegelse til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
@@ -3162,7 +3163,8 @@
       <PrefLabel lang="en">Visual aid</PrefLabel>
       <PrefLabel lang="nb">Synshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Synshjelpemiddel</PrefLabel>
-      <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av syn til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av syn til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av syn til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
@@ -3170,7 +3172,8 @@
       <PrefLabel lang="en">Commnication and  cognition</PrefLabel>
       <PrefLabel lang="nb">Kommunikasjon og kognisjon</PrefLabel>
       <PrefLabel lang="nn">Kommunikasjon og kognisjon</PrefLabel>
-      <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av tale og språk til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av tale og språk til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av tale og språk til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
@@ -3178,7 +3181,8 @@
       <PrefLabel lang="en">Hearing aid</PrefLabel>
       <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Høryselshjelpemiddel</PrefLabel>
-      <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av hørsel til personer med funksjonsnedsettelse, skader, opererte eller som har redusert funksjonsevne på grunn av sykdom til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av høyrsel til personar som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av hørsel til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
