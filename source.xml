@@ -4197,16 +4197,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
-   <Concept path="ord/mobbing">
-      <PrefLabel lang="en">Bullying</PrefLabel>
-      <PrefLabel lang="nb">Mobbing</PrefLabel>
-      <PrefLabel lang="nn">Mobbing</PrefLabel>
-      <Definition lang="nn">Når ein person gjentekne gonger vert utsett for negative handlingar frå andre. Det kan dreie seg om trakassering, plaging, utfrysing og liknande.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/psykisk-helse</Broader>
-      <Broader>tema/arbeidsliv</Broader>
-      <Broader>tema/skolemiljo</Broader>
-   </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
       <PrefLabel lang="nb">Motorferdsel i utmark</PrefLabel>
