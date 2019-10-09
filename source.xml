@@ -510,6 +510,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/svangerskap-og-fodsel</Broader>
    </Concept>
+   <Concept path="ord/farskapserklaring">
+      <PrefLabel lang="en">Paternity declaration</PrefLabel>
+      <PrefLabel lang="nb">Farskapserklæring</PrefLabel>
+      <PrefLabel lang="nn">Farskapserklæring</PrefLabel>
+      <Definition lang="nn">Farskap til eit barn kan fastsetjast enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
+      <Definition lang="nb">Farskap til et barn kan fastsettes enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/svangerskap-og-fodsel</Broader>
+   </Concept>
    <Concept path="ord/adopsjon">
       <PrefLabel lang="en">Adoption</PrefLabel>
       <PrefLabel lang="nb">Adopsjon</PrefLabel>
