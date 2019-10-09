@@ -7324,7 +7324,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
-   <Concept path="ord/videregaende-skole">
+   <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
       <PrefLabel lang="nn">Vidaregående skule</PrefLabel>
@@ -7337,7 +7337,7 @@
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
       <Definition lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
+      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="ord/viltforvaltning">
       <PrefLabel lang="en">Wildlife management</PrefLabel>
