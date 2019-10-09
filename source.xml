@@ -4979,7 +4979,6 @@
       <HiddenLabel lang="nn">Logoped</HiddenLabel>
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/psykisk-helse</Broader>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/videregaende-opplaring</Broader>
       <Broader>tema/barnehage</Broader>
@@ -5718,7 +5717,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/doping</Related>
       <Broader>tema/omsorgstjenester</Broader>
-      <Broader>tema/psykisk-helse</Broader>
    </Concept>
    <Concept path="ord/ruteopplysning">
       <PrefLabel lang="en">Timetable information</PrefLabel>
@@ -6207,13 +6205,13 @@
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Definition lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/spilleavhengighet</Related>
+      <Related>ord/spillavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
-   <Concept path="ord/spilleavhengighet">
+   <Concept path="ord/spillavhengighet">
       <PrefLabel lang="en">Gambling addiction</PrefLabel>
-      <PrefLabel lang="nb">Spilleavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Speleavhengigheit</PrefLabel>
+      <PrefLabel lang="nb">Spillavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Spelavhengigheit</PrefLabel>
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
@@ -7935,13 +7933,6 @@
       <PrefLabel lang="nn">Politikk og val</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
-   </Concept>
-   <Concept path="tema/psykisk-helse">
-      <PrefLabel lang="en">Mental health</PrefLabel>
-      <PrefLabel lang="nb">Psykisk helse</PrefLabel>
-      <PrefLabel lang="nn">Psykisk helse</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/reiselivsnaring">
       <PrefLabel lang="en">Tourism industry</PrefLabel>
