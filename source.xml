@@ -4931,6 +4931,15 @@
       <Broader>tema/pasientrettigheter</Broader>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
+   <Concept path="ord/klage-pa-helse--og-omsorgstjenester">
+      <PrefLabel lang="en">Complaints about health and care services</PrefLabel>
+      <PrefLabel lang="nb">Klage på helse- og omsorgstjenester</PrefLabel>
+      <PrefLabel lang="nn">Klage på helse- og omsorgstenester</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/pasient-og-brukerombud</Related>
+      <Broader>tema/pasientrettigheter</Broader>
+      <Broader>tema/erstatningsordninger</Broader>
+   </Concept>
    <Concept path="ord/pass">
       <PrefLabel lang="en">Passports</PrefLabel>
       <PrefLabel lang="nb">Pass</PrefLabel>
