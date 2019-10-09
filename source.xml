@@ -6606,7 +6606,6 @@
       <Definition lang="nb">Aktiviteter og tilbud for personer med fysisk eller psykisk funksjonsnedsettelse.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stottekontakt</Related>
-      <Related>ord/psykisk-helsevern</Related>
       <Broader>tema/fritid</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
