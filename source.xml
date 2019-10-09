@@ -1273,7 +1273,7 @@
       <Broader>tema/bibliotek</Broader>
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/grunnskole</Broader>
    </Concept>
     <Concept path="ord/lanekort">
@@ -2047,7 +2047,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
       <Related>ord/lærling</Related>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
@@ -5005,7 +5005,7 @@
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/barnehage</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
@@ -5309,7 +5309,7 @@
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/produktsikkerhet">
       <PrefLabel lang="en">Product safety</PrefLabel>
@@ -6069,7 +6069,7 @@
       <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
@@ -7337,7 +7337,7 @@
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
       <Definition lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/viltforvaltning">
       <PrefLabel lang="en">Wildlife management</PrefLabel>
@@ -7681,6 +7681,13 @@
       <PrefLabel lang="en">Compulsory education</PrefLabel>
       <PrefLabel lang="nb">Grunnskole</PrefLabel>
       <PrefLabel lang="nn">Grunnskule</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skole-og-utdanning</Broader>
+   </Concept>
+   <Concept path="tema/fag--og-yrkesopplaring">
+      <PrefLabel lang="en">Vocational education and training</PrefLabel>
+      <PrefLabel lang="nb">Fag- og yrkesopplæring</PrefLabel>
+      <PrefLabel lang="nn">Fag- og yrkesopplæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
@@ -8062,13 +8069,6 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-og-miljo</Broader>
-   </Concept>
-   <Concept path="tema/videregaende-opplaring">
-      <PrefLabel lang="en">Upper secondary education</PrefLabel>
-      <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
-      <PrefLabel lang="nn">Vidaregåande opplæring</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
