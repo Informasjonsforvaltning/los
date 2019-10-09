@@ -5311,7 +5311,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
-   <Concept path="ord/psykisk-helsevern">
+   <Concept path="ord/psykisk-helse">
       <PrefLabel lang="en">Mental health care</PrefLabel>
       <PrefLabel lang="nb">Psykisk helsevern</PrefLabel>
       <PrefLabel lang="nn">Psykisk helsevern</PrefLabel>
@@ -5336,7 +5336,7 @@
       <Definition lang="nn">I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no)</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
-      <Broader>tema/psykisk-helse</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/realkompetanse">
       <PrefLabel lang="en">Qualifications, knowledge and skills</PrefLabel>
