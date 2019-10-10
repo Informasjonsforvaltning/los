@@ -2107,17 +2107,6 @@
       <Related>ord/renovasjon</Related>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
-   <Concept path="ord/farskap">
-      <PrefLabel lang="en">Fatherhood</PrefLabel>
-      <PrefLabel lang="nb">Farskap</PrefLabel>
-      <PrefLabel lang="nn">Farskap</PrefLabel>
-      <HiddenLabel lang="nb">Folkeregister</HiddenLabel>
-      <HiddenLabel lang="nn">Folkeregister</HiddenLabel>
-      <Definition lang="nn">Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
-      <Definition lang="nb">Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova).</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/foreldre-og-foresatte</Broader>
-   </Concept>
    <Concept path="ord/fastlege">
       <PrefLabel lang="en">General Practitioning Doctor</PrefLabel>
       <PrefLabel lang="nb">Fastlege</PrefLabel>
