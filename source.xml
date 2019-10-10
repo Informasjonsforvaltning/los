@@ -6221,13 +6221,13 @@
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Definition lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/spillavhengighet</Related>
+      <Related>ord/spilleavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
-   <Concept path="ord/spillavhengighet">
+   <Concept path="ord/spilleavhengighet">
       <PrefLabel lang="en">Gambling addiction</PrefLabel>
-      <PrefLabel lang="nb">Spillavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Spelavhengigheit</PrefLabel>
+      <PrefLabel lang="nb">Spilleavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Speleavhengigheit</PrefLabel>
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
