@@ -7603,7 +7603,7 @@
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
       <PrefLabel lang="nn">Erstatningsordningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/fiske-fangst-og-akvakultur">
       <PrefLabel lang="en">Fishing, hunting and aquaculture</PrefLabel>
@@ -7849,7 +7849,7 @@
       <PrefLabel lang="nb">Lovbrudd og straff</PrefLabel>
       <PrefLabel lang="nn">Lovbrot og straff</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/naring">
       <PrefLabel lang="en">Business</PrefLabel>
@@ -7984,10 +7984,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/rettslige-sporsmal">
+   <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
-      <PrefLabel lang="nb">Rettslige spørsmål</PrefLabel>
-      <PrefLabel lang="nn">Rettslege spørsmål</PrefLabel>
+      <PrefLabel lang="nb">Lov og rett</PrefLabel>
+      <PrefLabel lang="nn">Lov og rett</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7996,7 +7996,7 @@
       <PrefLabel lang="nb">Rettsvesen</PrefLabel>
       <PrefLabel lang="nn">Rettsvesen</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/samliv">
       <PrefLabel lang="en">Living together</PrefLabel>
