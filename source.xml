@@ -4650,6 +4650,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
@@ -4666,6 +4667,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/fastsettelse-av-foreldreskap">
       <PrefLabel lang="en">Determination of parenthood</PrefLabel>
@@ -4673,10 +4675,11 @@
       <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
       <HiddenLabel lang="nb">Farskap</HiddenLabel>
       <HiddenLabel lang="nn">Farskap</HiddenLabel>
-      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
-      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
+      <HiddenLabel lang="nb">Medmorskap</HiddenLabel>
+      <HiddenLabel lang="nn">Medmorskap</HiddenLabel>
+      <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap. Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
+      <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap. Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/familie-og-barn</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
@@ -7422,7 +7425,7 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeid</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/yrkesskadedekning">
       <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
