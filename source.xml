@@ -1273,7 +1273,7 @@
       <Broader>tema/bibliotek</Broader>
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/grunnskole</Broader>
    </Concept>
     <Concept path="ord/lanekort">
@@ -2047,7 +2047,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
       <Related>ord/lærling</Related>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
@@ -4680,8 +4680,7 @@
       <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap. Det skal fastsetjast farskap for alle barn som blir fødde i Noreg. Fastsetjing og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap. Det skal fastsettes farskap for alle barn som blir fødde i Norge. Fastsetting og endring av farsskap er regulert av Lov om barn og foreldre (barnelova)</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/familie-og-barn</Broader>
-      <Broader>tema/familieytelser</Broader>>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
@@ -5000,7 +4999,7 @@
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/barnehage</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
@@ -5304,7 +5303,7 @@
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/produktsikkerhet">
       <PrefLabel lang="en">Product safety</PrefLabel>
@@ -6064,7 +6063,7 @@
       <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
@@ -6225,13 +6224,13 @@
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Definition lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/spillavhengighet</Related>
+      <Related>ord/spilleavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
-   <Concept path="ord/spillavhengighet">
+   <Concept path="ord/spilleavhengighet">
       <PrefLabel lang="en">Gambling addiction</PrefLabel>
-      <PrefLabel lang="nb">Spillavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Spelavhengigheit</PrefLabel>
+      <PrefLabel lang="nb">Spilleavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Speleavhengigheit</PrefLabel>
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
@@ -7319,7 +7318,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
-   <Concept path="ord/videregaende-skole">
+   <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
       <PrefLabel lang="nn">Vidaregående skule</PrefLabel>
@@ -7332,7 +7331,7 @@
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
       <Definition lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="ord/viltforvaltning">
       <PrefLabel lang="en">Wildlife management</PrefLabel>
@@ -7607,7 +7606,7 @@
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
       <PrefLabel lang="nn">Erstatningsordningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/fiske-fangst-og-akvakultur">
       <PrefLabel lang="en">Fishing, hunting and aquaculture</PrefLabel>
@@ -7676,6 +7675,13 @@
       <PrefLabel lang="en">Compulsory education</PrefLabel>
       <PrefLabel lang="nb">Grunnskole</PrefLabel>
       <PrefLabel lang="nn">Grunnskule</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skole-og-utdanning</Broader>
+   </Concept>
+   <Concept path="tema/fag--og-yrkesopplaring">
+      <PrefLabel lang="en">Vocational education and training</PrefLabel>
+      <PrefLabel lang="nb">Fag- og yrkesopplæring</PrefLabel>
+      <PrefLabel lang="nn">Fag- og yrkesopplæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
@@ -7846,7 +7852,7 @@
       <PrefLabel lang="nb">Lovbrudd og straff</PrefLabel>
       <PrefLabel lang="nn">Lovbrot og straff</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/naring">
       <PrefLabel lang="en">Business</PrefLabel>
@@ -7981,10 +7987,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/rettslige-sporsmal">
+   <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
-      <PrefLabel lang="nb">Rettslige spørsmål</PrefLabel>
-      <PrefLabel lang="nn">Rettslege spørsmål</PrefLabel>
+      <PrefLabel lang="nb">Lov og rett</PrefLabel>
+      <PrefLabel lang="nn">Lov og rett</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7993,7 +7999,7 @@
       <PrefLabel lang="nb">Rettsvesen</PrefLabel>
       <PrefLabel lang="nn">Rettsvesen</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/rettslige-sporsmal</Broader>
+      <Broader>tema/lov-og-rett</Broader>
    </Concept>
    <Concept path="tema/samliv">
       <PrefLabel lang="en">Living together</PrefLabel>
@@ -8057,13 +8063,6 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-og-miljo</Broader>
-   </Concept>
-   <Concept path="tema/videregaende-opplaring">
-      <PrefLabel lang="en">Upper secondary education</PrefLabel>
-      <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
-      <PrefLabel lang="nn">Vidaregåande opplæring</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
