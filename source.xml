@@ -6231,9 +6231,11 @@
       <PrefLabel lang="en">Gambling addiction</PrefLabel>
       <PrefLabel lang="nb">Spilleavhengighet</PrefLabel>
       <PrefLabel lang="nn">Speleavhengigheit</PrefLabel>
+      <HiddenLabel lang="nb">Spillavhengighet</HiddenLabel>
+      <HiddenLabel lang="nn">Spelavhengigheit</HiddenLabel>
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
-      <Definition lang="nn">Speleavhengigheiet er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
+      <Definition lang="nn">Speleavhengigheit er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleautomat</Related>
       <Broader>tema/rus-og-avhengighet</Broader>
