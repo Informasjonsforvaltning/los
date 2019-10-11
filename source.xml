@@ -7361,6 +7361,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/grunnskole-for-voksne">
+      <PrefLabel lang="en">Adult education</PrefLabel>
+      <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
+      <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
+      <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/soke-skole">
       <PrefLabel lang="en">Applying to schools</PrefLabel>
       <PrefLabel lang="nb">Søke skole</PrefLabel>
