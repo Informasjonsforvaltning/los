@@ -7835,13 +7835,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="tema/individ-og-samfunn">
-      <PrefLabel lang="en">Individuals and society</PrefLabel>
-      <PrefLabel lang="nb">Individ og samfunn</PrefLabel>
-      <PrefLabel lang="nn">Individ og samfunn</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/innbyggerrettigheter">
       <PrefLabel lang="en">Citizens' rights</PrefLabel>
       <PrefLabel lang="nb">Innbyggerrettigheter</PrefLabel>
