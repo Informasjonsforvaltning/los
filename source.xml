@@ -7325,6 +7325,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/ferie-og-fridager">
+      <PrefLabel lang="en">School holidays</PrefLabel>
+      <PrefLabel lang="nb">Ferie og fridager</PrefLabel>
+      <PrefLabel lang="nn">Ferie og fridagar</PrefLabel>
+      <Definition lang="nn">Oversikt over fylkeskommunens planlagte fridager og ferier for skolene.</Definition>
+      <Definition lang="nb">Oversikt over fylkeskommunen sin planlagga fridagar og feriar for skulane.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/eksamen">
       <PrefLabel lang="en">Exam</PrefLabel>
       <PrefLabel lang="nb">Eksamen</PrefLabel>
