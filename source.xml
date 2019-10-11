@@ -7325,6 +7325,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/karakterer-og-evaluering">
+      <PrefLabel lang="en">Marking and evaluation</PrefLabel>
+      <PrefLabel lang="nb">Karakterer og evaluering</PrefLabel>
+      <PrefLabel lang="nn">Karakterar og evaluering</PrefLabel>
+      <Definition lang="nn">Eleven får karakterar i orden og oppførsle, munnleg og skriftleg eksamen og standpunktkarakter. Det er mogeleg å klage på alle karakterar. Evaluering omfattar undervegsvurdering, sluttvurdering og andre evalueringar av eleven.</Definition>
+      <Definition lang="nb">Karakterer gis i orden og oppførsel, muntlig og skriftlig eksamen og som standpunktkarakter. Det er mulig å klage på alle karakterer. Evaluering omfatter underveisvurdering, sluttvurdering og andre evalueringer av eleven.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
       <PrefLabel lang="nb">Fravær</PrefLabel>
