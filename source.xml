@@ -6709,14 +6709,17 @@
       <HiddenLabel lang="nn">Tolking</HiddenLabel>
       <HiddenLabel lang="nb">Translatør</HiddenLabel>
       <HiddenLabel lang="nn">Translatør</HiddenLabel>
+      <HiddenLabel lang="nb">Tegnspråktolk</HiddenLabel>
+      <HiddenLabel lang="nn">Tegnspråktolk</HiddenLabel>
       <HiddenLabel lang="nb">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nn">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nb">Oversetting</HiddenLabel>
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
-      <Definition lang="nn">Å tolke eller gje att meininga i ein tekst på eit anna språk.</Definition>
-      <Definition lang="nb">Å tolke eller gjengi meningen i en tekst på et annet språk.</Definition>
+      <Definition lang="nn">*ny definisjon påkrevd*</Definition>
+      <Definition lang="nb">*ny definisjon påkrevd*</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
+      <Broader>tema/medvirkning</Broader>
       </Concept>
    <Concept path="ord/tegnspraktolk">
       <PrefLabel lang="en">Sign language interpreter</PrefLabel>
