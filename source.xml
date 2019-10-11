@@ -6709,14 +6709,17 @@
       <HiddenLabel lang="nn">Tolking</HiddenLabel>
       <HiddenLabel lang="nb">Translatør</HiddenLabel>
       <HiddenLabel lang="nn">Translatør</HiddenLabel>
+      <HiddenLabel lang="nb">Tegnspråktolk</HiddenLabel>
+      <HiddenLabel lang="nn">Tegnspråktolk</HiddenLabel>
       <HiddenLabel lang="nb">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nn">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nb">Oversetting</HiddenLabel>
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
-      <Definition lang="nn">Å tolke eller gje att meininga i ein tekst på eit anna språk.</Definition>
-      <Definition lang="nb">Å tolke eller gjengi meningen i en tekst på et annet språk.</Definition>
+      <Definition lang="nn">*ny definisjon påkrevd*</Definition>
+      <Definition lang="nb">*ny definisjon påkrevd*</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
+      <Broader>tema/medvirkning</Broader>
       </Concept>
    <Concept path="ord/tegnspraktolk">
       <PrefLabel lang="en">Sign language interpreter</PrefLabel>
@@ -7831,13 +7834,6 @@
       <PrefLabel lang="nn">Idrett</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/kultur-idrett-og-fritid</Broader>
-   </Concept>
-   <Concept path="tema/individ-og-samfunn">
-      <PrefLabel lang="en">Individuals and society</PrefLabel>
-      <PrefLabel lang="nb">Individ og samfunn</PrefLabel>
-      <PrefLabel lang="nn">Individ og samfunn</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/innbyggerrettigheter">
       <PrefLabel lang="en">Citizens' rights</PrefLabel>
