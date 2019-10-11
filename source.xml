@@ -7343,6 +7343,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/skolemiljo">
+      <PrefLabel lang="en">School environment</PrefLabel>
+      <PrefLabel lang="nb">Skolemiljø</PrefLabel>
+      <PrefLabel lang="nn">Skulemiljø</PrefLabel>
+      <Definition lang="nn">Skulen har ansvar for å fremje helsa, trivselen og læringa til elevane. Ansvaret omfattar det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjeld også det psykososiale miljøet og problema som mobbing, trakassering eller diskriminering.</Definition>
+      <Definition lang="nb">Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
       <PrefLabel lang="nb">Fravær</PrefLabel>
