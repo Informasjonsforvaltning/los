@@ -1846,24 +1846,6 @@
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/eksamen">
-      <PrefLabel lang="en">Exams</PrefLabel>
-      <PrefLabel lang="nb">Eksamen</PrefLabel>
-      <PrefLabel lang="nn">Eksamen</PrefLabel>
-      <HiddenLabel lang="nb">Sensor</HiddenLabel>
-      <HiddenLabel lang="nn">Sensor</HiddenLabel>
-      <HiddenLabel lang="nb">Avgangsprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Avgangsprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Fagprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Fagprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Svenneprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Sveineprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Kompetanseprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Kompetanseprøve</HiddenLabel>
-      <Definition lang="nn">Avgangsprøve i grunnskule, vidaregåande skule, universitet og høgskular m.fl.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-   </Concept>
    <Concept path="ord/ektefellepensjon">
       <PrefLabel lang="en">Surviving spouse pension</PrefLabel>
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
@@ -6079,6 +6061,7 @@
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/skolehverdag</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
       <PrefLabel lang="en">Avalanche warning</PrefLabel>
@@ -6653,7 +6636,7 @@
       <Broader>tema/barnehage</Broader>
    </Concept>
    <Concept path="ord/tilrettelegging-pa-arbeidsplassen">
-      <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
+      <PrefLabel lang="en">Workplace facilitation</PrefLabel>
       <PrefLabel lang="nb">Tilrettelegging på arbeidsplassen</PrefLabel>
       <PrefLabel lang="nn">Tilrettelegging på arbeidsplassen</PrefLabel>
       <Definition lang="nn">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
@@ -7315,6 +7298,115 @@
       <PrefLabel lang="nn">Sesjon</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
+   </Concept>
+   <Concept path="ord/brukermedvirkning-i-skolen">
+      <PrefLabel lang="en">User involvement in school</PrefLabel>
+      <PrefLabel lang="nb">Brukermedvirkning i skolen</PrefLabel>
+      <PrefLabel lang="nn">Brukarmedverknad i skulen</PrefLabel>
+      <Definition lang="nn">Brukarmedverknad omfattar heim-skulesamarbeid og elevmedverknad. Alle elevar har rett til å medverke og påverke eigen skulekvardag. Alle foreldre har rett til å medverke gjennom råd og utval.</Definition>
+      <Definition lang="nb">Brukermedvirkning omfatter hjem-skolesamarbeid og elevmedvirkning. Alle elever har rett til å medvirke og påvirke egen skolehverdag. Alle foreldre har rett til å medvirke gjennom råd og utvalg.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/karakterer-og-evaluering">
+      <PrefLabel lang="en">Marking and evaluation</PrefLabel>
+      <PrefLabel lang="nb">Karakterer og evaluering</PrefLabel>
+      <PrefLabel lang="nn">Karakterar og evaluering</PrefLabel>
+      <Definition lang="nn">Eleven får karakterar i orden og oppførsle, munnleg og skriftleg eksamen og standpunktkarakter. Det er mogeleg å klage på alle karakterar. Evaluering omfattar undervegsvurdering, sluttvurdering og andre evalueringar av eleven.</Definition>
+      <Definition lang="nb">Karakterer gis i orden og oppførsel, muntlig og skriftlig eksamen og som standpunktkarakter. Det er mulig å klage på alle karakterer. Evaluering omfatter underveisvurdering, sluttvurdering og andre evalueringer av eleven.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/permisjon-og-fritak">
+      <PrefLabel lang="en">Leave of absence and exemptions</PrefLabel>
+      <PrefLabel lang="nb">Permisjon og fritak</PrefLabel>
+      <PrefLabel lang="nn">Permisjon og fritak</PrefLabel>
+      <Definition lang="nn">Permisjon er å gi eleven fri for ein periode etter søknad frå føresette eller elever over 18 år. Skulen kan gje fritak frå undervising eller vurdering i einskilde fag etter søknad frå føresette eller elever over 18 år.</Definition>
+      <Definition lang="nb">Permisjon er å gi eleven fri for en periode etter søknad fra foresatte eller elever over 18 år. Fritak fra undervisning eller vurdering i enkelte fag kan gis etter søknad fra foresatte eller elever over 18 år.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/utdannings--og-yrkesveiledning">
+      <PrefLabel lang="en">Educational and vocational guidance</PrefLabel>
+      <PrefLabel lang="nb">Utdannings- og yrkesveiledning</PrefLabel>
+      <PrefLabel lang="nn">Utdannings- og yrkesrettleiing og fritak</PrefLabel>
+      <Definition lang="nn">Alle vidaregående skular tilbyr rådgjeving til utdanningar og yrke.</Definition>
+      <Definition lang="nb">Alle videregående skoler tilbyr rådgivning til utdanninger og yrker.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/videragaende-opplaring">
+      <PrefLabel lang="en">Upper secondary education</PrefLabel>
+      <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
+      <PrefLabel lang="nn">Vidaregåande opplæring</PrefLabel>
+      <Definition lang="nn">Vidaregående skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregående opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
+      <Definition lang="nb">Videregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års videregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/grunnskole-for-voksne">
+      <PrefLabel lang="en">Primary and lower secondary education for adults</PrefLabel>
+      <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
+      <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
+      <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/voksenopplaring</Broader>
+   </Concept>
+   <Concept path="ord/videregaende-skole-for-voksne">
+      <PrefLabel lang="en">Upper secondary education for adults</PrefLabel>
+      <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
+      <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
+      <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/voksenopplaring</Broader>
+   </Concept>
+   <Concept path="ord/soke-skole">
+      <PrefLabel lang="en">Applying to schools</PrefLabel>
+      <PrefLabel lang="nb">Søke skole</PrefLabel>
+      <PrefLabel lang="nn">Søkje skule</PrefLabel>
+      <Definition lang="nn">Ungdom som har fullført grunnskulen eller tilsvarande opplæring, har rett til vidaregående opplæring. Søknad til vidaregående skule blir gjord sentralt og det er lik frist over heile landet.</Definition>
+      <Definition lang="nb">Ungdom som har fullført grunnskolen eller tilsvarende opplæring, har rett til tre års videregående opplæring. Søknad til videregående skole gjøres sentralt og det er lik frist over hele landet.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/skolemiljo">
+      <PrefLabel lang="en">School environment</PrefLabel>
+      <PrefLabel lang="nb">Skolemiljø</PrefLabel>
+      <PrefLabel lang="nn">Skulemiljø</PrefLabel>
+      <Definition lang="nn">Skulen har ansvar for å fremje helsa, trivselen og læringa til elevane. Ansvaret omfattar det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjeld også det psykososiale miljøet og problema som mobbing, trakassering eller diskriminering.</Definition>
+      <Definition lang="nb">Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/fraver">
+      <PrefLabel lang="en">Absence</PrefLabel>
+      <PrefLabel lang="nb">Fravær</PrefLabel>
+      <PrefLabel lang="nn">Fråver</PrefLabel>
+      <Definition lang="nn">Vidaregående skular har reglar for kor mykje fråvær ein elev kan ha utan å miste grunnlaget for karakter. Fråværsreglane er nasjonale, men kvar skule kan sjølv vurdere enkelttilfelle slik at ikkje alt fråvær blir tald som fråvær. I tillegg finst dei gyldige grunnane til fråvær som visse rettar i opplæringslova, helse, politisk arbeid, religionsutøving eller anna. Gyldige grunnar til fråvær må dokumenterast.</Definition>
+      <Definition lang="nb">Videregående skoler har regler for hvor mye fravær en elev kan ha uten å miste grunnlaget for karakter. Fraværsreglene er nasjonale, men hver skole kan selv vurdere enkelttilfeller slik at ikke all fravær telles som fravær. I tillegg finnes det gyldige grunner til fravær som visse rettigheter i opplæringsloven, helse, politisk arbeid, religionsutøvelse eller annet. Gyldige grunner til fravær må dokumenteres.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/ferie-og-fridager">
+      <PrefLabel lang="en">School holidays</PrefLabel>
+      <PrefLabel lang="nb">Ferie og fridager</PrefLabel>
+      <PrefLabel lang="nn">Ferie og fridagar</PrefLabel>
+      <Definition lang="nn">Oversikt over fylkeskommunens planlagte fridager og ferier for skolene.</Definition>
+      <Definition lang="nb">Oversikt over fylkeskommunen sin planlagga fridagar og feriar for skulane.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/eksamen">
+      <PrefLabel lang="en">Exam</PrefLabel>
+      <PrefLabel lang="nb">Eksamen</PrefLabel>
+      <PrefLabel lang="nn">Eksamen</PrefLabel>
+      <Definition lang="nn">Eksamen kan vere sentralt gitt frå Utdanningsdirektoratet eller lokalt gitt, og kan vere skriftleg, munnleg eller praktisk. Fråvær frå eksamen krev dokumentert gyldig fråvær. Alle kan klage på eksamenskarakteren sin.</Definition>
+      <Definition lang="nb">Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
