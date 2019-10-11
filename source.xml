@@ -7334,6 +7334,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/permisjon-og-fritak">
+      <PrefLabel lang="en">Leave of absence and exemptions</PrefLabel>
+      <PrefLabel lang="nb">Permisjon og fritak</PrefLabel>
+      <PrefLabel lang="nn">Permisjon og fritak</PrefLabel>
+      <Definition lang="nn">Permisjon er å gi eleven fri for ein periode etter søknad frå føresette eller elever over 18 år. Skulen kan gje fritak frå undervising eller vurdering i einskilde fag etter søknad frå føresette eller elever over 18 år.</Definition>
+      <Definition lang="nb">Permisjon er å gi eleven fri for en periode etter søknad fra foresatte eller elever over 18 år. Fritak fra undervisning eller vurdering i enkelte fag kan gis etter søknad fra foresatte eller elever over 18 år.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
       <PrefLabel lang="nb">Fravær</PrefLabel>
