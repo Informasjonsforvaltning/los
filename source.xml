@@ -7343,6 +7343,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/skoleskyss">
+      <PrefLabel lang="en">School transport</PrefLabel>
+      <PrefLabel lang="nb">Skoleskyss</PrefLabel>
+      <PrefLabel lang="nn">Skuleskyss</PrefLabel>
+      <Definition lang="nn">Elevar som bur ein viss avstand frå skulen eller har nedsett funksjonsevne har rett til skuleskyss. Det er skulen som organiserer skuleskyss.</Definition>
+      <Definition lang="nb">Elever som bor en viss avstand fra skolen eller har nedsatt funksjonsevne har rett til skoleskyss. Det er skolen som organiserer skoleskyss.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/skolemiljo">
       <PrefLabel lang="en">School environment</PrefLabel>
       <PrefLabel lang="nb">Skolemiljø</PrefLabel>
