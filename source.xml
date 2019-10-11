@@ -7343,6 +7343,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/soke-skole">
+      <PrefLabel lang="en">Applying to schools</PrefLabel>
+      <PrefLabel lang="nb">Søke skole</PrefLabel>
+      <PrefLabel lang="nn">Søkje skule</PrefLabel>
+      <Definition lang="nn">Ungdom som har fullført grunnskulen eller tilsvarande opplæring, har rett til vidaregående opplæring. Søknad til vidaregående skule blir gjord sentralt og det er lik frist over heile landet.</Definition>
+      <Definition lang="nb">Ungdom som har fullført grunnskolen eller tilsvarende opplæring, har rett til tre års videregående opplæring. Søknad til videregående skole gjøres sentralt og det er lik frist over hele landet.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
       <PrefLabel lang="nb">Skoleskyss</PrefLabel>
