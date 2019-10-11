@@ -1846,24 +1846,6 @@
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/eksamen">
-      <PrefLabel lang="en">Exams</PrefLabel>
-      <PrefLabel lang="nb">Eksamen</PrefLabel>
-      <PrefLabel lang="nn">Eksamen</PrefLabel>
-      <HiddenLabel lang="nb">Sensor</HiddenLabel>
-      <HiddenLabel lang="nn">Sensor</HiddenLabel>
-      <HiddenLabel lang="nb">Avgangsprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Avgangsprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Fagprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Fagprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Svenneprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Sveineprøve</HiddenLabel>
-      <HiddenLabel lang="nb">Kompetanseprøve</HiddenLabel>
-      <HiddenLabel lang="nn">Kompetanseprøve</HiddenLabel>
-      <Definition lang="nn">Avgangsprøve i grunnskule, vidaregåande skule, universitet og høgskular m.fl.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-   </Concept>
    <Concept path="ord/ektefellepensjon">
       <PrefLabel lang="en">Surviving spouse pension</PrefLabel>
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
@@ -6079,6 +6061,7 @@
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/skolehverdag</Broader>
       <Broader>tema/mobilitetstilbud</Broader>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="ord/skredvarsel">
       <PrefLabel lang="en">Avalanche warning</PrefLabel>
@@ -7388,15 +7371,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
-   <Concept path="ord/skoleskyss">
-      <PrefLabel lang="en">School transport</PrefLabel>
-      <PrefLabel lang="nb">Skoleskyss</PrefLabel>
-      <PrefLabel lang="nn">Skuleskyss</PrefLabel>
-      <Definition lang="nn">Elevar som bur ein viss avstand frå skulen eller har nedsett funksjonsevne har rett til skuleskyss. Det er skulen som organiserer skuleskyss.</Definition>
-      <Definition lang="nb">Elever som bor en viss avstand fra skolen eller har nedsatt funksjonsevne har rett til skoleskyss. Det er skolen som organiserer skoleskyss.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/videregaende-skole</Broader>
-   </Concept>
    <Concept path="ord/skolemiljo">
       <PrefLabel lang="en">School environment</PrefLabel>
       <PrefLabel lang="nb">Skolemiljø</PrefLabel>
@@ -7432,6 +7406,7 @@
       <Definition lang="nb">Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
