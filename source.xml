@@ -6653,7 +6653,7 @@
       <Broader>tema/barnehage</Broader>
    </Concept>
    <Concept path="ord/tilrettelegging-pa-arbeidsplassen">
-      <PrefLabel lang="en">Supervision and approval of kindergartens</PrefLabel>
+      <PrefLabel lang="en">Workplace facilitation</PrefLabel>
       <PrefLabel lang="nb">Tilrettelegging på arbeidsplassen</PrefLabel>
       <PrefLabel lang="nn">Tilrettelegging på arbeidsplassen</PrefLabel>
       <Definition lang="nn">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</Definition>
@@ -7315,6 +7315,15 @@
       <PrefLabel lang="nn">Sesjon</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
+   </Concept>
+   <Concept path="ord/brukermedvirkning-i-skolen">
+      <PrefLabel lang="en">User involvement in school</PrefLabel>
+      <PrefLabel lang="nb">Brukermedvirkning i skolen</PrefLabel>
+      <PrefLabel lang="nn">Brukarmedverknad i skulen</PrefLabel>
+      <Definition lang="nn">Brukarmedverknad omfattar heim-skulesamarbeid og elevmedverknad. Alle elevar har rett til å medverke og påverke eigen skulekvardag. Alle foreldre har rett til å medverke gjennom råd og utval.</Definition>
+      <Definition lang="nb">Brukermedvirkning omfatter hjem-skolesamarbeid og elevmedvirkning. Alle elever har rett til å medvirke og påvirke egen skolehverdag. Alle foreldre har rett til å medvirke gjennom råd og utvalg.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
