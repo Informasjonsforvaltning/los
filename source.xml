@@ -7325,6 +7325,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/eksamen">
+      <PrefLabel lang="en">Exam</PrefLabel>
+      <PrefLabel lang="nb">Eksamen</PrefLabel>
+      <PrefLabel lang="nn">Eksamen</PrefLabel>
+      <Definition lang="nn">Eksamen kan vere sentralt gitt frå Utdanningsdirektoratet eller lokalt gitt, og kan vere skriftleg, munnleg eller praktisk. Fråvær frå eksamen krev dokumentert gyldig fråvær. Alle kan klage på eksamenskarakteren sin.</Definition>
+      <Definition lang="nb">Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
