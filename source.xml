@@ -7343,6 +7343,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
+   <Concept path="ord/utdannings--og-yrkesveiledning">
+      <PrefLabel lang="en">Educational and vocational guidance</PrefLabel>
+      <PrefLabel lang="nb">Utdannings- og yrkesveiledning</PrefLabel>
+      <PrefLabel lang="nn">Utdannings- og yrkesrettleiing og fritak</PrefLabel>
+      <Definition lang="nn">Alle vidaregående skular tilbyr rådgjeving til utdanningar og yrke.</Definition>
+      <Definition lang="nb">Alle videregående skoler tilbyr rådgivning til utdanninger og yrker.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
+   </Concept>
    <Concept path="ord/soke-skole">
       <PrefLabel lang="en">Applying to schools</PrefLabel>
       <PrefLabel lang="nb">Søke skole</PrefLabel>
