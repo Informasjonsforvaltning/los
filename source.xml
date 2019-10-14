@@ -508,7 +508,7 @@
       <Definition lang="nn">Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke.</Definition>
       <Definition lang="nb">Selvbestemt svangerskapsavbrudd innen 12. svangerskapsuke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/farskapserklaring">
       <PrefLabel lang="en">Paternity declaration</PrefLabel>
@@ -517,7 +517,7 @@
       <Definition lang="nn">Farskap til eit barn kan fastsetjast enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
       <Definition lang="nb">Farskap til et barn kan fastsettes enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/medmorskap">
       <PrefLabel lang="en">Co-maternity</PrefLabel>
@@ -526,7 +526,7 @@
       <Definition lang="nn">Søknad om medmorskap skal sendast folkeregistermyndigheita.</Definition>
       <Definition lang="nb">Søknad om medmorskap sendes folkeregistermyndigheten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/adopsjon">
       <PrefLabel lang="en">Adoption</PrefLabel>
@@ -5292,7 +5292,7 @@
       <HiddenLabel lang="nn">Sterilisering</HiddenLabel>
       <Definition lang="nn">Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/privatskole">
       <PrefLabel lang="en">Private schools</PrefLabel>
@@ -5980,6 +5980,26 @@
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
+   <Concept path="ord/klimatiltak">
+      <PrefLabel lang="en">Climate change measuers</PrefLabel>
+      <PrefLabel lang="nb">Klimatiltak</PrefLabel>
+      <PrefLabel lang="nn">Klimatiltak</PrefLabel>
+      <Definition lang="nn">Tiltak som er med på å førebygge klimaendringar.</Definition>
+      <Definition lang="nb">Tiltak som er med på å forebygge klimaendringer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/klimakvote">
+      <PrefLabel lang="en">Emission trading</PrefLabel>
+      <PrefLabel lang="nb">Klimakvote</PrefLabel>
+      <PrefLabel lang="nn">Klimakvote</PrefLabel>
+      <Definition lang="nn">Tillatelse til å sleppe ut eitt tonn CO2.</Definition>
+      <Definition lang="nb">Tillatelse til å slippe ut ett tonn CO2.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
       <PrefLabel lang="nb">Skogbruk</PrefLabel>
@@ -6415,7 +6435,7 @@
       <Definition lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
@@ -6942,7 +6962,7 @@
       <Definition lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/adopsjon</Related>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/ungdomsmidler">
       <PrefLabel lang="en">Funding for youth activities</PrefLabel>
@@ -7598,7 +7618,7 @@
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
       <PrefLabel lang="nn">Avfallshandtering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
@@ -7717,7 +7737,7 @@
       <PrefLabel lang="nb">Energi</PrefLabel>
       <PrefLabel lang="nn">Energi</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
@@ -7773,7 +7793,7 @@
       <PrefLabel lang="nb">Forurensning og stråling</PrefLabel>
       <PrefLabel lang="nn">Forureining og stråling</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/friluftsliv">
       <PrefLabel lang="en">Outdoor life</PrefLabel>
@@ -7979,10 +7999,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
-   <Concept path="tema/natur-og-miljo">
-      <PrefLabel lang="en">Nature and environment</PrefLabel>
-      <PrefLabel lang="nb">Natur og miljø</PrefLabel>
-      <PrefLabel lang="nn">Natur og miljø</PrefLabel>
+   <Concept path="tema/natur-klima-og-miljo">
+      <PrefLabel lang="en">Nature, climate and environment</PrefLabel>
+      <PrefLabel lang="nb">Natur, klima og miljø</PrefLabel>
+      <PrefLabel lang="nn">Natur, klima og miljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7991,7 +8011,7 @@
       <PrefLabel lang="nb">Naturforvaltning</PrefLabel>
       <PrefLabel lang="nn">Naturforvaltning</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/okonomiske-ytelser">
       <PrefLabel lang="en">Benefits</PrefLabel>
@@ -8154,10 +8174,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/svangerskap-og-fodsel">
-      <PrefLabel lang="en">Pregnancy and birth</PrefLabel>
-      <PrefLabel lang="nb">Svangerskap og fødsel</PrefLabel>
-      <PrefLabel lang="nn">Svangerskap og fødsel</PrefLabel>
+   <Concept path="tema/svangerskap">
+      <PrefLabel lang="en">Pregnancy</PrefLabel>
+      <PrefLabel lang="nb">Svangerskap</PrefLabel>
+      <PrefLabel lang="nn">Svangerskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
@@ -8173,7 +8193,7 @@
       <PrefLabel lang="nb">Vær og klima</PrefLabel>
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
