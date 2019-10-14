@@ -1462,10 +1462,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
-   <Concept path="ord/brannvern-og-eksplosjonsvern">
-      <PrefLabel lang="en">Fire prevention and explosion protection</PrefLabel>
-      <PrefLabel lang="nb">Brannvern og eksplosjonsvern</PrefLabel>
-      <PrefLabel lang="nn">Brannvern og eksplosjonsvern</PrefLabel>
+   <Concept path="tema/brann">
+      <PrefLabel lang="en">Fire</PrefLabel>
+      <PrefLabel lang="nb">Brann</PrefLabel>
+      <PrefLabel lang="nn">Brann</PrefLabel>
       <HiddenLabel lang="nb">Brannfarlig vare</HiddenLabel>
       <HiddenLabel lang="nn">Brannfarleg vare</HiddenLabel>
       <HiddenLabel lang="nb">Sprengstoff</HiddenLabel>
@@ -1476,11 +1476,15 @@
       <HiddenLabel lang="nn">Eksplosiv</HiddenLabel>
       <HiddenLabel lang="nb">Brannvesen</HiddenLabel>
       <HiddenLabel lang="nn">Brannvesen</HiddenLabel>
-      <Definition lang="nn">Handtering av brannfarlege, trykksette, eksplosjonsfarlege og andre farlege stoff. Til dette høyrer også transport av farleg gods på veg og jernbane og førebyggjande brannvern. Fyrverkeri er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/feiing</Related>
-      <Related>ord/fyrverkeri</Related>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
+   </Concept>
+   <Concept path="tema/varslingstjenester">
+      <PrefLabel lang="en">Fire</PrefLabel>
+      <PrefLabel lang="nb">varslingstjenester</PrefLabel>
+      <PrefLabel lang="nn">Varslingstenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
@@ -2121,9 +2125,9 @@
       <Definition lang="nn">Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn.</Definition>
       <Definition lang="nn">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
+      <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/fengselshelsetjeneste">
       <PrefLabel lang="en">Prison health service</PrefLabel>
@@ -2249,6 +2253,7 @@
       <Related>ord/universell-utforming</Related>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
       <PrefLabel lang="en">Refugees and protection</PrefLabel>
@@ -2761,8 +2766,32 @@
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Broader>tema/handel-og-service</Broader>
+      <Broader>tema/brann</Broader>
+   </Concept>
+   <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
+      <PrefLabel lang="en">Fire safety report</PrefLabel>
+      <PrefLabel lang="nb">Bekymringsmelding om brannsikkerhet</PrefLabel>
+      <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/brann</Broader>
+   </Concept>
+   <Concept path="ord/branntilsyn">
+      <PrefLabel lang="en">Fire supervision</PrefLabel>
+      <PrefLabel lang="nb">Branntilsyn</PrefLabel>
+      <PrefLabel lang="nn">Branntilsyn</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/brann</Broader>
+   </Concept>
+   <Concept path="ord/melding-om-overnatting">
+      <PrefLabel lang="en">Notice of accommodation</PrefLabel>
+      <PrefLabel lang="nb">Melding om overnatting</PrefLabel>
+      <PrefLabel lang="nn">Melding om overnatting</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/fysioterapi">
       <PrefLabel lang="en">Physiotherapy</PrefLabel>
@@ -5949,6 +5978,7 @@
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
@@ -6082,6 +6112,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/slektsforskning">
       <PrefLabel lang="en">Genealogy</PrefLabel>
@@ -7017,6 +7048,7 @@
       <HiddenLabel lang="nn">Vervarsling</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/vaksine">
       <PrefLabel lang="en">Vaccination</PrefLabel>
@@ -7624,10 +7656,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/beredskap-og-sikkerhet">
+   <Concept path="tema/samfunnsikkerhet-og-beredskap">
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
-      <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
-      <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
+      <PrefLabel lang="nb">Samfunnsikkerhet og beredskap</PrefLabel>
+      <PrefLabel lang="nn">Samfunnstryggleik og beredskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7924,7 +7956,7 @@
       <PrefLabel lang="nb">Forsvaret</PrefLabel>
       <PrefLabel lang="nn">Forsvaret</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
