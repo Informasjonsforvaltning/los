@@ -1479,6 +1479,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
    </Concept>
+   <Concept path="tema/varslingstjenester">
+      <PrefLabel lang="en">Fire</PrefLabel>
+      <PrefLabel lang="nb">varslingstjenester</PrefLabel>
+      <PrefLabel lang="nn">Varslingstenester</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
+   </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
       <PrefLabel lang="nb">Bransjekrav</PrefLabel>
@@ -2246,6 +2253,7 @@
       <Related>ord/universell-utforming</Related>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
       <PrefLabel lang="en">Refugees and protection</PrefLabel>
@@ -5970,6 +5978,7 @@
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
@@ -6103,6 +6112,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/slektsforskning">
       <PrefLabel lang="en">Genealogy</PrefLabel>
@@ -7038,6 +7048,7 @@
       <HiddenLabel lang="nn">Vervarsling</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/vaksine">
       <PrefLabel lang="en">Vaccination</PrefLabel>
