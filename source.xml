@@ -2121,6 +2121,7 @@
       <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
+      <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/fengselshelsetjeneste">
       <PrefLabel lang="en">Prison health service</PrefLabel>
