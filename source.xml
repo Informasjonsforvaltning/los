@@ -2759,7 +2759,7 @@
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brannvern-og-eksplosjonsvern</Related>
+      <Related>ord/brann</Related>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/fysioterapi">
