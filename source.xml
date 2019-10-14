@@ -5980,6 +5980,16 @@
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
+   <Concept path="ord/klimatiltak">
+      <PrefLabel lang="en">Climate change measuers</PrefLabel>
+      <PrefLabel lang="nb">Klimatiltak</PrefLabel>
+      <PrefLabel lang="nn">Klimatiltak</PrefLabel>
+      <Definition lang="nn">Tiltak som er med på å førebygge klimaendringar.</Definition>
+      <Definition lang="nb">Tiltak som er med på å forebygge klimaendringer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
       <PrefLabel lang="nb">Skogbruk</PrefLabel>
