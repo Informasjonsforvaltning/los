@@ -2786,7 +2786,7 @@
       <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/melding-om-overnatting">
-      <PrefLabel lang="en"Notie of accommodation</PrefLabel>
+      <PrefLabel lang="en">Notice of accommodation</PrefLabel>
       <PrefLabel lang="nb">Melding om overnatting</PrefLabel>
       <PrefLabel lang="nn">Melding om overnatting</PrefLabel>
       <Definition lang="nn">*</Definition>
