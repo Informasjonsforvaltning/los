@@ -3599,7 +3599,6 @@
       <Related>ord/smittevern</Related>
       <Broader>tema/fritid</Broader>
    </Concept>
-
    <Concept path="ord/kjoretoykontroll">
       <PrefLabel lang="en">Vehicle inspection</PrefLabel>
       <PrefLabel lang="nb">Kjøretøykontroll</PrefLabel>
