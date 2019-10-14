@@ -508,7 +508,7 @@
       <Definition lang="nn">Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke.</Definition>
       <Definition lang="nb">Selvbestemt svangerskapsavbrudd innen 12. svangerskapsuke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/farskapserklaring">
       <PrefLabel lang="en">Paternity declaration</PrefLabel>
@@ -517,7 +517,7 @@
       <Definition lang="nn">Farskap til eit barn kan fastsetjast enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
       <Definition lang="nb">Farskap til et barn kan fastsettes enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/medmorskap">
       <PrefLabel lang="en">Co-maternity</PrefLabel>
@@ -526,7 +526,7 @@
       <Definition lang="nn">Søknad om medmorskap skal sendast folkeregistermyndigheita.</Definition>
       <Definition lang="nb">Søknad om medmorskap sendes folkeregistermyndigheten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/adopsjon">
       <PrefLabel lang="en">Adoption</PrefLabel>
@@ -5292,7 +5292,7 @@
       <HiddenLabel lang="nn">Sterilisering</HiddenLabel>
       <Definition lang="nn">Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/privatskole">
       <PrefLabel lang="en">Private schools</PrefLabel>
@@ -6435,7 +6435,7 @@
       <Definition lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/svangerskapspenger">
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
@@ -6962,7 +6962,7 @@
       <Definition lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/adopsjon</Related>
-      <Broader>tema/svangerskap-og-fodsel</Broader>
+      <Broader>tema/svangerskap</Broader>
    </Concept>
    <Concept path="ord/ungdomsmidler">
       <PrefLabel lang="en">Funding for youth activities</PrefLabel>
@@ -8174,10 +8174,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/svangerskap-og-fodsel">
-      <PrefLabel lang="en">Pregnancy and birth</PrefLabel>
-      <PrefLabel lang="nb">Svangerskap og fødsel</PrefLabel>
-      <PrefLabel lang="nn">Svangerskap og fødsel</PrefLabel>
+   <Concept path="tema/svangerskap">
+      <PrefLabel lang="en">Pregnancy</PrefLabel>
+      <PrefLabel lang="nb">Svangerskap</PrefLabel>
+      <PrefLabel lang="nn">Svangerskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
