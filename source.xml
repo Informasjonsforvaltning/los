@@ -8037,13 +8037,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
-   <Concept path="tema/omsorg-trygd-og-sosiale-tjenester">
-      <PrefLabel lang="en">Care and social welfare services</PrefLabel>
-      <PrefLabel lang="nb">Omsorg, trygd og sosiale tjenester</PrefLabel>
-      <PrefLabel lang="nn">Omsorg, trygd og sosiale tenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/omsorgstjenester">
       <PrefLabel lang="en">Care services</PrefLabel>
       <PrefLabel lang="nb">Omsorgstjenester</PrefLabel>
