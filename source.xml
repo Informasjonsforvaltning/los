@@ -2259,16 +2259,32 @@
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/blaskjellvarsel">
-    <PrefLabel lang="en">Mussels warning</PrefLabel>
-    <PrefLabel lang="nb">Blåskjellvarsel</PrefLabel>
-    <PrefLabel lang="nn">Blåskjellvarsel</PrefLabel>
-    <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
-    <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
-    <InScheme>ontologi/ord</InScheme>
-    <Related>ord/universell-utforming</Related>
-    <Related>ord/naturskade</Related>
-    <Broader>tema/varslingstjenester</Broader>
- </Concept>
+      <PrefLabel lang="en">Mussels warning</PrefLabel>
+      <PrefLabel lang="nb">Blåskjellvarsel</PrefLabel>
+      <PrefLabel lang="nn">Blåskjellvarsel</PrefLabel>
+      <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
+      <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/naturskade</Related>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/lynvarsel">
+      <PrefLabel lang="en">Warning of lightning</PrefLabel>
+      <PrefLabel lang="nb">Lynvarsel</PrefLabel>
+      <PrefLabel lang="nn">Lynvarsel</PrefLabel>
+      <Definition lang="nn">Varsel om lyn.</Definition>
+      <Definition lang="nb">Varsel om lyn.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/naturskade</Related>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/flyalarm">
+      <PrefLabel lang="en">Alert</PrefLabel>
+      <PrefLabel lang="nb">Flyalarm</PrefLabel>
+      <PrefLabel lang="nn">Flyalarm</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
       <PrefLabel lang="en">Refugees and protection</PrefLabel>
       <PrefLabel lang="nb">Flyktninger og beskyttelse</PrefLabel>
