@@ -6850,6 +6850,7 @@
       <HiddenLabel lang="nb">Festetomt</HiddenLabel>
       <HiddenLabel lang="nn">Festetomt</HiddenLabel>
       <Definition lang="nn">Leige av grunn til hus som festaren (den som leiger) har på tomta.</Definition>
+      <Definition lang="nb">Leie av grunn til hus som festeren (den som leier) har på tomta.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
    </Concept>
