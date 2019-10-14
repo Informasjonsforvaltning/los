@@ -2118,7 +2118,6 @@
       <Definition lang="nn">Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn.</Definition>
       <Definition lang="nn">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brannvern-og-eksplosjonsvern</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/brann</Broader>
@@ -2759,8 +2758,8 @@
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brann</Related>
       <Broader>tema/handel-og-service</Broader>
+      <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
       <PrefLabel lang="en">Fire safety report</PrefLabel>
@@ -2768,7 +2767,22 @@
       <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
       <Definition lang="nn">*</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/brann</Related>
+      <Broader>tema/brann</Broader>
+   </Concept>
+   <Concept path="ord/branntilsyn">
+      <PrefLabel lang="en">Fire supervision</PrefLabel>
+      <PrefLabel lang="nb">Branntilsyn</PrefLabel>
+      <PrefLabel lang="nn">Branntilsyn</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/brann</Broader>
+   </Concept>
+   <Concept path="ord/melding-om-overnatting">
+      <PrefLabel lang="en"Notie of accommodation</PrefLabel>
+      <PrefLabel lang="nb">Melding om overnatting</PrefLabel>
+      <PrefLabel lang="nn">Melding om overnatting</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/fysioterapi">
@@ -7635,13 +7649,6 @@
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
       <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
       <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
-   <Concept path="tema/brann">
-      <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
-      <PrefLabel lang="nb">Brann</PrefLabel>
-      <PrefLabel lang="nn">Brann</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
