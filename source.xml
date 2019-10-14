@@ -5990,6 +5990,16 @@
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
+   <Concept path="ord/klimakvote">
+      <PrefLabel lang="en">Emission trading</PrefLabel>
+      <PrefLabel lang="nb">Klimakvote</PrefLabel>
+      <PrefLabel lang="nn">Klimakvote</PrefLabel>
+      <Definition lang="nn">Tillatelse til å sleppe ut eitt tonn CO2.</Definition>
+      <Definition lang="nb">Tillatelse til å slippe ut ett tonn CO2.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
       <PrefLabel lang="nb">Skogbruk</PrefLabel>
