@@ -2803,7 +2803,7 @@
       <PrefLabel lang="en">Fire safety report</PrefLabel>
       <PrefLabel lang="nb">Bekymringsmelding om brannsikkerhet</PrefLabel>
       <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
-      <Definition lang="nn">*</Definition>
+      <Definition lang="nn">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2811,7 +2811,7 @@
       <PrefLabel lang="en">Fire supervision</PrefLabel>
       <PrefLabel lang="nb">Branntilsyn</PrefLabel>
       <PrefLabel lang="nn">Branntilsyn</PrefLabel>
-      <Definition lang="nn">*</Definition>
+      <Definition lang="nn">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2819,7 +2819,7 @@
       <PrefLabel lang="en">Notice of accommodation</PrefLabel>
       <PrefLabel lang="nb">Melding om overnatting</PrefLabel>
       <PrefLabel lang="nn">Melding om overnatting</PrefLabel>
-      <Definition lang="nn">*</Definition>
+      <Definition lang="nn">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -3164,7 +3164,7 @@
       <PrefLabel lang="nn">Heimeteknologi</PrefLabel>
       <HiddenLabel lang="nb">Velferdsteknologi</HiddenLabel>
       <HiddenLabel lang="nn">Velferdsteknologi</HiddenLabel>
-      <Definition lang="nn">*Beskrivelse mangler </Definition>
+      <Definition lang="nn">*Beskrivelse mangler*</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjemmetjenester</Broader>
    </Concept>
