@@ -2762,6 +2762,15 @@
       <Related>ord/brann</Related>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
+   <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
+      <PrefLabel lang="en">Fire safety report</PrefLabel>
+      <PrefLabel lang="nb">Bekymringsmelding om brannsikkerhet</PrefLabel>
+      <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
+      <Definition lang="nn">*</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/brann</Related>
+      <Broader>tema/brann</Broader>
+   </Concept>
    <Concept path="ord/fysioterapi">
       <PrefLabel lang="en">Physiotherapy</PrefLabel>
       <PrefLabel lang="nb">Fysioterapi</PrefLabel>
