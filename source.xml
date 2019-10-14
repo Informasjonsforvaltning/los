@@ -2258,6 +2258,17 @@
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
+   <Concept path="ord/blaskjellvarsel">
+    <PrefLabel lang="en">Mussels warning</PrefLabel>
+    <PrefLabel lang="nb">Blåskjellvarsel</PrefLabel>
+    <PrefLabel lang="nn">Blåskjellvarsel</PrefLabel>
+    <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
+    <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
+    <InScheme>ontologi/ord</InScheme>
+    <Related>ord/universell-utforming</Related>
+    <Related>ord/naturskade</Related>
+    <Broader>tema/varslingstjenester</Broader>
+ </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
       <PrefLabel lang="en">Refugees and protection</PrefLabel>
       <PrefLabel lang="nb">Flyktninger og beskyttelse</PrefLabel>
