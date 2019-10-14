@@ -7618,7 +7618,7 @@
       <PrefLabel lang="nb">Avfallshåndtering</PrefLabel>
       <PrefLabel lang="nn">Avfallshandtering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
@@ -7737,7 +7737,7 @@
       <PrefLabel lang="nb">Energi</PrefLabel>
       <PrefLabel lang="nn">Energi</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
@@ -7793,7 +7793,7 @@
       <PrefLabel lang="nb">Forurensning og stråling</PrefLabel>
       <PrefLabel lang="nn">Forureining og stråling</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/friluftsliv">
       <PrefLabel lang="en">Outdoor life</PrefLabel>
@@ -7999,10 +7999,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
-   <Concept path="tema/natur-og-miljo">
-      <PrefLabel lang="en">Nature and environment</PrefLabel>
-      <PrefLabel lang="nb">Natur og miljø</PrefLabel>
-      <PrefLabel lang="nn">Natur og miljø</PrefLabel>
+   <Concept path="tema/natur-klima-og-miljo">
+      <PrefLabel lang="en">Nature, climate and environment</PrefLabel>
+      <PrefLabel lang="nb">Natur, klima og miljø</PrefLabel>
+      <PrefLabel lang="nn">Natur, klima og miljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -8011,7 +8011,7 @@
       <PrefLabel lang="nb">Naturforvaltning</PrefLabel>
       <PrefLabel lang="nn">Naturforvaltning</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/okonomiske-ytelser">
       <PrefLabel lang="en">Benefits</PrefLabel>
@@ -8193,7 +8193,7 @@
       <PrefLabel lang="nb">Vær og klima</PrefLabel>
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-og-miljo</Broader>
+      <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
