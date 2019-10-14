@@ -1462,10 +1462,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
-   <Concept path="ord/brannvern-og-eksplosjonsvern">
-      <PrefLabel lang="en">Fire prevention and explosion protection</PrefLabel>
-      <PrefLabel lang="nb">Brannvern og eksplosjonsvern</PrefLabel>
-      <PrefLabel lang="nn">Brannvern og eksplosjonsvern</PrefLabel>
+   <Concept path="tema/brann">
+      <PrefLabel lang="en">Fire</PrefLabel>
+      <PrefLabel lang="nb">Brann</PrefLabel>
+      <PrefLabel lang="nn">Brann</PrefLabel>
       <HiddenLabel lang="nb">Brannfarlig vare</HiddenLabel>
       <HiddenLabel lang="nn">Brannfarleg vare</HiddenLabel>
       <HiddenLabel lang="nb">Sprengstoff</HiddenLabel>
@@ -1476,10 +1476,7 @@
       <HiddenLabel lang="nn">Eksplosiv</HiddenLabel>
       <HiddenLabel lang="nb">Brannvesen</HiddenLabel>
       <HiddenLabel lang="nn">Brannvesen</HiddenLabel>
-      <Definition lang="nn">Handtering av brannfarlege, trykksette, eksplosjonsfarlege og andre farlege stoff. Til dette høyrer også transport av farleg gods på veg og jernbane og førebyggjande brannvern. Fyrverkeri er eige emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/feiing</Related>
-      <Related>ord/fyrverkeri</Related>
+      <InScheme>ontologi/tema</InScheme>
       <Broader>tema/beredskap-og-sikkerhet</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
@@ -7628,6 +7625,13 @@
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
       <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
       <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/brann">
+      <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
+      <PrefLabel lang="nb">Brann</PrefLabel>
+      <PrefLabel lang="nn">Brann</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
