@@ -883,6 +883,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
       <Broader>tema/arbeidsliv</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/arbeidsmiljo">
       <PrefLabel lang="en">Work environment</PrefLabel>
@@ -989,6 +990,7 @@
       <Related>ord/oppholdstillatelse</Related>
       <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/arbeidsliv</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/arbeidstvist">
       <PrefLabel lang="en">Labour dispute</PrefLabel>
@@ -1600,6 +1602,7 @@
       <Definition lang="nb">Et sammendrag over en persons erfaringer og kvalifikasjoner fra utdanning og yrkesliv. Det er vanlig å legge ved en CV når man søker på en stilling. En CV inneholder vanligvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og lignende.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/d-nummer">
       <PrefLabel lang="en">D-number</PrefLabel>
@@ -2253,6 +2256,33 @@
       <Related>ord/universell-utforming</Related>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/blaskjellvarsel">
+      <PrefLabel lang="en">Mussels warning</PrefLabel>
+      <PrefLabel lang="nb">Blåskjellvarsel</PrefLabel>
+      <PrefLabel lang="nn">Blåskjellvarsel</PrefLabel>
+      <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
+      <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/naturskade</Related>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/lynvarsel">
+      <PrefLabel lang="en">Warning of lightning</PrefLabel>
+      <PrefLabel lang="nb">Lynvarsel</PrefLabel>
+      <PrefLabel lang="nn">Lynvarsel</PrefLabel>
+      <Definition lang="nn">Varsel om lyn.</Definition>
+      <Definition lang="nb">Varsel om lyn.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/naturskade</Related>
+      <Broader>tema/varslingstjenester</Broader>
+   </Concept>
+   <Concept path="ord/flyalarm">
+      <PrefLabel lang="en">Alert</PrefLabel>
+      <PrefLabel lang="nb">Flyalarm</PrefLabel>
+      <PrefLabel lang="nn">Flyalarm</PrefLabel>
+      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/flyktninger-og-beskyttelse">
@@ -7563,7 +7593,7 @@
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeid</Broader>
+      <Broader>tema/arbeidssoking</Broader>
    </Concept>
    <Concept path="ord/yrkesskadedekning">
       <PrefLabel lang="en">Occupational injury coverage</PrefLabel>
@@ -7596,6 +7626,13 @@
       <PrefLabel lang="en">Employment</PrefLabel>
       <PrefLabel lang="nb">Arbeidsliv</PrefLabel>
       <PrefLabel lang="nn">Arbeidsliv</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/arbeid</Broader>
+   </Concept>
+   <Concept path="tema/arbeidssoking">
+      <PrefLabel lang="en">Seeking employment</PrefLabel>
+      <PrefLabel lang="nb">Arbeidssøking</PrefLabel>
+      <PrefLabel lang="nn">Arbeidssøking</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
@@ -8026,13 +8063,6 @@
       <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
-   </Concept>
-   <Concept path="tema/omsorg-trygd-og-sosiale-tjenester">
-      <PrefLabel lang="en">Care and social welfare services</PrefLabel>
-      <PrefLabel lang="nb">Omsorg, trygd og sosiale tjenester</PrefLabel>
-      <PrefLabel lang="nn">Omsorg, trygd og sosiale tenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/omsorgstjenester">
       <PrefLabel lang="en">Care services</PrefLabel>
