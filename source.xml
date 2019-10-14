@@ -1477,7 +1477,7 @@
       <HiddenLabel lang="nb">Brannvesen</HiddenLabel>
       <HiddenLabel lang="nn">Brannvesen</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
@@ -7645,10 +7645,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/beredskap-og-sikkerhet">
+   <Concept path="tema/samfunnsikkerhet-og-beredskap">
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
-      <PrefLabel lang="nb">Beredskap og sikkerhet</PrefLabel>
-      <PrefLabel lang="nn">Beredskap og tryggleik</PrefLabel>
+      <PrefLabel lang="nb">Samfunnsikkerhet og beredskap</PrefLabel>
+      <PrefLabel lang="nn">Samfunnstryggleik og beredskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
@@ -7945,7 +7945,7 @@
       <PrefLabel lang="nb">Forsvaret</PrefLabel>
       <PrefLabel lang="nn">Forsvaret</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/beredskap-og-sikkerhet</Broader>
+      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
