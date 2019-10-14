@@ -3460,6 +3460,8 @@
       <PrefLabel lang="en">Right of access to information</PrefLabel>
       <PrefLabel lang="nb">Innsynsrett</PrefLabel>
       <PrefLabel lang="nn">Innsynsrett</PrefLabel>
+      <HiddenLabel lang="nn">Innsyn</HiddenLabel>
+      <HiddenLabel lang="nb">Innsyn</HiddenLabel>
       <Definition lang="nn">Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast.</Definition>
       <Definition lang="nb">Rett til innsyn og informasjon om egne personopplysninger for å ta vare på eget personvern. Det kan kreves at feilaktige eller unødvendige opplysninger skal slettes.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -7458,6 +7460,15 @@
       <Definition lang="nb">Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+   </Concept>
+   <Concept path="ord/mobbing-i-skolen">
+      <PrefLabel lang="en">Bullying in school</PrefLabel>
+      <PrefLabel lang="nb">Mobbing i skolen</PrefLabel>
+      <PrefLabel lang="nn">Mobbing i skulen</PrefLabel>
+      <Definition lang="nn">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</Definition>
+      <Definition lang="nb">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
