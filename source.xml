@@ -1191,7 +1191,7 @@
       <Definition lang="nn">Godkjenning, sertifisering, råd og rettleiing o.l.</Definition>
       <Definition lang="nb">Godkjenning, sertifisering, råd og veiledning o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
@@ -1984,7 +1984,7 @@
       <Definition lang="nn">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar.</Definition>
       <Definition lang="nb">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
       <PrefLabel lang="en">Further education</PrefLabel>
@@ -2203,6 +2203,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
       <Broader>tema/handel-og-service</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -4202,7 +4203,7 @@
       <Definition lang="nn">Miljøsertifisering er ei ekstern verifisering av miljøstyringssystemet som gir omverda tryggleik for at verksemda arbeider seriøst med å redusere påverknaden sin på det ytre miljøet. Miljøsertifisering inneber at verksemda følgjer standard for oppbygging og oppfølging av miljøstyringssystemet. Eksempel er ordninga miljøfyrtån eller ISO-standarden.</Definition>
       <Definition lang="nb">Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/miljovennlig-transport">
       <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
@@ -4380,7 +4381,7 @@
       <HiddenLabel lang="nn">Næringsfondet</HiddenLabel>
       <Definition lang="nn">Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til næringsutvikling.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/narmiljotilskudd">
       <PrefLabel lang="en">Local initiative funding</PrefLabel>
@@ -5490,6 +5491,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/skatteattest">
+      <PrefLabel lang="en">Tax certificate</PrefLabel>
+      <PrefLabel lang="nb">Skatteattest</PrefLabel>
+      <PrefLabel lang="nn">Skatteattest</PrefLabel>
+      <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
+      <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
