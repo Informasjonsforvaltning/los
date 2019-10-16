@@ -1579,6 +1579,16 @@
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/bygging</Broader>
    </Concept>
+   <Concept path="ord/forhandskonferanse">
+      <PrefLabel lang="en">Construction application</PrefLabel>
+      <PrefLabel lang="nb">Forhåndskonferanse</PrefLabel>
+      <PrefLabel lang="nn">Førehandskonferanse</PrefLabel>
+      <Definition lang="nn">Førehandskonferanse er ei ordning der tiltakshavar (byggherre) og kommunen kan møtast for å avklare førutsetningar for byggetiltaket og rammene for den vidare saksbehandlingen.</Definition>Forhåndskonferanse er en ordning der tiltakshaver (byggherre) og kommunen kan møtes for å avklare forutsetninger for byggetiltaket og rammene for den videre saksbehandlingen.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/boligfinansiering</Related>
+      <Related>ord/reguleringsplan</Related>
+      <Broader>tema/bygging</Broader>
+   </Concept>
    <Concept path="ord/cv">
       <PrefLabel lang="en">CV</PrefLabel>
       <PrefLabel lang="nb">CV</PrefLabel>
