@@ -3417,7 +3417,7 @@
       <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.</Definition>
       <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/innbyggerinitiativ">
       <PrefLabel lang="en">Citizen initiative</PrefLabel>
@@ -5498,7 +5498,6 @@
       <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -5509,7 +5508,6 @@
       <Definition lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</Definition>
       <Definition lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/tilsyn-med-naringsliv">
@@ -5519,7 +5517,6 @@
       <Definition lang="nn">Kommunen fører tilsyn med private barnehagar, serveringsverksemder og verksemder som sel tobakk.</Definition>
       <Definition lang="nb">Kommunen fører tilsyn med private barnehager, serveringsvirksomheter og virksomheter som selger tobakk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/skatteattest">
@@ -5529,7 +5526,6 @@
       <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
       <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
@@ -5995,7 +5991,6 @@
       <Definition lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
-      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/skifte">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
