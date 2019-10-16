@@ -873,7 +873,6 @@
       <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
       <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avgift</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
@@ -8095,7 +8094,7 @@
       <PrefLabel lang="nb">Avgift</PrefLabel>
       <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skatt</Broader>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="tema/omsorgstjenester">
       <PrefLabel lang="en">Care services</PrefLabel>
