@@ -866,6 +866,16 @@
       <Broader>tema/avgift</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/bevilling-og-tillatelser">
+      <PrefLabel lang="en">Licenses and permissions</PrefLabel>
+      <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
+      <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
+      <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
+      <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
       <PrefLabel lang="en">Labour market activities</PrefLabel>
       <PrefLabel lang="nb">Arbeidsmarkedstiltak</PrefLabel>
@@ -4960,7 +4970,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
-      <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/pass">
       <PrefLabel lang="en">Passports</PrefLabel>
