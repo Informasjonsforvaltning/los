@@ -8202,13 +8202,6 @@
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
    <Concept path="tema/skatt-og-avgift">
-      <PrefLabel lang="en">Taxation</PrefLabel>
-      <PrefLabel lang="nb">Skatt-og-avgift</PrefLabel>
-      <PrefLabel lang="nn">Skatt-og-avgift</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
-   <Concept path="tema/skatt-og-avgift">
       <PrefLabel lang="en">Taxes and duties</PrefLabel>
       <PrefLabel lang="nb">Skatt og avgift</PrefLabel>
       <PrefLabel lang="nn">Skatt og avgift</PrefLabel>
