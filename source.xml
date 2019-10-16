@@ -957,27 +957,6 @@
       <Related>ord/dagpenger</Related>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
-   <Concept path="ord/arbeidstid">
-      <PrefLabel lang="en">Working hours</PrefLabel>
-      <PrefLabel lang="nb">Arbeidstid</PrefLabel>
-      <PrefLabel lang="nn">Arbeidstid</PrefLabel>
-      <HiddenLabel lang="nb">Fleksibel arbeidstid</HiddenLabel>
-      <HiddenLabel lang="nn">Fleksibel arbeidstid</HiddenLabel>
-      <HiddenLabel lang="nb">Ammefri</HiddenLabel>
-      <HiddenLabel lang="nn">Ammefri</HiddenLabel>
-      <HiddenLabel lang="nb">Amming</HiddenLabel>
-      <HiddenLabel lang="nn">Amming</HiddenLabel>
-      <HiddenLabel lang="nb">Skiftarbeid</HiddenLabel>
-      <HiddenLabel lang="nn">Skiftarbeid</HiddenLabel>
-      <HiddenLabel lang="nb">Overtid</HiddenLabel>
-      <HiddenLabel lang="nn">Overtid</HiddenLabel>
-      <HiddenLabel lang="nb">Turnus</HiddenLabel>
-      <HiddenLabel lang="nn">Turnus</HiddenLabel>
-      <Definition lang="nn">Arbeidstid er tida du jobbar. I denne tida går du med på at arbeidsplassen bestem over arbeidskraften din mot at du kompenserast med lønn.</Definition>
-      <Definition lang="nb">Arbeidstid er tida du jobber. I denne tida går du med på at arbeidsplassen bestemmer over arbeidskraften din mot at du kompenseres med lønn.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
    <Concept path="ord/arbeidstillatelse">
       <PrefLabel lang="en">Work permit</PrefLabel>
       <PrefLabel lang="nb">Arbeidstillatelse</PrefLabel>
