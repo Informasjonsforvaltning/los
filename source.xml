@@ -5498,7 +5498,7 @@
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
-      <Broader>tema/naringsliv</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/naringsklynger">
       <PrefLabel lang="en">Commercial centres</PrefLabel>
@@ -8090,7 +8090,7 @@
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/avgift">
-      <PrefLabel lang="en">Taxes</PrefLabel>
+      <PrefLabel lang="en">Duties</PrefLabel>
       <PrefLabel lang="nb">Avgift</PrefLabel>
       <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
