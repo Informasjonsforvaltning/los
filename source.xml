@@ -3953,6 +3953,15 @@
       <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
    </Concept>
+   <Concept path="ord/veterinar">
+      <PrefLabel lang="en">Veterinarian</PrefLabel>
+      <PrefLabel lang="nb">Veterinær</PrefLabel>
+      <PrefLabel lang="nn">Veterinær</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+   </Concept>
    <Concept path="ord/legemiddel">
       <PrefLabel lang="en">Medicines</PrefLabel>
       <PrefLabel lang="nb">Legemiddel</PrefLabel>
@@ -8020,6 +8029,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
+   <Concept path="tema/tilskuddsordninger-for-naring">
+      <PrefLabel lang="en">Agriculture</PrefLabel>
+      <PrefLabel lang="nb">Næringsliv</PrefLabel>
+      <PrefLabel lang="nn">Næringsliv</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/naring</Broader>
+   </Concept>
    <Concept path="tema/leie-og-utleie">
       <PrefLabel lang="en">Renting and leasing</PrefLabel>
       <PrefLabel lang="nb">Leie og utleie</PrefLabel>
@@ -8061,6 +8077,13 @@
       <PrefLabel lang="nn">Næring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/tilskuddsordninger-for-naring">
+      <PrefLabel lang="en">Public funding schemes for business</PrefLabel>
+      <PrefLabel lang="nb">tilskuddsordninger for næring</PrefLabel>
+      <PrefLabel lang="nn">Tilskotsordningar for næring</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/naringsutvikling">
       <PrefLabel lang="en">Business development</PrefLabel>
