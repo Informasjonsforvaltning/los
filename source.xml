@@ -873,7 +873,6 @@
       <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
       <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avgift</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
@@ -3418,6 +3417,7 @@
       <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/innbyggerinitiativ">
       <PrefLabel lang="en">Citizen initiative</PrefLabel>
@@ -5499,7 +5499,7 @@
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
-      <Broader>tema/naringsliv</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/naringsklynger">
       <PrefLabel lang="en">Commercial centres</PrefLabel>
@@ -5991,6 +5991,7 @@
       <Definition lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/skifte">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
@@ -8091,11 +8092,11 @@
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/avgift">
-      <PrefLabel lang="en">Taxes</PrefLabel>
+      <PrefLabel lang="en">Duties</PrefLabel>
       <PrefLabel lang="nb">Avgift</PrefLabel>
       <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skatt</Broader>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="tema/omsorgstjenester">
       <PrefLabel lang="en">Care services</PrefLabel>
@@ -8202,19 +8203,19 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/skatt">
-      <PrefLabel lang="en">Taxation</PrefLabel>
-      <PrefLabel lang="nb">Skatt</PrefLabel>
-      <PrefLabel lang="nn">Skatt</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/skatt-og-avgift">
       <PrefLabel lang="en">Taxes and duties</PrefLabel>
       <PrefLabel lang="nb">Skatt og avgift</PrefLabel>
       <PrefLabel lang="nn">Skatt og avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+   </Concept>
+   <Concept path="tema/skatt">
+      <PrefLabel lang="en">Taxes</PrefLabel>
+      <PrefLabel lang="nb">Skatt</PrefLabel>
+      <PrefLabel lang="nn">Skatt</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="tema/skole-og-utdanning">
       <PrefLabel lang="en">Schools and education</PrefLabel>
