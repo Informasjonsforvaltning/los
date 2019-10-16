@@ -2471,6 +2471,16 @@
       <Definition lang="nb">Den som skal bygge eller grave på en eiendom der det kan være forurenset grunn, har plikt til å sjekke omfanget av en eventuell forurensning. Kun fageksperter kan brukes til å foreta undersøkelsen. Der det finnes slik forurensning, skal det lages en egen tiltaksplan for hvordan grunnen skal sikres.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
+      <Broader>tema/bygging</Broader>
+   </Concept>
+   <Concept path="ord/klage-pa-byggesak">
+      <PrefLabel lang="en">Complaints on building projects</PrefLabel>
+      <PrefLabel lang="nb">Klage på byggesak</PrefLabel>
+      <PrefLabel lang="nn">Klage på byggjesak</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
    </Concept>
    <Concept path="ord/fosterhjem">
       <PrefLabel lang="en">Foster home</PrefLabel>
