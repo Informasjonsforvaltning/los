@@ -5493,6 +5493,16 @@
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/naringsklynger">
+      <PrefLabel lang="en">Commercial centres</PrefLabel>
+      <PrefLabel lang="nb">Næringsklynger</PrefLabel>
+      <PrefLabel lang="nn">Næringsklynger</PrefLabel>
+      <Definition lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</Definition>
+      <Definition lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/skatteattest">
       <PrefLabel lang="en">Tax certificate</PrefLabel>
       <PrefLabel lang="nb">Skatteattest</PrefLabel>
