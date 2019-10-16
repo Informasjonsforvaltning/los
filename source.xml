@@ -864,6 +864,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
       <Broader>tema/avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
       <PrefLabel lang="en">Labour market activities</PrefLabel>
@@ -970,6 +971,32 @@
       <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/arbeidsliv</Broader>
       <Broader>tema/arbeidssoking</Broader>
+   </Concept>
+   <Concept path="ord/arbeidstvist">
+      <PrefLabel lang="en">Labour dispute</PrefLabel>
+      <PrefLabel lang="nb">Arbeidstvist</PrefLabel>
+      <PrefLabel lang="nn">Arbeidstvist</PrefLabel>
+      <HiddenLabel lang="nb">Tjenestetvist</HiddenLabel>
+      <HiddenLabel lang="nn">Tenestetvist</HiddenLabel>
+      <HiddenLabel lang="nb">Streik</HiddenLabel>
+      <HiddenLabel lang="nn">Streik</HiddenLabel>
+      <HiddenLabel lang="nb">Interessetvist</HiddenLabel>
+      <HiddenLabel lang="nn">Interessetvist</HiddenLabel>
+      <HiddenLabel lang="nb">Arbeidstakerorganisasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Arbeidstakarorganisasjon</HiddenLabel>
+      <HiddenLabel lang="nb">Arbeidstagerorganisasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Arbeidstakarorganisasjon</HiddenLabel>
+      <HiddenLabel lang="nb">Lockout</HiddenLabel>
+      <HiddenLabel lang="nn">Lockout</HiddenLabel>
+      <HiddenLabel lang="nb">Arbeidskonflikt</HiddenLabel>
+      <HiddenLabel lang="nn">Arbeidskonflikt</HiddenLabel>
+      <HiddenLabel lang="nb">Fagforening</HiddenLabel>
+      <HiddenLabel lang="nn">Fagforeining</HiddenLabel>
+      <Definition lang="nn">Arbeidstvist er ein spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følgje av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om oppretting av tariffavtale og/eller ved reforhandling av eksisterande tariffavtale</Definition>
+      <Definition lang="nb">Arbeidstvist er en spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følge av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om opprettelse av tariffavtale og/eller ved reforhandling av eksisterende tariffavtale</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/mekling</Related>
+      <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arkiv">
       <PrefLabel lang="en">Archives</PrefLabel>
@@ -7945,9 +7972,16 @@
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/landbruk">
-      <PrefLabel lang="en">Agriculture</PrefLabel>
+      <PrefLabel lang="en">Agriculture sector</PrefLabel>
       <PrefLabel lang="nb">Landbruk</PrefLabel>
       <PrefLabel lang="nn">Landbruk</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/naring</Broader>
+   </Concept>
+   <Concept path="tema/naringsliv">
+      <PrefLabel lang="en">Agriculture</PrefLabel>
+      <PrefLabel lang="nb">Næringsliv</PrefLabel>
+      <PrefLabel lang="nn">Næringsliv</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
