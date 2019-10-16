@@ -8208,6 +8208,13 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
+   <Concept path="tema/skatt">
+      <PrefLabel lang="en">Taxes</PrefLabel>
+      <PrefLabel lang="nb">Skatt</PrefLabel>
+      <PrefLabel lang="nn">Skatt</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/skatt-og-avgift</Broader>
+   </Concept>
    <Concept path="tema/skole-og-utdanning">
       <PrefLabel lang="en">Schools and education</PrefLabel>
       <PrefLabel lang="nb">Skole og utdanning</PrefLabel>
