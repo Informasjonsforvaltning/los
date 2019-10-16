@@ -8202,10 +8202,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/skatt">
+   <Concept path="tema/skatt-og-avgift">
       <PrefLabel lang="en">Taxation</PrefLabel>
-      <PrefLabel lang="nb">Skatt</PrefLabel>
-      <PrefLabel lang="nn">Skatt</PrefLabel>
+      <PrefLabel lang="nb">Skatt-og-avgift</PrefLabel>
+      <PrefLabel lang="nn">Skatt-og-avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
