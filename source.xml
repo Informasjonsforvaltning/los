@@ -3484,7 +3484,7 @@
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
       <Definition lang="nn">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/introduksjonsprogram-for-innvandrere">
       <PrefLabel lang="en">Introduction programme for refugees</PrefLabel>
