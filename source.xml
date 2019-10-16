@@ -5503,6 +5503,16 @@
       <Broader>tema/skatt</Broader>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/tilsyn-med-naringsliv">
+      <PrefLabel lang="en">Controlling compliance</PrefLabel>
+      <PrefLabel lang="nb">Tilsyn med næringsliv</PrefLabel>
+      <PrefLabel lang="nn">Tilsyn med næringsliv</PrefLabel>
+      <Definition lang="nn">Kommunen fører tilsyn med private barnehagar, serveringsverksemder og verksemder som sel tobakk.</Definition>
+      <Definition lang="nb">Kommunen fører tilsyn med private barnehager, serveringsvirksomheter og virksomheter som selger tobakk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/skatteattest">
       <PrefLabel lang="en">Tax certificate</PrefLabel>
       <PrefLabel lang="nb">Skatteattest</PrefLabel>
