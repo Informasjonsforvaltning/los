@@ -8212,7 +8212,7 @@
       <PrefLabel lang="nb">Skatt</PrefLabel>
       <PrefLabel lang="nn">Skatt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/skatt-og-avgift">
       <PrefLabel lang="en">Taxes and duties</PrefLabel>
