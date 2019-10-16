@@ -864,6 +864,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
       <Broader>tema/avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/bevilling-og-tillatelser">
+      <PrefLabel lang="en">Licenses and permissions</PrefLabel>
+      <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
+      <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
+      <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
+      <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avgift</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidsmarkedstiltak">
       <PrefLabel lang="en">Labour market activities</PrefLabel>
@@ -955,27 +966,6 @@
       <Related>ord/ventestonad</Related>
       <Related>ord/ventelonn</Related>
       <Related>ord/dagpenger</Related>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
-   <Concept path="ord/arbeidstid">
-      <PrefLabel lang="en">Working hours</PrefLabel>
-      <PrefLabel lang="nb">Arbeidstid</PrefLabel>
-      <PrefLabel lang="nn">Arbeidstid</PrefLabel>
-      <HiddenLabel lang="nb">Fleksibel arbeidstid</HiddenLabel>
-      <HiddenLabel lang="nn">Fleksibel arbeidstid</HiddenLabel>
-      <HiddenLabel lang="nb">Ammefri</HiddenLabel>
-      <HiddenLabel lang="nn">Ammefri</HiddenLabel>
-      <HiddenLabel lang="nb">Amming</HiddenLabel>
-      <HiddenLabel lang="nn">Amming</HiddenLabel>
-      <HiddenLabel lang="nb">Skiftarbeid</HiddenLabel>
-      <HiddenLabel lang="nn">Skiftarbeid</HiddenLabel>
-      <HiddenLabel lang="nb">Overtid</HiddenLabel>
-      <HiddenLabel lang="nn">Overtid</HiddenLabel>
-      <HiddenLabel lang="nb">Turnus</HiddenLabel>
-      <HiddenLabel lang="nn">Turnus</HiddenLabel>
-      <Definition lang="nn">Arbeidstid er tida du jobbar. I denne tida går du med på at arbeidsplassen bestem over arbeidskraften din mot at du kompenserast med lønn.</Definition>
-      <Definition lang="nb">Arbeidstid er tida du jobber. I denne tida går du med på at arbeidsplassen bestemmer over arbeidskraften din mot at du kompenseres med lønn.</Definition>
-      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstillatelse">
@@ -1211,7 +1201,7 @@
       <Definition lang="nn">Godkjenning, sertifisering, råd og rettleiing o.l.</Definition>
       <Definition lang="nb">Godkjenning, sertifisering, råd og veiledning o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
@@ -2004,8 +1994,7 @@
       <Definition lang="nn">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar.</Definition>
       <Definition lang="nb">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnehage</Broader>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
       <PrefLabel lang="en">Further education</PrefLabel>
@@ -2224,6 +2213,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
       <Broader>tema/handel-og-service</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -3427,7 +3417,7 @@
       <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.</Definition>
       <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/innbyggerinitiativ">
       <PrefLabel lang="en">Citizen initiative</PrefLabel>
@@ -3494,7 +3484,7 @@
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
       <Definition lang="nn">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/introduksjonsprogram-for-innvandrere">
       <PrefLabel lang="en">Introduction programme for refugees</PrefLabel>
@@ -3599,7 +3589,6 @@
       <Related>ord/smittevern</Related>
       <Broader>tema/fritid</Broader>
    </Concept>
-
    <Concept path="ord/kjoretoykontroll">
       <PrefLabel lang="en">Vehicle inspection</PrefLabel>
       <PrefLabel lang="nb">Kjøretøykontroll</PrefLabel>
@@ -4224,7 +4213,7 @@
       <Definition lang="nn">Miljøsertifisering er ei ekstern verifisering av miljøstyringssystemet som gir omverda tryggleik for at verksemda arbeider seriøst med å redusere påverknaden sin på det ytre miljøet. Miljøsertifisering inneber at verksemda følgjer standard for oppbygging og oppfølging av miljøstyringssystemet. Eksempel er ordninga miljøfyrtån eller ISO-standarden.</Definition>
       <Definition lang="nb">Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/miljovennlig-transport">
       <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
@@ -4402,7 +4391,7 @@
       <HiddenLabel lang="nn">Næringsfondet</HiddenLabel>
       <Definition lang="nn">Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til næringsutvikling.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/narmiljotilskudd">
       <PrefLabel lang="en">Local initiative funding</PrefLabel>
@@ -4981,7 +4970,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
-      <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/pass">
       <PrefLabel lang="en">Passports</PrefLabel>
@@ -5510,8 +5498,35 @@
       <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
       <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt</Broader>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/naringsklynger">
+      <PrefLabel lang="en">Commercial centres</PrefLabel>
+      <PrefLabel lang="nb">Næringsklynger</PrefLabel>
+      <PrefLabel lang="nn">Næringsklynger</PrefLabel>
+      <Definition lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</Definition>
+      <Definition lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tilsyn-med-naringsliv">
+      <PrefLabel lang="en">Controlling compliance</PrefLabel>
+      <PrefLabel lang="nb">Tilsyn med næringsliv</PrefLabel>
+      <PrefLabel lang="nn">Tilsyn med næringsliv</PrefLabel>
+      <Definition lang="nn">Kommunen fører tilsyn med private barnehagar, serveringsverksemder og verksemder som sel tobakk.</Definition>
+      <Definition lang="nb">Kommunen fører tilsyn med private barnehager, serveringsvirksomheter og virksomheter som selger tobakk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/skatteattest">
+      <PrefLabel lang="en">Tax certificate</PrefLabel>
+      <PrefLabel lang="nb">Skatteattest</PrefLabel>
+      <PrefLabel lang="nn">Skatteattest</PrefLabel>
+      <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
+      <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
@@ -5976,7 +5991,6 @@
       <Definition lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
-      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/skifte">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
@@ -7993,9 +8007,16 @@
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/landbruk">
-      <PrefLabel lang="en">Agriculture</PrefLabel>
+      <PrefLabel lang="en">Agriculture sector</PrefLabel>
       <PrefLabel lang="nb">Landbruk</PrefLabel>
       <PrefLabel lang="nn">Landbruk</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/naring</Broader>
+   </Concept>
+   <Concept path="tema/naringsliv">
+      <PrefLabel lang="en">Agriculture</PrefLabel>
+      <PrefLabel lang="nb">Næringsliv</PrefLabel>
+      <PrefLabel lang="nn">Næringsliv</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
    </Concept>
@@ -8074,7 +8095,7 @@
       <PrefLabel lang="nb">Avgift</PrefLabel>
       <PrefLabel lang="nn">Avgift</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="tema/omsorgstjenester">
       <PrefLabel lang="en">Care services</PrefLabel>
@@ -8186,7 +8207,7 @@
       <PrefLabel lang="nb">Skatt</PrefLabel>
       <PrefLabel lang="nn">Skatt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <TopConceptOf>struktur</TopConceptOf>
    </Concept>
    <Concept path="tema/skatt-og-avgift">
       <PrefLabel lang="en">Taxes and duties</PrefLabel>
