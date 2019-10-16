@@ -1984,7 +1984,6 @@
       <Definition lang="nn">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar.</Definition>
       <Definition lang="nb">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnehage</Broader>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
