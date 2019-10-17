@@ -1060,6 +1060,16 @@
       <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
+   <Concept path="ord/jordbrukstilskudd">
+      <PrefLabel lang="en">Farming grants</PrefLabel>
+      <PrefLabel lang="nb">Jordbrukstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Jordbrukstilskot</PrefLabel>
+      <Definition lang="nn">Fellesnamn for tilskot til spesielle formål innanfor jordbruk.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for tilskudd til spesielle formål innenfor jordbruk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
    <Concept path="ord/balbrenning">
       <PrefLabel lang="en">Bonfires</PrefLabel>
       <PrefLabel lang="nb">Bålbrenning</PrefLabel>
@@ -5238,8 +5248,6 @@
       <HiddenLabel lang="nn">Planteproduksjon</HiddenLabel>
       <HiddenLabel lang="nb">Økologisk landbruk</HiddenLabel>
       <HiddenLabel lang="nn">Økologisk landbruk</HiddenLabel>
-      <HiddenLabel lang="nb">Produksjonstilskudd</HiddenLabel>
-      <HiddenLabel lang="nn">Produksjonstilskot</HiddenLabel>
       <HiddenLabel lang="nb">Gjødsel</HiddenLabel>
       <HiddenLabel lang="nn">Gjødsel</HiddenLabel>
       <HiddenLabel lang="nb">Jordbruk</HiddenLabel>
