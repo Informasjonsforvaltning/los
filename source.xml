@@ -4026,6 +4026,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
+   <Concept path="ord/erstatningsordninger-i-landbruket">
+      <PrefLabel lang="en">Compensation schemes in agriculture</PrefLabel>
+      <PrefLabel lang="nb">Erstatningsordninger i landbruket</PrefLabel>
+      <PrefLabel lang="nn">Erstatningsordningar i landbruket</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+   </Concept>
    <Concept path="ord/legemiddel">
       <PrefLabel lang="en">Medicines</PrefLabel>
       <PrefLabel lang="nb">Legemiddel</PrefLabel>
