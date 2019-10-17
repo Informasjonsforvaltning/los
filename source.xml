@@ -1853,7 +1853,7 @@
       <HiddenLabel lang="nb">Betalingsreduksjon</HiddenLabel>
       <HiddenLabel lang="nn">Betalingsreduksjon</HiddenLabel>
       <Definition lang="nn">Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule.</Definition>
-      <Definition lang="nn">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</Definition>
+      <Definition lang="nb">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
