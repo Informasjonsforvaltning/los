@@ -1060,6 +1060,16 @@
       <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
+   <Concept path="ord/tilskudd-til-okologisk-landbruk">
+      <PrefLabel lang="en">Support for organic farming</PrefLabel>
+      <PrefLabel lang="nb">Tilskudd til økologisk landbruk</PrefLabel>
+      <PrefLabel lang="nn">Tilskot til økologisk landbruk</PrefLabel>
+      <Definition lang="nn">Tilskot for økologisk landbruk.</Definition>
+      <Definition lang="nb">Tilskudd for økologisk landbruk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
    <Concept path="ord/stotte-til-bedrifter">
       <PrefLabel lang="en">Support for businesses</PrefLabel>
       <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
