@@ -209,7 +209,8 @@
       <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
       <HiddenLabel lang="nb">Privatfly</HiddenLabel>
       <HiddenLabel lang="nn">Privatfly</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly. Flysertifikat er eige emneord.</Definition>
+      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly.</Definition>
+      <Definition lang="nn">Landingstillatelse, landingsplass m.m. for fly.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
@@ -1057,7 +1058,52 @@
       <Definition lang="nn">Avløysarordningane er ein del av velferdsordningane i landbruket. Husdyrbrukarar skal få avløysing ved feriar, sjukdom o.l.</Definition>
       <Definition lang="nb">Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
+   <Concept path="ord/tilskudd-til-okologisk-landbruk">
+      <PrefLabel lang="en">Support for organic farming</PrefLabel>
+      <PrefLabel lang="nb">Tilskudd til økologisk landbruk</PrefLabel>
+      <PrefLabel lang="nn">Tilskot til økologisk landbruk</PrefLabel>
+      <Definition lang="nn">Tilskot for økologisk landbruk.</Definition>
+      <Definition lang="nb">Tilskudd for økologisk landbruk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
+   <Concept path="ord/stotte-til-bedrifter">
+      <PrefLabel lang="en">Support for businesses</PrefLabel>
+      <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
+      <PrefLabel lang="nn">Stønad til bedrifter</PrefLabel>
+      <Definition lang="nn">Etablerertilskot og annan stønad til bedrifter.</Definition>
+      <Definition lang="nb">Etablerertilskudd og annen støtte til bedrifter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
+   <Concept path="ord/skogbrukstilskudd">
+      <PrefLabel lang="en">Forestry grants</PrefLabel>
+      <PrefLabel lang="nb">Skogbrukstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Skogbrukstilskot</PrefLabel>
+      <Definition lang="nn">Tilskotsordningar for skogbrukarar.</Definition>
+      <Definition lang="nb">Tilskuddsordninger for skogbrukere.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
+   <Concept path="ord/produksjonstilskudd">
+      <PrefLabel lang="en">Produce grants</PrefLabel>
+      <PrefLabel lang="nb">Produksjonstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Produksjonstilskot</PrefLabel>
+      <Definition lang="nn">Fellesnamn for ei rekkje tilskotsordningar i landbruket.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for en rekke tilskuddsordninger i landbruket.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
+   <Concept path="ord/jordbrukstilskudd">
+      <PrefLabel lang="en">Farming grants</PrefLabel>
+      <PrefLabel lang="nb">Jordbrukstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Jordbrukstilskot</PrefLabel>
+      <Definition lang="nn">Fellesnamn for tilskot til spesielle formål innanfor jordbruk.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for tilskudd til spesielle formål innenfor jordbruk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/balbrenning">
       <PrefLabel lang="en">Bonfires</PrefLabel>
@@ -1786,6 +1832,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/hjelp-ved-rusavhengighet</Related>
       <Broader>tema/idrett</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/dyrehelse">
       <PrefLabel lang="en">Animal health</PrefLabel>
@@ -1805,7 +1852,8 @@
       <HiddenLabel lang="nn">Betalingsfritak</HiddenLabel>
       <HiddenLabel lang="nb">Betalingsreduksjon</HiddenLabel>
       <HiddenLabel lang="nn">Betalingsreduksjon</HiddenLabel>
-      <Definition lang="nn">Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule. Eigendel (ved betaling av helsetenester) er eige emneord.</Definition>
+      <Definition lang="nn">Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule.</Definition>
+      <Definition lang="nn">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -1959,7 +2007,8 @@
       <PrefLabel lang="nn">Ergoterapi</PrefLabel>
       <HiddenLabel lang="nb">Ergoterapeut</HiddenLabel>
       <HiddenLabel lang="nn">Ergoterapeut</HiddenLabel>
-      <Definition lang="nn">Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade. Fysioterapi er eige emneord.</Definition>
+      <Definition lang="nn">Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade.</Definition>
+      <Definition lang="nb">Tilbud til personer som har vanskligheter med å klare daglige aktiviteter, eller som står i fare for å få det i samenheng med alder, funksjonshemming, sykdom eller skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2062,7 +2111,8 @@
       <PrefLabel lang="nn">Fagskuleutdanning</PrefLabel>
       <HiddenLabel lang="nb">Teknisk fagskole</HiddenLabel>
       <HiddenLabel lang="nn">Teknisk fagskule</HiddenLabel>
-      <Definition lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår. Fagopplæring er eige emneord.</Definition>
+      <Definition lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår.</Definition>
+      <Definition lang="nb">Korte yrkesrettede utdanningar som bygger på videregående opplæring eller tilsvarende realkompetanse, og som har et omfang tilsvarende minimum et halvt studieår og maksimuim to studieår.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagopplaring</Related>
       <Broader>tema/hoyere-utdanning</Broader>
@@ -2231,7 +2281,8 @@
       <PrefLabel lang="nn">Fiskeriforvaltning</PrefLabel>
       <HiddenLabel lang="nb">Fiskeredskap</HiddenLabel>
       <HiddenLabel lang="nn">Fiskereiskap</HiddenLabel>
-      <Definition lang="nn">Regulering og kontroll med fiske og fangst i salt- og ferskvatn. Fritidsfiske er eige emneord.</Definition>
+      <Definition lang="nn">Regulering og kontroll med fiske og fangst i salt- og ferskvatn.</Definition>
+      <Definition lang="nb">Regulering og kontroll med fiske og fangst i salt- og ferskvann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
    </Concept>
@@ -2295,7 +2346,8 @@
       <HiddenLabel lang="nn">Transittmottak</HiddenLabel>
       <HiddenLabel lang="nb">Asyl</HiddenLabel>
       <HiddenLabel lang="nn">Asyl</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m. Menneskerettar er eige emneord.</Definition>
+      <Definition lang="nn">Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m.</Definition>
+      <Definition lang="nb">Til dette hører kvoteflyktninger, asylsøkere, asylmottak, retter flyktninger og asylsøkere har m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innvandring-og-innreise</Broader>
    </Concept>
@@ -2512,7 +2564,8 @@
       <HiddenLabel lang="nn">Eigendelstak</HiddenLabel>
       <HiddenLabel lang="nb">Egenandel</HiddenLabel>
       <HiddenLabel lang="nn">Eigendel</HiddenLabel>
-      <Definition lang="nn">Den delen av ei helseteneste ein må betale sjølv. Summen blir fastsett av Stortinget kvart år. Eigenbetaling er eige emneord.</Definition>
+      <Definition lang="nn">Den delen av ei helseteneste ein må betale sjølv. Summen blir fastsett av Stortinget kvart år.</Definition>
+      <Definition lang="nb">Den delen av en helsetjeneste man må betale selv. Summen blir fastsatt av Stortinget hvert år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2859,7 +2912,8 @@
       <HiddenLabel lang="nn">Trening</HiddenLabel>
       <HiddenLabel lang="nb">Mosjon</HiddenLabel>
       <HiddenLabel lang="nn">Mosjon</HiddenLabel>
-      <Definition lang="nn">Grøn resept og trening. Ernæring er eige emneord.</Definition>
+      <Definition lang="nn">Grøn resept og trening.</Definition>
+      <Definition lang="nb">Grønn resept og trening.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -3162,7 +3216,8 @@
       <PrefLabel lang="nn">Heimehjelp</PrefLabel>
       <HiddenLabel lang="nb">Praktisk bistand i hjemmet</HiddenLabel>
       <HiddenLabel lang="nn">Praktisk bistand i heimen</HiddenLabel>
-      <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord.</Definition>
+      <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål.</Definition>
+      <Definition lang="nb">Tilbud om praktisk hjelp i hjemmet for personer som på grunn av sykdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker trenger hjelp til daglige gjøremål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -3222,7 +3277,8 @@
       <HiddenLabel lang="nn">Terminal pleie</HiddenLabel>
       <HiddenLabel lang="nb">Psykiatrisk hjemmesykepleie</HiddenLabel>
       <HiddenLabel lang="nn">Psykiatrisk heimesjukepleie</HiddenLabel>
-      <Definition lang="nn">Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis. Heimehjelp er eige emneord.</Definition>
+      <Definition lang="nn">Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis.</Definition>
+      <Definition lang="nb">Sykepleie for hjemmeboende pasienter. Tjenesten kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, syke, funksjonshemma osv. Arbeidet blir utført av sykepleiere eller andre helsearbeidere. Tjenesten er gratis.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
       <Broader>tema/omsorgstjenester</Broader>
@@ -3281,7 +3337,8 @@
       <HiddenLabel lang="nn">Pelsdyroppdrett</HiddenLabel>
       <HiddenLabel lang="nb">Bier</HiddenLabel>
       <HiddenLabel lang="nn">Bier</HiddenLabel>
-      <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe. Sports- og kjæledyr er eige emneord.</Definition>
+      <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe.</Definition>
+      <Definition lang="nn">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Broader>tema/landbruk</Broader>
@@ -3975,6 +4032,15 @@
       <PrefLabel lang="en">Veterinarian</PrefLabel>
       <PrefLabel lang="nb">Veterinær</PrefLabel>
       <PrefLabel lang="nn">Veterinær</PrefLabel>
+      <Definition lang="nn">Veterinærtenester for landbruket.</Definition>
+      <Definition lang="nb">Veterinærtjenester for landbruket.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+   </Concept>
+   <Concept path="ord/erstatningsordninger-i-landbruket">
+      <PrefLabel lang="en">Compensation schemes in agriculture</PrefLabel>
+      <PrefLabel lang="nb">Erstatningsordninger i landbruket</PrefLabel>
+      <PrefLabel lang="nn">Erstatningsordningar i landbruket</PrefLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4084,7 +4150,7 @@
       <HiddenLabel lang="nn">Lokalhistorisk arkiv</HiddenLabel>
       <HiddenLabel lang="nb">Stedsnavn</HiddenLabel>
       <HiddenLabel lang="nn">Stadnamn</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer lokalhistoriske arkiv. Slektsforsking er eige emneord.</Definition>
+      <Definition lang="nn">Til dette høyrer lokalhistoriske arkiv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -4130,8 +4196,8 @@
       <HiddenLabel lang="nn">NOx</HiddenLabel>
       <HiddenLabel lang="nb">Svevestøv</HiddenLabel>
       <HiddenLabel lang="nn">Svevestøv</HiddenLabel>
-      <Definition lang="nn">Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet. Klima er eige emneord.</Definition>
-      <Definition lang="nb">Utslipp til atmosfæren, som har ugunstig påvirkning på miljøet. Fremkalt av menneskelig aktivitet. Klima er eget emneord.</Definition>
+      <Definition lang="nn">Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet.</Definition>
+      <Definition lang="nb">Utslipp til atmosfæren, som har ugunstig påvirkning på miljøet. Fremkalt av menneskelig aktivitet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
@@ -5236,8 +5302,6 @@
       <HiddenLabel lang="nn">Planteproduksjon</HiddenLabel>
       <HiddenLabel lang="nb">Økologisk landbruk</HiddenLabel>
       <HiddenLabel lang="nn">Økologisk landbruk</HiddenLabel>
-      <HiddenLabel lang="nb">Produksjonstilskudd</HiddenLabel>
-      <HiddenLabel lang="nn">Produksjonstilskot</HiddenLabel>
       <HiddenLabel lang="nb">Gjødsel</HiddenLabel>
       <HiddenLabel lang="nn">Gjødsel</HiddenLabel>
       <HiddenLabel lang="nb">Jordbruk</HiddenLabel>
@@ -5584,7 +5648,8 @@
       <HiddenLabel lang="nn">Rovviltskade</HiddenLabel>
       <HiddenLabel lang="nb">Nedfôring</HiddenLabel>
       <HiddenLabel lang="nn">Nedfôring</HiddenLabel>
-      <Definition lang="nn">Reindrift er ei viktig næring både i samisk og lokal samanheng. Husdyrhald er eige emneord.</Definition>
+      <Definition lang="nn">Reindrift er ei viktig næring både i samisk og lokal samanheng.</Definition>
+      <Definition lang="nb">Reindrift er en viktig næring både i samisk og lokal sammenheng.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -5931,7 +5996,8 @@
       <HiddenLabel lang="nn">Serveringsløyve</HiddenLabel>
       <HiddenLabel lang="nb">Uteservering</HiddenLabel>
       <HiddenLabel lang="nn">Uteservering</HiddenLabel>
-      <Definition lang="nn">Regelverk og krav til verksemder som driv servering. Alkoholsal er eige emneord.</Definition>
+      <Definition lang="nn">Regelverk og krav til verksemder som driv servering.</Definition>
+      <Definition lang="nn">Regelverk og krav til virksomheter som driver servering.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
@@ -5965,7 +6031,8 @@
       <HiddenLabel lang="nn">Husbukk</HiddenLabel>
       <HiddenLabel lang="nb">Flått</HiddenLabel>
       <HiddenLabel lang="nn">Flått</HiddenLabel>
-      <Definition lang="nn">Motarbeiding av skadedyr. Plantevern er eige emneord.</Definition>
+      <Definition lang="nn">Motarbeiding av skadedyr.</Definition>
+      <Definition lang="nb">Motarbeiding av skadedyr.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/plantevern</Related>
       <Broader>tema/folkehelse</Broader>
@@ -6475,7 +6542,8 @@
       <PrefLabel lang="en">Pregnancy benefit</PrefLabel>
       <PrefLabel lang="nb">Svangerskapspenger</PrefLabel>
       <PrefLabel lang="nn">Svangerskapspengar</PrefLabel>
-      <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet fordi det kan medføre risiko for skade på fosteret. Foreldrepengar er eige emneord.</Definition>
+      <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
+      <Definition lang="nn">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
@@ -8044,7 +8112,7 @@
    </Concept>
    <Concept path="tema/tilskuddsordninger-for-naring">
       <PrefLabel lang="en">Public funding schemes for business</PrefLabel>
-      <PrefLabel lang="nb">tilskuddsordninger for næring</PrefLabel>
+      <PrefLabel lang="nb">Tilskuddsordninger for næring</PrefLabel>
       <PrefLabel lang="nn">Tilskotsordningar for næring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
