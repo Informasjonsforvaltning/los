@@ -1058,6 +1058,7 @@
       <Definition lang="nb">Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/balbrenning">
       <PrefLabel lang="en">Bonfires</PrefLabel>
@@ -8045,7 +8046,7 @@
    </Concept>
    <Concept path="tema/tilskuddsordninger-for-naring">
       <PrefLabel lang="en">Public funding schemes for business</PrefLabel>
-      <PrefLabel lang="nb">tilskuddsordninger for næring</PrefLabel>
+      <PrefLabel lang="nb">Tilskuddsordninger for næring</PrefLabel>
       <PrefLabel lang="nn">Tilskotsordningar for næring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
