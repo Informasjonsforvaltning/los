@@ -4032,6 +4032,8 @@
       <PrefLabel lang="nn">Leigeforhold</PrefLabel>
       <HiddenLabel lang="nb">Husleie</HiddenLabel>
       <HiddenLabel lang="nn">Husleige</HiddenLabel>
+      <HiddenLabel lang="nb">Husleiekontrakt</HiddenLabel>
+      <HiddenLabel lang="nn">Husleigekontrakt</HiddenLabel>
       <HiddenLabel lang="nb">Framleie</HiddenLabel>
       <HiddenLabel lang="nn">Framleige</HiddenLabel>
       <Definition lang="nn">Avtalar om bruksrett til husrom mot vederlag.</Definition>
