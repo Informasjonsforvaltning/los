@@ -1784,7 +1784,7 @@
       <Definition lang="nn">Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar.</Definition>
       <Definition lang="nb">Bruk av stoff som kan påvirke prestasjonsevnen til kroppen i ulike sammenhenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/rustiltak</Related>
+      <Related>ord/hjelp-ved-rusavhengighet</Related>
       <Broader>tema/idrett</Broader>
    </Concept>
    <Concept path="ord/dyrehelse">
@@ -7994,13 +7994,6 @@
       <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/naringsliv">
-      <PrefLabel lang="en">Agriculture</PrefLabel>
-      <PrefLabel lang="nb">Næringsliv</PrefLabel>
-      <PrefLabel lang="nn">Næringsliv</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naring</Broader>
-   </Concept>
-   <Concept path="tema/tilskuddsordninger-for-naring">
       <PrefLabel lang="en">Agriculture</PrefLabel>
       <PrefLabel lang="nb">Næringsliv</PrefLabel>
       <PrefLabel lang="nn">Næringsliv</PrefLabel>
