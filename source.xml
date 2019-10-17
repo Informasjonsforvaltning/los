@@ -210,7 +210,7 @@
       <HiddenLabel lang="nb">Privatfly</HiddenLabel>
       <HiddenLabel lang="nn">Privatfly</HiddenLabel>
       <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly.</Definition>
-      <Definition lang="nn">Landingstillatelse, landingsplass m.m. for fly.</Definition>
+      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
