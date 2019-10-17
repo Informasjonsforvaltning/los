@@ -4255,13 +4255,6 @@
       <Broader>tema/mobilitetstilbud</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-   <Concept path="ord/minid">
-      <PrefLabel lang="en">MinID digital identity</PrefLabel>
-      <PrefLabel lang="nb">MinID</PrefLabel>
-      <PrefLabel lang="nn">MinID</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/personopplysninger</Broader>
-   </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
       <PrefLabel lang="nb">Motorferdsel i utmark</PrefLabel>
