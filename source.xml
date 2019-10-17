@@ -3126,7 +3126,6 @@
       <Definition lang="nn">Habilitering er hjelp til personar med samansette behov som på grunn av medfødde tilstandar eller tidlig ervervede tilstander som f.eks CP, Downs syndrom og autisme. Rehabilitering er hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/rehabiliteringspenger</Related>
-      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/heftelser-i-motorvogn">
       <PrefLabel lang="en">Motor vehicle encumbrances</PrefLabel>
@@ -3164,7 +3163,6 @@
       <HiddenLabel lang="nn">Praktisk bistand i heimen</HiddenLabel>
       <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål. Heimesjukepleie er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hjemmetjenester</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmeteknologi">
@@ -3175,7 +3173,7 @@
       <HiddenLabel lang="nn">Velferdsteknologi</HiddenLabel>
       <Definition lang="nn">*Beskrivelse mangler*</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hjemmetjenester</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/bevegelseshjelpemidler">
       <PrefLabel lang="en">Mobility aid</PrefLabel>
@@ -3226,7 +3224,6 @@
       <Definition lang="nn">Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis. Heimehjelp er eige emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-      <Broader>tema/hjemmetjenester</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjemmeundervisning">
@@ -4013,7 +4010,6 @@
       <HiddenLabel lang="nb">Akutthjelp</HiddenLabel>
       <HiddenLabel lang="nn">Akutthjelp</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
       <Broader>tema/akutt-hjelp</Broader>
    </Concept>
    <Concept path="ord/livskriser">
@@ -4023,7 +4019,6 @@
       <Definition lang="nn">Akutt psykologisk hjelp i ein krisesituasjon. Tenesta tilbyr samtale, rådgjeving, hjelp til sjølvhjelp og formidlar kontakt med andre hjelpeinstansar.</Definition>
       <Definition lang="nb">Akutt psykologisk hjelp i en krisesituasjon. Tjenesten tilbyr samtale, rådgivning, hjelp til selvhjelp og formidler kontakt med andre hjelpeinstanser.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
       <Broader>tema/akutt-hjelp</Broader>
    </Concept>
    <Concept path="ord/leieforhold">
@@ -4147,7 +4142,6 @@
       <HiddenLabel lang="nn">Matombringing</HiddenLabel>
       <Definition lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/hjemmetjenester</Broader>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/hjelp-ved-rusavhengighet">
@@ -4988,9 +4982,11 @@
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/klage-pa-helse--og-omsorgstjenester">
-      <PrefLabel lang="en">Complaints about health and care services</PrefLabel>
+      <PrefLabel lang="en">Complaint about medical care or health services</PrefLabel>
       <PrefLabel lang="nb">Klage på helse- og omsorgstjenester</PrefLabel>
       <PrefLabel lang="nn">Klage på helse- og omsorgstenester</PrefLabel>
+      <Definition lang="nn">Pasient eller pårørande har rett til å klage om dei er misfornøgd med utføringa av ein teneste eller om det er skjedd en feil. Om det er skjedd ei  svært alvorleg hending, kan pårørande og/eller pasient melde det til Statens helsetilsyn.</Definition>
+      <Definition lang="nn">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en  svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
@@ -5366,8 +5362,8 @@
    </Concept>
    <Concept path="ord/psykisk-helse">
       <PrefLabel lang="en">Mental health care</PrefLabel>
-      <PrefLabel lang="nb">Psykisk helsevern</PrefLabel>
-      <PrefLabel lang="nn">Psykisk helsevern</PrefLabel>
+      <PrefLabel lang="nb">Psykisk helse</PrefLabel>
+      <PrefLabel lang="nn">Psykisk helse</PrefLabel>
       <HiddenLabel lang="nb">Psykiatri</HiddenLabel>
       <HiddenLabel lang="nn">Psykiatri</HiddenLabel>
       <HiddenLabel lang="nb">BUP</HiddenLabel>
@@ -5775,39 +5771,6 @@
       <Definition lang="nn">Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
-   </Concept>
-   <Concept path="ord/rustiltak">
-      <PrefLabel lang="en">Anti-drug and alcohol initiatives</PrefLabel>
-      <PrefLabel lang="nb">Rustiltak</PrefLabel>
-      <PrefLabel lang="nn">Rustiltak</PrefLabel>
-      <HiddenLabel lang="nb">Avrusning</HiddenLabel>
-      <HiddenLabel lang="nn">Avrusing</HiddenLabel>
-      <HiddenLabel lang="nb">Metadon</HiddenLabel>
-      <HiddenLabel lang="nn">Metadon</HiddenLabel>
-      <HiddenLabel lang="nb">LAR</HiddenLabel>
-      <HiddenLabel lang="nn">LAR</HiddenLabel>
-      <HiddenLabel lang="nb">Rusomsorg</HiddenLabel>
-      <HiddenLabel lang="nn">Rusomsorg</HiddenLabel>
-      <HiddenLabel lang="nb">Rusmiddeltiltak</HiddenLabel>
-      <HiddenLabel lang="nn">Rusmiddeltiltak</HiddenLabel>
-      <HiddenLabel lang="nb">Rusmiddelmisbruk</HiddenLabel>
-      <HiddenLabel lang="nn">Rusmiddelmisbruk</HiddenLabel>
-      <HiddenLabel lang="nb">Narkotika</HiddenLabel>
-      <HiddenLabel lang="nn">Narkotika</HiddenLabel>
-      <HiddenLabel lang="nb">Legemiddelassistert rehabilitering</HiddenLabel>
-      <HiddenLabel lang="nn">Legemiddelassistert rehabilitering</HiddenLabel>
-      <HiddenLabel lang="nb">Rusbehandling</HiddenLabel>
-      <HiddenLabel lang="nn">Rusbehandling</HiddenLabel>
-      <HiddenLabel lang="nb">Avvenning</HiddenLabel>
-      <HiddenLabel lang="nn">Avvenning</HiddenLabel>
-      <HiddenLabel lang="nb">Rusmisbruk</HiddenLabel>
-      <HiddenLabel lang="nn">Rusmisbruk</HiddenLabel>
-      <HiddenLabel lang="nb">Rusmiddelomsorg</HiddenLabel>
-      <HiddenLabel lang="nn">Rusmiddelomsorg</HiddenLabel>
-      <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/doping</Related>
-      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/ruteopplysning">
       <PrefLabel lang="en">Timetable information</PrefLabel>
@@ -7942,13 +7905,6 @@
       <PrefLabel lang="en">Addiction</PrefLabel>
       <PrefLabel lang="nb">Rus og avhengighet</PrefLabel>
       <PrefLabel lang="nn">Rus og avhengigheit</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/helse-og-omsorg</Broader>
-   </Concept>
-   <Concept path="tema/hjemmetjenester">
-      <PrefLabel lang="en">Home health</PrefLabel>
-      <PrefLabel lang="nb">Hjemmetjenester</PrefLabel>
-      <PrefLabel lang="nn">Heimetenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
