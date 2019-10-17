@@ -6543,7 +6543,7 @@
       <PrefLabel lang="nb">Svangerskapspenger</PrefLabel>
       <PrefLabel lang="nn">Svangerskapspengar</PrefLabel>
       <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
-      <Definition lang="nn">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
+      <Definition lang="nb">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
