@@ -1057,7 +1057,6 @@
       <Definition lang="nn">Avløysarordningane er ein del av velferdsordningane i landbruket. Husdyrbrukarar skal få avløysing ved feriar, sjukdom o.l.</Definition>
       <Definition lang="nb">Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/tilskudd-til-okologisk-landbruk">
@@ -1067,7 +1066,6 @@
       <Definition lang="nn">Tilskot for økologisk landbruk.</Definition>
       <Definition lang="nb">Tilskudd for økologisk landbruk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/stotte-til-bedrifter">
@@ -1077,7 +1075,6 @@
       <Definition lang="nn">Etablerertilskot og annan stønad til bedrifter.</Definition>
       <Definition lang="nb">Etablerertilskudd og annen støtte til bedrifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/skogbrukstilskudd">
@@ -1087,7 +1084,6 @@
       <Definition lang="nn">Tilskotsordningar for skogbrukarar.</Definition>
       <Definition lang="nb">Tilskuddsordninger for skogbrukere.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/produksjonstilskudd">
@@ -1097,7 +1093,6 @@
       <Definition lang="nn">Fellesnamn for ei rekkje tilskotsordningar i landbruket.</Definition>
       <Definition lang="nb">Fellesbetegnelse for en rekke tilskuddsordninger i landbruket.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/jordbrukstilskudd">
@@ -1107,7 +1102,6 @@
       <Definition lang="nn">Fellesnamn for tilskot til spesielle formål innanfor jordbruk.</Definition>
       <Definition lang="nb">Fellesbetegnelse for tilskudd til spesielle formål innenfor jordbruk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/balbrenning">
