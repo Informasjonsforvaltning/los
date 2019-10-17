@@ -1786,6 +1786,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/hjelp-ved-rusavhengighet</Related>
       <Broader>tema/idrett</Broader>
+      <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
    <Concept path="ord/dyrehelse">
       <PrefLabel lang="en">Animal health</PrefLabel>
