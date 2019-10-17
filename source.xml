@@ -750,7 +750,7 @@
       <Definition lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</Definition>
       <Definition lang="nn">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/medvirkning</Broader>
+      <Broader>tema/apenhet</Broader>
    </Concept>
    <Concept path="ord/ambulerende-vaktmester">
       <PrefLabel lang="en">Caretaker services</PrefLabel>
@@ -3475,7 +3475,7 @@
       <Definition lang="nn">Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast.</Definition>
       <Definition lang="nb">Rett til innsyn og informasjon om egne personopplysninger for å ta vare på eget personvern. Det kan kreves at feilaktige eller unødvendige opplysninger skal slettes.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/innbyggerrettigheter</Broader>
+      <Broader>tema/apenhet</Broader>
    </Concept>
    <Concept path="ord/formue-og-inntektsskatt">
       <PrefLabel lang="en">Wealth tax and income tax</PrefLabel>
@@ -5198,6 +5198,7 @@
       <Definition lang="nb">Personopplysningsloven inneholder rettigheter om personlige opplysninger. Det er ikke lov til å bruke informasjon om den enkelte uten at det blir gitt samtykke til at opplysningene kan brukes. Virksomheter skal sikre opplysningene.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
+      <Broader>tema/apenhet</Broader>
    </Concept>
    <Concept path="ord/piggdekk">
       <PrefLabel lang="en">Studded tyres</PrefLabel>
