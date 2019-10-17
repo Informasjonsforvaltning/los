@@ -1060,6 +1060,16 @@
       <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
+   <Concept path="ord/produksjonstilskudd">
+      <PrefLabel lang="en">Produce grants</PrefLabel>
+      <PrefLabel lang="nb">Produksjonstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Produksjonstilskot</PrefLabel>
+      <Definition lang="nn">Fellesnamn for ei rekkje tilskotsordningar i landbruket.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for en rekke tilskuddsordninger i landbruket.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
    <Concept path="ord/jordbrukstilskudd">
       <PrefLabel lang="en">Farming grants</PrefLabel>
       <PrefLabel lang="nb">Jordbrukstilskudd</PrefLabel>
