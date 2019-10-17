@@ -1060,6 +1060,16 @@
       <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
+   <Concept path="ord/skogbrukstilskudd">
+      <PrefLabel lang="en">Forestry grants</PrefLabel>
+      <PrefLabel lang="nb">Skogbrukstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Skogbrukstilskot</PrefLabel>
+      <Definition lang="nn">Tilskotsordningar for skogbrukarar.</Definition>
+      <Definition lang="nb">Tilskuddsordninger for skogbrukere.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
    <Concept path="ord/produksjonstilskudd">
       <PrefLabel lang="en">Produce grants</PrefLabel>
       <PrefLabel lang="nb">Produksjonstilskudd</PrefLabel>
