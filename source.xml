@@ -3976,8 +3976,8 @@
       <PrefLabel lang="en">Veterinarian</PrefLabel>
       <PrefLabel lang="nb">Veterinær</PrefLabel>
       <PrefLabel lang="nn">Veterinær</PrefLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nn">Veterinærtenester for landbruket.</Definition>
+      <Definition lang="nb">Veterinærtjenester for landbruket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
