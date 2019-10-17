@@ -3338,7 +3338,7 @@
       <HiddenLabel lang="nb">Bier</HiddenLabel>
       <HiddenLabel lang="nn">Bier</HiddenLabel>
       <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe.</Definition>
-      <Definition lang="nn">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
+      <Definition lang="nb">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Broader>tema/landbruk</Broader>
