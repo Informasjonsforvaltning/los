@@ -1468,14 +1468,14 @@
       <HiddenLabel lang="nb">Brannvesen</HiddenLabel>
       <HiddenLabel lang="nn">Brannvesen</HiddenLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
+      <Broader>tema/samfunnssikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="tema/varslingstjenester">
       <PrefLabel lang="en">Fire</PrefLabel>
       <PrefLabel lang="nb">Varslingstjenester</PrefLabel>
       <PrefLabel lang="nn">Varslingstenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
+      <Broader>tema/samfunnssikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="ord/bransjekrav">
       <PrefLabel lang="en">Trade requirements</PrefLabel>
@@ -1583,7 +1583,8 @@
       <PrefLabel lang="en">Construction application</PrefLabel>
       <PrefLabel lang="nb">Forhåndskonferanse</PrefLabel>
       <PrefLabel lang="nn">Førehandskonferanse</PrefLabel>
-      <Definition lang="nn">Førehandskonferanse er ei ordning der tiltakshavar (byggherre) og kommunen kan møtast for å avklare førutsetningar for byggetiltaket og rammene for den vidare saksbehandlingen.</Definition>Forhåndskonferanse er en ordning der tiltakshaver (byggherre) og kommunen kan møtes for å avklare forutsetninger for byggetiltaket og rammene for den videre saksbehandlingen.</Definition>
+      <Definition lang="nn">Førehandskonferanse er ei ordning der tiltakshavar (byggherre) og kommunen kan møtast for å avklare førutsetningar for byggetiltaket og rammene for den vidare saksbehandlingen.</Definition>
+      <Definition lang="nb">Forhåndskonferanse er en ordning der tiltakshaver (byggherre) og kommunen kan møtes for å avklare forutsetninger for byggetiltaket og rammene for den videre saksbehandlingen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Related>ord/reguleringsplan</Related>
@@ -7727,7 +7728,7 @@
    </Concept>
    <Concept path="tema/samfunnssikkerhet-og-beredskap">
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
-      <PrefLabel lang="nb">Samfunnsikkerhet og beredskap</PrefLabel>
+      <PrefLabel lang="nb">Samfunnssikkerhet og beredskap</PrefLabel>
       <PrefLabel lang="nn">Samfunnstryggleik og beredskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
@@ -8032,7 +8033,7 @@
       <PrefLabel lang="nb">Forsvaret</PrefLabel>
       <PrefLabel lang="nn">Forsvaret</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
+      <Broader>tema/samfunnssikkerhet-og-beredskap</Broader>
    </Concept>
    <Concept path="tema/lovbrudd-og-straff">
       <PrefLabel lang="en">Crime and punishment</PrefLabel>
