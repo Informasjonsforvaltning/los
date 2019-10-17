@@ -1060,6 +1060,16 @@
       <Broader>tema/landbruk</Broader>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
+   <Concept path="ord/stotte-til-bedrifter">
+      <PrefLabel lang="en">Support for businesses</PrefLabel>
+      <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
+      <PrefLabel lang="nn">Stønad til bedrifter</PrefLabel>
+      <Definition lang="nn">Etablerertilskot og annan stønad til bedrifter.</Definition>
+      <Definition lang="nb">Etablerertilskudd og annen støtte til bedrifter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/landbruk</Broader>
+      <Broader>tema/tilskuddsordninger-for-naring</Broader>
+   </Concept>
    <Concept path="ord/skogbrukstilskudd">
       <PrefLabel lang="en">Forestry grants</PrefLabel>
       <PrefLabel lang="nb">Skogbrukstilskudd</PrefLabel>
