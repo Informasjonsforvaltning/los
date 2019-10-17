@@ -1472,7 +1472,7 @@
    </Concept>
    <Concept path="tema/varslingstjenester">
       <PrefLabel lang="en">Fire</PrefLabel>
-      <PrefLabel lang="nb">varslingstjenester</PrefLabel>
+      <PrefLabel lang="nb">Varslingstjenester</PrefLabel>
       <PrefLabel lang="nn">Varslingstenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/samfunnsikkerhet-og-beredskap</Broader>
@@ -6064,7 +6064,6 @@
       <Definition lang="nb">Tiltak som er med på å forebygge klimaendringer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
-      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/klimakvote">
       <PrefLabel lang="en">Emission trading</PrefLabel>
@@ -6074,7 +6073,6 @@
       <Definition lang="nb">Tillatelse til å slippe ut ett tonn CO2.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
-      <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/skogbruk">
       <PrefLabel lang="en">Forestry</PrefLabel>
@@ -7768,7 +7766,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
-   <Concept path="tema/samfunnsikkerhet-og-beredskap">
+   <Concept path="tema/samfunnssikkerhet-og-beredskap">
       <PrefLabel lang="en">Civil protection and emergency planning</PrefLabel>
       <PrefLabel lang="nb">Samfunnsikkerhet og beredskap</PrefLabel>
       <PrefLabel lang="nn">Samfunnstryggleik og beredskap</PrefLabel>
