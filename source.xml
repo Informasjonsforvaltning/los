@@ -1061,11 +1061,11 @@
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/tilskudd-til-okologisk-landbruk">
-      <PrefLabel lang="en">Support for organic farming</PrefLabel>
+      <PrefLabel lang="en">Organic agriculture grants</PrefLabel>
       <PrefLabel lang="nb">Tilskudd til økologisk landbruk</PrefLabel>
       <PrefLabel lang="nn">Tilskot til økologisk landbruk</PrefLabel>
-      <Definition lang="nn">Tilskot for økologisk landbruk.</Definition>
-      <Definition lang="nb">Tilskudd for økologisk landbruk.</Definition>
+      <Definition lang="nn">Fellesnamn for tilskot til dei som driv økologisk landbruk.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for tilskudd til de som driver økologisk landbruk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
