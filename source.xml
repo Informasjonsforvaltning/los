@@ -1027,28 +1027,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/avlopshandtering">
-      <PrefLabel lang="en">Drain management</PrefLabel>
-      <PrefLabel lang="nb">Avløpshåndtering</PrefLabel>
-      <PrefLabel lang="nn">Avløpshandtering</PrefLabel>
-      <HiddenLabel lang="nb">Vann og avløp</HiddenLabel>
-      <HiddenLabel lang="nn">Vatn og avløp</HiddenLabel>
-      <HiddenLabel lang="nb">Avløpsslam</HiddenLabel>
-      <HiddenLabel lang="nn">Avlaupsslam</HiddenLabel>
-      <HiddenLabel lang="nb">Slam</HiddenLabel>
-      <HiddenLabel lang="nn">Slam</HiddenLabel>
-      <HiddenLabel lang="nb">Avløpsvann</HiddenLabel>
-      <HiddenLabel lang="nn">Avlaupsvatn</HiddenLabel>
-      <HiddenLabel lang="nb">Kloakk</HiddenLabel>
-      <HiddenLabel lang="nn">Kloakk</HiddenLabel>
-      <Definition lang="nn">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</Definition>
-      <Definition lang="nb">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Related>ord/vannforurensning</Related>
-      <Related>ord/utslippstillatelse</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
-   </Concept>
    <Concept path="ord/avlosertilskudd">
       <PrefLabel lang="en">Farm assistance grant</PrefLabel>
       <PrefLabel lang="nb">Avløsertilskudd</PrefLabel>
@@ -7223,25 +7201,6 @@
       <Definition lang="nb">Avstemning for å velge ut personer til verv, stillinger og posisjoner. I Norge er det stortingsvalg og kommune- og fylkestingsvalg hvert fjerde år. Alle norske borgere som har fylt 18 år innen valgåret har stemmerett.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
-   </Concept>
-   <Concept path="ord/vannforsyning">
-      <PrefLabel lang="en">Water supply</PrefLabel>
-      <PrefLabel lang="nb">Vannforsyning</PrefLabel>
-      <PrefLabel lang="nn">Vassforsyning</PrefLabel>
-      <HiddenLabel lang="nb">Drikkevann</HiddenLabel>
-      <HiddenLabel lang="nn">Drikkevatn</HiddenLabel>
-      <HiddenLabel lang="nb">Drikkevannskvalitet</HiddenLabel>
-      <HiddenLabel lang="nn">Drikkevasskvalitet</HiddenLabel>
-      <HiddenLabel lang="nb">Vannmåler</HiddenLabel>
-      <HiddenLabel lang="nn">Vassmålar</HiddenLabel>
-      <HiddenLabel lang="nb">VAR</HiddenLabel>
-      <HiddenLabel lang="nn">VAR</HiddenLabel>
-      <HiddenLabel lang="nb">Vanningsrestriksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Vatningsrestriksjon</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Related>ord/vannforurensning</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
    </Concept>
    <Concept path="ord/vannforurensning">
       <PrefLabel lang="en">Water pollution</PrefLabel>
