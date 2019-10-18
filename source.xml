@@ -1439,7 +1439,6 @@
       <HiddenLabel lang="nb">Bostedsbevis</HiddenLabel>
       <HiddenLabel lang="nn">Bustadbevis</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/flytting</Broader>
    </Concept>
    <Concept path="ord/bostotte">
@@ -1521,7 +1520,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/feiing-og-stroing">
@@ -4016,8 +4014,6 @@
       <PrefLabel lang="nn">Landbrukseigedom</PrefLabel>
       <HiddenLabel lang="nb">Driveplikt</HiddenLabel>
       <HiddenLabel lang="nn">Driveplikt</HiddenLabel>
-      <HiddenLabel lang="nb">Boplikt</HiddenLabel>
-      <HiddenLabel lang="nn">Buplikt</HiddenLabel>
       <HiddenLabel lang="nb">Konsesjonsfrihet</HiddenLabel>
       <HiddenLabel lang="nn">Konsesjonsfriheit</HiddenLabel>
       <HiddenLabel lang="nb">Odel</HiddenLabel>
@@ -4031,8 +4027,19 @@
       <Definition lang="nn">Kommunen er styresmakt for søknader om fritak frå driveplikt og buplikt, søknad om konsesjon, løyve til tiltak eller deling av eigedomen.</Definition>
       <Definition lang="nb">Kommunen er myndighet for søknader om fritak fra driveplikt og boplikt, søknad om konsesjon, tillatelser til tiltak eller deling av eiendommen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
+   </Concept>
+   <Concept path="ord/boplikt">
+      <PrefLabel lang="en">Residence obligation and concession</PrefLabel>
+      <PrefLabel lang="nb">Boplikt</PrefLabel>
+      <PrefLabel lang="nn">Buplikt</PrefLabel>
+      <HiddenLabel lang="nb">Konsesjon</HiddenLabel>
+      <HiddenLabel lang="nn">Konsesjon</HiddenLabel>
+      <Definition lang="nn">Kommunen ønskjer å leggje til rette for levande lokalsamfunn og sikre busetjinga ved at bustadeigedomar i størst mogeleg grad blir nytta som heilårsbustader. Ved kjøp av ein bustad i eit område med buplikt, er ein forplikta til å bu der. For å bli friteke frå buplikta kan ein søkje om konsesjon.</Definition>
+      <Definition lang="nb">Kommunen ønsker å legge til rette for levende lokalsamfunn og sikre bosettingen ved at boligeiendommer i størst mulig grad benyttes som helårsboliger. Ved kjøp av en bolig i et område med boplikt, er man forpliktet til å bo der. For å bli fritatt fra boplikten kan man søke om konsesjon.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/landbrukseiendom</Related>
+      <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/veterinar">
       <PrefLabel lang="en">Veterinarian</PrefLabel>
@@ -4562,7 +4569,6 @@
       <Related>ord/flomvarsel</Related>
       <Related>ord/naturskadeerstatning</Related>
       <Related>ord/skredvarsel</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
    </Concept>
    <Concept path="ord/naturskadeerstatning">
@@ -5779,7 +5785,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/farlig-avfall</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
@@ -7328,7 +7333,7 @@
       <Definition lang="nb">En avkjørsel er området mellom en offentlig vei og privat eiendom. Kommunen gir tillatelse til bygge eller flytte en avkjørsel fra kommunal vei.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegbygging</Related>
-      <Broader>tema/bygging</Broader>
+      <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
