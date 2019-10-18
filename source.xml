@@ -3020,6 +3020,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
+   <Concept path="ord/melding-om-ulovlige-tiltak">
+      <PrefLabel lang="en">Notice concerning unlawful projects</PrefLabel>
+      <PrefLabel lang="nb">Melding om ulovlige tiltak</PrefLabel>
+      <PrefLabel lang="nn">Melding om ulovlege tiltak</PrefLabel>
+      <Definition lang="nn">Innbyggjarar kan melde frå om byggjetiltak som dei meiner er ulovlege eller farlege.</Definition>
+      <Definition lang="nb">Innbyggere kan melde fra om byggetiltak som de mener er ulovlige eller farlige.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
    <Concept path="ord/nabovarsel">
       <PrefLabel lang="en">Notice to neighbours</PrefLabel>
       <PrefLabel lang="nb">Nabovarsel</PrefLabel>
