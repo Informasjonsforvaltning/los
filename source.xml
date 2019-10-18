@@ -8260,13 +8260,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
-   <Concept path="tema/tekniske-tjenester">
-      <PrefLabel lang="en">Technical services</PrefLabel>
-      <PrefLabel lang="nb">Tekniske tjenester</PrefLabel>
-      <PrefLabel lang="nn">Tekniske tenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bygg-og-eiendom</Broader>
-   </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
       <PrefLabel lang="nb">Vær og klima</PrefLabel>
