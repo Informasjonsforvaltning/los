@@ -3749,6 +3749,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
+   <Concept path="ord/fredet-eiendom">
+      <PrefLabel lang="en">Culturally protected property</PrefLabel>
+      <PrefLabel lang="nb">Fredet eiendom</PrefLabel>
+      <PrefLabel lang="nn">Freda eigedom</PrefLabel>
+      <Definition lang="nn">Kommunen kan avgjere at visse bygningar er bevaringsverdige, utan at dei er blitt freda av riksantikvaren. Sjølv om avgjerda ikkje gir formelt vern, vil det ha aktualitet for byggje- og rivesaker.</Definition>
+      <Definition lang="nb">Kommunen kan beslutte at visse bygninger er bevaringsverdige, uten at de er blitt fredet av riksantikvaren. Selv om beslutningen ikke gir formelt vern, vil det ha betydning for bygge- og rivesaker.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
    <Concept path="ord/kommunale-avgifter-og-gebyr">
       <PrefLabel lang="en">Municipal taxes and fees</PrefLabel>
       <PrefLabel lang="nb">Kommunale avgifter og gebyr</PrefLabel>
