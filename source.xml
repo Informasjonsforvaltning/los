@@ -3787,6 +3787,8 @@
       <PrefLabel lang="nn">Kommuneplan</PrefLabel>
       <HiddenLabel lang="nb">Kommuneplanbestemmelser</HiddenLabel>
       <HiddenLabel lang="nn">Føresegner til kommuneplanen</HiddenLabel>
+      <HiddenLabel lang="nb">Samfunnsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Samfunnsplan</HiddenLabel>
       <HiddenLabel lang="nb">Næringsplan</HiddenLabel>
       <HiddenLabel lang="nn">Næringsplan</HiddenLabel>
       <HiddenLabel lang="nb">Kommuneplanens samfunnsdel</HiddenLabel>
