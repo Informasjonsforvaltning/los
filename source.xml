@@ -3740,6 +3740,15 @@
       <Broader>tema/leie-og-utleie</Broader>
       <Broader>tema/botilbud</Broader>
    </Concept>
+   <Concept path="ord/heftelser-pa-eiendom">
+      <PrefLabel lang="en">Legal claims on property</PrefLabel>
+      <PrefLabel lang="nb">Heftelser på eiendom</PrefLabel>
+      <PrefLabel lang="nn">Hefte på eigedom</PrefLabel>
+      <Definition lang="nn">Hefte på ein eigedom er ein rett som avgrensar bruken til grunneigaren av eigedomen. Buplikt, kulturminnevern eller reguleringsplaner er døme på typar heftelser.</Definition>
+      <Definition lang="nb">Heftelser på en eiendom er en rettighet som begrenser grunneiers bruk av eiendommen. Boplikt, kulturminnevern eller reguleringsplaner er eksempler på typer heftelser.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
    <Concept path="ord/deling-av-eiendom">
       <PrefLabel lang="en">Division of property</PrefLabel>
       <PrefLabel lang="nb">Deling av eigendom</PrefLabel>
