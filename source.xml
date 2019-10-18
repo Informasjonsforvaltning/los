@@ -1390,7 +1390,6 @@
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
-      <Broader>tema/bygging</Broader>
       <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
@@ -3018,6 +3017,15 @@
       <HiddenLabel lang="nn">Graveløyve</HiddenLabel>
       <Definition lang="nn">Kommunen gir løyve til å grave i kommunale vegar, parkområde og friområde.</Definition>
       <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
+   <Concept path="ord/nabovarsel">
+      <PrefLabel lang="en">Notice to neighbours</PrefLabel>
+      <PrefLabel lang="nb">Nabovarsel</PrefLabel>
+      <PrefLabel lang="nn">Nabovarsel</PrefLabel>
+      <Definition lang="nn">Den som skal byggje eller grave har plikt til å varsle naboar og gjenbuere om tiltaket før dei tek i gong. Naboar skal ha høve til å kvittere når dei ikkje har nokre merknader, eller protestere. Kommunen kan frita søkjaren for varsling eller utvide varslingsplikta, avhengig av tiltaket.</Definition>
+      <Definition lang="nb">Den som skal bygge eller grave har plikt til å varsle naboer og gjenboere om tiltaket før det settes i gang. Naboer skal ha mulighet til å kvittere når de ikke har noen merknader, eller protestere. Kommunen kan frita søkeren for varsling eller utvide varslingsplikten, avhengig av tiltaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
@@ -5446,6 +5454,8 @@
       <PrefLabel lang="nn">Regional planlegging</PrefLabel>
       <HiddenLabel lang="nb">Fylkesplan</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplan</HiddenLabel>
+      <HiddenLabel lang="nb">Regionale planer</HiddenLabel>
+      <HiddenLabel lang="nn">Regionale planer</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nb">Interkommunalt plansamarbeid</HiddenLabel>
@@ -7073,7 +7083,6 @@
       <Related>ord/vannforurensning</Related>
       <Related>ord/fritidsfiske</Related>
       <Related>ord/flomvarsel</Related>
-      <Broader>tema/kommunale-planer</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/utdanningspermisjon">
