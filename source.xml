@@ -3806,8 +3806,6 @@
       <Related>ord/renovasjon</Related>
       <Related>ord/renovasjonsavgift</Related>
       <Related>ord/feiing</Related>
-      <Related>ord/vannforsyning</Related>
-      <Related>ord/avlopshandtering</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -7165,7 +7163,6 @@
       <HiddenLabel lang="nn">Utsleppsløyve</HiddenLabel>
       <Definition lang="nn">Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/avlopshandtering</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/vapentillatelse">
@@ -7278,8 +7275,6 @@
       <Definition lang="nb">Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
-      <Related>ord/avlopshandtering</Related>
-      <Related>ord/vannforsyning</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/varemerke">
@@ -7719,7 +7714,7 @@
       <HiddenLabel lang="nb">Yrkesskadeforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Yrkesskadeforsikring</HiddenLabel>
       <Definition lang="nn">Yrkesskade er ein skade som skjer ved ei ulykke i arbeidstiden. Yrkesskadedekningen gir særfordelar utover folketrygda sitt ordinære stønadssystem.</Definition>
-      <Definition lang="nn">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
+      <Definition lang="nb">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/menerstatning</Related>
       <Broader>tema/arbeidsliv</Broader>
