@@ -3020,6 +3020,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
+   <Concept path="ord/melding-om-bygging">
+      <PrefLabel lang="en">Notice of projects</PrefLabel>
+      <PrefLabel lang="nb">Melding om bygging</PrefLabel>
+      <PrefLabel lang="nn">Melding om bygging</PrefLabel>
+      <Definition lang="nn">Melding til kommunen om bygging eller tilbygg som er unnateke søknadsplikt.</Definition>
+      <Definition lang="nb">Melding til kommunen om bygging eller tilbygg som er unntatt søknadsplikt.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
    <Concept path="ord/melding-om-ulovlige-tiltak">
       <PrefLabel lang="en">Notice concerning unlawful projects</PrefLabel>
       <PrefLabel lang="nb">Melding om ulovlige tiltak</PrefLabel>
