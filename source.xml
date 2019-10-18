@@ -7275,10 +7275,6 @@
       <HiddenLabel lang="nn">Skogsveg</HiddenLabel>
       <HiddenLabel lang="nb">Skogsveg</HiddenLabel>
       <HiddenLabel lang="nn">Skogsveg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat vei</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
       <HiddenLabel lang="nb">Brobygging</HiddenLabel>
       <HiddenLabel lang="nn">Brubygging</HiddenLabel>
       <HiddenLabel lang="nb">Skogveg</HiddenLabel>
@@ -7291,7 +7287,21 @@
       <Definition lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
+      <Related>ord/privat-vei</Related>
       <Broader>tema/landbruk</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
+   </Concept>
+   <Concept path="ord/privat-vei">
+      <PrefLabel lang="en">Road building</PrefLabel>
+      <PrefLabel lang="nb">Privat vei</PrefLabel>
+      <PrefLabel lang="nn">Privat veg</PrefLabel>
+      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
+      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
+      <Definition lang="nn">Ei avkøyrsle er området mellom ein offentleg veg og privat eigedom. Kommunen gir tillatelse til å byggje eller flytte ei avkøyrsle frå kommunal veg.</Definition>
+      <Definition lang="nb">En avkjørsel er området mellom en offentlig vei og privat eiendom. Kommunen gir tillatelse til bygge eller flytte en avkjørsel fra kommunal vei.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/vegbygging</Related>
+      <Broader>tema/bygging</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
@@ -7310,16 +7320,13 @@
       <HiddenLabel lang="nn">Kosting</HiddenLabel>
       <HiddenLabel lang="nb">Kantklipping</HiddenLabel>
       <HiddenLabel lang="nn">Kantklipping</HiddenLabel>
-      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat vei</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
       <HiddenLabel lang="nb">Feiebil</HiddenLabel>
       <HiddenLabel lang="nn">Feiebil</HiddenLabel>
       <Definition lang="nn">Vedlikehald av kommunale veg, trafikktryggleik langs veg, asfaltering og grusing, haldeplassar og leskur.</Definition>
       <Definition lang="nb">Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
+      <Related>ord/privat-vei</Related>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
