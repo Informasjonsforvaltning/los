@@ -1391,6 +1391,7 @@
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
       <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
@@ -3738,6 +3739,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
       <Broader>tema/botilbud</Broader>
+   </Concept>
+   <Concept path="ord/deling-av-eiendom">
+      <PrefLabel lang="en">Division of property</PrefLabel>
+      <PrefLabel lang="nb">Deling av eigendom</PrefLabel>
+      <PrefLabel lang="nn">Deling av eigedom</PrefLabel>
+      <Definition lang="nn">Ved deling av ein eigedom blir det oppretta ein ny sjølvstendig eigedom med eige gardsnummer og bruksnummer.</Definition>
+      <Definition lang="nb">Ved deling av en eiendom blir det opprettet en ny selvstendig eiendom med eget gårdsnummer og bruksnummer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/kommunale-avgifter-og-gebyr">
       <PrefLabel lang="en">Municipal taxes and fees</PrefLabel>
