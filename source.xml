@@ -695,7 +695,7 @@
       <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
       <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
       <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
-      <Definition lang="nn">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <Definition lang="nb">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -749,7 +749,7 @@
       <PrefLabel lang="nb">Elevrettigheter</PrefLabel>
       <PrefLabel lang="nn">Elevrettar</PrefLabel>
       <Definition lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</Definition>
-      <Definition lang="nn">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
+      <Definition lang="nb">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/apenhet</Broader>
    </Concept>
@@ -768,7 +768,7 @@
       <PrefLabel lang="nb">Tilleggstønader til arbeidsrettede tiltak</PrefLabel>
       <PrefLabel lang="nn">Tilleggstønader til arbeidsretta tiltak</PrefLabel>
       <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsretta tiltak.</Definition>
-      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
+      <Definition lang="nb">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
@@ -1239,7 +1239,6 @@
       <PrefLabel lang="en">Reports to the child welfare service</PrefLabel>
       <PrefLabel lang="nb">Bekymringsmelding til barnevernet</PrefLabel>
       <PrefLabel lang="nn">Melding til barnevernstenesta</PrefLabel>
-      <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <Definition lang="nn">Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg.</Definition>
       <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -1655,7 +1654,7 @@
       <HiddenLabel lang="nb">Dagsenter</HiddenLabel>
       <HiddenLabel lang="nn">Dagsenter</HiddenLabel>
       <Definition lang="nn">Eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå.</Definition>
-      <Definition lang="nn">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
+      <Definition lang="nb">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -1666,7 +1665,7 @@
       <HiddenLabel lang="nb">Pleieavlastning</HiddenLabel>
       <HiddenLabel lang="nn">Pleieavlasting</HiddenLabel>
       <Definition lang="nn">Eit tilbod til enkeltpersonar eller familiar som har tunge omsorgsoppgåver. Skal bidra til at omsorgsytaren får eit liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av heimejelp, dagtilbod eller avlastningsopphold på sjukeheim.</Definition>
-      <Definition lang="nn">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
+      <Definition lang="nb">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -1882,7 +1881,7 @@
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
       <PrefLabel lang="nn">Ektefellepensjon</PrefLabel>
       <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
-      <Definition lang="nn">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
+      <Definition lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -2011,7 +2010,7 @@
       <HiddenLabel lang="nb">Næringsmiddel</HiddenLabel>
       <HiddenLabel lang="nn">Næringsmiddel</HiddenLabel>
       <Definition lang="nn">Kosthald og kosthaldstilrådingar</Definition>
-      <Definition lang="nn">Kosthold og kostholdstilrådinger</Definition>
+      <Definition lang="nb">Kosthold og kostholdstilrådinger</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
@@ -2151,7 +2150,7 @@
       <HiddenLabel lang="nb">Tilsyn med fyringsanlegg</HiddenLabel>
       <HiddenLabel lang="nn">Tilsyn med fyringsanlegg</HiddenLabel>
       <Definition lang="nn">Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn.</Definition>
-      <Definition lang="nn">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
+      <Definition lang="nb">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
@@ -2787,7 +2786,7 @@
       <HiddenLabel lang="nb">Ungdomshus</HiddenLabel>
       <HiddenLabel lang="nn">Ungdomshus</HiddenLabel>
       <Definition lang="nn">Idrettsaktivitetar, familieaktivitetar og kulturelle aktivitetar for alle aldersgrupper. Omfattar også tilskot innbyggjarane kan søkja på.</Definition>
-      <Definition lang="nn">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</Definition>
+      <Definition lang="nb">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
    </Concept>
@@ -2968,7 +2967,7 @@
       <HiddenLabel lang="nb">Livsopphold</HiddenLabel>
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
-      <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
+      <Definition lang="nb">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
@@ -3239,7 +3238,7 @@
       <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
       <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av røyrsle til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
-      <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av bevegelse til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av bevegelse til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
@@ -3560,7 +3559,7 @@
       <HiddenLabel lang="nb">Forskuddstrekk</HiddenLabel>
       <HiddenLabel lang="nn">Forskotstrekk</HiddenLabel>
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
-      <Definition lang="nn">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
+      <Definition lang="nb">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -5054,7 +5053,7 @@
       <HiddenLabel lang="nb">Parkeringsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsløyve</HiddenLabel>
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
-      <Definition lang="nn">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
+      <Definition lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
@@ -5091,7 +5090,7 @@
       <PrefLabel lang="nb">Klage på helse- og omsorgstjenester</PrefLabel>
       <PrefLabel lang="nn">Klage på helse- og omsorgstenester</PrefLabel>
       <Definition lang="nn">Pasient eller pårørande har rett til å klage om dei er misfornøgd med utføringa av ein teneste eller om det er skjedd en feil. Om det er skjedd ei  svært alvorleg hending, kan pårørande og/eller pasient melde det til Statens helsetilsyn.</Definition>
-      <Definition lang="nn">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en  svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</Definition>
+      <Definition lang="nb">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en  svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
@@ -6167,7 +6166,7 @@
       <HiddenLabel lang="nb">Avvirking</HiddenLabel>
       <HiddenLabel lang="nn">Avverking</HiddenLabel>
       <Definition lang="nn">Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert.</Definition>
-      <Definition lang="nn">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</Definition>
+      <Definition lang="nb">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -6721,7 +6720,7 @@
       <HiddenLabel lang="nb">Sykkelparkering</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelparkering</HiddenLabel>
       <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
-      <Definition lang="nn">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
+      <Definition lang="nb">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/friluftsliv</Broader>
@@ -7021,7 +7020,7 @@
       <HiddenLabel lang="nb">Trafikksikkerhetsplan</HiddenLabel>
       <HiddenLabel lang="nn">Trafikktryggleiksplan</HiddenLabel>
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
-      <Definition lang="nn">Sikkerhet for de som ferdest i trafikken.</Definition>
+      <Definition lang="nb">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
@@ -7081,7 +7080,7 @@
       <PrefLabel lang="nb">Uføretrygd</PrefLabel>
       <PrefLabel lang="nn">Uføretrygd</PrefLabel>
       <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</Definition>
-      <Definition lang="nn">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
+      <Definition lang="nb">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/pensjon</Broader>
