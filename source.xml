@@ -1729,13 +1729,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
-   <Concept path="ord/dodsmelding">
-      <PrefLabel lang="en">Death notice</PrefLabel>
-      <PrefLabel lang="nb">Dødsmelding</PrefLabel>
-      <PrefLabel lang="nn">Dødsmelding</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall-og-gravferd</Broader>
-   </Concept>
    <Concept path="ord/dokumentavgift">
       <PrefLabel lang="en">Stamp duty</PrefLabel>
       <PrefLabel lang="nb">Dokumentavgift</PrefLabel>
