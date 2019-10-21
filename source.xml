@@ -45,11 +45,10 @@
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/dodsattest</Related>
-      <Related>ord/dodsmelding</Related>
       <Related>ord/organdonasjon</Related>
       <Related>ord/gravferd</Related>
       <Related>ord/gravplass</Related>
-      <Related>ord/skifte</Related>
+      <Related>ord/skifte-ved-dodsfall</Related>
    </Concept>
    <Concept path="hendelse/fa-barn">
       <PrefLabel lang="nb">Å få barn</PrefLabel>
@@ -690,15 +689,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/trygghet-i-hjemmet">
-      <PrefLabel lang="en">Safety at home</PrefLabel>
-      <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
-      <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
-      <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
-      <Definition lang="nb">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
-   </Concept>
    <Concept path="ord/legehjelp">
       <PrefLabel lang="en">Medical aid</PrefLabel>
       <PrefLabel lang="nb">Legehjelp</PrefLabel>
@@ -715,6 +705,46 @@
       <Definition lang="nn">Somme har behov for tenester innanfor forskjellige område. Eksempel er tenester innanfor habilitering og rehabilitering, individuell plan og andre tverrfaglege eller koordinerte tenester.</Definition>
       <Definition lang="nb">Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
+
+   <Concept path="ord/trygghet-i-hjemmet">
+      <PrefLabel lang="en">Safety at home</PrefLabel>
+      <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
+      <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
+      <HiddenLabel lang="nb">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nb">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nn">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nb">Elektronisk dørlås</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk dørlås</HiddenLabel>
+      <HiddenLabel lang="nb">E-lås</HiddenLabel>
+      <HiddenLabel lang="nn">E-lås</HiddenLabel>
+      <HiddenLabel lang="nb">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nn">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nb">Komfyrvakt</HiddenLabel>
+      <HiddenLabel lang="nn">Komfyrvakt</HiddenLabel>
+      <HiddenLabel lang="nb">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nn">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nb">Lokaliseringstjenester</HiddenLabel>
+      <HiddenLabel lang="nn">Lokaliseringstenester</HiddenLabel>
+      <HiddenLabel lang="nb">Talehjelpemiddel</HiddenLabel>
+      <HiddenLabel lang="nn">Talehjelpemiddel</HiddenLabel>
+      <HiddenLabel lang="nb">Fallvarsling, bevegelsesvarsling og røykvarsling</HiddenLabel>
+      <HiddenLabel lang="nn">Fallvarsling, bevegelsesvarsling og røykvarsling</HiddenLabel>
+      <HiddenLabel lang="nb">Digital kalender</HiddenLabel>
+      <HiddenLabel lang="nn">Digital kalender</HiddenLabel>
+      <HiddenLabel lang="nb">GPS</HiddenLabel>
+      <HiddenLabel lang="nn">GPS</HiddenLabel>
+      <HiddenLabel lang="nb">Digital varsling</HiddenLabel>
+      <HiddenLabel lang="nn">Digital varsling</HiddenLabel>
+      <HiddenLabel lang="nb">Responstjenester</HiddenLabel>
+      <HiddenLabel lang="nn">Responstenester</HiddenLabel>
+      <Definition lang="nn">Omfattar tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
+      <Definition lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/matlevering</Related>
+      <Related>ord/trygghetsalarm</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/helsesykepleier">
@@ -1154,17 +1184,6 @@
       <HiddenLabel lang="nn">Barnehagedekning</HiddenLabel>
       <Definition lang="nn">Barnehagen er ei pedagogisk tilrettelagt verksemd for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehagar.</Definition>
       <Definition lang="nb">Barnehagen er en pedagogisk tilrettelagt virksomhet for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehager.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnehage</Broader>
-   </Concept>
-   <Concept path="ord/barnepark">
-      <PrefLabel lang="en">Outdoor crèche</PrefLabel>
-      <PrefLabel lang="nb">Barnepark</PrefLabel>
-      <PrefLabel lang="nn">Barnepark</PrefLabel>
-      <HiddenLabel lang="nb">Parkplass</HiddenLabel>
-      <HiddenLabel lang="nn">Parkplass</HiddenLabel>
-      <Definition lang="nn">Ein barnepark er eit utandørs leiketilbod med ein eller fleire tilsette, utan krav til pedagogisk personale. Det kan søkast om kommunalt tilskot til drift av barnepark.</Definition>
-      <Definition lang="nb">Barnepark er et utendørs leketilbud med en eller flere ansatte, uten krav til pedagogisk personale. Det kan søkes om kommunalt tilskudd til drift av barnepark.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
@@ -1705,15 +1724,12 @@
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
       <PrefLabel lang="nn">Dødsattest</PrefLabel>
+      <HiddenLabel lang="nb">Dødsmelding</HiddenLabel>
+      <HiddenLabel lang="nn">Dødsmelding</HiddenLabel>
+      <HiddenLabel lang="nb">Legeerklæring ved dødsfall</HiddenLabel>
+      <HiddenLabel lang="nn">Legeerklæring ved dødsfall</HiddenLabel>
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/dodsfall-og-gravferd</Broader>
-   </Concept>
-   <Concept path="ord/dodsmelding">
-      <PrefLabel lang="en">Death notice</PrefLabel>
-      <PrefLabel lang="nb">Dødsmelding</PrefLabel>
-      <PrefLabel lang="nn">Dødsmelding</PrefLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
@@ -3221,6 +3237,8 @@
       <PrefLabel lang="nn">Heimehjelp</PrefLabel>
       <HiddenLabel lang="nb">Praktisk bistand i hjemmet</HiddenLabel>
       <HiddenLabel lang="nn">Praktisk bistand i heimen</HiddenLabel>
+      <HiddenLabel lang="nb">Rengjøringshjelp</HiddenLabel>
+      <HiddenLabel lang="nn">Reingjeringshjelp</HiddenLabel>
       <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål.</Definition>
       <Definition lang="nb">Tilbud om praktisk hjelp i hjemmet for personer som på grunn av sykdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker trenger hjelp til daglige gjøremål.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -5002,10 +5020,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
-   <Concept path="ord/overgrep">
-      <PrefLabel lang="en">Assault</PrefLabel>
-      <PrefLabel lang="nb">Overgrep</PrefLabel>
-      <PrefLabel lang="nn">Overgrep</PrefLabel>
+   <Concept path="ord/hjelp-ved-overgrep">
+      <PrefLabel lang="en">Help-in-event-of-assault</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved overgrep</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved overgrep</PrefLabel>
       <HiddenLabel lang="nb">Seksuelle overgrep</HiddenLabel>
       <HiddenLabel lang="nn">Seksuelle overgrep</HiddenLabel>
       <HiddenLabel lang="nb">Barnemishandling</HiddenLabel>
@@ -5148,6 +5166,7 @@
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/barnehage</Broader>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
       <PrefLabel lang="en">Pension calculator</PrefLabel>
@@ -5774,6 +5793,8 @@
       <HiddenLabel lang="nn">Avfallsbehaldar</HiddenLabel>
       <HiddenLabel lang="nb">Boss</HiddenLabel>
       <HiddenLabel lang="nn">Boss</HiddenLabel>
+      <HiddenLabel lang="nb">Avfall</HiddenLabel>
+      <HiddenLabel lang="nn">Avfall</HiddenLabel>
       <HiddenLabel lang="nb">Gjenvinning</HiddenLabel>
       <HiddenLabel lang="nn">Attvinning</HiddenLabel>
       <HiddenLabel lang="nb">Returordning</HiddenLabel>
@@ -5970,7 +5991,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
-      <Related>ord/skifte</Related>
       <Broader>tema/samliv</Broader>
    </Concept>
    <Concept path="ord/samordna-opptak">
@@ -6068,10 +6088,10 @@
       <Broader>tema/inntekt</Broader>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/skifte">
+   <Concept path="ord/skifte-ved-dodsfall">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
-      <PrefLabel lang="nb">Skifte</PrefLabel>
-      <PrefLabel lang="nn">Skifte</PrefLabel>
+      <PrefLabel lang="nb">Skifte ved dødsfall</PrefLabel>
+      <PrefLabel lang="nn">Skifte ved dødsfall</PrefLabel>
       <HiddenLabel lang="nb">Skifterett</HiddenLabel>
       <HiddenLabel lang="nn">Skifterett</HiddenLabel>
       <HiddenLabel lang="nb">Dødsboskifte</HiddenLabel>
@@ -6880,8 +6900,8 @@
       <HiddenLabel lang="nn">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nb">Oversetting</HiddenLabel>
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
-      <Definition lang="nn">*ny definisjon påkrevd*</Definition>
-      <Definition lang="nb">*ny definisjon påkrevd*</Definition>
+      <Definition lang="nn">Tenester som gjev att ein persons tale for andre lyttarar på det tidspunktet ytringa blir gjort. Attgjevinga kan vera muntleg, skriftleg eller på tegnspråk, og (oftast) på eit anna språk.</Definition>
+      <Definition lang="nb">Tjenester som gjengir en persons tale for andre lyttere på det tidspunktet ytringen blir gjort. Gjengivelsen kan være muntlig, skriftlig eller på tegnspråk, og (oftest) på annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
       <Broader>tema/medvirkning</Broader>
