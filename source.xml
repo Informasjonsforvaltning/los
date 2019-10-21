@@ -5164,6 +5164,7 @@
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/barnehage</Broader>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
       <PrefLabel lang="en">Pension calculator</PrefLabel>
