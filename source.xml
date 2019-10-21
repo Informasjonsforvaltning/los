@@ -210,7 +210,7 @@
       <HiddenLabel lang="nb">Privatfly</HiddenLabel>
       <HiddenLabel lang="nn">Privatfly</HiddenLabel>
       <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly.</Definition>
-      <Definition lang="nn">Landingstillatelse, landingsplass m.m. for fly.</Definition>
+      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
@@ -695,7 +695,7 @@
       <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
       <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
       <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
-      <Definition lang="nn">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <Definition lang="nb">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -749,7 +749,7 @@
       <PrefLabel lang="nb">Elevrettigheter</PrefLabel>
       <PrefLabel lang="nn">Elevrettar</PrefLabel>
       <Definition lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</Definition>
-      <Definition lang="nn">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
+      <Definition lang="nb">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/apenhet</Broader>
    </Concept>
@@ -768,7 +768,7 @@
       <PrefLabel lang="nb">Tilleggstønader til arbeidsrettede tiltak</PrefLabel>
       <PrefLabel lang="nn">Tilleggstønader til arbeidsretta tiltak</PrefLabel>
       <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsretta tiltak.</Definition>
-      <Definition lang="nn">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
+      <Definition lang="nb">Stønad som skal kompensere for bestemte utgifter i forbindelse med gjennomføring av arbeidsrettet tiltak.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
@@ -1027,28 +1027,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/avlopshandtering">
-      <PrefLabel lang="en">Drain management</PrefLabel>
-      <PrefLabel lang="nb">Avløpshåndtering</PrefLabel>
-      <PrefLabel lang="nn">Avløpshandtering</PrefLabel>
-      <HiddenLabel lang="nb">Vann og avløp</HiddenLabel>
-      <HiddenLabel lang="nn">Vatn og avløp</HiddenLabel>
-      <HiddenLabel lang="nb">Avløpsslam</HiddenLabel>
-      <HiddenLabel lang="nn">Avlaupsslam</HiddenLabel>
-      <HiddenLabel lang="nb">Slam</HiddenLabel>
-      <HiddenLabel lang="nn">Slam</HiddenLabel>
-      <HiddenLabel lang="nb">Avløpsvann</HiddenLabel>
-      <HiddenLabel lang="nn">Avlaupsvatn</HiddenLabel>
-      <HiddenLabel lang="nb">Kloakk</HiddenLabel>
-      <HiddenLabel lang="nn">Kloakk</HiddenLabel>
-      <Definition lang="nn">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</Definition>
-      <Definition lang="nb">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Related>ord/vannforurensning</Related>
-      <Related>ord/utslippstillatelse</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
-   </Concept>
    <Concept path="ord/avlosertilskudd">
       <PrefLabel lang="en">Farm assistance grant</PrefLabel>
       <PrefLabel lang="nb">Avløsertilskudd</PrefLabel>
@@ -1061,11 +1039,11 @@
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
    <Concept path="ord/tilskudd-til-okologisk-landbruk">
-      <PrefLabel lang="en">Support for organic farming</PrefLabel>
+      <PrefLabel lang="en">Organic agriculture grants</PrefLabel>
       <PrefLabel lang="nb">Tilskudd til økologisk landbruk</PrefLabel>
       <PrefLabel lang="nn">Tilskot til økologisk landbruk</PrefLabel>
-      <Definition lang="nn">Tilskot for økologisk landbruk.</Definition>
-      <Definition lang="nb">Tilskudd for økologisk landbruk.</Definition>
+      <Definition lang="nn">Fellesnamn for tilskot til dei som driv økologisk landbruk.</Definition>
+      <Definition lang="nb">Fellesbetegnelse for tilskudd til de som driver økologisk landbruk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
    </Concept>
@@ -1261,7 +1239,6 @@
       <PrefLabel lang="en">Reports to the child welfare service</PrefLabel>
       <PrefLabel lang="nb">Bekymringsmelding til barnevernet</PrefLabel>
       <PrefLabel lang="nn">Melding til barnevernstenesta</PrefLabel>
-      <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <Definition lang="nn">Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg.</Definition>
       <Definition lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -1412,8 +1389,8 @@
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
-      <Broader>tema/bygging</Broader>
       <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
@@ -1462,7 +1439,6 @@
       <HiddenLabel lang="nb">Bostedsbevis</HiddenLabel>
       <HiddenLabel lang="nn">Bustadbevis</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/flytting</Broader>
    </Concept>
    <Concept path="ord/bostotte">
@@ -1544,7 +1520,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/feiing-og-stroing">
@@ -1679,7 +1654,7 @@
       <HiddenLabel lang="nb">Dagsenter</HiddenLabel>
       <HiddenLabel lang="nn">Dagsenter</HiddenLabel>
       <Definition lang="nn">Eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå.</Definition>
-      <Definition lang="nn">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
+      <Definition lang="nb">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -1690,7 +1665,7 @@
       <HiddenLabel lang="nb">Pleieavlastning</HiddenLabel>
       <HiddenLabel lang="nn">Pleieavlasting</HiddenLabel>
       <Definition lang="nn">Eit tilbod til enkeltpersonar eller familiar som har tunge omsorgsoppgåver. Skal bidra til at omsorgsytaren får eit liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av heimejelp, dagtilbod eller avlastningsopphold på sjukeheim.</Definition>
-      <Definition lang="nn">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
+      <Definition lang="nb">Et tilbud til enkeltpersoner eller familier som har tunge omsorgsoppgaver. Skal bidra til at omsorgsyteren får et liv med god helse og tid til ferie og fritid. Kommunen kan for eksempel yte avlastning i form av hjemmehjelp, dagtilbud eller avlastningsopphold på sykehjem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -1853,7 +1828,7 @@
       <HiddenLabel lang="nb">Betalingsreduksjon</HiddenLabel>
       <HiddenLabel lang="nn">Betalingsreduksjon</HiddenLabel>
       <Definition lang="nn">Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule.</Definition>
-      <Definition lang="nn">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</Definition>
+      <Definition lang="nb">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -1906,7 +1881,7 @@
       <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
       <PrefLabel lang="nn">Ektefellepensjon</PrefLabel>
       <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
-      <Definition lang="nn">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
+      <Definition lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/pensjon</Broader>
    </Concept>
@@ -2035,7 +2010,7 @@
       <HiddenLabel lang="nb">Næringsmiddel</HiddenLabel>
       <HiddenLabel lang="nn">Næringsmiddel</HiddenLabel>
       <Definition lang="nn">Kosthald og kosthaldstilrådingar</Definition>
-      <Definition lang="nn">Kosthold og kostholdstilrådinger</Definition>
+      <Definition lang="nb">Kosthold og kostholdstilrådinger</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
@@ -2175,7 +2150,7 @@
       <HiddenLabel lang="nb">Tilsyn med fyringsanlegg</HiddenLabel>
       <HiddenLabel lang="nn">Tilsyn med fyringsanlegg</HiddenLabel>
       <Definition lang="nn">Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn.</Definition>
-      <Definition lang="nn">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
+      <Definition lang="nb">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Broader>tema/eiendom</Broader>
@@ -2811,7 +2786,7 @@
       <HiddenLabel lang="nb">Ungdomshus</HiddenLabel>
       <HiddenLabel lang="nn">Ungdomshus</HiddenLabel>
       <Definition lang="nn">Idrettsaktivitetar, familieaktivitetar og kulturelle aktivitetar for alle aldersgrupper. Omfattar også tilskot innbyggjarane kan søkja på.</Definition>
-      <Definition lang="nn">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</Definition>
+      <Definition lang="nb">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
    </Concept>
@@ -2992,7 +2967,7 @@
       <HiddenLabel lang="nb">Livsopphold</HiddenLabel>
       <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
-      <Definition lang="nn">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
+      <Definition lang="nb">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomisk-radgiving</Broader>
    </Concept>
@@ -3040,6 +3015,33 @@
       <HiddenLabel lang="nn">Graveløyve</HiddenLabel>
       <Definition lang="nn">Kommunen gir løyve til å grave i kommunale vegar, parkområde og friområde.</Definition>
       <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
+   <Concept path="ord/melding-om-bygging">
+      <PrefLabel lang="en">Notice of projects</PrefLabel>
+      <PrefLabel lang="nb">Melding om bygging</PrefLabel>
+      <PrefLabel lang="nn">Melding om bygging</PrefLabel>
+      <Definition lang="nn">Melding til kommunen om bygging eller tilbygg som er unnateke søknadsplikt.</Definition>
+      <Definition lang="nb">Melding til kommunen om bygging eller tilbygg som er unntatt søknadsplikt.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
+   <Concept path="ord/melding-om-ulovlige-tiltak">
+      <PrefLabel lang="en">Notice concerning unlawful projects</PrefLabel>
+      <PrefLabel lang="nb">Melding om ulovlige tiltak</PrefLabel>
+      <PrefLabel lang="nn">Melding om ulovlege tiltak</PrefLabel>
+      <Definition lang="nn">Innbyggjarar kan melde frå om byggjetiltak som dei meiner er ulovlege eller farlege.</Definition>
+      <Definition lang="nb">Innbyggere kan melde fra om byggetiltak som de mener er ulovlige eller farlige.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/bygging</Broader>
+   </Concept>
+   <Concept path="ord/nabovarsel">
+      <PrefLabel lang="en">Notice to neighbours</PrefLabel>
+      <PrefLabel lang="nb">Nabovarsel</PrefLabel>
+      <PrefLabel lang="nn">Nabovarsel</PrefLabel>
+      <Definition lang="nn">Den som skal byggje eller grave har plikt til å varsle naboar og gjenbuere om tiltaket før dei tek i gong. Naboar skal ha høve til å kvittere når dei ikkje har nokre merknader, eller protestere. Kommunen kan frita søkjaren for varsling eller utvide varslingsplikta, avhengig av tiltaket.</Definition>
+      <Definition lang="nb">Den som skal bygge eller grave har plikt til å varsle naboer og gjenboere om tiltaket før det settes i gang. Naboer skal ha mulighet til å kvittere når de ikke har noen merknader, eller protestere. Kommunen kan frita søkeren for varsling eller utvide varslingsplikten, avhengig av tiltaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
@@ -3236,7 +3238,7 @@
       <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Røyrslehjelpemiddel</PrefLabel>
       <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av røyrsle til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
-      <Definition lang="nn">Hjelpemidler til personer med funksjonsnedsettelse av bevegelse til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av bevegelse til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
@@ -3338,7 +3340,7 @@
       <HiddenLabel lang="nb">Bier</HiddenLabel>
       <HiddenLabel lang="nn">Bier</HiddenLabel>
       <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe.</Definition>
-      <Definition lang="nn">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
+      <Definition lang="nb">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Broader>tema/landbruk</Broader>
@@ -3557,7 +3559,7 @@
       <HiddenLabel lang="nb">Forskuddstrekk</HiddenLabel>
       <HiddenLabel lang="nn">Forskotstrekk</HiddenLabel>
       <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
-      <Definition lang="nn">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
+      <Definition lang="nb">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -3737,6 +3739,33 @@
       <Broader>tema/leie-og-utleie</Broader>
       <Broader>tema/botilbud</Broader>
    </Concept>
+   <Concept path="ord/heftelser-pa-eiendom">
+      <PrefLabel lang="en">Legal claims on property</PrefLabel>
+      <PrefLabel lang="nb">Heftelser på eiendom</PrefLabel>
+      <PrefLabel lang="nn">Hefte på eigedom</PrefLabel>
+      <Definition lang="nn">Hefte på ein eigedom er ein rett som avgrensar bruken til grunneigaren av eigedomen. Buplikt, kulturminnevern eller reguleringsplaner er døme på typar heftelser.</Definition>
+      <Definition lang="nb">Heftelser på en eiendom er en rettighet som begrenser grunneiers bruk av eiendommen. Boplikt, kulturminnevern eller reguleringsplaner er eksempler på typer heftelser.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
+   <Concept path="ord/deling-av-eiendom">
+      <PrefLabel lang="en">Division of property</PrefLabel>
+      <PrefLabel lang="nb">Deling av eigendom</PrefLabel>
+      <PrefLabel lang="nn">Deling av eigedom</PrefLabel>
+      <Definition lang="nn">Ved deling av ein eigedom blir det oppretta ein ny sjølvstendig eigedom med eige gardsnummer og bruksnummer.</Definition>
+      <Definition lang="nb">Ved deling av en eiendom blir det opprettet en ny selvstendig eiendom med eget gårdsnummer og bruksnummer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
+   <Concept path="ord/fredet-eiendom">
+      <PrefLabel lang="en">Culturally protected property</PrefLabel>
+      <PrefLabel lang="nb">Fredet eiendom</PrefLabel>
+      <PrefLabel lang="nn">Freda eigedom</PrefLabel>
+      <Definition lang="nn">Kommunen kan avgjere at visse bygningar er bevaringsverdige, utan at dei er blitt freda av riksantikvaren. Sjølv om avgjerda ikkje gir formelt vern, vil det ha aktualitet for byggje- og rivesaker.</Definition>
+      <Definition lang="nb">Kommunen kan beslutte at visse bygninger er bevaringsverdige, uten at de er blitt fredet av riksantikvaren. Selv om beslutningen ikke gir formelt vern, vil det ha betydning for bygge- og rivesaker.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
    <Concept path="ord/kommunale-avgifter-og-gebyr">
       <PrefLabel lang="en">Municipal taxes and fees</PrefLabel>
       <PrefLabel lang="nb">Kommunale avgifter og gebyr</PrefLabel>
@@ -3776,8 +3805,6 @@
       <Related>ord/renovasjon</Related>
       <Related>ord/renovasjonsavgift</Related>
       <Related>ord/feiing</Related>
-      <Related>ord/vannforsyning</Related>
-      <Related>ord/avlopshandtering</Related>
       <Broader>tema/eiendom</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -3787,6 +3814,8 @@
       <PrefLabel lang="nn">Kommuneplan</PrefLabel>
       <HiddenLabel lang="nb">Kommuneplanbestemmelser</HiddenLabel>
       <HiddenLabel lang="nn">Føresegner til kommuneplanen</HiddenLabel>
+      <HiddenLabel lang="nb">Samfunnsplan</HiddenLabel>
+      <HiddenLabel lang="nn">Samfunnsplan</HiddenLabel>
       <HiddenLabel lang="nb">Næringsplan</HiddenLabel>
       <HiddenLabel lang="nn">Næringsplan</HiddenLabel>
       <HiddenLabel lang="nb">Kommuneplanens samfunnsdel</HiddenLabel>
@@ -4010,8 +4039,6 @@
       <PrefLabel lang="nn">Landbrukseigedom</PrefLabel>
       <HiddenLabel lang="nb">Driveplikt</HiddenLabel>
       <HiddenLabel lang="nn">Driveplikt</HiddenLabel>
-      <HiddenLabel lang="nb">Boplikt</HiddenLabel>
-      <HiddenLabel lang="nn">Buplikt</HiddenLabel>
       <HiddenLabel lang="nb">Konsesjonsfrihet</HiddenLabel>
       <HiddenLabel lang="nn">Konsesjonsfriheit</HiddenLabel>
       <HiddenLabel lang="nb">Odel</HiddenLabel>
@@ -4025,8 +4052,19 @@
       <Definition lang="nn">Kommunen er styresmakt for søknader om fritak frå driveplikt og buplikt, søknad om konsesjon, løyve til tiltak eller deling av eigedomen.</Definition>
       <Definition lang="nb">Kommunen er myndighet for søknader om fritak fra driveplikt og boplikt, søknad om konsesjon, tillatelser til tiltak eller deling av eiendommen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
+   </Concept>
+   <Concept path="ord/boplikt">
+      <PrefLabel lang="en">Residence obligation and concession</PrefLabel>
+      <PrefLabel lang="nb">Boplikt</PrefLabel>
+      <PrefLabel lang="nn">Buplikt</PrefLabel>
+      <HiddenLabel lang="nb">Konsesjon</HiddenLabel>
+      <HiddenLabel lang="nn">Konsesjon</HiddenLabel>
+      <Definition lang="nn">Kommunen ønskjer å leggje til rette for levande lokalsamfunn og sikre busetjinga ved at bustadeigedomar i størst mogeleg grad blir nytta som heilårsbustader. Ved kjøp av ein bustad i eit område med buplikt, er ein forplikta til å bu der. For å bli friteke frå buplikta kan ein søkje om konsesjon.</Definition>
+      <Definition lang="nb">Kommunen ønsker å legge til rette for levende lokalsamfunn og sikre bosettingen ved at boligeiendommer i størst mulig grad benyttes som helårsboliger. Ved kjøp av en bolig i et område med boplikt, er man forpliktet til å bo der. For å bli fritatt fra boplikten kan man søke om konsesjon.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/landbrukseiendom</Related>
+      <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/veterinar">
       <PrefLabel lang="en">Veterinarian</PrefLabel>
@@ -4556,7 +4594,6 @@
       <Related>ord/flomvarsel</Related>
       <Related>ord/naturskadeerstatning</Related>
       <Related>ord/skredvarsel</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/landbruk</Broader>
    </Concept>
    <Concept path="ord/naturskadeerstatning">
@@ -5016,7 +5053,7 @@
       <HiddenLabel lang="nb">Parkeringsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsløyve</HiddenLabel>
       <Definition lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</Definition>
-      <Definition lang="nn">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
+      <Definition lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
@@ -5053,7 +5090,7 @@
       <PrefLabel lang="nb">Klage på helse- og omsorgstjenester</PrefLabel>
       <PrefLabel lang="nn">Klage på helse- og omsorgstenester</PrefLabel>
       <Definition lang="nn">Pasient eller pårørande har rett til å klage om dei er misfornøgd med utføringa av ein teneste eller om det er skjedd en feil. Om det er skjedd ei  svært alvorleg hending, kan pårørande og/eller pasient melde det til Statens helsetilsyn.</Definition>
-      <Definition lang="nn">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en  svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</Definition>
+      <Definition lang="nb">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en  svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
@@ -5466,6 +5503,8 @@
       <PrefLabel lang="nn">Regional planlegging</PrefLabel>
       <HiddenLabel lang="nb">Fylkesplan</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplan</HiddenLabel>
+      <HiddenLabel lang="nb">Regionale planer</HiddenLabel>
+      <HiddenLabel lang="nn">Regionale planer</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nb">Interkommunalt plansamarbeid</HiddenLabel>
@@ -5771,7 +5810,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/farlig-avfall</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
@@ -5997,7 +6035,7 @@
       <HiddenLabel lang="nb">Uteservering</HiddenLabel>
       <HiddenLabel lang="nn">Uteservering</HiddenLabel>
       <Definition lang="nn">Regelverk og krav til verksemder som driv servering.</Definition>
-      <Definition lang="nn">Regelverk og krav til virksomheter som driver servering.</Definition>
+      <Definition lang="nb">Regelverk og krav til virksomheter som driver servering.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
@@ -6128,7 +6166,7 @@
       <HiddenLabel lang="nb">Avvirking</HiddenLabel>
       <HiddenLabel lang="nn">Avverking</HiddenLabel>
       <Definition lang="nn">Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert.</Definition>
-      <Definition lang="nn">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</Definition>
+      <Definition lang="nb">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -6543,7 +6581,7 @@
       <PrefLabel lang="nb">Svangerskapspenger</PrefLabel>
       <PrefLabel lang="nn">Svangerskapspengar</PrefLabel>
       <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
-      <Definition lang="nn">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
+      <Definition lang="nb">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
@@ -6682,7 +6720,7 @@
       <HiddenLabel lang="nb">Sykkelparkering</HiddenLabel>
       <HiddenLabel lang="nn">Sykkelparkering</HiddenLabel>
       <Definition lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</Definition>
-      <Definition lang="nn">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
+      <Definition lang="nb">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
       <Broader>tema/friluftsliv</Broader>
@@ -6982,7 +7020,7 @@
       <HiddenLabel lang="nb">Trafikksikkerhetsplan</HiddenLabel>
       <HiddenLabel lang="nn">Trafikktryggleiksplan</HiddenLabel>
       <Definition lang="nn">Sikkerheit for dei som ferdast i trafikken.</Definition>
-      <Definition lang="nn">Sikkerhet for de som ferdest i trafikken.</Definition>
+      <Definition lang="nb">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
@@ -7042,7 +7080,7 @@
       <PrefLabel lang="nb">Uføretrygd</PrefLabel>
       <PrefLabel lang="nn">Uføretrygd</PrefLabel>
       <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</Definition>
-      <Definition lang="nn">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
+      <Definition lang="nb">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/pensjon</Broader>
@@ -7093,7 +7131,6 @@
       <Related>ord/vannforurensning</Related>
       <Related>ord/fritidsfiske</Related>
       <Related>ord/flomvarsel</Related>
-      <Broader>tema/kommunale-planer</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/utdanningspermisjon">
@@ -7125,7 +7162,6 @@
       <HiddenLabel lang="nn">Utsleppsløyve</HiddenLabel>
       <Definition lang="nn">Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/avlopshandtering</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/vapentillatelse">
@@ -7222,25 +7258,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
-   <Concept path="ord/vannforsyning">
-      <PrefLabel lang="en">Water supply</PrefLabel>
-      <PrefLabel lang="nb">Vannforsyning</PrefLabel>
-      <PrefLabel lang="nn">Vassforsyning</PrefLabel>
-      <HiddenLabel lang="nb">Drikkevann</HiddenLabel>
-      <HiddenLabel lang="nn">Drikkevatn</HiddenLabel>
-      <HiddenLabel lang="nb">Drikkevannskvalitet</HiddenLabel>
-      <HiddenLabel lang="nn">Drikkevasskvalitet</HiddenLabel>
-      <HiddenLabel lang="nb">Vannmåler</HiddenLabel>
-      <HiddenLabel lang="nn">Vassmålar</HiddenLabel>
-      <HiddenLabel lang="nb">VAR</HiddenLabel>
-      <HiddenLabel lang="nn">VAR</HiddenLabel>
-      <HiddenLabel lang="nb">Vanningsrestriksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Vatningsrestriksjon</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Related>ord/vannforurensning</Related>
-      <Broader>tema/tekniske-tjenester</Broader>
-   </Concept>
    <Concept path="ord/vannforurensning">
       <PrefLabel lang="en">Water pollution</PrefLabel>
       <PrefLabel lang="nb">Vannforurensning</PrefLabel>
@@ -7257,8 +7274,6 @@
       <Definition lang="nb">Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
-      <Related>ord/avlopshandtering</Related>
-      <Related>ord/vannforsyning</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/varemerke">
@@ -7314,10 +7329,6 @@
       <HiddenLabel lang="nn">Skogsveg</HiddenLabel>
       <HiddenLabel lang="nb">Skogsveg</HiddenLabel>
       <HiddenLabel lang="nn">Skogsveg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat vei</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
       <HiddenLabel lang="nb">Brobygging</HiddenLabel>
       <HiddenLabel lang="nn">Brubygging</HiddenLabel>
       <HiddenLabel lang="nb">Skogveg</HiddenLabel>
@@ -7330,7 +7341,21 @@
       <Definition lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
+      <Related>ord/privat-vei</Related>
       <Broader>tema/landbruk</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
+   </Concept>
+   <Concept path="ord/privat-vei">
+      <PrefLabel lang="en">Road building</PrefLabel>
+      <PrefLabel lang="nb">Privat vei</PrefLabel>
+      <PrefLabel lang="nn">Privat veg</PrefLabel>
+      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
+      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
+      <Definition lang="nn">Ei avkøyrsle er området mellom ein offentleg veg og privat eigedom. Kommunen gir tillatelse til å byggje eller flytte ei avkøyrsle frå kommunal veg.</Definition>
+      <Definition lang="nb">En avkjørsel er området mellom en offentlig vei og privat eiendom. Kommunen gir tillatelse til bygge eller flytte en avkjørsel fra kommunal vei.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/vegbygging</Related>
+      <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/vegvedlikehold">
@@ -7349,16 +7374,13 @@
       <HiddenLabel lang="nn">Kosting</HiddenLabel>
       <HiddenLabel lang="nb">Kantklipping</HiddenLabel>
       <HiddenLabel lang="nn">Kantklipping</HiddenLabel>
-      <HiddenLabel lang="nb">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
-      <HiddenLabel lang="nb">Privat vei</HiddenLabel>
-      <HiddenLabel lang="nn">Privat veg</HiddenLabel>
       <HiddenLabel lang="nb">Feiebil</HiddenLabel>
       <HiddenLabel lang="nn">Feiebil</HiddenLabel>
       <Definition lang="nn">Vedlikehald av kommunale veg, trafikktryggleik langs veg, asfaltering og grusing, haldeplassar og leskur.</Definition>
       <Definition lang="nb">Vedlikehold av kommunale veier, trafikksikkerhet langs vei, asfaltering og grusing, holdeplasser og leskur.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/broyting</Related>
+      <Related>ord/privat-vei</Related>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/velferdspermisjon">
@@ -7691,7 +7713,7 @@
       <HiddenLabel lang="nb">Yrkesskadeforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Yrkesskadeforsikring</HiddenLabel>
       <Definition lang="nn">Yrkesskade er ein skade som skjer ved ei ulykke i arbeidstiden. Yrkesskadedekningen gir særfordelar utover folketrygda sitt ordinære stønadssystem.</Definition>
-      <Definition lang="nn">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
+      <Definition lang="nb">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/menerstatning</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -8298,13 +8320,6 @@
       <PrefLabel lang="nn">Svangerskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
-   </Concept>
-   <Concept path="tema/tekniske-tjenester">
-      <PrefLabel lang="en">Technical services</PrefLabel>
-      <PrefLabel lang="nb">Tekniske tjenester</PrefLabel>
-      <PrefLabel lang="nn">Tekniske tenester</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/bygg-og-eiendom</Broader>
    </Concept>
    <Concept path="tema/var-og-klima">
       <PrefLabel lang="en">Weather and climate</PrefLabel>
