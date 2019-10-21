@@ -6981,10 +6981,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
-   <Concept path="ord/trafikkinformasjon">
-      <PrefLabel lang="en">Traffic information</PrefLabel>
-      <PrefLabel lang="nb">Trafikkinformasjon</PrefLabel>
-      <PrefLabel lang="nn">Trafikkinformasjon</PrefLabel>
+   <Concept path="ord/sanntids-trafikkinformasjon">
+      <PrefLabel lang="en">Real time traffic information</PrefLabel>
+      <PrefLabel lang="nb">Sanntids trafikkinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Sanntids trafikkinformasjon</PrefLabel>
       <HiddenLabel lang="nb">Veimelding</HiddenLabel>
       <HiddenLabel lang="nn">Veimelding</HiddenLabel>
       <HiddenLabel lang="nb">Vegstenging</HiddenLabel>
