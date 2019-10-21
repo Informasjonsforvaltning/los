@@ -5751,28 +5751,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
-   <Concept path="ord/reiseregning">
-      <PrefLabel lang="en">Travel expenses invoice</PrefLabel>
-      <PrefLabel lang="nb">Reiseregning</PrefLabel>
-      <PrefLabel lang="nn">Reiserekning</PrefLabel>
-      <HiddenLabel lang="nb">Statens reiseregulativ</HiddenLabel>
-      <HiddenLabel lang="nn">Statens reiseregulativ</HiddenLabel>
-      <HiddenLabel lang="nb">Diettgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nn">Diettgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nb">Diettgodtgjørelse</HiddenLabel>
-      <HiddenLabel lang="nn">Diettgodtgjering</HiddenLabel>
-      <HiddenLabel lang="nb">Tjenestereise</HiddenLabel>
-      <HiddenLabel lang="nn">Tenestereise</HiddenLabel>
-      <HiddenLabel lang="nb">Kostgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nn">Kostgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nb">Kostgodtgjørelse</HiddenLabel>
-      <HiddenLabel lang="nn">Kostgodtgjering</HiddenLabel>
-      <HiddenLabel lang="nb">Diettsats</HiddenLabel>
-      <HiddenLabel lang="nn">Diettsats</HiddenLabel>
-      <Definition lang="nn">Reiserekning skal skrivast på fastsett skjema og sendast til arbeidsgjevar/oppdragsgjevar så snart som mogleg og innan ein månad etter at reisa er avslutta dersom ingen annan tidsfrist er bestemt.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/inntekt</Broader>
-   </Concept>
    <Concept path="ord/reiseutgifter">
       <PrefLabel lang="en">Travel expenses</PrefLabel>
       <PrefLabel lang="nb">Reiseutgifter</PrefLabel>
