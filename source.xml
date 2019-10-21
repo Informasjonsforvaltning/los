@@ -1187,17 +1187,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnehage</Broader>
    </Concept>
-   <Concept path="ord/barnepark">
-      <PrefLabel lang="en">Outdoor crèche</PrefLabel>
-      <PrefLabel lang="nb">Barnepark</PrefLabel>
-      <PrefLabel lang="nn">Barnepark</PrefLabel>
-      <HiddenLabel lang="nb">Parkplass</HiddenLabel>
-      <HiddenLabel lang="nn">Parkplass</HiddenLabel>
-      <Definition lang="nn">Ein barnepark er eit utandørs leiketilbod med ein eller fleire tilsette, utan krav til pedagogisk personale. Det kan søkast om kommunalt tilskot til drift av barnepark.</Definition>
-      <Definition lang="nb">Barnepark er et utendørs leketilbud med en eller flere ansatte, uten krav til pedagogisk personale. Det kan søkes om kommunalt tilskudd til drift av barnepark.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/barnehage</Broader>
-   </Concept>
    <Concept path="ord/barnepensjon">
       <PrefLabel lang="en">Childrens pension</PrefLabel>
       <PrefLabel lang="nb">Barnepensjon</PrefLabel>
