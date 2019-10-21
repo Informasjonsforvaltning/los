@@ -1726,6 +1726,8 @@
       <PrefLabel lang="nn">Dødsattest</PrefLabel>
       <HiddenLabel lang="nb">Dødsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Dødsmelding</HiddenLabel>
+      <HiddenLabel lang="nb">Legeerklæring ved dødsfall</HiddenLabel>
+      <HiddenLabel lang="nn">Legeerklæring ved dødsfall</HiddenLabel>
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
@@ -6087,10 +6089,10 @@
       <Broader>tema/inntekt</Broader>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/skifte">
+   <Concept path="ord/skifte-ved-dødsfall">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
-      <PrefLabel lang="nb">Skifte</PrefLabel>
-      <PrefLabel lang="nn">Skifte</PrefLabel>
+      <PrefLabel lang="nb">Skifte ved dødsfall</PrefLabel>
+      <PrefLabel lang="nn">Skifte ved dødsfall</PrefLabel>
       <HiddenLabel lang="nb">Skifterett</HiddenLabel>
       <HiddenLabel lang="nn">Skifterett</HiddenLabel>
       <HiddenLabel lang="nb">Dødsboskifte</HiddenLabel>
