@@ -708,6 +708,24 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
+
+   <Concept path="ord/trygghet-i-hjemmet">
+      <PrefLabel lang="en">Safety at home</PrefLabel>
+      <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
+      <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
+      <HiddenLabel lang="nb">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nb">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nn">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nb">Elektronisk dørlås</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk dørlås</HiddenLabel>
+      <Definition lang="nn">Omfattar tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
+      <Definition lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <Related>ord/matlevering</Related>
+      <Related>ord/trygghetsalarm</Related>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/helsetjenester</Broader>
+   </Concept>
    <Concept path="ord/helsesykepleier">
       <PrefLabel lang="en">Health nurse</PrefLabel>
       <PrefLabel lang="nb">Helsesykepleier</PrefLabel>
