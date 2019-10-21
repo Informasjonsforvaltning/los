@@ -626,7 +626,7 @@
       <Definition lang="nn">Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m.</Definition>
       <Definition lang="nb">Pensjonsutbetaling fra folketrygden etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medregnet avtalefestet pensjon, pensjonsberekning m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/alkoholsalg">
       <PrefLabel lang="en">Sale of alcohol</PrefLabel>
@@ -1175,7 +1175,8 @@
       <Definition lang="nn">En yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</Definition>
       <Definition lang="nb">En ytelse til barn som har mistet en eller begge foreldrene. Pensjonen skal sikre barnet inntekt til livsopphold.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/barnevern">
       <PrefLabel lang="en">Child protection</PrefLabel>
@@ -1883,7 +1884,9 @@
       <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
       <Definition lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/familieytelser</Broader>
+
    </Concept>
    <Concept path="ord/ekteskap">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -2474,7 +2477,7 @@
       <Definition lang="nn">Ei behovsprøvd yting til alders- og uførepensjonistar som forsørgjer ektefelle og/eller barn under 18 år.</Definition>
       <Definition lang="nb">En behovsprøvd ytelse til alders- og uførepensjonister som forsørger ektefelle og/eller barn under 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/forurenset-grunn">
       <PrefLabel lang="en">Polluted ground</PrefLabel>
@@ -2978,7 +2981,7 @@
       <HiddenLabel lang="nb">Etterlattepensjon</HiddenLabel>
       <HiddenLabel lang="nn">Gjenlevandepensjon</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/godstransport">
       <PrefLabel lang="en">Freight transport</PrefLabel>
@@ -5157,7 +5160,7 @@
       <Definition lang="nn">Automatisert informasjon på internett der ein kan rekne ut framtidig alderspensjon frå folketrygda. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberekningar på Internett.</Definition>
       <Definition lang="nb">Automatisert informasjon på internett der man kan regne ut fremtidig alderspensjon fra folketrygden. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberegninger på internett.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/permittering">
       <PrefLabel lang="en">Temporary redundancy</PrefLabel>
@@ -5238,7 +5241,7 @@
       <Definition lang="nn">Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane må sjåast som supplerande ordningar til folketrygda.</Definition>
       <Definition lang="nb">Folketrygden er den mest generelle trygdeordningen, og den omfatter alle som er bosatt i Noreg. Personskadetrygdene (krigspensjon og "gammel" yrkesskadetrygd) og tenestepensjonsordningene må sees som supplerende ordninger til folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/persontransport">
       <PrefLabel lang="en">Passenger transport</PrefLabel>
@@ -5747,28 +5750,6 @@
       <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
-   <Concept path="ord/reiseregning">
-      <PrefLabel lang="en">Travel expenses invoice</PrefLabel>
-      <PrefLabel lang="nb">Reiseregning</PrefLabel>
-      <PrefLabel lang="nn">Reiserekning</PrefLabel>
-      <HiddenLabel lang="nb">Statens reiseregulativ</HiddenLabel>
-      <HiddenLabel lang="nn">Statens reiseregulativ</HiddenLabel>
-      <HiddenLabel lang="nb">Diettgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nn">Diettgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nb">Diettgodtgjørelse</HiddenLabel>
-      <HiddenLabel lang="nn">Diettgodtgjering</HiddenLabel>
-      <HiddenLabel lang="nb">Tjenestereise</HiddenLabel>
-      <HiddenLabel lang="nn">Tenestereise</HiddenLabel>
-      <HiddenLabel lang="nb">Kostgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nn">Kostgodtgjersle</HiddenLabel>
-      <HiddenLabel lang="nb">Kostgodtgjørelse</HiddenLabel>
-      <HiddenLabel lang="nn">Kostgodtgjering</HiddenLabel>
-      <HiddenLabel lang="nb">Diettsats</HiddenLabel>
-      <HiddenLabel lang="nn">Diettsats</HiddenLabel>
-      <Definition lang="nn">Reiserekning skal skrivast på fastsett skjema og sendast til arbeidsgjevar/oppdragsgjevar så snart som mogleg og innan ein månad etter at reisa er avslutta dersom ingen annan tidsfrist er bestemt.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/inntekt</Broader>
    </Concept>
    <Concept path="ord/reiseutgifter">
       <PrefLabel lang="en">Travel expenses</PrefLabel>
@@ -6857,7 +6838,7 @@
       <Definition lang="nn">Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid i foretaket.</Definition>
       <Definition lang="nb">En alderspensjons-opptening i tillegg til folketrygden. Arbeidsgivere har plikt til å opprette en pensjonsordning for tilsette og personer som utfører arbeid i foretaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/pensjon</Broader>
+      <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/tobakk">
       <PrefLabel lang="en">Tobacco</PrefLabel>
@@ -6978,10 +6959,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
-   <Concept path="ord/trafikkinformasjon">
-      <PrefLabel lang="en">Traffic information</PrefLabel>
-      <PrefLabel lang="nb">Trafikkinformasjon</PrefLabel>
-      <PrefLabel lang="nn">Trafikkinformasjon</PrefLabel>
+   <Concept path="ord/sanntids-trafikkinformasjon">
+      <PrefLabel lang="en">Real time traffic information</PrefLabel>
+      <PrefLabel lang="nb">Sanntids trafikkinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Sanntids trafikkinformasjon</PrefLabel>
       <HiddenLabel lang="nb">Veimelding</HiddenLabel>
       <HiddenLabel lang="nn">Veimelding</HiddenLabel>
       <HiddenLabel lang="nb">Vegstenging</HiddenLabel>
@@ -7079,11 +7060,12 @@
       <PrefLabel lang="en">Disability benefits</PrefLabel>
       <PrefLabel lang="nb">Uføretrygd</PrefLabel>
       <PrefLabel lang="nn">Uføretrygd</PrefLabel>
+      <HiddenLabel lang="nb">Uførepensjon</HiddenLabel>
+      <HiddenLabel lang="nn">Turistinformasjon</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</Definition>
       <Definition lang="nb">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
-      <Broader>tema/pensjon</Broader>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/ufrivillig-barnloshet">
@@ -8208,13 +8190,6 @@
       <PrefLabel lang="nn">Pasientrettar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
-   </Concept>
-   <Concept path="tema/pensjon">
-      <PrefLabel lang="en">Pensions</PrefLabel>
-      <PrefLabel lang="nb">Pensjon</PrefLabel>
-      <PrefLabel lang="nn">Pensjon</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
    <Concept path="tema/okonomisk-radgiving">
       <PrefLabel lang="en">Financial support</PrefLabel>
