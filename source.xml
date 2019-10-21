@@ -1724,6 +1724,8 @@
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
       <PrefLabel lang="nn">Dødsattest</PrefLabel>
+      <HiddenLabel lang="nb">Dødsmelding</HiddenLabel>
+      <HiddenLabel lang="nn">Dødsmelding</HiddenLabel>
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
