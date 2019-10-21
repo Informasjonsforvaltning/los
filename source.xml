@@ -6901,8 +6901,8 @@
       <HiddenLabel lang="nn">Omsetjing</HiddenLabel>
       <HiddenLabel lang="nb">Oversetting</HiddenLabel>
       <HiddenLabel lang="nn">Omsetting</HiddenLabel>
-      <Definition lang="nn">*ny definisjon påkrevd*</Definition>
-      <Definition lang="nb">*ny definisjon påkrevd*</Definition>
+      <Definition lang="nn">Tenester som gjev att ein persons tale for andre lyttarar på det tidspunktet ytringa blir gjort. Attgjevinga kan vera muntleg, skriftleg eller på tegnspråk, og (oftast) på eit anna språk.</Definition>
+      <Definition lang="nb">Tjenester som gjengir en persons tale for andre lyttere på det tidspunktet ytringen blir gjort. Gjengivelsen kan være muntlig, skriftlig eller på tegnspråk, og (oftest) på annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/integrering</Broader>
       <Broader>tema/medvirkning</Broader>
