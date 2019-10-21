@@ -5018,10 +5018,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
-   <Concept path="ord/overgrep">
-      <PrefLabel lang="en">Assault</PrefLabel>
-      <PrefLabel lang="nb">Overgrep</PrefLabel>
-      <PrefLabel lang="nn">Overgrep</PrefLabel>
+   <Concept path="ord/hjelp-ved-overgrep">
+      <PrefLabel lang="en">Help-in-event-of-assault</PrefLabel>
+      <PrefLabel lang="nb">Hjelp ved overgrep</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved overgrep</PrefLabel>
       <HiddenLabel lang="nb">Seksuelle overgrep</HiddenLabel>
       <HiddenLabel lang="nn">Seksuelle overgrep</HiddenLabel>
       <HiddenLabel lang="nb">Barnemishandling</HiddenLabel>
