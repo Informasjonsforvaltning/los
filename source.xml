@@ -694,8 +694,38 @@
       <PrefLabel lang="en">Safety at home</PrefLabel>
       <PrefLabel lang="nb">Trygghet i hjemmet</PrefLabel>
       <PrefLabel lang="nn">Tryggleik i heimen</PrefLabel>
-      <Definition lang="nn">Omfattar kommunale tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
-      <Definition lang="nb">Omfatter kommunale tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <HiddenLabel lang="nb">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk medisindispenser</HiddenLabel>
+      <HiddenLabel lang="nb">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nn">Sensorer for egenmåling</HiddenLabel>
+      <HiddenLabel lang="nb">Elektronisk dørlås</HiddenLabel>
+      <HiddenLabel lang="nn">Elektronisk dørlås</HiddenLabel>
+      <HiddenLabel lang="nb">E-lås</HiddenLabel>
+      <HiddenLabel lang="nn">E-lås</HiddenLabel>
+      <HiddenLabel lang="nb">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nn">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nb">Komfyrvakt</HiddenLabel>
+      <HiddenLabel lang="nn">Komfyrvakt</HiddenLabel>
+      <HiddenLabel lang="nb">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nn">Døralarm</HiddenLabel>
+      <HiddenLabel lang="nb">Lokaliseringstjenester</HiddenLabel>
+      <HiddenLabel lang="nn">Lokaliseringstenester</HiddenLabel>
+      <HiddenLabel lang="nb">Talehjelpemiddel</HiddenLabel>
+      <HiddenLabel lang="nn">Talehjelpemiddel</HiddenLabel>
+      <HiddenLabel lang="nb">Fallvarsling, bevegelsesvarsling og røykvarsling</HiddenLabel>
+      <HiddenLabel lang="nn">Fallvarsling, bevegelsesvarsling og røykvarsling</HiddenLabel>
+      <HiddenLabel lang="nb">Digital kalender</HiddenLabel>
+      <HiddenLabel lang="nn">Digital kalender</HiddenLabel>
+      <HiddenLabel lang="nb">GPS</HiddenLabel>
+      <HiddenLabel lang="nn">GPS</HiddenLabel>
+      <HiddenLabel lang="nb">Digital varsling</HiddenLabel>
+      <HiddenLabel lang="nn">Digital varsling</HiddenLabel>
+      <HiddenLabel lang="nb">Responstjenester</HiddenLabel>
+      <HiddenLabel lang="nn">Responstenester</HiddenLabel>
+      <Definition lang="nn">Omfattar tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
+      <Definition lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <Related>ord/matlevering</Related>
+      <Related>ord/trygghetsalarm</Related>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -3221,6 +3251,8 @@
       <PrefLabel lang="nn">Heimehjelp</PrefLabel>
       <HiddenLabel lang="nb">Praktisk bistand i hjemmet</HiddenLabel>
       <HiddenLabel lang="nn">Praktisk bistand i heimen</HiddenLabel>
+      <HiddenLabel lang="nb">Rengjøringshjelp</HiddenLabel>
+      <HiddenLabel lang="nn">Reingjeringshjelp</HiddenLabel>
       <Definition lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål.</Definition>
       <Definition lang="nb">Tilbud om praktisk hjelp i hjemmet for personer som på grunn av sykdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker trenger hjelp til daglige gjøremål.</Definition>
       <InScheme>ontologi/ord</InScheme>
