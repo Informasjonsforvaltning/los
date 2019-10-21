@@ -45,11 +45,10 @@
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/dodsattest</Related>
-      <Related>ord/dodsmelding</Related>
       <Related>ord/organdonasjon</Related>
       <Related>ord/gravferd</Related>
       <Related>ord/gravplass</Related>
-      <Related>ord/skifte</Related>
+      <Related>ord/skifte-ved-dodsfall</Related>
    </Concept>
    <Concept path="hendelse/fa-barn">
       <PrefLabel lang="nb">Å få barn</PrefLabel>
@@ -743,9 +742,9 @@
       <HiddenLabel lang="nn">Responstenester</HiddenLabel>
       <Definition lang="nn">Omfattar tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</Definition>
       <Definition lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
+      <InScheme>ontologi/ord</InScheme>
       <Related>ord/matlevering</Related>
       <Related>ord/trygghetsalarm</Related>
-      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/helsesykepleier">
@@ -5992,7 +5991,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
-      <Related>ord/skifte</Related>
       <Broader>tema/samliv</Broader>
    </Concept>
    <Concept path="ord/samordna-opptak">
@@ -6090,7 +6088,7 @@
       <Broader>tema/inntekt</Broader>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/skifte-ved-dødsfall">
+   <Concept path="ord/skifte-ved-dodsfall">
       <PrefLabel lang="en">Division of inheritance</PrefLabel>
       <PrefLabel lang="nb">Skifte ved dødsfall</PrefLabel>
       <PrefLabel lang="nn">Skifte ved dødsfall</PrefLabel>
