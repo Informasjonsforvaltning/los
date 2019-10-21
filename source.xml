@@ -7060,6 +7060,8 @@
       <PrefLabel lang="en">Disability benefits</PrefLabel>
       <PrefLabel lang="nb">Uføretrygd</PrefLabel>
       <PrefLabel lang="nn">Uføretrygd</PrefLabel>
+      <HiddenLabel lang="nb">Uførepensjon</HiddenLabel>
+      <HiddenLabel lang="nn">Turistinformasjon</HiddenLabel>
       <Definition lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</Definition>
       <Definition lang="nb">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</Definition>
       <InScheme>ontologi/ord</InScheme>
