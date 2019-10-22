@@ -2258,7 +2258,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
       <Broader>tema/handel-og-service</Broader>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -3505,7 +3504,6 @@
       <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.</Definition>
       <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
       <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/innbyggerinitiativ">
@@ -5589,18 +5587,25 @@
       <PrefLabel lang="en">Regional planning</PrefLabel>
       <PrefLabel lang="nb">Regional planlegging</PrefLabel>
       <PrefLabel lang="nn">Regional planlegging</PrefLabel>
-      <HiddenLabel lang="nb">Fylkesplan</HiddenLabel>
-      <HiddenLabel lang="nn">Fylkesplan</HiddenLabel>
       <HiddenLabel lang="nb">Regionale planer</HiddenLabel>
       <HiddenLabel lang="nn">Regionale planer</HiddenLabel>
-      <HiddenLabel lang="nb">Fylkesdelplan</HiddenLabel>
-      <HiddenLabel lang="nn">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nb">Interkommunalt plansamarbeid</HiddenLabel>
       <HiddenLabel lang="nn">Interkommunalt plansamarbeid</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Definition lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane. Reguleringsplan og kommuneplanlegging er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/fylkesdelplan">
+      <PrefLabel lang="en">Regional sub-plan</PrefLabel>
+      <PrefLabel lang="nb">Fylkesdelplan</PrefLabel>
+      <PrefLabel lang="nn">Fylkesdelplan</PrefLabel>
+      <Definition lang="nn">Ein fylkesdelplan omfattar ein bestemt del av fylket sitt areal.</Definition>
+      <Definition lang="nb">En fylkesdelplan omfatter en bestemt del av fylkets totale areal.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/regional-planlegging</Related>
+      <Related>ord/fylkesplan</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/registrering-av-kjoretoy">
