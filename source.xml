@@ -4539,6 +4539,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/starte-eller-avslutte-bedrift">
+      <PrefLabel lang="en">Starting or closing a business</PrefLabel>
+      <PrefLabel lang="nb">Starte eller avslutte bedrift</PrefLabel>
+      <PrefLabel lang="nn">Starte eller avslutte bedrift</PrefLabel>
+      <Definition lang="nn">Råd, rettleiing, stønadordningar og regelverk som gjeld for bedrifter som er i oppstartsfasen eller som skal avsluttast.</Definition>
+      <Definition lang="nb">Råd, veiledning, støtteordninger og regelverk som gjelder for bedrifter som er i oppstartsfasen eller som skal avsluttes.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/tjenester-og-krav-til-enkeltbransjer">
       <PrefLabel lang="en">Services and obligations for specific industries</PrefLabel>
       <PrefLabel lang="nb">Tjenester og krav til enkeltbransjer</PrefLabel>
