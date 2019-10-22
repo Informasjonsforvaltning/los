@@ -1711,16 +1711,6 @@
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/designbeskyttelse">
-      <PrefLabel lang="en">Design protection</PrefLabel>
-      <PrefLabel lang="nb">Designbeskyttelse</PrefLabel>
-      <PrefLabel lang="nn">Designvern</PrefLabel>
-      <HiddenLabel lang="nb">Mønsterbeskyttelse</HiddenLabel>
-      <HiddenLabel lang="nn">Mønstervern</HiddenLabel>
-      <Definition lang="nn">Design refererer til utsjånaden og forma til eit produkt eller del av eit produkt. Ei designregistrering dokumenterer retten til ein bestemt design i eit bestemt tidsrom, og ein kan lettare hindre andre i å utnytte same designen. Patentvern høyrer til emneordet patent.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/dodsattest">
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
