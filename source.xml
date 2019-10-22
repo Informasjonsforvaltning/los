@@ -4535,7 +4535,16 @@
       <PrefLabel lang="nb">Utenlandsk bedrift</PrefLabel>
       <PrefLabel lang="nn">Utenlandsk bedrift</PrefLabel>
       <Definition lang="nn"> Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
-      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tilsyn-og-kontroll-med-naringsvirksomhet">
+      <PrefLabel lang="en">Controlling compliance in businesses</PrefLabel>
+      <PrefLabel lang="nb">Tilsyn og kontroll med næringsvirksomhet</PrefLabel>
+      <PrefLabel lang="nn">Tilsyn og kontroll med næringsverksemd</PrefLabel>
+      <Definition lang="nn">Det offentlege gjennomfører tilsyn og kontroll med korleis bedriftene etterlever lover og reglar.</Definition>
+      <Definition lang="nb">Det offentlige gjennomfører tilsyn og kontroll med bedrifters etterlevelse av lover og regler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
