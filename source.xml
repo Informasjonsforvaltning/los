@@ -4530,6 +4530,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/utenlandsk-bedrift">
+      <PrefLabel lang="en">Foreign businesses in Norway</PrefLabel>
+      <PrefLabel lang="nb">Utenlandsk bedrift</PrefLabel>
+      <PrefLabel lang="nn">Utenlandsk bedrift</PrefLabel>
+      <Definition lang="nn"> Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/narmiljotilskudd">
       <PrefLabel lang="en">Local initiative funding</PrefLabel>
       <PrefLabel lang="nb">Nærmiljøtilskudd</PrefLabel>
