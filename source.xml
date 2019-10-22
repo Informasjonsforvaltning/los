@@ -7272,18 +7272,6 @@
       <Related>ord/universell-utforming</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/varemerke">
-      <PrefLabel lang="en">Trademark</PrefLabel>
-      <PrefLabel lang="nb">Varemerke</PrefLabel>
-      <PrefLabel lang="nn">Varemerkje</PrefLabel>
-      <HiddenLabel lang="nb">Varemerkebeskyttelse</HiddenLabel>
-      <HiddenLabel lang="nn">Varemerkevern</HiddenLabel>
-      <HiddenLabel lang="nb">Fellesmerke</HiddenLabel>
-      <HiddenLabel lang="nn">Fellesmerke</HiddenLabel>
-      <Definition lang="nn">Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande kan ved registrering oppnå einerett til bruken av figur, ord eller slagord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/vassdrag">
       <PrefLabel lang="en">Waterways</PrefLabel>
       <PrefLabel lang="nb">Vassdrag</PrefLabel>
