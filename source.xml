@@ -4548,6 +4548,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/tjenester-og-krav-til-arbeidsgiver">
+      <PrefLabel lang="en">Services and obligations for employers</PrefLabel>
+      <PrefLabel lang="nb">Tjenester og krav til arbeidsgiver</PrefLabel>
+      <PrefLabel lang="nn">Tenester og krav til arbeidsgivar</PrefLabel>
+      <Definition lang="nn">Informasjon, rettleiing og hjelpemiddel for å innfri offentlege krav til arbeidsgjevarar.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme offentlige krav til arbeidsgivere.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/tilsyn-og-kontroll-med-naringsvirksomhet">
       <PrefLabel lang="en">Controlling compliance in businesses</PrefLabel>
       <PrefLabel lang="nb">Tilsyn og kontroll med næringsvirksomhet</PrefLabel>
