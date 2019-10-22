@@ -4539,6 +4539,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/sertifisering-og-autorisasjon">
+      <PrefLabel lang="en">Certification and authorization</PrefLabel>
+      <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
+      <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
+      <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar. Det kan vere ISO-sertifisering eller miljøsertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
+      <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer. Det kan være ISO-sertifisering eller miljøsertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/standarder">
       <PrefLabel lang="en">Standards</PrefLabel>
       <PrefLabel lang="nb">Standarder</PrefLabel>
