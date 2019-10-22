@@ -901,8 +901,8 @@
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
       <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
       <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
-      <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
-      <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
+      <Definition lang="nn">Nokre bransjar treng bevilling, løyve og godkjenning for å drive verksemda si. Det gjeld for eksempel verksemder som driv servering, reinhaldstenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
+      <Definition lang="nb">Noen bransjer trenger bevilling, tillatelser og godkjenning for å drive virksomheten sin. Det gjelder for eksempel virksomheter som driver servering, renholdstjenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -1081,10 +1081,11 @@
       <PrefLabel lang="en">Support for businesses</PrefLabel>
       <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
       <PrefLabel lang="nn">Stønad til bedrifter</PrefLabel>
-      <Definition lang="nn">Etablerertilskot og annan stønad til bedrifter.</Definition>
-      <Definition lang="nb">Etablerertilskudd og annen støtte til bedrifter.</Definition>
+      <Definition lang="nn">Tilbod til lokale bedrifter som omfattar råd og rettleiing, hjelp til etablering, tilbod om utstyr og økonomiske stønadsordningar.</Definition>
+      <Definition lang="nb"> Tilbud til lokale bedrifter som omfatter råd og veiledning, hjelp til etablering, tilbud om utstyr og økonomiske støtteordninger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/skogbrukstilskudd">
       <PrefLabel lang="en">Forestry grants</PrefLabel>
@@ -1710,16 +1711,6 @@
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/designbeskyttelse">
-      <PrefLabel lang="en">Design protection</PrefLabel>
-      <PrefLabel lang="nb">Designbeskyttelse</PrefLabel>
-      <PrefLabel lang="nn">Designvern</PrefLabel>
-      <HiddenLabel lang="nb">Mønsterbeskyttelse</HiddenLabel>
-      <HiddenLabel lang="nn">Mønstervern</HiddenLabel>
-      <Definition lang="nn">Design refererer til utsjånaden og forma til eit produkt eller del av eit produkt. Ei designregistrering dokumenterer retten til ein bestemt design i eit bestemt tidsrom, og ein kan lettare hindre andre i å utnytte same designen. Patentvern høyrer til emneordet patent.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/dodsattest">
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
@@ -2267,7 +2258,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
       <Broader>tema/handel-og-service</Broader>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -3514,7 +3504,6 @@
       <Definition lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.</Definition>
       <Definition lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
       <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/innbyggerinitiativ">
@@ -4523,6 +4512,8 @@
       <PrefLabel lang="en">Business space</PrefLabel>
       <PrefLabel lang="nb">Næringsareal</PrefLabel>
       <PrefLabel lang="nn">Næringsareal</PrefLabel>
+      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv</Definition>
+      <Definition lang="nb">Offentlig eid areal som kan tilbys lokalt næringsliv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/naringsutvikling</Broader>
@@ -4534,6 +4525,78 @@
       <HiddenLabel lang="nb">Næringsfondet</HiddenLabel>
       <HiddenLabel lang="nn">Næringsfondet</HiddenLabel>
       <Definition lang="nn">Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til næringsutvikling.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/utenlandsk-bedrift">
+      <PrefLabel lang="en">Foreign businesses in Norway</PrefLabel>
+      <PrefLabel lang="nb">Utenlandsk bedrift</PrefLabel>
+      <PrefLabel lang="nn">Utenlandsk bedrift</PrefLabel>
+      <Definition lang="nn">Ein standard er ein felles definisjon og omtale på korleis noko skal lagast eller gjerast. Standard gir detaljerte omtalar til EU-direktiv, lover og forskrifter og finst for dei fleste bransjar.</Definition>
+      <Definition lang="nb">En standard er en felles definisjon og beskrivelse på hvordan noe skal lages eller gjøres. Standarder gir detaljerte beskrivelser til EU-direktiver, lover og forskrifter og finnes for de fleste bransjer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/rapportering-for-naringsdrivande">
+      <PrefLabel lang="en">Business reporting</PrefLabel>
+      <PrefLabel lang="nb">Rapportering for næringsdrivende</PrefLabel>
+      <PrefLabel lang="nn">Rapportering for næringsdrivande</PrefLabel>
+      <Definition lang="nn">Alle som driv næringsverksemd i Noreg har plikt til å rapportere til det offentlege om forhold innanfor økonomi, skatt og avgifter.</Definition>
+      <Definition lang="nb">Alle som driver næringsvirksomhet i Norge har plikt til å rapportere til det offentlige om forhold innenfor økonomi, skatt og avgifter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/sertifisering-og-autorisasjon">
+      <PrefLabel lang="en">Certification and authorization</PrefLabel>
+      <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
+      <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
+      <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar. Det kan vere ISO-sertifisering eller miljøsertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
+      <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer. Det kan være ISO-sertifisering eller miljøsertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/standarder">
+      <PrefLabel lang="en">Standards</PrefLabel>
+      <PrefLabel lang="nb">Standarder</PrefLabel>
+      <PrefLabel lang="nn">Standardar</PrefLabel>
+      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/starte-eller-avslutte-bedrift">
+      <PrefLabel lang="en">Starting or closing a business</PrefLabel>
+      <PrefLabel lang="nb">Starte eller avslutte bedrift</PrefLabel>
+      <PrefLabel lang="nn">Starte eller avslutte bedrift</PrefLabel>
+      <Definition lang="nn">Råd, rettleiing, stønadordningar og regelverk som gjeld for bedrifter som er i oppstartsfasen eller som skal avsluttast.</Definition>
+      <Definition lang="nb">Råd, veiledning, støtteordninger og regelverk som gjelder for bedrifter som er i oppstartsfasen eller som skal avsluttes.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tjenester-og-krav-til-enkeltbransjer">
+      <PrefLabel lang="en">Services and obligations for specific industries</PrefLabel>
+      <PrefLabel lang="nb">Tjenester og krav til enkeltbransjer</PrefLabel>
+      <PrefLabel lang="nn">Tenester og krav til enkeltbransjar</PrefLabel>
+      <Definition lang="nn">Informasjon, rettleiing og hjelpemiddel for å innfri spesifikke krav innanfor enkeltbransjar.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme spesifikke krav innenfor enkeltbransjer.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tjenester-og-krav-til-arbeidsgiver">
+      <PrefLabel lang="en">Services and obligations for employers</PrefLabel>
+      <PrefLabel lang="nb">Tjenester og krav til arbeidsgiver</PrefLabel>
+      <PrefLabel lang="nn">Tenester og krav til arbeidsgivar</PrefLabel>
+      <Definition lang="nn">Informasjon, rettleiing og hjelpemiddel for å innfri offentlege krav til arbeidsgjevarar.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme offentlige krav til arbeidsgivere.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tilsyn-og-kontroll-med-naringsvirksomhet">
+      <PrefLabel lang="en">Controlling compliance in businesses</PrefLabel>
+      <PrefLabel lang="nb">Tilsyn og kontroll med næringsvirksomhet</PrefLabel>
+      <PrefLabel lang="nn">Tilsyn og kontroll med næringsverksemd</PrefLabel>
+      <Definition lang="nn">Det offentlege gjennomfører tilsyn og kontroll med korleis bedriftene etterlever lover og reglar.</Definition>
+      <Definition lang="nb">Det offentlige gjennomfører tilsyn og kontroll med bedrifters etterlevelse av lover og regler.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -5135,19 +5198,20 @@
       <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/patent">
-      <PrefLabel lang="en">Patent</PrefLabel>
-      <PrefLabel lang="nb">Patent</PrefLabel>
-      <PrefLabel lang="nn">Patent</PrefLabel>
+   <Concept path="ord/patent,-design-og-varemerke">
+      <PrefLabel lang="en">Patent, design and trademarks</PrefLabel>
+      <PrefLabel lang="nb">Patent, design og varemerke</PrefLabel>
+      <PrefLabel lang="nn">Patent, design og varemerke</PrefLabel>
       <HiddenLabel lang="nb">Patentering</HiddenLabel>
       <HiddenLabel lang="nn">Patentering</HiddenLabel>
       <HiddenLabel lang="nb">Patentbeskyttelse</HiddenLabel>
       <HiddenLabel lang="nn">Patentvern</HiddenLabel>
       <HiddenLabel lang="nb">Oppfinnelse</HiddenLabel>
       <HiddenLabel lang="nn">Oppfinning</HiddenLabel>
-      <Definition lang="nn">Eit patent gjev einerett til å utnytte ei oppfinning kommersielt for eit avgrensa tidsrom. I denne perioden kan ikkje andre produsere, importere eller selje ei oppfinning som er patentert. For å få patent må ei oppfinning oppfylle visse krav.</Definition>
+      <Definition lang="nn">Patent, designvern og registrering av varemerke er verkemiddel som vernar ei verksemd eller eit produkt frå å bli kopiert. Verksemder kan søkje om å ta patent på ei oppfinning, registrere ein design eller eit varemerke.</Definition>
+      <Definition lang="nn">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/pedagogisk-psykologisk-tjeneste">
       <PrefLabel lang="en">Educational-psychological service</PrefLabel>
@@ -5523,18 +5587,36 @@
       <PrefLabel lang="en">Regional planning</PrefLabel>
       <PrefLabel lang="nb">Regional planlegging</PrefLabel>
       <PrefLabel lang="nn">Regional planlegging</PrefLabel>
-      <HiddenLabel lang="nb">Fylkesplan</HiddenLabel>
-      <HiddenLabel lang="nn">Fylkesplan</HiddenLabel>
       <HiddenLabel lang="nb">Regionale planer</HiddenLabel>
       <HiddenLabel lang="nn">Regionale planer</HiddenLabel>
-      <HiddenLabel lang="nb">Fylkesdelplan</HiddenLabel>
-      <HiddenLabel lang="nn">Fylkesdelplan</HiddenLabel>
       <HiddenLabel lang="nb">Interkommunalt plansamarbeid</HiddenLabel>
       <HiddenLabel lang="nn">Interkommunalt plansamarbeid</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Definition lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane. Reguleringsplan og kommuneplanlegging er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/fylkesdelplan">
+      <PrefLabel lang="en">Regional sub-plan</PrefLabel>
+      <PrefLabel lang="nb">Fylkesdelplan</PrefLabel>
+      <PrefLabel lang="nn">Fylkesdelplan</PrefLabel>
+      <Definition lang="nn">Ein fylkesdelplan omfattar ein bestemt del av fylket sitt areal.</Definition>
+      <Definition lang="nb">En fylkesdelplan omfatter en bestemt del av fylkets totale areal.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/regional-planlegging</Related>
+      <Related>ord/fylkesplan</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
+   <Concept path="ord/fylkesplan">
+      <PrefLabel lang="en">Regional master plan</PrefLabel>
+      <PrefLabel lang="nb">Fylkesplan</PrefLabel>
+      <PrefLabel lang="nn">Fylkesplan</PrefLabel>
+      <Definition lang="nn">Fylkesplanen er styrande for all planlegging i fylkeskommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for fylket sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom fylkeskommunen, private lokale interesser og statlege og kommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer fylkeskommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
+      <Definition lang="nb">Fylkesplanen er styrende for all planlegging i fylkeskommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for fylkets innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom fylkeskommunen, private lokale interesser og statlige og kommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker fylkeskommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/regional-planlegging</Related>
+      <Related>ord/fylkesdelplan</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
    <Concept path="ord/registrering-av-kjoretoy">
@@ -5649,13 +5731,13 @@
       <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/naringsklynger">
-      <PrefLabel lang="en">Commercial centres</PrefLabel>
+      <PrefLabel lang="en">Business parks</PrefLabel>
       <PrefLabel lang="nb">Næringsklynger</PrefLabel>
       <PrefLabel lang="nn">Næringsklynger</PrefLabel>
       <Definition lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</Definition>
       <Definition lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/tilsyn-med-naringsliv">
       <PrefLabel lang="en">Controlling compliance</PrefLabel>
@@ -7277,18 +7359,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/universell-utforming</Related>
       <Broader>tema/forurensning-og-straling</Broader>
-   </Concept>
-   <Concept path="ord/varemerke">
-      <PrefLabel lang="en">Trademark</PrefLabel>
-      <PrefLabel lang="nb">Varemerke</PrefLabel>
-      <PrefLabel lang="nn">Varemerkje</PrefLabel>
-      <HiddenLabel lang="nb">Varemerkebeskyttelse</HiddenLabel>
-      <HiddenLabel lang="nn">Varemerkevern</HiddenLabel>
-      <HiddenLabel lang="nb">Fellesmerke</HiddenLabel>
-      <HiddenLabel lang="nn">Fellesmerke</HiddenLabel>
-      <Definition lang="nn">Særleg kjenneteikn for leverandør eller produsent av varer og tenester. Næringsdrivande kan ved registrering oppnå einerett til bruken av figur, ord eller slagord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/vassdrag">
       <PrefLabel lang="en">Waterways</PrefLabel>
