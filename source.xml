@@ -4534,8 +4534,17 @@
       <PrefLabel lang="en">Foreign businesses in Norway</PrefLabel>
       <PrefLabel lang="nb">Utenlandsk bedrift</PrefLabel>
       <PrefLabel lang="nn">Utenlandsk bedrift</PrefLabel>
-      <Definition lang="nn"> Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
       <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
+   <Concept path="ord/tjenester-og-krav-til-enkeltbransjer">
+      <PrefLabel lang="en">Services and obligations for specific industries</PrefLabel>
+      <PrefLabel lang="nb">Tjenester og krav til enkeltbransjer</PrefLabel>
+      <PrefLabel lang="nn">Tenester og krav til enkeltbransjar</PrefLabel>
+      <Definition lang="nn">Informasjon, rettleiing og hjelpemiddel for å innfri spesifikke krav innanfor enkeltbransjar.</Definition>
+      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme spesifikke krav innenfor enkeltbransjer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
