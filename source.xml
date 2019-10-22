@@ -5608,6 +5608,17 @@
       <Related>ord/fylkesplan</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
+   <Concept path="ord/fylkesplan">
+      <PrefLabel lang="en">Regional master plan</PrefLabel>
+      <PrefLabel lang="nb">Fylkesplan</PrefLabel>
+      <PrefLabel lang="nn">Fylkesplan</PrefLabel>
+      <Definition lang="nn">Fylkesplanen er styrande for all planlegging i fylkeskommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for fylket sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom fylkeskommunen, private lokale interesser og statlege og kommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer fylkeskommunen å stimulere til debatt og medverknad før avgjerd fattast.</Definition>
+      <Definition lang="nb">Fylkesplanen er styrende for all planlegging i fylkeskommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for fylkets innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom fylkeskommunen, private lokale interesser og statlige og kommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker fylkeskommunen å stimulere til debatt og medvirkning før vedtak fattes.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Related>ord/regional-planlegging</Related>
+      <Related>ord/fylkesdelplan</Related>
+      <Broader>tema/kommunale-planer</Broader>
+   </Concept>
    <Concept path="ord/registrering-av-kjoretoy">
       <PrefLabel lang="en">Vehicle registration</PrefLabel>
       <PrefLabel lang="nb">Registrering av kjøretøy</PrefLabel>
