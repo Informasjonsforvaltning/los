@@ -4539,6 +4539,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
+   <Concept path="ord/rapportering-for-naringsdrivande">
+      <PrefLabel lang="en">Business reporting</PrefLabel>
+      <PrefLabel lang="nb">Rapportering for næringsdrivende</PrefLabel>
+      <PrefLabel lang="nn">Rapportering for næringsdrivande</PrefLabel>
+      <Definition lang="nn">Alle som driv næringsverksemd i Noreg har plikt til å rapportere til det offentlege om forhold innanfor økonomi, skatt og avgifter.</Definition>
+      <Definition lang="nb">Alle som driver næringsvirksomhet i Norge har plikt til å rapportere til det offentlige om forhold innenfor økonomi, skatt og avgifter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/naringsliv</Broader>
+   </Concept>
    <Concept path="ord/sertifisering-og-autorisasjon">
       <PrefLabel lang="en">Certification and authorization</PrefLabel>
       <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
