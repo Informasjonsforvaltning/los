@@ -1081,10 +1081,11 @@
       <PrefLabel lang="en">Support for businesses</PrefLabel>
       <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
       <PrefLabel lang="nn">Stønad til bedrifter</PrefLabel>
-      <Definition lang="nn">Etablerertilskot og annan stønad til bedrifter.</Definition>
-      <Definition lang="nb">Etablerertilskudd og annen støtte til bedrifter.</Definition>
+      <Definition lang="nn">Tilbod til lokale bedrifter som omfattar råd og rettleiing, hjelp til etablering, tilbod om utstyr og økonomiske stønadsordningar.</Definition>
+      <Definition lang="nb"> Tilbud til lokale bedrifter som omfatter råd og veiledning, hjelp til etablering, tilbud om utstyr og økonomiske støtteordninger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskuddsordninger-for-naring</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/skogbrukstilskudd">
       <PrefLabel lang="en">Forestry grants</PrefLabel>
@@ -4523,6 +4524,8 @@
       <PrefLabel lang="en">Business space</PrefLabel>
       <PrefLabel lang="nb">Næringsareal</PrefLabel>
       <PrefLabel lang="nn">Næringsareal</PrefLabel>
+      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv</Definition>
+      <Definition lang="nb">Offentlig eid areal som kan tilbys lokalt næringsliv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/naringsutvikling</Broader>
@@ -5649,13 +5652,13 @@
       <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/naringsklynger">
-      <PrefLabel lang="en">Commercial centres</PrefLabel>
+      <PrefLabel lang="en">Business parks</PrefLabel>
       <PrefLabel lang="nb">Næringsklynger</PrefLabel>
       <PrefLabel lang="nn">Næringsklynger</PrefLabel>
       <Definition lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</Definition>
       <Definition lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
+      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/tilsyn-med-naringsliv">
       <PrefLabel lang="en">Controlling compliance</PrefLabel>
