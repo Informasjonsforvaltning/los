@@ -901,8 +901,8 @@
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
       <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
       <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
-      <Definition lang="nn">Skjenkjeløyve, serveringsbevilling, salsbevilling, o.l.</Definition>
-      <Definition lang="nb">Skjenkebevilling, serveringsbevilling, salgsbevilling, o.l.</Definition>
+      <Definition lang="nn">Nokre bransjar treng bevilling, løyve og godkjenning for å drive verksemda si. Det gjeld for eksempel verksemder som driv servering, reinhaldstenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
+      <Definition lang="nb">Noen bransjer trenger bevilling, tillatelser og godkjenning for å drive virksomheten sin. Det gjelder for eksempel virksomheter som driver servering, renholdstjenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
