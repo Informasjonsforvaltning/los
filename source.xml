@@ -5209,7 +5209,7 @@
       <HiddenLabel lang="nb">Oppfinnelse</HiddenLabel>
       <HiddenLabel lang="nn">Oppfinning</HiddenLabel>
       <Definition lang="nn">Patent, designvern og registrering av varemerke er verkemiddel som vernar ei verksemd eller eit produkt frå å bli kopiert. Verksemder kan søkje om å ta patent på ei oppfinning, registrere ein design eller eit varemerke.</Definition>
-      <Definition lang="nn">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
+      <Definition lang="nb">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
