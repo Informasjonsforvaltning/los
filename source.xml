@@ -5138,19 +5138,20 @@
       <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/patent">
-      <PrefLabel lang="en">Patent</PrefLabel>
-      <PrefLabel lang="nb">Patent</PrefLabel>
-      <PrefLabel lang="nn">Patent</PrefLabel>
+   <Concept path="ord/patent,-design-og-varemerke">
+      <PrefLabel lang="en">Patent, design and trademarks</PrefLabel>
+      <PrefLabel lang="nb">Patent, design og varemerke</PrefLabel>
+      <PrefLabel lang="nn">Patent, design og varemerke</PrefLabel>
       <HiddenLabel lang="nb">Patentering</HiddenLabel>
       <HiddenLabel lang="nn">Patentering</HiddenLabel>
       <HiddenLabel lang="nb">Patentbeskyttelse</HiddenLabel>
       <HiddenLabel lang="nn">Patentvern</HiddenLabel>
       <HiddenLabel lang="nb">Oppfinnelse</HiddenLabel>
       <HiddenLabel lang="nn">Oppfinning</HiddenLabel>
-      <Definition lang="nn">Eit patent gjev einerett til å utnytte ei oppfinning kommersielt for eit avgrensa tidsrom. I denne perioden kan ikkje andre produsere, importere eller selje ei oppfinning som er patentert. For å få patent må ei oppfinning oppfylle visse krav.</Definition>
+      <Definition lang="nn">Patent, designvern og registrering av varemerke er verkemiddel som vernar ei verksemd eller eit produkt frå å bli kopiert. Verksemder kan søkje om å ta patent på ei oppfinning, registrere ein design eller eit varemerke.</Definition>
+      <Definition lang="nn">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/pedagogisk-psykologisk-tjeneste">
       <PrefLabel lang="en">Educational-psychological service</PrefLabel>
