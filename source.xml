@@ -3625,18 +3625,6 @@
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/kameratkjoring">
-      <PrefLabel lang="en">Journey sharing</PrefLabel>
-      <PrefLabel lang="nb">Kameratkjøring</PrefLabel>
-      <PrefLabel lang="nn">Kameratkøyring</PrefLabel>
-      <HiddenLabel lang="nb">Haiking</HiddenLabel>
-      <HiddenLabel lang="nn">Haiking</HiddenLabel>
-      <HiddenLabel lang="nb">Pendling</HiddenLabel>
-      <HiddenLabel lang="nn">Pendling</HiddenLabel>
-      <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i kollektivfeltet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
    <Concept path="ord/karakterer">
       <PrefLabel lang="en">Grades</PrefLabel>
       <PrefLabel lang="nb">Karakterer</PrefLabel>
@@ -5856,6 +5844,17 @@
       <PrefLabel lang="en">Traffic safety</PrefLabel>
       <PrefLabel lang="nb">Trafikksikkerhet</PrefLabel>
       <PrefLabel lang="nn">Trafikksikkerheit</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
+   <Concept path="ord/veg--og-foreforhold">
+      <PrefLabel lang="en">Road conditions</PrefLabel>
+      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
+      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
+      <HiddenLabel lang="nb">Vei- og føreforhold</HiddenLabel>
+      <HiddenLabel lang="nn">Veg- og føreforhold</HiddenLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
