@@ -5841,7 +5841,6 @@
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
-
    <Concept path="ord/vegarbeid">
       <PrefLabel lang="en">Road works</PrefLabel>
       <PrefLabel lang="nb">Vegarbeid</PrefLabel>
@@ -5850,6 +5849,15 @@
       <HiddenLabel lang="nn">Vegarbeid</HiddenLabel>
       <Definition lang="nn">Informasjon om kortvarig eller langvarig vegarbeid.</Definition>
       <Definition lang="nb">Informasjon om kortvarig eller langvarig veiarbeid.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
+   <Concept path="ord/trafikksikkerhet">
+      <PrefLabel lang="en">Traffic safety</PrefLabel>
+      <PrefLabel lang="nb">Trafikksikkerhet</PrefLabel>
+      <PrefLabel lang="nn">Trafikksikkerheit</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
