@@ -4355,17 +4355,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
-   <Concept path="ord/miljovennlig-transport">
-      <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
-      <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
-      <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
-      <Definition lang="nn">Alle former for løysingar, tiltak og verkemiddel som gjer transport meir miljøvennleg enn det den er i dag. </Definition>
-      <Definition lang="nb">Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. </Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forurensning-og-straling</Broader>
-      <Broader>tema/mobilitetstilbud</Broader>
-      <Broader>tema/trafikkinformasjon</Broader>
-   </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
       <PrefLabel lang="nb">Motorferdsel i utmark</PrefLabel>
