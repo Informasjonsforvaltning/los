@@ -1426,17 +1426,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/bompenger">
+   <Concept path="ord/bominformasjon">
       <PrefLabel lang="en">Road toll</PrefLabel>
-      <PrefLabel lang="nb">Bompenger</PrefLabel>
-      <PrefLabel lang="nn">Bompengar</PrefLabel>
+      <PrefLabel lang="nb">Bominformasjon</PrefLabel>
+      <PrefLabel lang="nn">Bominformasjon</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
       <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/veg-og-vegregulering</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/vielse">
       <PrefLabel lang="en">Marriage</PrefLabel>
@@ -3625,18 +3625,6 @@
       <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/kameratkjoring">
-      <PrefLabel lang="en">Journey sharing</PrefLabel>
-      <PrefLabel lang="nb">Kameratkjøring</PrefLabel>
-      <PrefLabel lang="nn">Kameratkøyring</PrefLabel>
-      <HiddenLabel lang="nb">Haiking</HiddenLabel>
-      <HiddenLabel lang="nn">Haiking</HiddenLabel>
-      <HiddenLabel lang="nb">Pendling</HiddenLabel>
-      <HiddenLabel lang="nn">Pendling</HiddenLabel>
-      <Definition lang="nn">Organisert kopling mellom bilistar og personar som treng nokon å sitje på med. Kameratkøyrarar kan køyre i kollektivfeltet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
    <Concept path="ord/karakterer">
       <PrefLabel lang="en">Grades</PrefLabel>
       <PrefLabel lang="nb">Karakterer</PrefLabel>
@@ -4354,17 +4342,6 @@
       <Definition lang="nb">Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
-   </Concept>
-   <Concept path="ord/miljovennlig-transport">
-      <PrefLabel lang="en">Environmentally-friendly transport</PrefLabel>
-      <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
-      <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
-      <Definition lang="nn">Alle former for løysingar, tiltak og verkemiddel som gjer transport meir miljøvennleg enn det den er i dag. </Definition>
-      <Definition lang="nb">Alle former for løsninger, tiltak og virkemidler som gjør transport mer miljøvennlig enn det den er i dag. </Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/forurensning-og-straling</Broader>
-      <Broader>tema/mobilitetstilbud</Broader>
-      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
@@ -5112,9 +5089,9 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
-   <Concept path="ord/parkering">
-      <PrefLabel lang="en">Parking</PrefLabel>
-      <PrefLabel lang="nb">Parkering</PrefLabel>
+   <Concept path="ord/parkering-og-hvileplasser">
+      <PrefLabel lang="en">Parking and resting place</PrefLabel>
+      <PrefLabel lang="nb">Parkering og hvileplasser</PrefLabel>
       <PrefLabel lang="nn">Parkering</PrefLabel>
       <HiddenLabel lang="nb">Parkeringskort</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringskort</HiddenLabel>
@@ -5209,7 +5186,7 @@
       <HiddenLabel lang="nb">Oppfinnelse</HiddenLabel>
       <HiddenLabel lang="nn">Oppfinning</HiddenLabel>
       <Definition lang="nn">Patent, designvern og registrering av varemerke er verkemiddel som vernar ei verksemd eller eit produkt frå å bli kopiert. Verksemder kan søkje om å ta patent på ei oppfinning, registrere ein design eller eit varemerke.</Definition>
-      <Definition lang="nn">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
+      <Definition lang="nb">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -5841,17 +5818,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
-   <Concept path="ord/reisegaranti">
-      <PrefLabel lang="en">Travel guarantee</PrefLabel>
-      <PrefLabel lang="nb">Reisegaranti</PrefLabel>
-      <PrefLabel lang="nn">Reisegaranti</PrefLabel>
-      <HiddenLabel lang="nb">Drosjerefusjon</HiddenLabel>
-      <HiddenLabel lang="nn">Drosjerefusjon</HiddenLabel>
-      <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
-      <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
    <Concept path="ord/reiseutgifter">
       <PrefLabel lang="en">Travel expenses</PrefLabel>
       <PrefLabel lang="nb">Reiseutgifter</PrefLabel>
@@ -5862,6 +5828,37 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
+   </Concept>
+   <Concept path="ord/vegarbeid">
+      <PrefLabel lang="en">Road works</PrefLabel>
+      <PrefLabel lang="nb">Vegarbeid</PrefLabel>
+      <PrefLabel lang="nn">Vegarbeid</PrefLabel>
+      <HiddenLabel lang="nb">Veiarbeid</HiddenLabel>
+      <HiddenLabel lang="nn">Vegarbeid</HiddenLabel>
+      <Definition lang="nn">Informasjon om kortvarig eller langvarig vegarbeid.</Definition>
+      <Definition lang="nb">Informasjon om kortvarig eller langvarig veiarbeid.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
+   <Concept path="ord/veg--og-foreforhold">
+      <PrefLabel lang="en">Road conditions</PrefLabel>
+      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
+      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
+      <HiddenLabel lang="nb">Vei- og føreforhold</HiddenLabel>
+      <HiddenLabel lang="nn">Veg- og føreforhold</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
+   <Concept path="ord/trafikksignaler-og-reguleringer">
+      <PrefLabel lang="en">Dynamic traffic signs and regulations</PrefLabel>
+      <PrefLabel lang="nb">Trafikksignaler og reguleringer</PrefLabel>
+      <PrefLabel lang="nn">Trafikksignal og reguleringar</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -5994,6 +5991,42 @@
       <HiddenLabel lang="nn">Togrute</HiddenLabel>
       <Definition lang="nn">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <Definition lang="nb">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
+   <Concept path="ord/drivstoff-og-ladestasjoner">
+      <PrefLabel lang="en">Charging and refuelling stations</PrefLabel>
+      <PrefLabel lang="nb">Drivstoff og ladestasjoner</PrefLabel>
+      <PrefLabel lang="nn">Drivstoff og ladestasjonar</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
+   <Concept path="ord/lokasjonstjenester">
+      <PrefLabel lang="en">Public transport: location information</PrefLabel>
+      <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
+      <PrefLabel lang="nn">Lokasjonstenester</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
+   <Concept path="ord/ruteinformasjon">
+      <PrefLabel lang="en">Public transport: operational information</PrefLabel>
+      <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
+   <Concept path="ord/takster-og-kjopsinformasjon">
+      <PrefLabel lang="en">Public transport: fare and purchase information </PrefLabel>
+      <PrefLabel lang="nb">Takster og kjøpsinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Takstar og kjøpsinformasjon</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
