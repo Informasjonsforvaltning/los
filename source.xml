@@ -111,10 +111,10 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-      <Concept path="tema/bat">
-      <PrefLabel lang="en">Boat</PrefLabel>
-      <PrefLabel lang="nb">Båt</PrefLabel>
-      <PrefLabel lang="nn">Båt</PrefLabel>
+      <Concept path="tema/bat,-havn-og-kyst">
+      <PrefLabel lang="en">Boat, harbour and coast</PrefLabel>
+      <PrefLabel lang="nb">Båt, havn og kyst</PrefLabel>
+      <PrefLabel lang="nn">Båt, havn og kyst</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -177,13 +177,6 @@
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat</Broader>
-   </Concept>
-    <Concept path="tema/havn-og-kyst">
-      <PrefLabel lang="en">Harbour and coast</PrefLabel>
-      <PrefLabel lang="nb">Havn og kyst</PrefLabel>
-      <PrefLabel lang="nn">Hamn og kyst</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
    <Concept path="tema/luftfart">
       <PrefLabel lang="en">Aviation</PrefLabel>
