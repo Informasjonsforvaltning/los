@@ -5861,6 +5861,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
+   <Concept path="ord/trafikksignaler-og-reguleringer">
+      <PrefLabel lang="en">Dynamic traffic signs and regulations</PrefLabel>
+      <PrefLabel lang="nb">Trafikksignaler og reguleringer</PrefLabel>
+      <PrefLabel lang="nn">Trafikksignal og reguleringar</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
       <PrefLabel lang="nb">Renovasjon</PrefLabel>
