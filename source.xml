@@ -5840,15 +5840,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-   <Concept path="ord/trafikksikkerhet">
-      <PrefLabel lang="en">Traffic safety</PrefLabel>
-      <PrefLabel lang="nb">Trafikksikkerhet</PrefLabel>
-      <PrefLabel lang="nn">Trafikksikkerheit</PrefLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/trafikkinformasjon</Broader>
-   </Concept>
    <Concept path="ord/veg--og-foreforhold">
       <PrefLabel lang="en">Road conditions</PrefLabel>
       <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
@@ -6015,7 +6006,7 @@
    <Concept path="ord/lokasjonstjenester">
       <PrefLabel lang="en">Public transport: location information</PrefLabel>
       <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
-      <PrefLabel lang="nn">Lokasjonstjenester</PrefLabel>
+      <PrefLabel lang="nn">Lokasjonstenester</PrefLabel>
       <Definition lang="nn">**</Definition>
 	  <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
