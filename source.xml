@@ -6003,6 +6003,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
+   <Concept path="ord/drivstoff-og-ladestasjoner">
+      <PrefLabel lang="en">Charging and refuelling stations</PrefLabel>
+      <PrefLabel lang="nb">Drivstoff og ladestasjoner</PrefLabel>
+      <PrefLabel lang="nn">Drivstoff og ladestasjonar</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
    <Concept path="ord/ruteplanlegger">
       <PrefLabel lang="en">Route planner</PrefLabel>
       <PrefLabel lang="nb">Ruteplanlegger</PrefLabel>
