@@ -6012,6 +6012,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
+   <Concept path="ord/lokasjonstjenester">
+      <PrefLabel lang="en">Public transport: location information</PrefLabel>
+      <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
+      <PrefLabel lang="nn">Lokasjonstjenester</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
    <Concept path="ord/ruteinformasjon">
       <PrefLabel lang="en">Public transport: operational information</PrefLabel>
       <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
