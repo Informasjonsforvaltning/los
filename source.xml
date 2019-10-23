@@ -6012,6 +6012,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
+   <Concept path="ord/takster-og-kjopsinformasjon">
+      <PrefLabel lang="en">Public transport: fare and purchase information </PrefLabel>
+      <PrefLabel lang="nb">Takster og kjøpsinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Takstar og kjøpsinformasjon</PrefLabel>
+      <Definition lang="nn">**</Definition>
+	  <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
    <Concept path="ord/ruteplanlegger">
       <PrefLabel lang="en">Route planner</PrefLabel>
       <PrefLabel lang="nb">Ruteplanlegger</PrefLabel>
