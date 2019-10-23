@@ -1426,17 +1426,17 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/bompenger">
+   <Concept path="ord/bominformasjon">
       <PrefLabel lang="en">Road toll</PrefLabel>
-      <PrefLabel lang="nb">Bompenger</PrefLabel>
-      <PrefLabel lang="nn">Bompengar</PrefLabel>
+      <PrefLabel lang="nb">Bominformasjon</PrefLabel>
+      <PrefLabel lang="nn">Bominformasjon</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
       <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/veg-og-vegregulering</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/vielse">
       <PrefLabel lang="en">Marriage</PrefLabel>
