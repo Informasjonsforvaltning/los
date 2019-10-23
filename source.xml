@@ -5841,6 +5841,18 @@
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
+
+   <Concept path="ord/vegarbeid">
+      <PrefLabel lang="en">Road works</PrefLabel>
+      <PrefLabel lang="nb">Vegarbeid</PrefLabel>
+      <PrefLabel lang="nn">Vegarbeid</PrefLabel>
+      <HiddenLabel lang="nb">Veiarbeid</HiddenLabel>
+      <HiddenLabel lang="nn">Vegarbeid</HiddenLabel>
+      <Definition lang="nn">Informasjon om kortvarig eller langvarig vegarbeid.</Definition>
+      <Definition lang="nb">Informasjon om kortvarig eller langvarig veiarbeid.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
       <PrefLabel lang="nb">Renovasjon</PrefLabel>
