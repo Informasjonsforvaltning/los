@@ -5089,9 +5089,9 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
-   <Concept path="ord/parkering">
-      <PrefLabel lang="en">Parking</PrefLabel>
-      <PrefLabel lang="nb">Parkering</PrefLabel>
+   <Concept path="ord/parkering-og-hvileplasser">
+      <PrefLabel lang="en">Parking and resting place</PrefLabel>
+      <PrefLabel lang="nb">Parkering og hvileplasser</PrefLabel>
       <PrefLabel lang="nn">Parkering</PrefLabel>
       <HiddenLabel lang="nb">Parkeringskort</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringskort</HiddenLabel>
