@@ -91,8 +91,6 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Related>ord/arbeidsmiljo</Related>
-      <Related>ord/bedriftsetablering</Related>
-      <Related>ord/etablere-barnehage</Related>
       <Related>ord/merverdiavgift</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-frivillig-organisasjon">
@@ -111,10 +109,10 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-      <Concept path="tema/bat">
-      <PrefLabel lang="en">Boat</PrefLabel>
-      <PrefLabel lang="nb">Båt</PrefLabel>
-      <PrefLabel lang="nn">Båt</PrefLabel>
+      <Concept path="tema/bat-havn-og-kyst">
+      <PrefLabel lang="en">Boat, harbour and coast</PrefLabel>
+      <PrefLabel lang="nb">Båt, havn og kyst</PrefLabel>
+      <PrefLabel lang="nn">Båt, havn og kyst</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -127,7 +125,7 @@
       <Definition lang="nn">Utleige av båtplassar og drift av småbåthamner.</Definition>
       <Definition lang="nb">Utleie av båtplasser og drift av småbåthavner.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="ord/havn">
       <PrefLabel lang="en">Harbour</PrefLabel>
@@ -140,7 +138,7 @@
       <Definition lang="nn">Kommunale hamner kan omfatte ferjeterminalar, kaianlegg, utleige, fortøyings- og slepetenester m.m.</Definition>
       <Definition lang="nb">Kommunale havner kan omfatte fergeterminaler, kaianlegg, utleie, fortøynings- og slepetjenester m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
    <Concept path="ord/kystforvaltning">
       <PrefLabel lang="en">Coastal management</PrefLabel>
@@ -156,7 +154,7 @@
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
    <Concept path="ord/sjofart">
       <PrefLabel lang="en">Shipping</PrefLabel>
@@ -166,7 +164,7 @@
       <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
       <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="ord/sjosikkerhet">
       <PrefLabel lang="en">Safety at sea</PrefLabel>
@@ -176,14 +174,7 @@
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat</Broader>
-   </Concept>
-    <Concept path="tema/havn-og-kyst">
-      <PrefLabel lang="en">Harbour and coast</PrefLabel>
-      <PrefLabel lang="nb">Havn og kyst</PrefLabel>
-      <PrefLabel lang="nn">Hamn og kyst</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/trafikk-og-transport</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="tema/luftfart">
       <PrefLabel lang="en">Aviation</PrefLabel>
@@ -895,7 +886,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/bevilling-og-tillatelser">
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
@@ -1081,6 +1071,8 @@
       <PrefLabel lang="en">Support for businesses</PrefLabel>
       <PrefLabel lang="nb">Støtte til bedrifter</PrefLabel>
       <PrefLabel lang="nn">Stønad til bedrifter</PrefLabel>
+      <HiddenLabel lang="nb">Næringsfond</HiddenLabel>
+      <HiddenLabel lang="nn">Næringsfond</HiddenLabel>
       <Definition lang="nn">Tilbod til lokale bedrifter som omfattar råd og rettleiing, hjelp til etablering, tilbod om utstyr og økonomiske stønadsordningar.</Definition>
       <Definition lang="nb"> Tilbud til lokale bedrifter som omfatter råd og veiledning, hjelp til etablering, tilbud om utstyr og økonomiske støtteordninger.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -1229,23 +1221,6 @@
       <HiddenLabel lang="nn">Offentleg utbyggingsplan</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kommunale-planer</Broader>
-   </Concept>
-   <Concept path="ord/bedriftsetablering">
-      <PrefLabel lang="en">Business start-up</PrefLabel>
-      <PrefLabel lang="nb">Bedriftsetablering</PrefLabel>
-      <PrefLabel lang="nn">Bedriftsetablering</PrefLabel>
-      <HiddenLabel lang="nb">Etableringstilskudd</HiddenLabel>
-      <HiddenLabel lang="nn">Etableringstilskot</HiddenLabel>
-      <HiddenLabel lang="nb">Etablereropplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Etableraropplæring</HiddenLabel>
-      <HiddenLabel lang="nb">Bygdeutviklingsmidler</HiddenLabel>
-      <HiddenLabel lang="nn">Bygdeutviklingsmidlar</HiddenLabel>
-      <HiddenLabel lang="nb">Etablererpakke</HiddenLabel>
-      <HiddenLabel lang="nn">Etablerarpakke</HiddenLabel>
-      <Definition lang="nn">Godkjenning, sertifisering, råd og rettleiing o.l.</Definition>
-      <Definition lang="nb">Godkjenning, sertifisering, råd og veiledning o.l.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
@@ -1519,16 +1494,6 @@
       <PrefLabel lang="nn">Varslingstenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/samfunnssikkerhet-og-beredskap</Broader>
-   </Concept>
-   <Concept path="ord/bransjekrav">
-      <PrefLabel lang="en">Trade requirements</PrefLabel>
-      <PrefLabel lang="nb">Bransjekrav</PrefLabel>
-      <PrefLabel lang="nn">Bransjekrav</PrefLabel>
-      <HiddenLabel lang="nb">Regelhjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Regelhjelp</HiddenLabel>
-      <Definition lang="nn">Regelverk for verksemder. Medrekna kva krav som blir stilt til bransjar innanfor ulike område.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/broyting">
       <PrefLabel lang="en">Snow clearing</PrefLabel>
@@ -2025,21 +1990,6 @@
       <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
    </Concept>
-   <Concept path="ord/etablere-barnehage">
-      <PrefLabel lang="en">Setting up a kindergarten</PrefLabel>
-      <PrefLabel lang="nb">Etablere barnehage</PrefLabel>
-      <PrefLabel lang="nn">Etablere barnehage</PrefLabel>
-      <HiddenLabel lang="nb">Familiebarnehage</HiddenLabel>
-      <HiddenLabel lang="nn">Familiebarnehage</HiddenLabel>
-      <HiddenLabel lang="nb">Privat barnehage</HiddenLabel>
-      <HiddenLabel lang="nn">Privat barnehage</HiddenLabel>
-      <HiddenLabel lang="nb">Barnehageetablering</HiddenLabel>
-      <HiddenLabel lang="nn">Barnehageetablering</HiddenLabel>
-      <Definition lang="nn">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehagar.</Definition>
-      <Definition lang="nb">Etablering av familiebarnehage og ordinær barnehage. Det er kommunen som godkjenner barnehager.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
-   </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
       <PrefLabel lang="en">Further education</PrefLabel>
       <PrefLabel lang="nb">Etterutdanning og videreutdanning</PrefLabel>
@@ -2414,35 +2364,6 @@
       <Definition lang="nn">Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
-   </Concept>
-   <Concept path="ord/foretaksregistrering">
-      <PrefLabel lang="en">Business registration</PrefLabel>
-      <PrefLabel lang="nb">Foretaksregistrering</PrefLabel>
-      <PrefLabel lang="nn">Føretaksregistrering</PrefLabel>
-      <HiddenLabel lang="nb">Samordnet registermelding</HiddenLabel>
-      <HiddenLabel lang="nn">Samordna registermelding</HiddenLabel>
-      <HiddenLabel lang="nb">Enhetsregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Einingsregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">Brønnøysundregistrene</HiddenLabel>
-      <HiddenLabel lang="nn">Brønnøysundregistra</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltpersonsforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltpersonsforetak</HiddenLabel>
-      <HiddenLabel lang="nb">Aksjeselskap</HiddenLabel>
-      <HiddenLabel lang="nn">Aksjeselskap</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltmannsforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltmannsføretak</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltpersonforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltpersonforetak</HiddenLabel>
-      <HiddenLabel lang="nb">Foretaksregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Føretaksregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nn">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nb">Brønnøysundregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Brønnøysundregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">BEDIN</HiddenLabel>
-      <HiddenLabel lang="nn">BEDIN</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/fornybar-energi">
       <PrefLabel lang="en">Renewable energy</PrefLabel>
@@ -3544,35 +3465,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/apenhet</Broader>
    </Concept>
-   <Concept path="ord/formue-og-inntektsskatt">
-      <PrefLabel lang="en">Wealth tax and income tax</PrefLabel>
-      <PrefLabel lang="nb">Formue- og inntektsskatt</PrefLabel>
-      <PrefLabel lang="nn">Formue- og inntektsskatt</PrefLabel>
-      <HiddenLabel lang="nb">Toppskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Toppskatt</HiddenLabel>
-      <HiddenLabel lang="nb">Inntektsoppgave</HiddenLabel>
-      <HiddenLabel lang="nn">Inntektsoppgåve</HiddenLabel>
-      <HiddenLabel lang="nb">Skattetrekk</HiddenLabel>
-      <HiddenLabel lang="nn">Skattetrekk</HiddenLabel>
-      <HiddenLabel lang="nb">Lønns- og trekkoppgave</HiddenLabel>
-      <HiddenLabel lang="nn">Lønns- og trekkoppgåve</HiddenLabel>
-      <HiddenLabel lang="nb">Personskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Personskatt</HiddenLabel>
-      <HiddenLabel lang="nb">Formueskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Formueskatt</HiddenLabel>
-      <HiddenLabel lang="nb">Inntektsskatt</HiddenLabel>
-      <HiddenLabel lang="nn">Inntektsskatt</HiddenLabel>
-      <HiddenLabel lang="nb">Lønnsoppgave</HiddenLabel>
-      <HiddenLabel lang="nn">Lønnsoppgåve</HiddenLabel>
-      <HiddenLabel lang="nb">Utlignet skatt</HiddenLabel>
-      <HiddenLabel lang="nn">Utlikna skatt</HiddenLabel>
-      <HiddenLabel lang="nb">Forskuddstrekk</HiddenLabel>
-      <HiddenLabel lang="nn">Forskotstrekk</HiddenLabel>
-      <Definition lang="nn">Personlege skatteytarar betaler inntektsskatt av arbeidsinntekt og pensjonar. Det skal også betalast skatt av nettoformue over eit visst nivå.</Definition>
-      <Definition lang="nb">Personlige skatteytere betaler inntektsskatt av arbeidsinntekt og pensjoner. Det skal også betales skatt av nettoformue over et visst nivå.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
-   </Concept>
    <Concept path="ord/introduksjonsprogram-for-innvandrere">
       <PrefLabel lang="en">Introduction programme for refugees</PrefLabel>
       <PrefLabel lang="nb">Introduksjonsprogram for innvandrere</PrefLabel>
@@ -3852,18 +3744,6 @@
       <Definition lang="nb">Biologisk prosess der planterester og annen organisk materiale blir brutt ned. Kommunen lager egen avtale for de som ønsker å kompostere hjemme.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avfallshandtering</Broader>
-   </Concept>
-   <Concept path="ord/konkurs">
-      <PrefLabel lang="en">Bankruptcy</PrefLabel>
-      <PrefLabel lang="nb">Konkurs</PrefLabel>
-      <PrefLabel lang="nn">Konkurs</PrefLabel>
-      <HiddenLabel lang="nb">Konkursbo</HiddenLabel>
-      <HiddenLabel lang="nn">Konkursbu</HiddenLabel>
-      <HiddenLabel lang="nb">Lønnsgarantiordningen</HiddenLabel>
-      <HiddenLabel lang="nn">Lønnsgarantiordninga</HiddenLabel>
-      <Definition lang="nn">Rettsleg framgangsmåte der ein betalingsudyktig mister råderetten over buet sitt. Buet blir seld og utbyttet fordelt mellom fordringshavarane. Statleg lønnsgarantiordning sikrar utbetaling av lønn til arbeidstakarar som blir ramma.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/ledsagerbevis">
       <PrefLabel lang="en">Care assistant certificate</PrefLabel>
@@ -4324,25 +4204,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
    </Concept>
-   <Concept path="ord/miljosertifisering">
-      <PrefLabel lang="en">Environmental certification</PrefLabel>
-      <PrefLabel lang="nb">Miljøsertifisering</PrefLabel>
-      <PrefLabel lang="nn">Miljøsertifisering</PrefLabel>
-      <HiddenLabel lang="nb">Miljømerking</HiddenLabel>
-      <HiddenLabel lang="nn">Miljømerking</HiddenLabel>
-      <HiddenLabel lang="nb">EMAS</HiddenLabel>
-      <HiddenLabel lang="nn">EMAS</HiddenLabel>
-      <HiddenLabel lang="nb">Eco-Management and Audit Scheme</HiddenLabel>
-      <HiddenLabel lang="nn">Eco-Management and Audit Scheme</HiddenLabel>
-      <HiddenLabel lang="nb">Miljøfyrtårn</HiddenLabel>
-      <HiddenLabel lang="nn">Miljøfyrtårn</HiddenLabel>
-      <HiddenLabel lang="nb">Miljøregistrering</HiddenLabel>
-      <HiddenLabel lang="nn">Miljøregistrering</HiddenLabel>
-      <Definition lang="nn">Miljøsertifisering er ei ekstern verifisering av miljøstyringssystemet som gir omverda tryggleik for at verksemda arbeider seriøst med å redusere påverknaden sin på det ytre miljøet. Miljøsertifisering inneber at verksemda følgjer standard for oppbygging og oppfølging av miljøstyringssystemet. Eksempel er ordninga miljøfyrtån eller ISO-standarden.</Definition>
-      <Definition lang="nb">Miljøsertifisering er en ekstern verifisering av miljøstyringssystemet som gir omverdenen sikkerhet for at virksomheten arbeider seriøst med å redusere sin påvirkning på det ytre miljøet. Miljøsertifisering innebærer at virksomheten følger standarder for oppbygging og oppfølging av miljøstyringssystemet. Eksempler er ordningen miljøfyrtån eller ISO-standarden.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
-   </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
       <PrefLabel lang="nb">Motorferdsel i utmark</PrefLabel>
@@ -4495,16 +4356,6 @@
       <Related>ord/reguleringsplan</Related>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/naringsfond">
-      <PrefLabel lang="en">Business development fund</PrefLabel>
-      <PrefLabel lang="nb">Næringsfond</PrefLabel>
-      <PrefLabel lang="nn">Næringsfond</PrefLabel>
-      <HiddenLabel lang="nb">Næringsfondet</HiddenLabel>
-      <HiddenLabel lang="nn">Næringsfondet</HiddenLabel>
-      <Definition lang="nn">Statlege, fylkeskommunale, regionale og kommunale fond som skal stimulere til næringsutvikling.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
-   </Concept>
    <Concept path="ord/utenlandsk-bedrift">
       <PrefLabel lang="en">Foreign businesses in Norway</PrefLabel>
       <PrefLabel lang="nb">Utenlandsk bedrift</PrefLabel>
@@ -4527,6 +4378,8 @@
       <PrefLabel lang="en">Certification and authorization</PrefLabel>
       <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
       <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
+      <HiddenLabel lang="nb">Miljøsertifisering</HiddenLabel>
+      <HiddenLabel lang="nn">Miljøsertifisering</HiddenLabel>
       <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar. Det kan vere ISO-sertifisering eller miljøsertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
       <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer. Det kan være ISO-sertifisering eller miljøsertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4536,8 +4389,8 @@
       <PrefLabel lang="en">Standards</PrefLabel>
       <PrefLabel lang="nb">Standarder</PrefLabel>
       <PrefLabel lang="nn">Standardar</PrefLabel>
-      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
-      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nn"> Eit standard er ein felles definisjon og omtale på korleis noko skal lagast eller gjerast. Standard gir detaljerte omtalar til EU-direktiv, lover og forskrifter og finst for dei fleste bransjar.</Definition>
+      <Definition lang="nb">En standard er en felles definisjon og beskrivelse på hvordan noe skal lages eller gjøres. Standarder gir detaljerte beskrivelser til EU-direktiver, lover og forskrifter og finnes for de fleste bransjer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -4545,6 +4398,10 @@
       <PrefLabel lang="en">Starting or closing a business</PrefLabel>
       <PrefLabel lang="nb">Starte eller avslutte bedrift</PrefLabel>
       <PrefLabel lang="nn">Starte eller avslutte bedrift</PrefLabel>
+      <HiddenLabel lang="nb">Etablere barnehage</HiddenLabel>
+      <HiddenLabel lang="nn">Konkurs</HiddenLabel>
+      <HiddenLabel lang="nb">Konkurs</HiddenLabel>
+      <HiddenLabel lang="nn">Etablere barnehage</HiddenLabel>
       <Definition lang="nn">Råd, rettleiing, stønadordningar og regelverk som gjeld for bedrifter som er i oppstartsfasen eller som skal avsluttast.</Definition>
       <Definition lang="nb">Råd, veiledning, støtteordninger og regelverk som gjelder for bedrifter som er i oppstartsfasen eller som skal avsluttes.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4940,7 +4797,7 @@
       <PrefLabel lang="nn">Oppgåveplikt</PrefLabel>
       <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) ))</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="ord/opphavsrett">
       <PrefLabel lang="en">Intellectual property right</PrefLabel>
@@ -5716,15 +5573,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsutvikling</Broader>
    </Concept>
-   <Concept path="ord/tilsyn-med-naringsliv">
-      <PrefLabel lang="en">Controlling compliance</PrefLabel>
-      <PrefLabel lang="nb">Tilsyn med næringsliv</PrefLabel>
-      <PrefLabel lang="nn">Tilsyn med næringsliv</PrefLabel>
-      <Definition lang="nn">Kommunen fører tilsyn med private barnehagar, serveringsverksemder og verksemder som sel tobakk.</Definition>
-      <Definition lang="nb">Kommunen fører tilsyn med private barnehager, serveringsvirksomheter og virksomheter som selger tobakk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
-   </Concept>
    <Concept path="ord/skatteattest">
       <PrefLabel lang="en">Tax certificate</PrefLabel>
       <PrefLabel lang="nb">Skatteattest</PrefLabel>
@@ -5732,7 +5580,7 @@
       <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
       <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
@@ -6530,14 +6378,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/norskopplaring</Related>
       <Broader>tema/integrering</Broader>
-   </Concept>
-   <Concept path="ord/standardisering">
-      <PrefLabel lang="en">Standardisation</PrefLabel>
-      <PrefLabel lang="nb">Standardisering</PrefLabel>
-      <PrefLabel lang="nn">Standardisering</PrefLabel>
-      <Definition lang="nn">Omtale av viktige sider av varer, tenester og/eller arbeidsprosessar (inkludert prøvingsmetodar). Vert utarbeidd etter initiativ frå interessegrupper som ønskjer felles spelereglar i marknaden. Frivillig å bruke, unnateke når myndigheitene krev at dei skal brukast, eller når det i avtalar er bestemt at dei skal brukast.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/statsborgerskap">
       <PrefLabel lang="en">Citizenship</PrefLabel>
