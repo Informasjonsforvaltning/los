@@ -4846,7 +4846,7 @@
       <PrefLabel lang="nn">Oppgåveplikt</PrefLabel>
       <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) ))</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
+      <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
    <Concept path="ord/opphavsrett">
       <PrefLabel lang="en">Intellectual property right</PrefLabel>
