@@ -424,6 +424,7 @@
       <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
+      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
   <Concept path="tema/mobilitetstilbud">
       <PrefLabel lang="en">Mobility services</PrefLabel>
@@ -4388,8 +4389,8 @@
       <PrefLabel lang="en">Standards</PrefLabel>
       <PrefLabel lang="nb">Standarder</PrefLabel>
       <PrefLabel lang="nn">Standardar</PrefLabel>
-      <Definition lang="nn">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
-      <Definition lang="nb">Informasjon, veiledning og hjelpemidler for å imøtekomme krav for utenlandske bedrifter som skal drive næringsvirksomhet i Norge.</Definition>
+      <Definition lang="nn"> Eit standard er ein felles definisjon og omtale på korleis noko skal lagast eller gjerast. Standard gir detaljerte omtalar til EU-direktiv, lover og forskrifter og finst for dei fleste bransjar.</Definition>
+      <Definition lang="nb">En standard er en felles definisjon og beskrivelse på hvordan noe skal lages eller gjøres. Standarder gir detaljerte beskrivelser til EU-direktiver, lover og forskrifter og finnes for de fleste bransjer.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
