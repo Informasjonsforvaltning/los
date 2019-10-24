@@ -3475,7 +3475,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/kvalifisering-til-arbeid</Broader>
-      <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/jakt-og-fangst">
       <PrefLabel lang="en">Hunting</PrefLabel>
@@ -4574,7 +4573,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sprakkurs-og-spraktest</Related>
       <Broader>tema/voksenopplaring</Broader>
-      <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/notarius-publicus">
       <PrefLabel lang="en">Notary public</PrefLabel>
@@ -6365,19 +6363,6 @@
       <Related>ord/spilleautomat</Related>
       <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
-   <Concept path="ord/sprakkurs-og-spraktest">
-      <PrefLabel lang="en">Language courses and tests</PrefLabel>
-      <PrefLabel lang="nb">Språkkurs og språktest</PrefLabel>
-      <PrefLabel lang="nn">Språkkurs og språktest</PrefLabel>
-      <HiddenLabel lang="nb">TOEFL-testen</HiddenLabel>
-      <HiddenLabel lang="nn">TOEFL-testen</HiddenLabel>
-      <HiddenLabel lang="nb">Bergenstesten</HiddenLabel>
-      <HiddenLabel lang="nn">Bergenstesten</HiddenLabel>
-      <Definition lang="nn">Opplæring til utlendingar som har opphalds- eller arbeidsløyve som dannar grunnlag for busetjingsløyve. Opplæringa består av norsk og samfunnskunnskap, til saman 300 timar. Opplæringa i samfunnskunnskap skal vere på eit språk som deltakaren forstår.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norskopplaring</Related>
-      <Broader>tema/integrering</Broader>
-   </Concept>
    <Concept path="ord/statsborgerskap">
       <PrefLabel lang="en">Citizenship</PrefLabel>
       <PrefLabel lang="nb">Statsborgerskap</PrefLabel>
@@ -6856,7 +6841,6 @@
       <Definition lang="nn">Tenester som gjev att ein persons tale for andre lyttarar på det tidspunktet ytringa blir gjort. Attgjevinga kan vera muntleg, skriftleg eller på tegnspråk, og (oftast) på eit anna språk.</Definition>
       <Definition lang="nb">Tjenester som gjengir en persons tale for andre lyttere på det tidspunktet ytringen blir gjort. Gjengivelsen kan være muntlig, skriftlig eller på tegnspråk, og (oftest) på annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/integrering</Broader>
       <Broader>tema/medvirkning</Broader>
       </Concept>
    <Concept path="ord/tegnspraktolk">
@@ -7604,14 +7588,6 @@
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/visum">
-      <PrefLabel lang="en">Visas</PrefLabel>
-      <PrefLabel lang="nb">Visum</PrefLabel>
-      <PrefLabel lang="nn">Visum</PrefLabel>
-      <Definition lang="nn">Utanlandske borgarar som ønskjer å reise til Noreg, må i hovudregelen ha visum. Formålet med besøket avgjer kva type visum ein treng.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/innvandring-og-innreise</Broader>
-   </Concept>
    <Concept path="ord/voldsoffererstatning">
       <PrefLabel lang="en">Compensation for victims of violent crime</PrefLabel>
       <PrefLabel lang="nb">Voldsoffererstatning</PrefLabel>
@@ -7969,13 +7945,6 @@
       <PrefLabel lang="nn">Inntekt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
-   </Concept>
-   <Concept path="tema/innvandring-og-innreise">
-      <PrefLabel lang="en">Immigration and entry to Norway</PrefLabel>
-      <PrefLabel lang="nb">Innvandring og innreise</PrefLabel>
-      <PrefLabel lang="nn">Innvandring og innreise</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/innvandring-og-integrering</Broader>
    </Concept>
    <Concept path="tema/innvandring-og-integrering">
       <PrefLabel lang="en">Immigration and integration</PrefLabel>
