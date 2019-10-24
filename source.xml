@@ -998,7 +998,6 @@
       <Definition lang="nb">Hvis du er fra et land utenfor EU/EØS og ønsker å arbeide i Norge, må du ha en oppholdstillatelse. Hvis du ikke allerede har en oppholdstillatelse, må du søke om en oppholdstillatelse for arbeid. Tidligere ble dette kalt en arbeidstillatelse.  Dette kan for eksempel være en oppholdstillatelse for faglærte arbeidere, nasjonalitetskokker, sesongarbeidere, selvstendig næringsdrivende eller ansatte i en humanitær, ideell eller religiøs organisasjon.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppholdstillatelse</Related>
-      <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/arbeidsliv</Broader>
       <Broader>tema/arbeidssoking</Broader>
    </Concept>
@@ -2283,7 +2282,7 @@
       <Definition lang="nn">Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m.</Definition>
       <Definition lang="nb">Til dette hører kvoteflyktninger, asylsøkere, asylmottak, retter flyktninger og asylsøkere har m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/innvandring-og-innreise</Broader>
+      <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/flyttemelding">
       <PrefLabel lang="en">Notification of move or change of address</PrefLabel>
@@ -3476,7 +3475,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
       <Broader>tema/kvalifisering-til-arbeid</Broader>
-      <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/jakt-og-fangst">
       <PrefLabel lang="en">Hunting</PrefLabel>
@@ -4573,9 +4571,7 @@
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål. Omsetjing, samisk språk, språkkurs- og test og særskilt norskopplæring er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/sprakkurs-og-spraktest</Related>
       <Broader>tema/voksenopplaring</Broader>
-      <Broader>tema/integrering</Broader>
    </Concept>
    <Concept path="ord/notarius-publicus">
       <PrefLabel lang="en">Notary public</PrefLabel>
@@ -4834,7 +4830,7 @@
       <Definition lang="nn">Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstillatelse</Related>
-      <Broader>tema/innvandring-og-innreise</Broader>
+      <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/oppmaling">
       <PrefLabel lang="en">Surveying</PrefLabel>
@@ -5013,10 +5009,10 @@
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
    </Concept>
-   <Concept path="ord/pass">
-      <PrefLabel lang="en">Passports</PrefLabel>
-      <PrefLabel lang="nb">Pass</PrefLabel>
-      <PrefLabel lang="nn">Pass</PrefLabel>
+   <Concept path="ord/pass-og-visum">
+      <PrefLabel lang="en">Passports and visa</PrefLabel>
+      <PrefLabel lang="nb">Pass og visum</PrefLabel>
+      <PrefLabel lang="nn">Pass og visum</PrefLabel>
       <HiddenLabel lang="nb">Reisedokument</HiddenLabel>
       <HiddenLabel lang="nn">Reisedokument</HiddenLabel>
       <HiddenLabel lang="nb">Reisebevis</HiddenLabel>
@@ -5027,9 +5023,9 @@
       <HiddenLabel lang="nn">Utlendingspass</HiddenLabel>
       <HiddenLabel lang="nb">Schengen-avtalen</HiddenLabel>
       <HiddenLabel lang="nn">Schengen-avtalen</HiddenLabel>
-      <Definition lang="nn">Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. (Noreg.no)</Definition>
+      <Definition lang="nn">Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. Enkelte land krev også visum for å reise inn (og ut) av landet.</Definition>
+      <Definition lang="nb">Alle norske stastborgere som skal reise utenfor Norden, bør ha gyldig norsk pass. Pass er det eneste godkjende norske identitetsdokumentet. Du treng derfor passet som legitimasjon ved innkvartering, banktjenester og i andre tilfelle der det er krav om identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein anbefalt å ta med pass. Enkelte land krever også visum for å reise inn (og ut) av landet.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/innvandring-og-innreise</Broader>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
    <Concept path="ord/patent,-design-og-varemerke">
@@ -6366,19 +6362,6 @@
       <Related>ord/spilleautomat</Related>
       <Broader>tema/rus-og-avhengighet</Broader>
    </Concept>
-   <Concept path="ord/sprakkurs-og-spraktest">
-      <PrefLabel lang="en">Language courses and tests</PrefLabel>
-      <PrefLabel lang="nb">Språkkurs og språktest</PrefLabel>
-      <PrefLabel lang="nn">Språkkurs og språktest</PrefLabel>
-      <HiddenLabel lang="nb">TOEFL-testen</HiddenLabel>
-      <HiddenLabel lang="nn">TOEFL-testen</HiddenLabel>
-      <HiddenLabel lang="nb">Bergenstesten</HiddenLabel>
-      <HiddenLabel lang="nn">Bergenstesten</HiddenLabel>
-      <Definition lang="nn">Opplæring til utlendingar som har opphalds- eller arbeidsløyve som dannar grunnlag for busetjingsløyve. Opplæringa består av norsk og samfunnskunnskap, til saman 300 timar. Opplæringa i samfunnskunnskap skal vere på eit språk som deltakaren forstår.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/norskopplaring</Related>
-      <Broader>tema/integrering</Broader>
-   </Concept>
    <Concept path="ord/statsborgerskap">
       <PrefLabel lang="en">Citizenship</PrefLabel>
       <PrefLabel lang="nb">Statsborgerskap</PrefLabel>
@@ -6386,7 +6369,6 @@
       <Definition lang="nn">Inneber tilhøyring til ein stat, og visse rettar og plikter overfor denne staten. Norsk statsborgarskap kan ein få ved fødsel, adopsjon, etter melding eller etter søknad.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
-      <Broader>tema/innvandring-og-innreise</Broader>
    </Concept>
    <Concept path="ord/stonad-ved-arbeidsmarkedstiltak">
       <PrefLabel lang="en">Job creation grant</PrefLabel>
@@ -6858,7 +6840,6 @@
       <Definition lang="nn">Tenester som gjev att ein persons tale for andre lyttarar på det tidspunktet ytringa blir gjort. Attgjevinga kan vera muntleg, skriftleg eller på tegnspråk, og (oftast) på eit anna språk.</Definition>
       <Definition lang="nb">Tjenester som gjengir en persons tale for andre lyttere på det tidspunktet ytringen blir gjort. Gjengivelsen kan være muntlig, skriftlig eller på tegnspråk, og (oftest) på annet språk.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/integrering</Broader>
       <Broader>tema/medvirkning</Broader>
       </Concept>
    <Concept path="ord/tegnspraktolk">
@@ -7606,14 +7587,6 @@
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/visum">
-      <PrefLabel lang="en">Visas</PrefLabel>
-      <PrefLabel lang="nb">Visum</PrefLabel>
-      <PrefLabel lang="nn">Visum</PrefLabel>
-      <Definition lang="nn">Utanlandske borgarar som ønskjer å reise til Noreg, må i hovudregelen ha visum. Formålet med besøket avgjer kva type visum ein treng.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/innvandring-og-innreise</Broader>
-   </Concept>
    <Concept path="ord/voldsoffererstatning">
       <PrefLabel lang="en">Compensation for victims of violent crime</PrefLabel>
       <PrefLabel lang="nb">Voldsoffererstatning</PrefLabel>
@@ -7971,13 +7944,6 @@
       <PrefLabel lang="nn">Inntekt</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
-   </Concept>
-   <Concept path="tema/innvandring-og-innreise">
-      <PrefLabel lang="en">Immigration and entry to Norway</PrefLabel>
-      <PrefLabel lang="nb">Innvandring og innreise</PrefLabel>
-      <PrefLabel lang="nn">Innvandring og innreise</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/innvandring-og-integrering</Broader>
    </Concept>
    <Concept path="tema/innvandring-og-integrering">
       <PrefLabel lang="en">Immigration and integration</PrefLabel>
