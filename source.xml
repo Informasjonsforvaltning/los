@@ -6379,14 +6379,6 @@
       <Related>ord/norskopplaring</Related>
       <Broader>tema/integrering</Broader>
    </Concept>
-   <Concept path="ord/standardisering">
-      <PrefLabel lang="en">Standardisation</PrefLabel>
-      <PrefLabel lang="nb">Standardisering</PrefLabel>
-      <PrefLabel lang="nn">Standardisering</PrefLabel>
-      <Definition lang="nn">Omtale av viktige sider av varer, tenester og/eller arbeidsprosessar (inkludert prøvingsmetodar). Vert utarbeidd etter initiativ frå interessegrupper som ønskjer felles spelereglar i marknaden. Frivillig å bruke, unnateke når myndigheitene krev at dei skal brukast, eller når det i avtalar er bestemt at dei skal brukast.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/statsborgerskap">
       <PrefLabel lang="en">Citizenship</PrefLabel>
       <PrefLabel lang="nb">Statsborgerskap</PrefLabel>
