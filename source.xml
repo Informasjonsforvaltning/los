@@ -1495,16 +1495,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/samfunnssikkerhet-og-beredskap</Broader>
    </Concept>
-   <Concept path="ord/bransjekrav">
-      <PrefLabel lang="en">Trade requirements</PrefLabel>
-      <PrefLabel lang="nb">Bransjekrav</PrefLabel>
-      <PrefLabel lang="nn">Bransjekrav</PrefLabel>
-      <HiddenLabel lang="nb">Regelhjelp</HiddenLabel>
-      <HiddenLabel lang="nn">Regelhjelp</HiddenLabel>
-      <Definition lang="nn">Regelverk for verksemder. Medrekna kva krav som blir stilt til bransjar innanfor ulike område.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/broyting">
       <PrefLabel lang="en">Snow clearing</PrefLabel>
       <PrefLabel lang="nb">Brøyting</PrefLabel>
@@ -2374,35 +2364,6 @@
       <Definition lang="nn">Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
-   </Concept>
-   <Concept path="ord/foretaksregistrering">
-      <PrefLabel lang="en">Business registration</PrefLabel>
-      <PrefLabel lang="nb">Foretaksregistrering</PrefLabel>
-      <PrefLabel lang="nn">Føretaksregistrering</PrefLabel>
-      <HiddenLabel lang="nb">Samordnet registermelding</HiddenLabel>
-      <HiddenLabel lang="nn">Samordna registermelding</HiddenLabel>
-      <HiddenLabel lang="nb">Enhetsregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Einingsregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">Brønnøysundregistrene</HiddenLabel>
-      <HiddenLabel lang="nn">Brønnøysundregistra</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltpersonsforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltpersonsforetak</HiddenLabel>
-      <HiddenLabel lang="nb">Aksjeselskap</HiddenLabel>
-      <HiddenLabel lang="nn">Aksjeselskap</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltmannsforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltmannsføretak</HiddenLabel>
-      <HiddenLabel lang="nb">Enkeltpersonforetak</HiddenLabel>
-      <HiddenLabel lang="nn">Enkeltpersonforetak</HiddenLabel>
-      <HiddenLabel lang="nb">Foretaksregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Føretaksregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nn">Domeneregistrering</HiddenLabel>
-      <HiddenLabel lang="nb">Brønnøysundregisteret</HiddenLabel>
-      <HiddenLabel lang="nn">Brønnøysundregisteret</HiddenLabel>
-      <HiddenLabel lang="nb">BEDIN</HiddenLabel>
-      <HiddenLabel lang="nn">BEDIN</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
    </Concept>
    <Concept path="ord/fornybar-energi">
       <PrefLabel lang="en">Renewable energy</PrefLabel>
@@ -3784,18 +3745,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
-   <Concept path="ord/konkurs">
-      <PrefLabel lang="en">Bankruptcy</PrefLabel>
-      <PrefLabel lang="nb">Konkurs</PrefLabel>
-      <PrefLabel lang="nn">Konkurs</PrefLabel>
-      <HiddenLabel lang="nb">Konkursbo</HiddenLabel>
-      <HiddenLabel lang="nn">Konkursbu</HiddenLabel>
-      <HiddenLabel lang="nb">Lønnsgarantiordningen</HiddenLabel>
-      <HiddenLabel lang="nn">Lønnsgarantiordninga</HiddenLabel>
-      <Definition lang="nn">Rettsleg framgangsmåte der ein betalingsudyktig mister råderetten over buet sitt. Buet blir seld og utbyttet fordelt mellom fordringshavarane. Statleg lønnsgarantiordning sikrar utbetaling av lønn til arbeidstakarar som blir ramma.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsutvikling</Broader>
-   </Concept>
    <Concept path="ord/ledsagerbevis">
       <PrefLabel lang="en">Care assistant certificate</PrefLabel>
       <PrefLabel lang="nb">Ledsagerbevis</PrefLabel>
@@ -4450,6 +4399,8 @@
       <PrefLabel lang="nb">Starte eller avslutte bedrift</PrefLabel>
       <PrefLabel lang="nn">Starte eller avslutte bedrift</PrefLabel>
       <HiddenLabel lang="nb">Etablere barnehage</HiddenLabel>
+      <HiddenLabel lang="nn">Konkurs</HiddenLabel>
+      <HiddenLabel lang="nb">Konkurs</HiddenLabel>
       <HiddenLabel lang="nn">Etablere barnehage</HiddenLabel>
       <Definition lang="nn">Råd, rettleiing, stønadordningar og regelverk som gjeld for bedrifter som er i oppstartsfasen eller som skal avsluttast.</Definition>
       <Definition lang="nb">Råd, veiledning, støtteordninger og regelverk som gjelder for bedrifter som er i oppstartsfasen eller som skal avsluttes.</Definition>
