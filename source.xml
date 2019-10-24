@@ -888,7 +888,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsgiver</Related>
       <Broader>tema/avgift</Broader>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/bevilling-og-tillatelser">
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
