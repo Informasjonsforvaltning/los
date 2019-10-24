@@ -109,7 +109,7 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
-      <Concept path="tema/bat,-havn-og-kyst">
+      <Concept path="tema/bat-havn-og-kyst">
       <PrefLabel lang="en">Boat, harbour and coast</PrefLabel>
       <PrefLabel lang="nb">Båt, havn og kyst</PrefLabel>
       <PrefLabel lang="nn">Båt, havn og kyst</PrefLabel>
@@ -125,7 +125,7 @@
       <Definition lang="nn">Utleige av båtplassar og drift av småbåthamner.</Definition>
       <Definition lang="nb">Utleie av båtplasser og drift av småbåthavner.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat,-havn-og-kyst</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="ord/havn">
       <PrefLabel lang="en">Harbour</PrefLabel>
@@ -138,7 +138,7 @@
       <Definition lang="nn">Kommunale hamner kan omfatte ferjeterminalar, kaianlegg, utleige, fortøyings- og slepetenester m.m.</Definition>
       <Definition lang="nb">Kommunale havner kan omfatte fergeterminaler, kaianlegg, utleie, fortøynings- og slepetjenester m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat,-havn-og-kyst</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
    <Concept path="ord/kystforvaltning">
       <PrefLabel lang="en">Coastal management</PrefLabel>
@@ -154,7 +154,7 @@
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat,-havn-og-kyst</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
    <Concept path="ord/sjofart">
       <PrefLabel lang="en">Shipping</PrefLabel>
@@ -164,7 +164,7 @@
       <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
       <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat,-havn-og-kyst</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="ord/sjosikkerhet">
       <PrefLabel lang="en">Safety at sea</PrefLabel>
@@ -174,7 +174,7 @@
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bat,-havn-og-kyst</Broader>
+      <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
    <Concept path="tema/luftfart">
       <PrefLabel lang="en">Aviation</PrefLabel>
