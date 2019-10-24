@@ -424,7 +424,6 @@
       <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
-      <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
   <Concept path="tema/mobilitetstilbud">
       <PrefLabel lang="en">Mobility services</PrefLabel>
