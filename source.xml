@@ -4571,7 +4571,6 @@
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål. Omsetjing, samisk språk, språkkurs- og test og særskilt norskopplæring er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/sprakkurs-og-spraktest</Related>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/notarius-publicus">
