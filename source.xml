@@ -91,7 +91,6 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Related>ord/arbeidsmiljo</Related>
-      <Related>ord/bedriftsetablering</Related>
       <Related>ord/etablere-barnehage</Related>
       <Related>ord/merverdiavgift</Related>
    </Concept>
@@ -1221,23 +1220,6 @@
       <HiddenLabel lang="nn">Offentleg utbyggingsplan</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kommunale-planer</Broader>
-   </Concept>
-   <Concept path="ord/bedriftsetablering">
-      <PrefLabel lang="en">Business start-up</PrefLabel>
-      <PrefLabel lang="nb">Bedriftsetablering</PrefLabel>
-      <PrefLabel lang="nn">Bedriftsetablering</PrefLabel>
-      <HiddenLabel lang="nb">Etableringstilskudd</HiddenLabel>
-      <HiddenLabel lang="nn">Etableringstilskot</HiddenLabel>
-      <HiddenLabel lang="nb">Etablereropplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Etableraropplæring</HiddenLabel>
-      <HiddenLabel lang="nb">Bygdeutviklingsmidler</HiddenLabel>
-      <HiddenLabel lang="nn">Bygdeutviklingsmidlar</HiddenLabel>
-      <HiddenLabel lang="nb">Etablererpakke</HiddenLabel>
-      <HiddenLabel lang="nn">Etablerarpakke</HiddenLabel>
-      <Definition lang="nn">Godkjenning, sertifisering, råd og rettleiing o.l.</Definition>
-      <Definition lang="nb">Godkjenning, sertifisering, råd og veiledning o.l.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naringsliv</Broader>
    </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
