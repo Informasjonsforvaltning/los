@@ -3037,7 +3037,6 @@
       <Definition lang="nn">Alle som har bustad i kommunen, har rett til fri gravplass i kommunen. Kyrkjeleg fellesråd kan gi løyve til at også personar utan bustad i kommunen kan få gravplass.</Definition>
       <Definition lang="nb">Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/grunnskole">
@@ -8138,13 +8137,6 @@
       <PrefLabel lang="nn">Reiselivsnæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
-   </Concept>
-   <Concept path="tema/religion-og-livssyn">
-      <PrefLabel lang="en">Religion and beliefs</PrefLabel>
-      <PrefLabel lang="nb">Religion og livssyn</PrefLabel>
-      <PrefLabel lang="nn">Religion og livssyn</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
