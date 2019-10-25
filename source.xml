@@ -6447,14 +6447,32 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/studiefinansiering">
-      <PrefLabel lang="en">Student finances</PrefLabel>
-      <PrefLabel lang="nb">Studiefinansiering</PrefLabel>
-      <PrefLabel lang="nn">Studiefinansiering</PrefLabel>
+   <Concept path="ord/studielan">
+      <PrefLabel lang="en">Student loan</PrefLabel>
+      <PrefLabel lang="nb">Studielån</PrefLabel>
+      <PrefLabel lang="nn">Studielån</PrefLabel>
       <HiddenLabel lang="nb">Lån</HiddenLabel>
       <HiddenLabel lang="nn">Lån</HiddenLabel>
       <HiddenLabel lang="nb">Stipend</HiddenLabel>
       <HiddenLabel lang="nn">Stipend</HiddenLabel>
+      <HiddenLabel lang="nb">Legat</HiddenLabel>
+      <HiddenLabel lang="nn">Legat</HiddenLabel>
+      <HiddenLabel lang="nb">Statens lånekasse for utdanning</HiddenLabel>
+      <HiddenLabel lang="nn">Statens lånekasse for utdanning</HiddenLabel>
+      <HiddenLabel lang="nb">Lånekassa</HiddenLabel>
+      <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
+      <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
+      <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
+      <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/studiefinansiering</Broader>
+   </Concept>
+   <Concept path="ord/stipend">
+      <PrefLabel lang="en">Student grant</PrefLabel>
+      <PrefLabel lang="nb">Stipend</PrefLabel>
+      <PrefLabel lang="nn">Stipend</PrefLabel>
+      <HiddenLabel lang="nb">Lån</HiddenLabel>
+      <HiddenLabel lang="nn">Lån</HiddenLabel>
       <HiddenLabel lang="nb">Studielån</HiddenLabel>
       <HiddenLabel lang="nn">Studielån</HiddenLabel>
       <HiddenLabel lang="nb">Legat</HiddenLabel>
