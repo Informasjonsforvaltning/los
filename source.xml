@@ -2206,7 +2206,6 @@
       <Definition lang="nb">Kommunen gir tillatelser til å vise film i næringsøyemed.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
-      <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -2318,16 +2317,6 @@
       <HiddenLabel lang="nn">Personnummer</HiddenLabel>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
-   </Concept>
-   <Concept path="ord/folkehogskole">
-      <PrefLabel lang="en">Folk high school</PrefLabel>
-      <PrefLabel lang="nb">Folkehøgskole</PrefLabel>
-      <PrefLabel lang="nn">Folkehøgskule</PrefLabel>
-      <HiddenLabel lang="nb">Folkehøyskole</HiddenLabel>
-      <HiddenLabel lang="nn">Folkehøgskule</HiddenLabel>
-      <Definition lang="nn">Eittårig skuletibod (august til mai) på ein sjølvstendig, ubunden og eksamensfri internatskule. Det finst både kristene og frilynte folkehøgskular. Dei fleste har ei nedre aldersgrene på 18 år.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/folkehogskole</Broader>
    </Concept>
    <Concept path="ord/foreldrepermisjon">
       <PrefLabel lang="en">Parental leave</PrefLabel>
@@ -2763,7 +2752,6 @@
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
@@ -3037,7 +3025,6 @@
       <Definition lang="nn">Alle som har bustad i kommunen, har rett til fri gravplass i kommunen. Kyrkjeleg fellesråd kan gi løyve til at også personar utan bustad i kommunen kan få gravplass.</Definition>
       <Definition lang="nb">Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/religion-og-livssyn</Broader>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
    <Concept path="ord/grunnskole">
@@ -3368,16 +3355,6 @@
       <Definition lang="nb">Økonomisk støtte til idrettsformål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
-   </Concept>
-   <Concept path="ord/import">
-      <PrefLabel lang="en">Importation</PrefLabel>
-      <PrefLabel lang="nb">Import</PrefLabel>
-      <PrefLabel lang="nn">Import</PrefLabel>
-      <HiddenLabel lang="nb">Innførsel</HiddenLabel>
-      <HiddenLabel lang="nn">Innføring</HiddenLabel>
-      <Definition lang="nn">Innførsel av varer til Noreg. Må meldast til Tollvesenet. Det er restriksjonar på ei rekkje varer. I tillegg kjem toll og avgifter ved innførsel. Toll, meirverdiavgift og motorvognavgifter er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/individuell-plan">
       <PrefLabel lang="en">Individual health plan</PrefLabel>
@@ -4191,7 +4168,6 @@
       <HiddenLabel lang="nn">Altinn</HiddenLabel>
       <Definition lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/midlertidig-brukstillatelse">
@@ -5170,7 +5146,6 @@
       <Definition lang="nn">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten.</Definition>
       <Definition lang="nb">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordnede ansvaret for den samlede transportpolitikken, og skal utvikle og fastsette rammevilkårene for kollektivtransporten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaring</Broader>
       <Broader>tema/yrkestransport</Broader>
    </Concept>
    <Concept path="ord/personvern">
@@ -6426,6 +6401,26 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
+   <Concept path="ord/akutt-forurensning">
+      <PrefLabel lang="en">Acute pollution</PrefLabel>
+      <PrefLabel lang="nb">Akutt forurensning</PrefLabel>
+      <PrefLabel lang="nn">Akutt forurensning</PrefLabel>
+      <Definition lang="nn">Forureining med store følgjer som inntrer plutseleg, og som ikkje er tillate.</Definition>
+      <Definition lang="nb">Forurensning av betydning som inntrer plutselig, og som ikke er tillatt.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
+   </Concept>
+   <Concept path="ord/Radonmåling">
+      <PrefLabel lang="en">Radon measurement</PrefLabel>
+      <PrefLabel lang="nb">Radonmåling</PrefLabel>
+      <PrefLabel lang="nn">Radonmåling</PrefLabel>
+      <Definition lang="nn">Måling av mengda radongass i inneluft.</Definition>
+      <Definition lang="nb">Måling av mengden radongass i inneluft.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
+   </Concept>
    <Concept path="ord/stralevern">
       <PrefLabel lang="en">Radiation</PrefLabel>
       <PrefLabel lang="nb">Strålevern</PrefLabel>
@@ -6447,14 +6442,32 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/studiefinansiering">
-      <PrefLabel lang="en">Student finances</PrefLabel>
-      <PrefLabel lang="nb">Studiefinansiering</PrefLabel>
-      <PrefLabel lang="nn">Studiefinansiering</PrefLabel>
+   <Concept path="ord/studielan">
+      <PrefLabel lang="en">Student loan</PrefLabel>
+      <PrefLabel lang="nb">Studielån</PrefLabel>
+      <PrefLabel lang="nn">Studielån</PrefLabel>
       <HiddenLabel lang="nb">Lån</HiddenLabel>
       <HiddenLabel lang="nn">Lån</HiddenLabel>
       <HiddenLabel lang="nb">Stipend</HiddenLabel>
       <HiddenLabel lang="nn">Stipend</HiddenLabel>
+      <HiddenLabel lang="nb">Legat</HiddenLabel>
+      <HiddenLabel lang="nn">Legat</HiddenLabel>
+      <HiddenLabel lang="nb">Statens lånekasse for utdanning</HiddenLabel>
+      <HiddenLabel lang="nn">Statens lånekasse for utdanning</HiddenLabel>
+      <HiddenLabel lang="nb">Lånekassa</HiddenLabel>
+      <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
+      <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
+      <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
+      <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/studiefinansiering</Broader>
+   </Concept>
+   <Concept path="ord/stipend">
+      <PrefLabel lang="en">Student grant</PrefLabel>
+      <PrefLabel lang="nb">Stipend</PrefLabel>
+      <PrefLabel lang="nn">Stipend</PrefLabel>
+      <HiddenLabel lang="nb">Lån</HiddenLabel>
+      <HiddenLabel lang="nn">Lån</HiddenLabel>
       <HiddenLabel lang="nb">Studielån</HiddenLabel>
       <HiddenLabel lang="nn">Studielån</HiddenLabel>
       <HiddenLabel lang="nb">Legat</HiddenLabel>
@@ -6864,7 +6877,6 @@
       <HiddenLabel lang="nn">Tollsats</HiddenLabel>
       <Definition lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/tomtefeste">
@@ -6949,30 +6961,6 @@
       <Definition lang="nn">Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell rykkjer ut heile døgnet dersom alarmen går.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-   </Concept>
-   <Concept path="ord/turisme">
-      <PrefLabel lang="en">Tourism</PrefLabel>
-      <PrefLabel lang="nb">Turisme</PrefLabel>
-      <PrefLabel lang="nn">Turisme</PrefLabel>
-      <HiddenLabel lang="nb">Økoturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Økoturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Besøksgård</HiddenLabel>
-      <HiddenLabel lang="nn">Besøksgard</HiddenLabel>
-      <HiddenLabel lang="nb">Agroturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Agroturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Gårdsturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Gardsturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Opplevelsesturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Opplevelsesturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Grønt reiseliv</HiddenLabel>
-      <HiddenLabel lang="nn">Grønt reiseliv</HiddenLabel>
-      <HiddenLabel lang="nb">Bygdeturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Bygdeturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Geoturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Geoturisme</HiddenLabel>
-      <Definition lang="nn">Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak, og til bedriftsretta tiltak</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaring</Broader>
    </Concept>
    <Concept path="ord/turistkontor">
       <PrefLabel lang="en">Tourist information office</PrefLabel>
@@ -7812,13 +7800,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
 	     </Concept>
-   <Concept path="tema/folkehogskole">
-      <PrefLabel lang="en">Folk high schools</PrefLabel>
-      <PrefLabel lang="nb">Folkehøgskole</PrefLabel>
-      <PrefLabel lang="nn">Folkehøgskule</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
-   </Concept>
    <Concept path="tema/forurensning-og-straling">
       <PrefLabel lang="en">Pollution and radiation</PrefLabel>
       <PrefLabel lang="nb">Forurensning og stråling</PrefLabel>
@@ -8120,13 +8101,6 @@
       <PrefLabel lang="nn">Reiselivsnæring</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
-   </Concept>
-   <Concept path="tema/religion-og-livssyn">
-      <PrefLabel lang="en">Religion and beliefs</PrefLabel>
-      <PrefLabel lang="nb">Religion og livssyn</PrefLabel>
-      <PrefLabel lang="nn">Religion og livssyn</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
