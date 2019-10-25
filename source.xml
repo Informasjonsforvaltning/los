@@ -579,7 +579,7 @@
       <HiddenLabel lang="nn">Fiskeoppdrett</HiddenLabel>
       <Definition lang="nn">Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt som mat.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/fiske-fangst-og-akvakultur</Broader>
+      <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/alderspensjon">
       <PrefLabel lang="en">Retirement pension</PrefLabel>
@@ -2217,7 +2217,7 @@
       <Definition lang="nn">Regulering og kontroll med fiske og fangst i salt- og ferskvatn.</Definition>
       <Definition lang="nb">Regulering og kontroll med fiske og fangst i salt- og ferskvann.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/fiske-fangst-og-akvakultur</Broader>
+      <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/fjernundervisning">
       <PrefLabel lang="en">Distance learning</PrefLabel>
@@ -3512,7 +3512,6 @@
       <Definition lang="nb">Kommunens bestemmelser om jakt og fangst som jegerprøve og jaktkort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vapentillatelse</Related>
-      <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/karakterer">
@@ -4794,24 +4793,6 @@
       <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) ))</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
-   </Concept>
-   <Concept path="ord/opphavsrett">
-      <PrefLabel lang="en">Intellectual property right</PrefLabel>
-      <PrefLabel lang="nb">Opphavsrett</PrefLabel>
-      <PrefLabel lang="nn">Opphavsrett</PrefLabel>
-      <HiddenLabel lang="nb">Creative commons</HiddenLabel>
-      <HiddenLabel lang="nn">Creative commons</HiddenLabel>
-      <HiddenLabel lang="nb">CC</HiddenLabel>
-      <HiddenLabel lang="nn">CC</HiddenLabel>
-      <HiddenLabel lang="nb">Copyright</HiddenLabel>
-      <HiddenLabel lang="nn">Copyright</HiddenLabel>
-      <HiddenLabel lang="nb">Kopirett</HiddenLabel>
-      <HiddenLabel lang="nn">Kopirett</HiddenLabel>
-      <HiddenLabel lang="nb">Åndsverk</HiddenLabel>
-      <HiddenLabel lang="nn">Åndsverk</HiddenLabel>
-      <Definition lang="nn">Opphavsrett (eller åndsverk eller copyright) er retten til litterære og kunstnariske åndsverk, t.d. eit musikkstykke, ei bok, eit maleri, brukskunst, ein film m.m. (Patentstyret) ((Retten til resultat av åndeleg skaparverksemd slik som forfattarrettar, fotografirettar, patentrettar m.m. )) Copyright er den engelske/amerikanske nemninga for reglane som tilsvarar opphavsrett.(Clara) Ikkje medrekna designvern ('designbeskyttelse') og patent som er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/opphavsrett</Broader>
    </Concept>
    <Concept path="ord/oppholdstillatelse">
       <PrefLabel lang="en">Residence permit</PrefLabel>
@@ -7563,7 +7544,6 @@
       <Definition lang="nn">Arbeidet med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</Definition>
       <Definition lang="nb">Arbeidet med å bevare, øke, høste eller avgrense viltbestander. I de fleste tilfeller blir arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/fiske-fangst-og-akvakultur</Broader>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/visuell-kunst">
@@ -7803,13 +7783,6 @@
       <PrefLabel lang="nn">Erstatningsordningar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/lov-og-rett</Broader>
-   </Concept>
-   <Concept path="tema/fiske-fangst-og-akvakultur">
-      <PrefLabel lang="en">Fishing, hunting and aquaculture</PrefLabel>
-      <PrefLabel lang="nb">Fiske, fangst og akvakultur</PrefLabel>
-      <PrefLabel lang="nn">Fiske, fangst og akvakultur</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/flytting">
       <PrefLabel lang="en">Moving home</PrefLabel>
@@ -8091,13 +8064,6 @@
       <PrefLabel lang="nn">Omsorgstenester</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
-   </Concept>
-   <Concept path="tema/opphavsrett">
-      <PrefLabel lang="en">Copyright</PrefLabel>
-      <PrefLabel lang="nb">Opphavsrett</PrefLabel>
-      <PrefLabel lang="nn">Opphavsrett</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/kultur-idrett-og-fritid</Broader>
    </Concept>
    <Concept path="tema/sosiale-tjenester">
       <PrefLabel lang="en">Social services</PrefLabel>
