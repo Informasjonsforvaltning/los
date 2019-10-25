@@ -3194,9 +3194,9 @@
    <Concept path="ord/hørselshjelpemidler">
       <PrefLabel lang="en">Hearing aid</PrefLabel>
       <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
-      <PrefLabel lang="nn">Høryselshjelpemiddel</PrefLabel>
-      <Definition lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av høyrsel til personar som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
-      <Definition lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av hørsel til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</Definition>
+      <PrefLabel lang="nn">Høyrselshjelpemiddel</PrefLabel>
+      <Definition lang="nn">Hjelpemiddel for høyrselshemma.</Definition>
+      <Definition lang="nb">Hjelpemidler for hørselshemmede.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
