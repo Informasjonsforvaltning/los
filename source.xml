@@ -2206,7 +2206,6 @@
       <Definition lang="nb">Kommunen gir tillatelser til å vise film i næringsøyemed.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/film-og-kino</Related>
-      <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
@@ -2753,7 +2752,6 @@
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/brann</Broader>
    </Concept>
    <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
@@ -3357,16 +3355,6 @@
       <Definition lang="nb">Økonomisk støtte til idrettsformål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
-   </Concept>
-   <Concept path="ord/import">
-      <PrefLabel lang="en">Importation</PrefLabel>
-      <PrefLabel lang="nb">Import</PrefLabel>
-      <PrefLabel lang="nn">Import</PrefLabel>
-      <HiddenLabel lang="nb">Innførsel</HiddenLabel>
-      <HiddenLabel lang="nn">Innføring</HiddenLabel>
-      <Definition lang="nn">Innførsel av varer til Noreg. Må meldast til Tollvesenet. Det er restriksjonar på ei rekkje varer. I tillegg kjem toll og avgifter ved innførsel. Toll, meirverdiavgift og motorvognavgifter er eigne emneord.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/individuell-plan">
       <PrefLabel lang="en">Individual health plan</PrefLabel>
@@ -4180,7 +4168,6 @@
       <HiddenLabel lang="nn">Altinn</HiddenLabel>
       <Definition lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/midlertidig-brukstillatelse">
@@ -6414,6 +6401,26 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
+   <Concept path="ord/akutt-forurensning">
+      <PrefLabel lang="en">Acute pollution</PrefLabel>
+      <PrefLabel lang="nb">Akutt forurensning</PrefLabel>
+      <PrefLabel lang="nn">Akutt forurensning</PrefLabel>
+      <Definition lang="nn">Forureining med store følgjer som inntrer plutseleg, og som ikkje er tillate.</Definition>
+      <Definition lang="nb">Forurensning av betydning som inntrer plutselig, og som ikke er tillatt.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
+   </Concept>
+   <Concept path="ord/Radonmåling">
+      <PrefLabel lang="en">Radon measurement</PrefLabel>
+      <PrefLabel lang="nb">Radonmåling</PrefLabel>
+      <PrefLabel lang="nn">Radonmåling</PrefLabel>
+      <Definition lang="nn">Måling av mengda radongass i inneluft.</Definition>
+      <Definition lang="nb">Måling av mengden radongass i inneluft.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/folkehelse</Broader>
+      <Broader>tema/forurensning-og-straling</Broader>
+   </Concept>
    <Concept path="ord/stralevern">
       <PrefLabel lang="en">Radiation</PrefLabel>
       <PrefLabel lang="nb">Strålevern</PrefLabel>
@@ -6870,7 +6877,6 @@
       <HiddenLabel lang="nn">Tollsats</HiddenLabel>
       <Definition lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
       <Broader>tema/avgift</Broader>
    </Concept>
    <Concept path="ord/tomtefeste">
