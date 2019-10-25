@@ -5169,7 +5169,6 @@
       <Definition lang="nn">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten.</Definition>
       <Definition lang="nb">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordnede ansvaret for den samlede transportpolitikken, og skal utvikle og fastsette rammevilkårene for kollektivtransporten.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaring</Broader>
       <Broader>tema/yrkestransport</Broader>
    </Concept>
    <Concept path="ord/personvern">
@@ -6966,30 +6965,6 @@
       <Definition lang="nn">Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell rykkjer ut heile døgnet dersom alarmen går.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-   </Concept>
-   <Concept path="ord/turisme">
-      <PrefLabel lang="en">Tourism</PrefLabel>
-      <PrefLabel lang="nb">Turisme</PrefLabel>
-      <PrefLabel lang="nn">Turisme</PrefLabel>
-      <HiddenLabel lang="nb">Økoturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Økoturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Besøksgård</HiddenLabel>
-      <HiddenLabel lang="nn">Besøksgard</HiddenLabel>
-      <HiddenLabel lang="nb">Agroturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Agroturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Gårdsturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Gardsturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Opplevelsesturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Opplevelsesturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Grønt reiseliv</HiddenLabel>
-      <HiddenLabel lang="nn">Grønt reiseliv</HiddenLabel>
-      <HiddenLabel lang="nb">Bygdeturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Bygdeturisme</HiddenLabel>
-      <HiddenLabel lang="nb">Geoturisme</HiddenLabel>
-      <HiddenLabel lang="nn">Geoturisme</HiddenLabel>
-      <Definition lang="nn">Turisme med basis i jordbruk, skogbruk og tilknytta næringar. Til dette høyrer søknad om bygdeutviklingsmidlar (BU-midlar) både til utgreiings- og tilretteleggingstiltak, og til bedriftsretta tiltak</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaring</Broader>
    </Concept>
    <Concept path="ord/turistkontor">
       <PrefLabel lang="en">Tourist information office</PrefLabel>
