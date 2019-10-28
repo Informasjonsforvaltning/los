@@ -3747,10 +3747,13 @@
       <PrefLabel lang="nn">Omsorgsstønad</PrefLabel>
       <HiddenLabel lang="nb">Ledsager</HiddenLabel>
       <HiddenLabel lang="nn">Følgje</HiddenLabel>
+      <HiddenLabel lang="nb">Omsorgslønn</HiddenLabel>
+      <HiddenLabel lang="nn">Omsorgsløn</HiddenLabel>
       <Definition lang="nn">Kommunen kan yte omsorgsstønad til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</Definition>
       <Definition lang="nb">Kommunen kan gi omsorgsstønad til personer som pleier og har omsorg for familie og nærstående. Hensikten med ordningen er å støtte opp under den familiebaserte omsorgen, og gjøre det mulig for private omsorgsytere å fortsette med omsorgsarbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
@@ -4618,14 +4621,6 @@
       <Definition lang="nb">Bolig eid av kommunen og brukt til å skaffe bolig i en nødsituasjon.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
-   </Concept>
-   <Concept path="ord/omsorgslonn">
-      <PrefLabel lang="en">Carer allowance</PrefLabel>
-      <PrefLabel lang="nb">Omsorgslønn</PrefLabel>
-      <PrefLabel lang="nn">Omsorgslønn</PrefLabel>
-      <Definition lang="nn">Kommunen kan yte omsorgslønn til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/barnebidrag">
       <PrefLabel lang="en">Child support</PrefLabel>
