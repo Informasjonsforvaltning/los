@@ -5804,7 +5804,7 @@
       <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
       <HiddenLabel lang="nn">Køyreplanar</HiddenLabel>
       <HiddenLabel lang="nb">Forsinkelser</HiddenLabel>
-      <HiddenLabel lang="nn">FOrseinkingar</HiddenLabel>
+      <HiddenLabel lang="nn">Forseinkingar</HiddenLabel>
       <HiddenLabel lang="nb">Kanselleringer</HiddenLabel>
       <HiddenLabel lang="nn">Kanselleringar</HiddenLabel>
       <Definition lang="nn">**</Definition>
@@ -5816,8 +5816,12 @@
       <PrefLabel lang="en">Fare and purchase information </PrefLabel>
       <PrefLabel lang="nb">Takster og kjøpsinformasjon</PrefLabel>
       <PrefLabel lang="nn">Takstar og kjøpsinformasjon</PrefLabel>
+      <HiddenLabel lang="nb">Billettpriser</HiddenLabel>
+      <HiddenLabel lang="nn">Billettprisar</HiddenLabel>
+      <HiddenLabel lang="nb">Billett</HiddenLabel>
+      <HiddenLabel lang="nn">Billett</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
