@@ -2017,10 +2017,10 @@
       <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/larling</Related>
+      <Related>ord/lærling</Related>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
-   <Concept path="ord/larling">
+   <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Lærling</PrefLabel>
       <PrefLabel lang="nn">Lærling</PrefLabel>
@@ -3178,7 +3178,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
-   <Concept path="ord/horselshjelpemidler">
+   <Concept path="ord/hørselshjelpemidler">
       <PrefLabel lang="en">Hearing aid</PrefLabel>
       <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Høyrselshjelpemiddel</PrefLabel>
@@ -4645,7 +4645,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
-   <Concept path="ord/stonad-til-enslig-forsorger">
+   <Concept path="ord/stønad-til-enslig-forsørger">
       <PrefLabel lang="en">Support for single parents</PrefLabel>
       <PrefLabel lang="nb">Stønad til enslig forsørger</PrefLabel>
       <PrefLabel lang="nn">Stønad til einsleg forsørgar</PrefLabel>
@@ -4665,7 +4665,7 @@
       <Broader>tema/permisjonsordninger</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
-   <Concept path="ord/kontantstotte">
+   <Concept path="ord/kontantstøtte">
       <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
       <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
       <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
@@ -4689,7 +4689,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
-   <Concept path="ord/ytelser-ved-svangerskap-fodsel-og-adopsjon">
+   <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
       <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
       <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
@@ -4699,6 +4699,8 @@
       <HiddenLabel lang="nn">Foreldrepengar</HiddenLabel>
       <HiddenLabel lang="nb">Svangerskapspenger</HiddenLabel>
       <HiddenLabel lang="nn">Svangerskapspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4740,8 +4742,6 @@
       <HiddenLabel lang="nn">Omsorgspengar</HiddenLabel>
       <HiddenLabel lang="nb">Bidragsforskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
-      <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
-      <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
       <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
@@ -4756,9 +4756,9 @@
       <Definition lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
-      <Related>ord/kontantstotte</Related>
+      <Related>ord/kontantstøtte</Related>
       <Related>ord/barnebidrag</Related>
-      <Related>ord/stonad-til-enslig-forsorger</Related>
+      <Related>ord/stønad-til-enslig-forsørger</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -4985,7 +4985,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/patent-design-og-varemerke">
+   <Concept path="ord/patent,-design-og-varemerke">
       <PrefLabel lang="en">Patent, design and trademarks</PrefLabel>
       <PrefLabel lang="nb">Patent, design og varemerke</PrefLabel>
       <PrefLabel lang="nn">Patent, design og varemerke</PrefLabel>
@@ -6411,7 +6411,7 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/radonmaling">
+   <Concept path="ord/Radonmåling">
       <PrefLabel lang="en">Radon measurement</PrefLabel>
       <PrefLabel lang="nb">Radonmåling</PrefLabel>
       <PrefLabel lang="nn">Radonmåling</PrefLabel>
