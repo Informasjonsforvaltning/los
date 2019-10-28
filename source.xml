@@ -1401,6 +1401,30 @@
       <Broader>tema/avgift</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
+
+   <Concept path="ord/vegnett">
+      <PrefLabel lang="en">Rod network</PrefLabel>
+      <PrefLabel lang="nb">Vegnett</PrefLabel>
+      <PrefLabel lang="nn">Vegnett</PrefLabel>
+      <HiddenLabel lang="nb">Aksellastrestriksjoner</HiddenLabel>
+      <HiddenLabel lang="nn">Aksellastrestriksjoner</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkelnettverk</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelnettverk</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkelstier</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelstiar</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkeveger</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelvegar</HiddenLabel>
+      <HiddenLabel lang="nb">Gangveier</HiddenLabel>
+      <HiddenLabel lang="nn">Gangvegar</HiddenLabel>
+      <HiddenLabel lang="nb">Fortau</HiddenLabel>
+      <HiddenLabel lang="nn">Fortau</HiddenLabel>
+      <HiddenLabel lang="nn">Gatelys</HiddenLabel>
+      <HiddenLabel lang="nn">Gatelys</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
    <Concept path="ord/veg--og-foreforhold">
       <PrefLabel lang="en">Unexpected road events and conditions</PrefLabel>
       <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
