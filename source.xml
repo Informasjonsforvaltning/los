@@ -5797,8 +5797,18 @@
       <PrefLabel lang="en">Operational information</PrefLabel>
       <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
       <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
+      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
+      <HiddenLabel lang="nn">Køyreplanar</HiddenLabel>
+      <HiddenLabel lang="nb">Forsinkelser</HiddenLabel>
+      <HiddenLabel lang="nn">FOrseinkingar</HiddenLabel>
+      <HiddenLabel lang="nb">Kanselleringer</HiddenLabel>
+      <HiddenLabel lang="nn">Kanselleringar</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
