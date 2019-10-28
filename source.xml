@@ -1423,7 +1423,7 @@
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/trafikkinformasjon</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/veg--og-foreforhold">
       <PrefLabel lang="en">Unexpected road events and conditions</PrefLabel>
