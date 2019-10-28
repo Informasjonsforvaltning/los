@@ -955,39 +955,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
-   <Concept path="ord/arbeidssoking">
-      <PrefLabel lang="en">Job seeking</PrefLabel>
-      <PrefLabel lang="nb">Arbeidssøking</PrefLabel>
-      <PrefLabel lang="nn">Arbeidssøking</PrefLabel>
-      <HiddenLabel lang="nb">Arbeidsløshet</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsløyse</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsledighet</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsløyse</HiddenLabel>
-      <HiddenLabel lang="nb">Meldekort</HiddenLabel>
-      <HiddenLabel lang="nn">Meldekort</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøker</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøkjar</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøknad</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøknad</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøking</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøking</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidssøker</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidssøkjar</HiddenLabel>
-      <HiddenLabel lang="nb">Vikarstilling</HiddenLabel>
-      <HiddenLabel lang="nn">Vikarstilling</HiddenLabel>
-      <HiddenLabel lang="nb">Fortrinnsrett</HiddenLabel>
-      <HiddenLabel lang="nn">Fortrinnsrett</HiddenLabel>
-      <HiddenLabel lang="nb">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nn">Engasjement</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer registrering som arbeidssøkjar (sjølvbeteningsteneste). Ikkje medrekna registrering av CV hos t.d. Nav; sjå emneordet CV.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ventestonad</Related>
-      <Related>ord/ventelonn</Related>
-      <Related>ord/dagpenger</Related>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
    <Concept path="ord/arbeidstillatelse">
       <PrefLabel lang="en">Work permit</PrefLabel>
       <PrefLabel lang="nb">Arbeidstillatelse</PrefLabel>
