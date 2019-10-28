@@ -1387,6 +1387,14 @@
       <PrefLabel lang="nn">Bominformasjon</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
+      <HiddenLabel lang="nb">Bompenger</HiddenLabel>
+      <HiddenLabel lang="nn">Bompeng</HiddenLabel>
+      <HiddenLabel lang="nb">Bomstasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Bomstasjon</HiddenLabel>
+      <HiddenLabel lang="nb">Trafikantbetaling</HiddenLabel>
+      <HiddenLabel lang="nn">Trafikantbetaling</HiddenLabel>
+      <HiddenLabel lang="nb">Veiprisning</HiddenLabel>
+      <HiddenLabel lang="nn">Vegprising</HiddenLabel>
       <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
