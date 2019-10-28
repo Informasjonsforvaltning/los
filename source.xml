@@ -5784,6 +5784,10 @@
       <PrefLabel lang="en">Location information</PrefLabel>
       <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
       <PrefLabel lang="nn">Lokasjonstenester</PrefLabel>
+      <HiddenLabel lang="nb">Sykkeldeling</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkeldeling</HiddenLabel>
+      <HiddenLabel lang="nb">Bildeling</HiddenLabel>
+      <HiddenLabel lang="nn">Bildeling</HiddenLabel>
       <Definition lang="nn">**</Definition>
 	  <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
