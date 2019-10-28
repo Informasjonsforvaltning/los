@@ -4866,6 +4866,8 @@
       <HiddenLabel lang="nn">Parkeringsplass</HiddenLabel>
       <HiddenLabel lang="nb">Parkeringsbot</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsbot</HiddenLabel>
+      <HiddenLabel lang="nb">Rasteplasser</HiddenLabel>
+      <HiddenLabel lang="nn">Rasteplassar</HiddenLabel>
       <HiddenLabel lang="nb">Avgiftsparkering</HiddenLabel>
       <HiddenLabel lang="nn">Avgiftsparkering</HiddenLabel>
       <HiddenLabel lang="nb">Parkeringsgebyr</HiddenLabel>
@@ -4884,6 +4886,8 @@
       <Definition lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
+      <Broader>tema/yrkestransport</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
       <PrefLabel lang="en">Ombudsman for patients</PrefLabel>
