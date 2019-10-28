@@ -4857,7 +4857,7 @@
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
    <Concept path="ord/parkering-og-hvileplasser">
-      <PrefLabel lang="en">Parking and resting place</PrefLabel>
+      <PrefLabel lang="en">Parking and rest area</PrefLabel>
       <PrefLabel lang="nb">Parkering og hvileplasser</PrefLabel>
       <PrefLabel lang="nn">Parkering</PrefLabel>
       <HiddenLabel lang="nb">Parkeringskort</HiddenLabel>
@@ -5756,7 +5756,7 @@
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/drivstoff-og-ladestasjoner">
-      <PrefLabel lang="en">Charging and refuelling stations</PrefLabel>
+      <PrefLabel lang="en">Filling and charging stations</PrefLabel>
       <PrefLabel lang="nb">Drivstoff og ladestasjoner</PrefLabel>
       <PrefLabel lang="nn">Drivstoff og ladestasjonar</PrefLabel>
       <Definition lang="nn">**</Definition>
@@ -5765,7 +5765,7 @@
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/lokasjonstjenester">
-      <PrefLabel lang="en">Public transport: location information</PrefLabel>
+      <PrefLabel lang="en">Location information</PrefLabel>
       <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
       <PrefLabel lang="nn">Lokasjonstenester</PrefLabel>
       <Definition lang="nn">**</Definition>
@@ -5774,7 +5774,7 @@
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/ruteinformasjon">
-      <PrefLabel lang="en">Public transport: operational information</PrefLabel>
+      <PrefLabel lang="en">Operational information</PrefLabel>
       <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
       <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
       <Definition lang="nn">**</Definition>
@@ -5783,7 +5783,7 @@
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/takster-og-kjopsinformasjon">
-      <PrefLabel lang="en">Public transport: fare and purchase information </PrefLabel>
+      <PrefLabel lang="en">Fare and purchase information </PrefLabel>
       <PrefLabel lang="nb">Takster og kjøpsinformasjon</PrefLabel>
       <PrefLabel lang="nn">Takstar og kjøpsinformasjon</PrefLabel>
       <Definition lang="nn">**</Definition>
