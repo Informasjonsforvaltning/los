@@ -1401,6 +1401,24 @@
       <Broader>tema/avgift</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
+   <Concept path="ord/veg--og-foreforhold">
+      <PrefLabel lang="en">Unexpected road events and conditions</PrefLabel>
+      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
+      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
+      <HiddenLabel lang="nb">Brøyting</HiddenLabel>
+      <HiddenLabel lang="nn">Brøyting</HiddenLabel>
+      <HiddenLabel lang="nb">Salting</HiddenLabel>
+      <HiddenLabel lang="nn">Salting</HiddenLabel>
+      <HiddenLabel lang="nb">Glatt veidekke</HiddenLabel>
+      <HiddenLabel lang="nn">Glatt vegdekke</HiddenLabel>
+      <HiddenLabel lang="nb">Veistandard</HiddenLabel>
+      <HiddenLabel lang="nn">Vegstandard</HiddenLabel>
+      <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
+      <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avgift</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
    <Concept path="ord/vielse">
       <PrefLabel lang="en">Marriage</PrefLabel>
       <PrefLabel lang="nb">Vielse</PrefLabel>
