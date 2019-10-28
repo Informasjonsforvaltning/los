@@ -684,6 +684,20 @@
       <PrefLabel lang="en">Medical aid</PrefLabel>
       <PrefLabel lang="nb">Legehjelp</PrefLabel>
       <PrefLabel lang="nn">Legehjelp</PrefLabel>
+      <HiddenLabel lang="nb">Allmennlege</HiddenLabel>
+      <HiddenLabel lang="nn">Allmennlækjar</HiddenLabel>
+      <HiddenLabel lang="nb">Fastlegeordning</HiddenLabel>
+      <HiddenLabel lang="nn">Fastlegeordning</HiddenLabel>
+      <HiddenLabel lang="nb">Legeerklæring</HiddenLabel>
+      <HiddenLabel lang="nn">lækjarerklæring</HiddenLabel>
+      <HiddenLabel lang="nb">Allmennlegetjeneste</HiddenLabel>
+      <HiddenLabel lang="nn">Allmennlegeteneste</HiddenLabel>
+      <HiddenLabel lang="nb">Fastlegebytte</HiddenLabel>
+      <HiddenLabel lang="nn">Fastlegebyte</HiddenLabel>
+      <HiddenLabel lang="nb">Legetime</HiddenLabel>
+      <HiddenLabel lang="nn">Lækjartime</HiddenLabel>
+      <HiddenLabel lang="nb">Legeattest</HiddenLabel>
+      <HiddenLabel lang="nn">Lækjarattest</HiddenLabel>
       <Definition lang="nn">Kommunale tilbod som omfattar legevakt og fastlege.</Definition>
       <Definition lang="nb">Kommunale tilbud som omfatter legevakt og fastlege.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -2045,27 +2059,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/renovasjon</Related>
       <Broader>tema/avfallshandtering</Broader>
-   </Concept>
-   <Concept path="ord/fastlege">
-      <PrefLabel lang="en">General Practitioning Doctor</PrefLabel>
-      <PrefLabel lang="nb">Fastlege</PrefLabel>
-      <PrefLabel lang="nn">Fastlege</PrefLabel>
-      <HiddenLabel lang="nb">Allmennlege</HiddenLabel>
-      <HiddenLabel lang="nn">Allmennlækjar</HiddenLabel>
-      <HiddenLabel lang="nb">Fastlegeordning</HiddenLabel>
-      <HiddenLabel lang="nn">Fastlegeordning</HiddenLabel>
-      <HiddenLabel lang="nb">Legeerklæring</HiddenLabel>
-      <HiddenLabel lang="nn">lækjarerklæring</HiddenLabel>
-      <HiddenLabel lang="nb">Allmennlegetjeneste</HiddenLabel>
-      <HiddenLabel lang="nn">Allmennlegeteneste</HiddenLabel>
-      <HiddenLabel lang="nb">Fastlegebytte</HiddenLabel>
-      <HiddenLabel lang="nn">Fastlegebyte</HiddenLabel>
-      <HiddenLabel lang="nb">Legetime</HiddenLabel>
-      <HiddenLabel lang="nn">Lækjartime</HiddenLabel>
-      <HiddenLabel lang="nb">Legeattest</HiddenLabel>
-      <HiddenLabel lang="nn">Lækjarattest</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/feiing">
       <PrefLabel lang="en">Chimney sweep services</PrefLabel>
