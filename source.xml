@@ -7386,8 +7386,8 @@
    </Concept>
    <Concept path="ord/videregaende-skole-for-voksne">
       <PrefLabel lang="en">Upper secondary education for adults</PrefLabel>
-      <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
-      <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <PrefLabel lang="nb">Videregående opplæring for voksne</PrefLabel>
+      <PrefLabel lang="nn">Vidaregåande opplæring for vaksne</PrefLabel>
       <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
       <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
       <InScheme>ontologi/ord</InScheme>
