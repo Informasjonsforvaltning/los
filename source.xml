@@ -5767,8 +5767,16 @@
       <PrefLabel lang="en">Filling and charging stations</PrefLabel>
       <PrefLabel lang="nb">Drivstoff og ladestasjoner</PrefLabel>
       <PrefLabel lang="nn">Drivstoff og ladestasjonar</PrefLabel>
+      <HiddenLabel lang="nb">Diesel</HiddenLabel>
+      <HiddenLabel lang="nn">Diesel</HiddenLabel>
+      <HiddenLabel lang="nb">Bensin</HiddenLabel>
+      <HiddenLabel lang="nn">Bensin</HiddenLabel>
+      <HiddenLabel lang="nb">Hurtiglading</HiddenLabel>
+      <HiddenLabel lang="nn">Hurtiglading</HiddenLabel>
+      <HiddenLabel lang="nb">Hydrogen</HiddenLabel>
+      <HiddenLabel lang="nn">Hydrogen</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
