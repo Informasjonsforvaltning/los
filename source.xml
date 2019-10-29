@@ -32,7 +32,6 @@
       <PrefLabel lang="nb">Å ha et alvorlig sykt barn</PrefLabel>
       <PrefLabel lang="nn">Å ha et alvorleg sjukt barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/omsorgslonn</Related>
       <Related>ord/skoleskyss</Related>
       <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
@@ -64,7 +63,6 @@
       <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
       <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
@@ -1437,10 +1435,9 @@
       <HiddenLabel lang="nn">Glatt vegdekke</HiddenLabel>
       <HiddenLabel lang="nb">Veistandard</HiddenLabel>
       <HiddenLabel lang="nn">Vegstandard</HiddenLabel>
-      <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
-      <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avgift</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/vielse">
@@ -1658,7 +1655,6 @@
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Definition lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/dagtilbud">
@@ -5651,17 +5647,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-   <Concept path="ord/veg--og-foreforhold">
-      <PrefLabel lang="en">Unexpected road events and conditions</PrefLabel>
-      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
-      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
-      <HiddenLabel lang="nb">Vei- og føreforhold</HiddenLabel>
-      <HiddenLabel lang="nn">Veg- og føreforhold</HiddenLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/trafikkinformasjon</Broader>
-   </Concept>
    <Concept path="ord/trafikksignaler-og-reguleringer">
       <PrefLabel lang="en">Traffic signs and regulations</PrefLabel>
       <PrefLabel lang="nb">Trafikksignaler og reguleringer</PrefLabel>
@@ -7342,7 +7327,6 @@
       <HiddenLabel lang="nn">Vartpengar</HiddenLabel>
       <Definition lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Related>ord/oppsigelse</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
@@ -7352,7 +7336,6 @@
       <PrefLabel lang="nn">Ventestønad</PrefLabel>
       <Definition lang="nn">Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein har avslutta ein lang dagpengeperiode.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/vergemal">
