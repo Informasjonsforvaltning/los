@@ -32,7 +32,6 @@
       <PrefLabel lang="nb">Å ha et alvorlig sykt barn</PrefLabel>
       <PrefLabel lang="nn">Å ha et alvorleg sjukt barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/omsorgslonn</Related>
       <Related>ord/skoleskyss</Related>
       <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
@@ -64,7 +63,6 @@
       <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
       <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
@@ -684,6 +682,20 @@
       <PrefLabel lang="en">Medical aid</PrefLabel>
       <PrefLabel lang="nb">Legehjelp</PrefLabel>
       <PrefLabel lang="nn">Legehjelp</PrefLabel>
+      <HiddenLabel lang="nb">Allmennlege</HiddenLabel>
+      <HiddenLabel lang="nn">Allmennlækjar</HiddenLabel>
+      <HiddenLabel lang="nb">Fastlegeordning</HiddenLabel>
+      <HiddenLabel lang="nn">Fastlegeordning</HiddenLabel>
+      <HiddenLabel lang="nb">Legeerklæring</HiddenLabel>
+      <HiddenLabel lang="nn">lækjarerklæring</HiddenLabel>
+      <HiddenLabel lang="nb">Allmennlegetjeneste</HiddenLabel>
+      <HiddenLabel lang="nn">Allmennlegeteneste</HiddenLabel>
+      <HiddenLabel lang="nb">Fastlegebytte</HiddenLabel>
+      <HiddenLabel lang="nn">Fastlegebyte</HiddenLabel>
+      <HiddenLabel lang="nb">Legetime</HiddenLabel>
+      <HiddenLabel lang="nn">Lækjartime</HiddenLabel>
+      <HiddenLabel lang="nb">Legeattest</HiddenLabel>
+      <HiddenLabel lang="nn">Lækjarattest</HiddenLabel>
       <Definition lang="nn">Kommunale tilbod som omfattar legevakt og fastlege.</Definition>
       <Definition lang="nb">Kommunale tilbud som omfatter legevakt og fastlege.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -953,39 +965,6 @@
       <Definition lang="nn">Forholda for arbeidstakarane på ein arbeidsplass, særleg dei fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholda.</Definition>
       <Definition lang="nb">Forholdene for arbeidstakerne på en arbeidsplass, særlig de fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholdene.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/arbeidsliv</Broader>
-   </Concept>
-   <Concept path="ord/arbeidssoking">
-      <PrefLabel lang="en">Job seeking</PrefLabel>
-      <PrefLabel lang="nb">Arbeidssøking</PrefLabel>
-      <PrefLabel lang="nn">Arbeidssøking</PrefLabel>
-      <HiddenLabel lang="nb">Arbeidsløshet</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsløyse</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsledighet</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsløyse</HiddenLabel>
-      <HiddenLabel lang="nb">Meldekort</HiddenLabel>
-      <HiddenLabel lang="nn">Meldekort</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøker</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøkjar</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøknad</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøknad</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidsformidling</HiddenLabel>
-      <HiddenLabel lang="nb">Jobbsøking</HiddenLabel>
-      <HiddenLabel lang="nn">Jobbsøking</HiddenLabel>
-      <HiddenLabel lang="nb">Arbeidssøker</HiddenLabel>
-      <HiddenLabel lang="nn">Arbeidssøkjar</HiddenLabel>
-      <HiddenLabel lang="nb">Vikarstilling</HiddenLabel>
-      <HiddenLabel lang="nn">Vikarstilling</HiddenLabel>
-      <HiddenLabel lang="nb">Fortrinnsrett</HiddenLabel>
-      <HiddenLabel lang="nn">Fortrinnsrett</HiddenLabel>
-      <HiddenLabel lang="nb">Engasjement</HiddenLabel>
-      <HiddenLabel lang="nn">Engasjement</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer registrering som arbeidssøkjar (sjølvbeteningsteneste). Ikkje medrekna registrering av CV hos t.d. Nav; sjå emneordet CV.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ventestonad</Related>
-      <Related>ord/ventelonn</Related>
-      <Related>ord/dagpenger</Related>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
    <Concept path="ord/arbeidstillatelse">
@@ -1401,15 +1380,64 @@
       <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/bominformasjon">
-      <PrefLabel lang="en">Road toll</PrefLabel>
+      <PrefLabel lang="en">Toll information</PrefLabel>
       <PrefLabel lang="nb">Bominformasjon</PrefLabel>
       <PrefLabel lang="nn">Bominformasjon</PrefLabel>
       <HiddenLabel lang="nb">Autopass</HiddenLabel>
       <HiddenLabel lang="nn">Autopass</HiddenLabel>
+      <HiddenLabel lang="nb">Bompenger</HiddenLabel>
+      <HiddenLabel lang="nn">Bompeng</HiddenLabel>
+      <HiddenLabel lang="nb">Bomstasjon</HiddenLabel>
+      <HiddenLabel lang="nn">Bomstasjon</HiddenLabel>
+      <HiddenLabel lang="nb">Trafikantbetaling</HiddenLabel>
+      <HiddenLabel lang="nn">Trafikantbetaling</HiddenLabel>
+      <HiddenLabel lang="nb">Veiprisning</HiddenLabel>
+      <HiddenLabel lang="nn">Vegprising</HiddenLabel>
       <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
+      <Broader>tema/trafikkinformasjon</Broader>
+   </Concept>
+
+   <Concept path="ord/vegnett">
+      <PrefLabel lang="en">Rod network</PrefLabel>
+      <PrefLabel lang="nb">Vegnett</PrefLabel>
+      <PrefLabel lang="nn">Vegnett</PrefLabel>
+      <HiddenLabel lang="nb">Aksellastrestriksjoner</HiddenLabel>
+      <HiddenLabel lang="nn">Aksellastrestriksjoner</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkelnettverk</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelnettverk</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkelstier</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelstiar</HiddenLabel>
+      <HiddenLabel lang="nb">Sykkeveger</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkelvegar</HiddenLabel>
+      <HiddenLabel lang="nb">Gangveier</HiddenLabel>
+      <HiddenLabel lang="nn">Gangvegar</HiddenLabel>
+      <HiddenLabel lang="nb">Fortau</HiddenLabel>
+      <HiddenLabel lang="nn">Fortau</HiddenLabel>
+      <HiddenLabel lang="nn">Gatelys</HiddenLabel>
+      <HiddenLabel lang="nn">Gatelys</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/veg-og-vegregulering</Broader>
+   </Concept>
+   <Concept path="ord/veg--og-foreforhold">
+      <PrefLabel lang="en">Unexpected road events and conditions</PrefLabel>
+      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
+      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
+      <HiddenLabel lang="nb">Brøyting</HiddenLabel>
+      <HiddenLabel lang="nn">Brøyting</HiddenLabel>
+      <HiddenLabel lang="nb">Salting</HiddenLabel>
+      <HiddenLabel lang="nn">Salting</HiddenLabel>
+      <HiddenLabel lang="nb">Glatt veidekke</HiddenLabel>
+      <HiddenLabel lang="nn">Glatt vegdekke</HiddenLabel>
+      <HiddenLabel lang="nb">Veistandard</HiddenLabel>
+      <HiddenLabel lang="nn">Vegstandard</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/vielse">
@@ -1627,7 +1655,6 @@
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Definition lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/dagtilbud">
@@ -2017,10 +2044,10 @@
       <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/larling</Related>
+      <Related>ord/lærling</Related>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
-   <Concept path="ord/larling">
+   <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Lærling</PrefLabel>
       <PrefLabel lang="nn">Lærling</PrefLabel>
@@ -2078,27 +2105,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/renovasjon</Related>
       <Broader>tema/avfallshandtering</Broader>
-   </Concept>
-   <Concept path="ord/fastlege">
-      <PrefLabel lang="en">General Practitioning Doctor</PrefLabel>
-      <PrefLabel lang="nb">Fastlege</PrefLabel>
-      <PrefLabel lang="nn">Fastlege</PrefLabel>
-      <HiddenLabel lang="nb">Allmennlege</HiddenLabel>
-      <HiddenLabel lang="nn">Allmennlækjar</HiddenLabel>
-      <HiddenLabel lang="nb">Fastlegeordning</HiddenLabel>
-      <HiddenLabel lang="nn">Fastlegeordning</HiddenLabel>
-      <HiddenLabel lang="nb">Legeerklæring</HiddenLabel>
-      <HiddenLabel lang="nn">lækjarerklæring</HiddenLabel>
-      <HiddenLabel lang="nb">Allmennlegetjeneste</HiddenLabel>
-      <HiddenLabel lang="nn">Allmennlegeteneste</HiddenLabel>
-      <HiddenLabel lang="nb">Fastlegebytte</HiddenLabel>
-      <HiddenLabel lang="nn">Fastlegebyte</HiddenLabel>
-      <HiddenLabel lang="nb">Legetime</HiddenLabel>
-      <HiddenLabel lang="nn">Lækjartime</HiddenLabel>
-      <HiddenLabel lang="nb">Legeattest</HiddenLabel>
-      <HiddenLabel lang="nn">Lækjarattest</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/feiing">
       <PrefLabel lang="en">Chimney sweep services</PrefLabel>
@@ -2907,6 +2913,8 @@
       <HiddenLabel lang="nn">Spesialtransport</HiddenLabel>
       <HiddenLabel lang="nb">Transportbevilling</HiddenLabel>
       <HiddenLabel lang="nn">Transportbevilling</HiddenLabel>
+      <HiddenLabel lang="nb">Frakt og logistikk</HiddenLabel>
+      <HiddenLabel lang="nn">Frakt og logistikk</HiddenLabel>
       <HiddenLabel lang="nb">Vegliste</HiddenLabel>
       <HiddenLabel lang="nn">Vegliste</HiddenLabel>
       <HiddenLabel lang="nb">Fellesskapstillatelse</HiddenLabel>
@@ -3178,7 +3186,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hjelpemidler</Broader>
    </Concept>
-   <Concept path="ord/horselshjelpemidler">
+   <Concept path="ord/hørselshjelpemidler">
       <PrefLabel lang="en">Hearing aid</PrefLabel>
       <PrefLabel lang="nb">Hørselshjelpemidler</PrefLabel>
       <PrefLabel lang="nn">Høyrselshjelpemiddel</PrefLabel>
@@ -3747,10 +3755,13 @@
       <PrefLabel lang="nn">Omsorgsstønad</PrefLabel>
       <HiddenLabel lang="nb">Ledsager</HiddenLabel>
       <HiddenLabel lang="nn">Følgje</HiddenLabel>
+      <HiddenLabel lang="nb">Omsorgslønn</HiddenLabel>
+      <HiddenLabel lang="nn">Omsorgsløn</HiddenLabel>
       <Definition lang="nn">Kommunen kan yte omsorgsstønad til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</Definition>
       <Definition lang="nb">Kommunen kan gi omsorgsstønad til personer som pleier og har omsorg for familie og nærstående. Hensikten med ordningen er å støtte opp under den familiebaserte omsorgen, og gjøre det mulig for private omsorgsytere å fortsette med omsorgsarbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
@@ -4619,14 +4630,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
-   <Concept path="ord/omsorgslonn">
-      <PrefLabel lang="en">Carer allowance</PrefLabel>
-      <PrefLabel lang="nb">Omsorgslønn</PrefLabel>
-      <PrefLabel lang="nn">Omsorgslønn</PrefLabel>
-      <Definition lang="nn">Kommunen kan yte omsorgslønn til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
-   </Concept>
    <Concept path="ord/barnebidrag">
       <PrefLabel lang="en">Child support</PrefLabel>
       <PrefLabel lang="nb">Barnebidrag</PrefLabel>
@@ -4645,7 +4648,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
-   <Concept path="ord/stonad-til-enslig-forsorger">
+   <Concept path="ord/stønad-til-enslig-forsørger">
       <PrefLabel lang="en">Support for single parents</PrefLabel>
       <PrefLabel lang="nb">Stønad til enslig forsørger</PrefLabel>
       <PrefLabel lang="nn">Stønad til einsleg forsørgar</PrefLabel>
@@ -4665,7 +4668,7 @@
       <Broader>tema/permisjonsordninger</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
-   <Concept path="ord/kontantstotte">
+   <Concept path="ord/kontantstøtte">
       <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
       <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
       <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
@@ -4689,7 +4692,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
-   <Concept path="ord/ytelser-ved-svangerskap-fodsel-og-adopsjon">
+   <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
       <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
       <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
@@ -4699,6 +4702,8 @@
       <HiddenLabel lang="nn">Foreldrepengar</HiddenLabel>
       <HiddenLabel lang="nb">Svangerskapspenger</HiddenLabel>
       <HiddenLabel lang="nn">Svangerskapspengar</HiddenLabel>
+      <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
+      <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
       <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4727,7 +4732,7 @@
    <Concept path="ord/ytelser-til-foreldre-og-foresatte">
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
       <PrefLabel lang="nb">Ytelser til foreldre og foresatte</PrefLabel>
-      <PrefLabel lang="nn">Ytelsar til foreldre og føresette</PrefLabel>
+      <PrefLabel lang="nn">Ytingar til foreldre og føresette</PrefLabel>
       <HiddenLabel lang="nb">Barnetrygd</HiddenLabel>
       <HiddenLabel lang="nn">Barnetrygd</HiddenLabel>
       <HiddenLabel lang="nb">Barnebidrag</HiddenLabel>
@@ -4740,8 +4745,6 @@
       <HiddenLabel lang="nn">Omsorgspengar</HiddenLabel>
       <HiddenLabel lang="nb">Bidragsforskudd</HiddenLabel>
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
-      <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
-      <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
       <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
@@ -4756,9 +4759,9 @@
       <Definition lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
-      <Related>ord/kontantstotte</Related>
+      <Related>ord/kontantstøtte</Related>
       <Related>ord/barnebidrag</Related>
-      <Related>ord/stonad-til-enslig-forsorger</Related>
+      <Related>ord/stønad-til-enslig-forsørger</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
@@ -4900,7 +4903,7 @@
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
    <Concept path="ord/parkering-og-hvileplasser">
-      <PrefLabel lang="en">Parking and resting place</PrefLabel>
+      <PrefLabel lang="en">Parking and rest area</PrefLabel>
       <PrefLabel lang="nb">Parkering og hvileplasser</PrefLabel>
       <PrefLabel lang="nn">Parkering</PrefLabel>
       <HiddenLabel lang="nb">Parkeringskort</HiddenLabel>
@@ -4909,6 +4912,8 @@
       <HiddenLabel lang="nn">Parkeringsplass</HiddenLabel>
       <HiddenLabel lang="nb">Parkeringsbot</HiddenLabel>
       <HiddenLabel lang="nn">Parkeringsbot</HiddenLabel>
+      <HiddenLabel lang="nb">Rasteplasser</HiddenLabel>
+      <HiddenLabel lang="nn">Rasteplassar</HiddenLabel>
       <HiddenLabel lang="nb">Avgiftsparkering</HiddenLabel>
       <HiddenLabel lang="nn">Avgiftsparkering</HiddenLabel>
       <HiddenLabel lang="nb">Parkeringsgebyr</HiddenLabel>
@@ -4927,6 +4932,8 @@
       <Definition lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/veg-og-vegregulering</Broader>
+      <Broader>tema/yrkestransport</Broader>
+      <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/pasient-og-brukerombud">
       <PrefLabel lang="en">Ombudsman for patients</PrefLabel>
@@ -4985,7 +4992,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/patent-design-og-varemerke">
+   <Concept path="ord/patent,-design-og-varemerke">
       <PrefLabel lang="en">Patent, design and trademarks</PrefLabel>
       <PrefLabel lang="nb">Patent, design og varemerke</PrefLabel>
       <PrefLabel lang="nn">Patent, design og varemerke</PrefLabel>
@@ -5640,21 +5647,18 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-   <Concept path="ord/veg--og-foreforhold">
-      <PrefLabel lang="en">Road conditions</PrefLabel>
-      <PrefLabel lang="nb">Veg- og føreforhold</PrefLabel>
-      <PrefLabel lang="nn">Veg- og føreforhold</PrefLabel>
-      <HiddenLabel lang="nb">Vei- og føreforhold</HiddenLabel>
-      <HiddenLabel lang="nn">Veg- og føreforhold</HiddenLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/trafikkinformasjon</Broader>
-   </Concept>
    <Concept path="ord/trafikksignaler-og-reguleringer">
-      <PrefLabel lang="en">Dynamic traffic signs and regulations</PrefLabel>
+      <PrefLabel lang="en">Traffic signs and regulations</PrefLabel>
       <PrefLabel lang="nb">Trafikksignaler og reguleringer</PrefLabel>
       <PrefLabel lang="nn">Trafikksignal og reguleringar</PrefLabel>
+      <HiddenLabel lang="nb">Tyngdebregrensinger</HiddenLabel>
+      <HiddenLabel lang="nn">Tyndebegrensningar</HiddenLabel>
+      <HiddenLabel lang="nb">Høydebegrensinger</HiddenLabel>
+      <HiddenLabel lang="nn">Høgdebgrensningar</HiddenLabel>
+      <HiddenLabel lang="nb">Forbikjøringsrestriksjoner</HiddenLabel>
+      <HiddenLabel lang="nn">Forbikøyringsrestriksjonar</HiddenLabel>
+      <HiddenLabel lang="nb">Trafikklys</HiddenLabel>
+      <HiddenLabel lang="nn">Trafikklys</HiddenLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -5795,38 +5799,64 @@
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/drivstoff-og-ladestasjoner">
-      <PrefLabel lang="en">Charging and refuelling stations</PrefLabel>
+      <PrefLabel lang="en">Filling and charging stations</PrefLabel>
       <PrefLabel lang="nb">Drivstoff og ladestasjoner</PrefLabel>
       <PrefLabel lang="nn">Drivstoff og ladestasjonar</PrefLabel>
+      <HiddenLabel lang="nb">Diesel</HiddenLabel>
+      <HiddenLabel lang="nn">Diesel</HiddenLabel>
+      <HiddenLabel lang="nb">Bensin</HiddenLabel>
+      <HiddenLabel lang="nn">Bensin</HiddenLabel>
+      <HiddenLabel lang="nb">Hurtiglading</HiddenLabel>
+      <HiddenLabel lang="nn">Hurtiglading</HiddenLabel>
+      <HiddenLabel lang="nb">Hydrogen</HiddenLabel>
+      <HiddenLabel lang="nn">Hydrogen</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/lokasjonstjenester">
-      <PrefLabel lang="en">Public transport: location information</PrefLabel>
+      <PrefLabel lang="en">Location information</PrefLabel>
       <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
       <PrefLabel lang="nn">Lokasjonstenester</PrefLabel>
+      <HiddenLabel lang="nb">Sykkeldeling</HiddenLabel>
+      <HiddenLabel lang="nn">Sykkeldeling</HiddenLabel>
+      <HiddenLabel lang="nb">Bildeling</HiddenLabel>
+      <HiddenLabel lang="nn">Bildeling</HiddenLabel>
       <Definition lang="nn">**</Definition>
 	  <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/ruteinformasjon">
-      <PrefLabel lang="en">Public transport: operational information</PrefLabel>
+      <PrefLabel lang="en">Operational information</PrefLabel>
       <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
       <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
+      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
+      <HiddenLabel lang="nn">Køyreplanar</HiddenLabel>
+      <HiddenLabel lang="nb">Forsinkelser</HiddenLabel>
+      <HiddenLabel lang="nn">Forseinkingar</HiddenLabel>
+      <HiddenLabel lang="nb">Kanselleringer</HiddenLabel>
+      <HiddenLabel lang="nn">Kanselleringar</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
    <Concept path="ord/takster-og-kjopsinformasjon">
-      <PrefLabel lang="en">Public transport: fare and purchase information </PrefLabel>
+      <PrefLabel lang="en">Fare and purchase information </PrefLabel>
       <PrefLabel lang="nb">Takster og kjøpsinformasjon</PrefLabel>
       <PrefLabel lang="nn">Takstar og kjøpsinformasjon</PrefLabel>
+      <HiddenLabel lang="nb">Billettpriser</HiddenLabel>
+      <HiddenLabel lang="nn">Billettprisar</HiddenLabel>
+      <HiddenLabel lang="nb">Billett</HiddenLabel>
+      <HiddenLabel lang="nn">Billett</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
@@ -6411,7 +6441,7 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/radonmaling">
+   <Concept path="ord/Radonmåling">
       <PrefLabel lang="en">Radon measurement</PrefLabel>
       <PrefLabel lang="nb">Radonmåling</PrefLabel>
       <PrefLabel lang="nn">Radonmåling</PrefLabel>
@@ -7297,7 +7327,6 @@
       <HiddenLabel lang="nn">Vartpengar</HiddenLabel>
       <Definition lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Related>ord/oppsigelse</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
@@ -7307,7 +7336,6 @@
       <PrefLabel lang="nn">Ventestønad</PrefLabel>
       <Definition lang="nn">Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein har avslutta ein lang dagpengeperiode.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/arbeidssoking</Related>
       <Broader>tema/okonomiske-ytelser</Broader>
    </Concept>
    <Concept path="ord/vergemal">
@@ -7415,6 +7443,8 @@
       <PrefLabel lang="en">Primary and lower secondary education for adults</PrefLabel>
       <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
       <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <HiddenLabel lang="nb">Grunnskoleopplæring for voksne</HiddenLabel>
+      <HiddenLabel lang="nn">Grunnskoleopplæring for vaksne</HiddenLabel>
       <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
       <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -7422,8 +7452,8 @@
    </Concept>
    <Concept path="ord/videregaende-skole-for-voksne">
       <PrefLabel lang="en">Upper secondary education for adults</PrefLabel>
-      <PrefLabel lang="nb">Grunnskole for voksne</PrefLabel>
-      <PrefLabel lang="nn">Grunnskule for vaksne</PrefLabel>
+      <PrefLabel lang="nb">Videregående opplæring for voksne</PrefLabel>
+      <PrefLabel lang="nn">Vidaregåande opplæring for vaksne</PrefLabel>
       <Definition lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</Definition>
       <Definition lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</Definition>
       <InScheme>ontologi/ord</InScheme>
