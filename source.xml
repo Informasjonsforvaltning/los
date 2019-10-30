@@ -12,14 +12,17 @@
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
+      <PrefLabel lang="en">Event</PrefLabel>
       <PrefLabel lang="nb">Hendelse</PrefLabel>
       <PrefLabel lang="nn">Hending</PrefLabel>
    </ConceptScheme>
    <ConceptScheme path="ontologi/ord">
+      <PrefLabel lang="en">Words</PrefLabel>
       <PrefLabel lang="nb">Ord</PrefLabel>
       <PrefLabel lang="nn">Ord</PrefLabel>
    </ConceptScheme>
    <ConceptScheme path="ontologi/tema">
+      <PrefLabel lang="en">Theme</PrefLabel>
       <PrefLabel lang="nb">Tema</PrefLabel>
       <PrefLabel lang="nn">Tema</PrefLabel>
    </ConceptScheme>
