@@ -9,7 +9,6 @@
       </Options>
       <Options key="site">
          <Option key="root">/los/3/</Option>
-         <Option key="lang">en</Option>
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
@@ -6448,7 +6447,7 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/Radonmåling">
+   <Concept path="ord/radonmaling">
       <PrefLabel lang="en">Radon measurement</PrefLabel>
       <PrefLabel lang="nb">Radonmåling</PrefLabel>
       <PrefLabel lang="nn">Radonmåling</PrefLabel>
