@@ -1297,7 +1297,7 @@
       <HiddenLabel lang="nb">Foreningsbingo</HiddenLabel>
       <HiddenLabel lang="nn">Foreiningsbingo</HiddenLabel>
       <Definition lang="nn">Medrekna søknad om løyve til å spele bingo.</Definition>
-      <Definition lang="nn">Medreknet søknad om løyve til å spille bingo.</Definition>
+      <Definition lang="nb">Medreknet søknad om løyve til å spille bingo.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
