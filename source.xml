@@ -13,14 +13,17 @@
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
+      <PrefLabel lang="en">Event</PrefLabel>
       <PrefLabel lang="nb">Hendelse</PrefLabel>
       <PrefLabel lang="nn">Hending</PrefLabel>
    </ConceptScheme>
    <ConceptScheme path="ontologi/ord">
+      <PrefLabel lang="en">Words</PrefLabel>
       <PrefLabel lang="nb">Ord</PrefLabel>
       <PrefLabel lang="nn">Ord</PrefLabel>
    </ConceptScheme>
    <ConceptScheme path="ontologi/tema">
+      <PrefLabel lang="en">Theme</PrefLabel>
       <PrefLabel lang="nb">Tema</PrefLabel>
       <PrefLabel lang="nn">Tema</PrefLabel>
    </ConceptScheme>
@@ -4350,7 +4353,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
-   <Concept path="ord/rapportering-for-naringsdrivande">
+   <Concept path="ord/rapportering-for-naringsdrivende">
       <PrefLabel lang="en">Business reporting</PrefLabel>
       <PrefLabel lang="nb">Rapportering for næringsdrivende</PrefLabel>
       <PrefLabel lang="nn">Rapportering for næringsdrivande</PrefLabel>
@@ -4714,11 +4717,14 @@
       <PrefLabel lang="en">Determination of parenthood</PrefLabel>
       <PrefLabel lang="nb">Fastsettelse av foreldreskap</PrefLabel>
       <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
+      <HiddenLabel lang="nb">Foreldreansvar</HiddenLabel>
+      <HiddenLabel lang="nn">Foreldreansvar</HiddenLabel>
       <HiddenLabel lang="nb">Farskap</HiddenLabel>
       <HiddenLabel lang="nn">Farskap</HiddenLabel>
       <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
       <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Related>ord/farskapserklaring</Related>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
