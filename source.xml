@@ -4713,11 +4713,14 @@
       <PrefLabel lang="en">Determination of parenthood</PrefLabel>
       <PrefLabel lang="nb">Fastsettelse av foreldreskap</PrefLabel>
       <PrefLabel lang="nn">Fastsetjing av foreldreskap</PrefLabel>
+      <HiddenLabel lang="nb">Foreldreansvar</HiddenLabel>
+      <HiddenLabel lang="nn">Foreldreansvar</HiddenLabel>
       <HiddenLabel lang="nb">Farskap</HiddenLabel>
       <HiddenLabel lang="nn">Farskap</HiddenLabel>
       <Definition lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</Definition>
       <Definition lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Related>ord/farskapserklaring</Related>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/ytelser-til-gjenlevende">
