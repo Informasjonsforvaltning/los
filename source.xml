@@ -4349,7 +4349,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
-   <Concept path="ord/rapportering-for-naringsdrivande">
+   <Concept path="ord/rapportering-for-naringsdrivende">
       <PrefLabel lang="en">Business reporting</PrefLabel>
       <PrefLabel lang="nb">Rapportering for næringsdrivende</PrefLabel>
       <PrefLabel lang="nn">Rapportering for næringsdrivande</PrefLabel>
