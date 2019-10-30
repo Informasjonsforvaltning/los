@@ -9,6 +9,7 @@
       </Options>
       <Options key="site">
          <Option key="root">/los/3/</Option>
+         <Option key="lang">en</Option>
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
