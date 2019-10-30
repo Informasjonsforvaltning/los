@@ -163,7 +163,8 @@
       <PrefLabel lang="nn">Sjøfart</PrefLabel>
       <HiddenLabel lang="nb">Skipsfart</HiddenLabel>
       <HiddenLabel lang="nn">Skipsfart</HiddenLabel>
-      <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner. Båtførarsertifikat, kystforvaltning og sjøsikkerheit er eigne emneord.</Definition>
+      <Definition lang="nn">Skips- og sjøfart. Gjeld norskregistrerte skip og utanlandske skip som kjem til norske hamner.</Definition>
+      <Definition lang="nb">Skips- og sjøfart. Gjelder norskregistrerte skip og utenlandske skip som kommer til norske havner.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
@@ -346,7 +347,8 @@
       <HiddenLabel lang="nn">Lastebil</HiddenLabel>
       <HiddenLabel lang="nb">Motorsykkel</HiddenLabel>
       <HiddenLabel lang="nn">Motorsykkel</HiddenLabel>
-      <Definition lang="nn">Løyve til å føra motorkøyretøy. Til dette høyrer føraropplæring og førarprøve til alle førarkortklassar. Båtsertifikat og truckførarbevis er eigne emneord.</Definition>
+      <Definition lang="nn">Løyve til å føra motorkøyretøy. Til dette høyrer føraropplæring og førarprøve til alle førarkortklassar.</Definition>
+      <Definition lang="nb">Løyve til å føre motorkjøretøy. Til dette hører føreropplæring og førerprøve til alle førerkortklasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -1294,7 +1296,8 @@
       <HiddenLabel lang="nn">Entreprenørbingo</HiddenLabel>
       <HiddenLabel lang="nb">Foreningsbingo</HiddenLabel>
       <HiddenLabel lang="nn">Foreiningsbingo</HiddenLabel>
-      <Definition lang="nn">Medrekna søknad om løyve til å spele bingo. Lotteri, speleavhengigheit og speleautomat er eigne emneord.</Definition>
+      <Definition lang="nn">Medrekna søknad om løyve til å spele bingo.</Definition>
+      <Definition lang="nn">Medreknet søknad om løyve til å spille bingo.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
@@ -1497,7 +1500,8 @@
       <PrefLabel lang="nn">Bot</PrefLabel>
       <HiddenLabel lang="nb">Mulkt</HiddenLabel>
       <HiddenLabel lang="nn">Mulkt</HiddenLabel>
-      <Definition lang="nn">Pengeyting som blir pålagt i samband med rettsbrot. Til dette høyrer fartsbot. Parkeringsbot høyrer til emneordet parkering. Klage på parkeringsbot høyrer til emneordet forbrukarklage.</Definition>
+      <Definition lang="nn">Pengeyting som blir pålagt i samband med rettsbrot. Til dette høyrer fartsbot.</Definition>
+      <Definition lang="nb">Pengeytelse som blir pålagt i forbindelse med rettsbrot. Til dette hører fartsbot.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
