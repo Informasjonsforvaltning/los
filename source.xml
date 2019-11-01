@@ -818,7 +818,7 @@
       <Definition lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</Definition>
       <Definition lang="nb">Økonomisk støtte som skal sikre inntekt til livsopphold til personer som har fått inntektsevnen langvarig nedsett pga. sykdom, skade eller lyte.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/arbeidsavtale">
@@ -1339,7 +1339,7 @@
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
-      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
       <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
@@ -1450,8 +1450,7 @@
       <Definition lang="nb">Bostøtte er en hjelp for personer som har lave inntekter og høye boutgifter. Husbanken og kommunen samarbeider om bostøtteordningen. Det er kommunen som behandler søknaden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
-      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/okonomisk-radgiving">
       <PrefLabel lang="en">Financial advice</PrefLabel>
@@ -1461,8 +1460,7 @@
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
-      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
@@ -1621,7 +1619,7 @@
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Definition lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/dagtilbud">
       <PrefLabel lang="en">Daytime activities</PrefLabel>
@@ -3509,7 +3507,7 @@
       <Definition lang="nb">Kommunen kan gi omsorgsstønad til personer som pleier og har omsorg for familie og nærstående. Hensikten med ordningen er å støtte opp under den familiebaserte omsorgen, og gjøre det mulig for private omsorgsytere å fortsette med omsorgsarbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
@@ -4369,7 +4367,7 @@
       <Related>ord/kontantstøtte</Related>
       <Related>ord/barnebidrag</Related>
       <Related>ord/stønad-til-enslig-forsørger</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
    <Concept path="ord/oppgaveplikt">
@@ -5185,7 +5183,7 @@
       <Definition lang="nn">Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid. Attføringsytingar, sjukepengar, uførepensjon og uførestønad er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/habilitering-og-rehabilitering</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/reindrift">
       <PrefLabel lang="en">Reindeer herding</PrefLabel>
@@ -5262,7 +5260,7 @@
       <Definition lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/vegarbeid">
       <PrefLabel lang="en">Road works</PrefLabel>
@@ -5885,8 +5883,7 @@
       <Definition lang="nn">Økonomisk stønad som skal sikre hjelp til livsopphald. Med dette meinast pengar til det som blir rekna som nødvendig for å leve, slik som mat, klede, bustad, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <Definition lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
-      <Broader>tema/okonomisk-stotte-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
    </Concept>
    <Concept path="ord/spesialundervisning">
       <PrefLabel lang="en">Special needs education</PrefLabel>
@@ -5952,7 +5949,7 @@
       <Definition lang="nn">Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i tiltaket.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsmarkedstiltak</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/stotte-til-familier">
       <PrefLabel lang="en">Family support</PrefLabel>
@@ -6122,7 +6119,7 @@
       <Definition lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
       <Definition lang="nb">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/sykefravar">
       <PrefLabel lang="en">Sick leave</PrefLabel>
@@ -6203,7 +6200,7 @@
       <Definition lang="nb">Gir kompensasjon for bortfall av arbeidsinntekt for yrkesaktive som er arbeidsuføre på grunn av sykdom eller skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykefravar</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
    <Concept path="ord/separasjon-og-skilsmisse">
@@ -6824,7 +6821,7 @@
       <Definition lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppsigelse</Related>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/ventestonad">
       <PrefLabel lang="en">Severance grant</PrefLabel>
@@ -6832,7 +6829,7 @@
       <PrefLabel lang="nn">Ventestønad</PrefLabel>
       <Definition lang="nn">Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein har avslutta ein lang dagpengeperiode.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/vergemal">
       <PrefLabel lang="en">Guardianship</PrefLabel>
@@ -7229,10 +7226,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/okonomisk-stotte-og-radgiving">
-      <PrefLabel lang="en">Financialsupport and advice</PrefLabel>
-      <PrefLabel lang="nb">Økonomisk støtte og rådgiving</PrefLabel>
-      <PrefLabel lang="nn">Økonomisk støtte og rådgjeving</PrefLabel>
+   <Concept path="tema/okonomiske-ytelser-og-radgiving">
+      <PrefLabel lang="en">Financial support and advice</PrefLabel>
+      <PrefLabel lang="nb">Økonomiske ytelser og rådgiving</PrefLabel>
+      <PrefLabel lang="nn">Økonomiske ytelser og rådgjeving</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
@@ -7531,13 +7528,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/okonomiske-ytelser">
-      <PrefLabel lang="en">Benefits</PrefLabel>
-      <PrefLabel lang="nb">Økonomiske ytelser</PrefLabel>
-      <PrefLabel lang="nn">Økonomiske ytingar</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/sosiale-tjenester</Broader>
-   </Concept>
    <Concept path="tema/avgift">
       <PrefLabel lang="en">Duties</PrefLabel>
       <PrefLabel lang="nb">Avgift</PrefLabel>
@@ -7809,7 +7799,7 @@
         <Member>ord/leieforhold</Member>
         <Member>ord/livskriser</Member>
         <Member>ord/livsstil</Member>
-        <Member>ord/lokale-idrettsanlegg</Member>
+        <Member>ord/lokaler-og-idrettsanlegg</Member>
         <Member>ord/luftkvalitet</Member>
         <!-- <Member>ord/larling</Member> -->
         <Member>ord/matlevering</Member>
