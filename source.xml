@@ -4365,7 +4365,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
-
    <Concept path="ord/betaling-av-skatt">
       <PrefLabel lang="en">Tax payment</PrefLabel>
       <PrefLabel lang="nb">Betaling av skatt</PrefLabel>
@@ -6253,6 +6252,19 @@
       <Related>ord/stottekontakt</Related>
       <Broader>tema/fritid</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
+   </Concept>
+   <Concept path="ord/Dyrehold">
+      <PrefLabel lang="en">Pet keeping</PrefLabel>
+      <PrefLabel lang="nb">Dyrehold</PrefLabel>
+      <PrefLabel lang="nn">Dyrehold</PrefLabel>
+      <HiddenLabel lang="nb">Kjæledyr og sportsdyr</HiddenLabel>
+      <HiddenLabel lang="nn">Kjæledyr og sportsdyr</HiddenLabel>
+      <HiddenLabel lang="nb">Husdyrhold</HiddenLabel>
+      <HiddenLabel lang="nn">Husdyrhold</HiddenLabel>
+      <Definition lang="nn">Dyr som menneska held for glede og trivsel, ikkje for å produsere mat eller utnytte arbeidskrafta frå.</Definition>
+      <Definition lang="nb">Dyr som mennesker har for glede og trivsel, ikke for å produsere mat eller arbeidskraft.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/fritid</Broader>
    </Concept>
    <Concept path="ord/tilrettelagt-transport">
       <PrefLabel lang="en">Transport services for disabled persons</PrefLabel>
