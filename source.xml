@@ -2065,13 +2065,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/ferdigattest">
-      <PrefLabel lang="en">Certificate of completion</PrefLabel>
-      <PrefLabel lang="nb">Ferdigattest</PrefLabel>
-      <PrefLabel lang="nn">Ferdigattest</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bygging</Broader>
-   </Concept>
    <Concept path="ord/ferierettigheter">
       <PrefLabel lang="en">Holiday right</PrefLabel>
       <PrefLabel lang="nb">Ferierettigheter</PrefLabel>
