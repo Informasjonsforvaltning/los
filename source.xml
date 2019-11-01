@@ -4009,18 +4009,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntekt</Broader>
    </Concept>
-   <Concept path="ord/lokalhistorie">
-      <PrefLabel lang="en">Local history</PrefLabel>
-      <PrefLabel lang="nb">Lokalhistorie</PrefLabel>
-      <PrefLabel lang="nn">Lokalhistorie</PrefLabel>
-      <HiddenLabel lang="nb">Lokalhistorisk arkiv</HiddenLabel>
-      <HiddenLabel lang="nn">Lokalhistorisk arkiv</HiddenLabel>
-      <HiddenLabel lang="nb">Stedsnavn</HiddenLabel>
-      <HiddenLabel lang="nn">Stadnamn</HiddenLabel>
-      <Definition lang="nn">Til dette høyrer lokalhistoriske arkiv.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kultur</Broader>
-   </Concept>
    <Concept path="ord/lotteri">
       <PrefLabel lang="en">Lottery</PrefLabel>
       <PrefLabel lang="nb">Lotteri</PrefLabel>
