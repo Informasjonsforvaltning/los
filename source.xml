@@ -1337,7 +1337,7 @@
       <Related>ord/bostotte</Related>
       <Related>ord/byggesak</Related>
       <Related>ord/eiendomsomsetning</Related>
-      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/kjop-og-salg</Broader>
    </Concept>
    <Concept path="ord/bolignummer">
@@ -1448,7 +1448,7 @@
       <Definition lang="nb">Bostøtte er en hjelp for personer som har lave inntekter og høye boutgifter. Husbanken og kommunen samarbeider om bostøtteordningen. Det er kommunen som behandler søknaden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/okonomisk-radgiving">
       <PrefLabel lang="en">Financial advice</PrefLabel>
@@ -1458,7 +1458,7 @@
       <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
-      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/bot">
       <PrefLabel lang="en">Penalty</PrefLabel>
@@ -5880,7 +5880,7 @@
       <Definition lang="nn">Økonomisk stønad som skal sikre hjelp til livsopphald. Med dette meinast pengar til det som blir rekna som nødvendig for å leve, slik som mat, klede, bustad, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <Definition lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser-og-radgiving</Broader>
+      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/spesialundervisning">
       <PrefLabel lang="en">Special needs education</PrefLabel>
@@ -7560,13 +7560,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
-   <Concept path="tema/okonomisk-radgiving">
-      <PrefLabel lang="en">Financial support</PrefLabel>
-      <PrefLabel lang="nb">Økonomisk rådgiving</PrefLabel>
-      <PrefLabel lang="nn">Økonomisk rådgjeving</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/okonomisk-radgiving</Broader>
-   </Concept>
    <Concept path="tema/permisjonsordninger">
       <PrefLabel lang="en">Leave of absence schemes</PrefLabel>
       <PrefLabel lang="nb">Permisjonsordninger</PrefLabel>
@@ -7815,7 +7808,6 @@
         <Member>ord/naturskadeerstatning</Member>
         <Member>ord/naturvern</Member>
         <Member>ord/norskopplaring</Member>
-        <Member>ord/okonomisk-radgiving</Member>
         <Member>ord/omsorgsavlastning</Member>
         <Member>ord/omsorgsbolig</Member>
         <!-- <Member>ord/omsorgslonn</Member> -->
