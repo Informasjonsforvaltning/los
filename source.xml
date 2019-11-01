@@ -4947,6 +4947,15 @@
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
+   <Concept path="ord/skoletilhorighet">
+      <PrefLabel lang="en">School districts</PrefLabel>
+      <PrefLabel lang="nb">Skoletilhørighet</PrefLabel>
+      <PrefLabel lang="nn">Skuletilhøyrsel</PrefLabel>
+      <Definition lang="nn">Barn i skulealder blir delt inn i skulekrinsar. Elevar har rett til å gå på den skulen dei høyrer til. Kommunen kan avgjere byte av skule etter søknad frå føresette.</Definition>
+      <Definition lang="nb">Barn i skolealder blir delt inn i skolekretser. Elever har rett til å gå på den skolen de hører til. Kommunen kan beslutte bytte av skole etter søknad fra foresatte.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/grunnskole</Broader>
+   </Concept>
    <Concept path="ord/produktsikkerhet">
       <PrefLabel lang="en">Product safety</PrefLabel>
       <PrefLabel lang="nb">Produktsikkerhet</PrefLabel>
