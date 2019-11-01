@@ -3977,14 +3977,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
    </Concept>
-   <Concept path="ord/leirskole">
-      <PrefLabel lang="en">Outdoor pursuits centres</PrefLabel>
-      <PrefLabel lang="nb">Leirskole</PrefLabel>
-      <PrefLabel lang="nn">Leirskule</PrefLabel>
-      <Definition lang="nn">Stader som tek imot skuleklassar eller elevgrupper for ei kortare tid, og som legg til rette for undervisning i tilknyting til miljøet kring skulen, til dømes fjellet, sjøen eller skogen.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskole</Broader>
-   </Concept>
    <Concept path="ord/likestilling">
       <PrefLabel lang="en">Equality</PrefLabel>
       <PrefLabel lang="nb">Likestilling</PrefLabel>
