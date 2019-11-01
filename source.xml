@@ -5963,21 +5963,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/skolemaltid">
-      <PrefLabel lang="en">School meals</PrefLabel>
-      <PrefLabel lang="nb">Skolemåltid</PrefLabel>
-      <PrefLabel lang="nn">Skulemåltid</PrefLabel>
-      <HiddenLabel lang="nb">Skolefrukt</HiddenLabel>
-      <HiddenLabel lang="nn">Skulefrukt</HiddenLabel>
-      <HiddenLabel lang="nb">Skolemelk</HiddenLabel>
-      <HiddenLabel lang="nn">Skulemjølk</HiddenLabel>
-      <HiddenLabel lang="nb">Skolemat</HiddenLabel>
-      <HiddenLabel lang="nn">Skulemat</HiddenLabel>
-      <Definition lang="nn">Tilbod om gratis måltid i grunnskulen. Prøveprosjekt i ein del kommunar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ernaring</Related>
-      <Broader>tema/grunnskole</Broader>
-   </Concept>
    <Concept path="ord/skolerute">
       <PrefLabel lang="en">School terms and holidays</PrefLabel>
       <PrefLabel lang="nb">Skolerute</PrefLabel>
