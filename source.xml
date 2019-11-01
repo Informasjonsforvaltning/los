@@ -5236,14 +5236,6 @@
       <Related>ord/tilrettelagt-fritid</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/realkompetanse">
-      <PrefLabel lang="en">Qualifications, knowledge and skills</PrefLabel>
-      <PrefLabel lang="nb">Realkompetanse</PrefLabel>
-      <PrefLabel lang="nn">Realkompetanse</PrefLabel>
-      <Definition lang="nn">Realkompetanse er all kunnskap og alle ferdigheiter som arbeidstakarar har fått gjennom utdanning, lønna eller ulønna arbeid, organisasjonserfaring, fritidsaktivitetar eller på annan måte. Som ein del av kompetansereforma har fylkeskommunane etablert ordningar for å vurdere og kartleggje realkompetansen til vaksne.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-   </Concept>
    <Concept path="ord/regional-planlegging">
       <PrefLabel lang="en">Regional planning</PrefLabel>
       <PrefLabel lang="nb">Regional planlegging</PrefLabel>
