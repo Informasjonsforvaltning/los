@@ -5807,21 +5807,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
-     <Concept path="ord/servering">
-      <PrefLabel lang="en">Catering</PrefLabel>
-      <PrefLabel lang="nb">Servering</PrefLabel>
-      <PrefLabel lang="nn">Servering</PrefLabel>
-      <HiddenLabel lang="nb">Etablererprøven</HiddenLabel>
-      <HiddenLabel lang="nn">Etablerarprøven</HiddenLabel>
-      <HiddenLabel lang="nb">Serveringsbevilling</HiddenLabel>
-      <HiddenLabel lang="nn">Serveringsløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Uteservering</HiddenLabel>
-      <HiddenLabel lang="nn">Uteservering</HiddenLabel>
-      <Definition lang="nn">Regelverk og krav til verksemder som driv servering.</Definition>
-      <Definition lang="nb">Regelverk og krav til virksomheter som driver servering.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
-   </Concept>
    <Concept path="ord/skadedyr">
       <PrefLabel lang="en">Pests and vermin</PrefLabel>
       <PrefLabel lang="nb">Skadedyr</PrefLabel>
@@ -8222,7 +8207,6 @@
         <Member>ord/seksjonering</Member>
         <Member>ord/seniortilbud</Member>
         <Member>ord/sertifisering-og-autorisasjon</Member>
-        <Member>ord/servering</Member>
         <Member>ord/skatteattest</Member>
         <Member>ord/skogbruk</Member>
         <Member>ord/skogbrukstilskudd</Member>
