@@ -5429,6 +5429,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
+      <Concept path="ord/reisegaranti">
+      <PrefLabel lang="en">Travel guarantee</PrefLabel>
+      <PrefLabel lang="nb">Reisegaranti</PrefLabel>
+      <PrefLabel lang="nn">Reisegaranti</PrefLabel>
+      <Definition lang="nn">Reisegaranti gir rettar dersom buss, tog eller ferje ikkje går. Det kan vere refusjon, andre transportmiddel eller dekning av drosjeutgifter.</Definition>
+	    <Definition lang="nb">Reisegaranti gir rettigheter hvis buss, tog eller ferge ikke går. Det kan være refusjon, andre transportmidler eller dekning av drosjeutgifter.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
    <Concept path="ord/lokasjonstjenester">
       <PrefLabel lang="en">Location information</PrefLabel>
       <PrefLabel lang="nb">Lokasjonstjenester</PrefLabel>
