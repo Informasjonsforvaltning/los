@@ -2250,7 +2250,6 @@
       <HiddenLabel lang="nn">Flaumfare</HiddenLabel>
       <Definition lang="nn">Varsel om flaum. Medrekna vassføringsprognosar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/universell-utforming</Related>
       <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -2702,7 +2701,6 @@
       <Definition lang="nn">Kommunen sine avgjerder om fiskeavgifter og fiskekort.</Definition>
       <Definition lang="nb">Kommunens bestemmelser om fiskeavgifter og fiskekort.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/universell-utforming</Related>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/fritidstilbud">
@@ -6779,20 +6777,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="ord/universell-utforming">
-      <PrefLabel lang="en">Universal design</PrefLabel>
-      <PrefLabel lang="nb">Universell utforming</PrefLabel>
-      <PrefLabel lang="nn">Universell utforming</PrefLabel>
-      <HiddenLabel lang="nb">Tilgjengelighet</HiddenLabel>
-      <HiddenLabel lang="nn">Tilgjenge</HiddenLabel>
-      <HiddenLabel lang="nb">Tilgjengelegheit</HiddenLabel>
-      <HiddenLabel lang="nn">Tilgjengelegheit</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/vannforurensning</Related>
-      <Related>ord/fritidsfiske</Related>
-      <Related>ord/flomvarsel</Related>
-      <Broader>tema/innbyggerrettigheter</Broader>
-   </Concept>
    <Concept path="ord/utdanningspermisjon">
       <PrefLabel lang="en">Study leave</PrefLabel>
       <PrefLabel lang="nb">Utdanningspermisjon</PrefLabel>
@@ -6933,7 +6917,6 @@
       <Definition lang="nn">Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk, landbruk m.m.</Definition>
       <Definition lang="nb">Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/universell-utforming</Related>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
    <Concept path="ord/vassdrag">
