@@ -5621,10 +5621,10 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
-   <Concept path="ord/ruteopplysning">
-      <PrefLabel lang="en">Timetable information</PrefLabel>
-      <PrefLabel lang="nb">Ruteopplysning</PrefLabel>
-      <PrefLabel lang="nn">Ruteopplysning</PrefLabel>
+   <Concept path="ord/ruteinformasjon">
+      <PrefLabel lang="en">Operational information</PrefLabel>
+      <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
+      <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
       <HiddenLabel lang="nb">Rutetider</HiddenLabel>
       <HiddenLabel lang="nn">Rutetider</HiddenLabel>
       <HiddenLabel lang="nb">Togtider</HiddenLabel>
@@ -5653,6 +5653,16 @@
       <HiddenLabel lang="nn">Sporvegsrute</HiddenLabel>
       <HiddenLabel lang="nb">Togrute</HiddenLabel>
       <HiddenLabel lang="nn">Togrute</HiddenLabel>
+      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
+      <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
+      <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
+      <HiddenLabel lang="nn">Køyreplanar</HiddenLabel>
+      <HiddenLabel lang="nb">Forsinkelser</HiddenLabel>
+      <HiddenLabel lang="nn">Forseinkingar</HiddenLabel>
+      <HiddenLabel lang="nb">Kanselleringer</HiddenLabel>
+      <HiddenLabel lang="nn">Kanselleringar</HiddenLabel>
       <Definition lang="nn">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <Definition lang="nb">Informasjon om rutetider m.m. for kollektivtrafikk.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -5685,25 +5695,6 @@
       <HiddenLabel lang="nn">Bildeling</HiddenLabel>
       <Definition lang="nn">**</Definition>
 	  <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/mobilitetstilbud</Broader>
-   </Concept>
-   <Concept path="ord/ruteinformasjon">
-      <PrefLabel lang="en">Operational information</PrefLabel>
-      <PrefLabel lang="nb">Ruteinformasjon</PrefLabel>
-      <PrefLabel lang="nn">Ruteinformasjon</PrefLabel>
-      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
-      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
-      <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
-      <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
-      <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
-      <HiddenLabel lang="nn">Køyreplanar</HiddenLabel>
-      <HiddenLabel lang="nb">Forsinkelser</HiddenLabel>
-      <HiddenLabel lang="nn">Forseinkingar</HiddenLabel>
-      <HiddenLabel lang="nb">Kanselleringer</HiddenLabel>
-      <HiddenLabel lang="nn">Kanselleringar</HiddenLabel>
-      <Definition lang="nn">**</Definition>
-	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
@@ -8238,7 +8229,7 @@
         <Member>ord/reisebillett</Member>
         <Member>ord/renovasjon</Member>
         <Member>ord/renovasjonsavgift</Member>
-        <Member>ord/ruteopplysning</Member>
+        <Member>ord/ruteinformasjon</Member>
         <Member>ord/samboerskap</Member>
         <Member>ord/samlivsbrudd</Member>
         <Member>ord/sanntids-trafikkinformasjon</Member>
