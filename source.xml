@@ -3039,48 +3039,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
-   <Concept path="ord/husdyrhold">
-      <PrefLabel lang="en">Livestock farming</PrefLabel>
-      <PrefLabel lang="nb">Husdyrhold</PrefLabel>
-      <PrefLabel lang="nn">Husdyrhald</PrefLabel>
-      <HiddenLabel lang="nb">Melkekvote</HiddenLabel>
-      <HiddenLabel lang="nn">Mjølkekvote</HiddenLabel>
-      <HiddenLabel lang="nb">Karantene</HiddenLabel>
-      <HiddenLabel lang="nn">Karantene</HiddenLabel>
-      <HiddenLabel lang="nb">Rovdyr</HiddenLabel>
-      <HiddenLabel lang="nn">Rovdyr</HiddenLabel>
-      <HiddenLabel lang="nb">Rovdyrskade</HiddenLabel>
-      <HiddenLabel lang="nn">Rovdyrskade</HiddenLabel>
-      <HiddenLabel lang="nb">Rovvilterstatning</HiddenLabel>
-      <HiddenLabel lang="nn">Rovvilterstatning</HiddenLabel>
-      <HiddenLabel lang="nb">Jordbruk</HiddenLabel>
-      <HiddenLabel lang="nn">Jordbruk</HiddenLabel>
-      <HiddenLabel lang="nb">Birøkt</HiddenLabel>
-      <HiddenLabel lang="nn">Birøkt</HiddenLabel>
-      <HiddenLabel lang="nb">Fôr</HiddenLabel>
-      <HiddenLabel lang="nn">Fôr</HiddenLabel>
-      <HiddenLabel lang="nb">Rovdyrerstatning</HiddenLabel>
-      <HiddenLabel lang="nn">Rovdyrerstatning</HiddenLabel>
-      <HiddenLabel lang="nb">Beitedyr</HiddenLabel>
-      <HiddenLabel lang="nn">Beitedyr</HiddenLabel>
-      <HiddenLabel lang="nb">Produksjonsdyr</HiddenLabel>
-      <HiddenLabel lang="nn">Produksjonsdyr</HiddenLabel>
-      <HiddenLabel lang="nb">Rovviltskade</HiddenLabel>
-      <HiddenLabel lang="nn">Rovviltskade</HiddenLabel>
-      <HiddenLabel lang="nb">Husdyrproduksjon</HiddenLabel>
-      <HiddenLabel lang="nn">Husdyrproduksjon</HiddenLabel>
-      <HiddenLabel lang="nb">Nedfôring</HiddenLabel>
-      <HiddenLabel lang="nn">Nedfôring</HiddenLabel>
-      <HiddenLabel lang="nb">Pelsdyroppdrett</HiddenLabel>
-      <HiddenLabel lang="nn">Pelsdyroppdrett</HiddenLabel>
-      <HiddenLabel lang="nb">Bier</HiddenLabel>
-      <HiddenLabel lang="nn">Bier</HiddenLabel>
-      <Definition lang="nn">Husdyr er dyr som mennesket har temja og held til nytte, som t.d. bufe.</Definition>
-      <Definition lang="nb">Husdyr er dyr som mennesker har temmet og holder til nytte, som t.d. bufe.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kjaledyr-og-sportsdyr</Related>
-      <Broader>tema/landbruk</Broader>
-   </Concept>
    <Concept path="ord/idrettsanlegg">
       <PrefLabel lang="en">Sports facilities</PrefLabel>
       <PrefLabel lang="nb">Idrettsanlegg</PrefLabel>
@@ -3344,7 +3302,6 @@
       <HiddenLabel lang="nn">Bandtvang</HiddenLabel>
       <Definition lang="nn">Dyr som menneska held for glede og trivsel, ikkje for å produsere mat eller utnytte arbeidskrafta frå.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/husdyrhold</Related>
       <Related>ord/smittevern</Related>
       <Broader>tema/fritid</Broader>
    </Concept>
