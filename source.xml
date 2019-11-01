@@ -39,7 +39,6 @@
       <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
       <Related>ord/personlig-assistent</Related>
-      <Related>ord/habilitering-og-rehabilitering</Related>
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
@@ -69,7 +68,6 @@
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/grunnskoleopplaring-for-voksne</Related>
       <Related>ord/hogskole-og-universitet</Related>
       <Related>ord/inkluderende-arbeidsliv</Related>
       <Related>ord/permittering</Related>
@@ -5182,7 +5180,6 @@
       <PrefLabel lang="nn">Rehabiliteringspengar</PrefLabel>
       <Definition lang="nn">Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid. Attføringsytingar, sjukepengar, uførepensjon og uførestønad er eigne emneord.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/habilitering-og-rehabilitering</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/reindrift">
@@ -7226,7 +7223,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
-   <Concept path="tema/okonomiske-ytelser-og-radgiving">
+   <Concept path="tema/okonomiske-ytelser-og-radgivning">
       <PrefLabel lang="en">Financial support and advice</PrefLabel>
       <PrefLabel lang="nb">Økonomiske ytelser og rådgiving</PrefLabel>
       <PrefLabel lang="nn">Økonomiske ytelser og rådgjeving</PrefLabel>
