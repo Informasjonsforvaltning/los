@@ -5123,7 +5123,7 @@
       <Related>ord/naringsareal</Related>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
-   <Concept path="ord/betalingssatser-for-kommunale-planer">
+   <Concept path="ord/betalingssatser-for-kommunale-tjenester">
       <PrefLabel lang="en">Payment rates for municipal plans</PrefLabel>
       <PrefLabel lang="nb">Betalingssatser for kommunale tjenester</PrefLabel>
       <PrefLabel lang="nn">Betalingssatser for kommunale tjenester</PrefLabel>
@@ -7707,7 +7707,7 @@
         <Member>ord/bekymringsmelding-om-brannsikkerhet</Member>
         <Member>ord/bekymringsmelding-til-barnevernet</Member>
         <Member>ord/besokshjem</Member>
-        <Member>ord/betalingssatser-for-kommunale-planer</Member>
+        <Member>ord/betalingssatser-for-kommunale-tjenester</Member>
         <Member>ord/bevilling-og-tillatelser</Member>
         <Member>ord/bibliotektjenester</Member>
         <Member>ord/bofellesskap</Member>
