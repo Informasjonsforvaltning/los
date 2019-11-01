@@ -2928,26 +2928,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
-   <Concept path="ord/habilitering-og-rehabilitering">
-      <PrefLabel lang="en">Habilitation and rehabilitation services</PrefLabel>
-      <PrefLabel lang="nb">Habilitering og rehabilitering</PrefLabel>
-      <PrefLabel lang="nn">Habilitering og rehabilitering</PrefLabel>
-      <HiddenLabel lang="nb">Audiopedagog</HiddenLabel>
-      <HiddenLabel lang="nn">Audiopedagog</HiddenLabel>
-      <HiddenLabel lang="nb">Rehabiliteringsopphold</HiddenLabel>
-      <HiddenLabel lang="nn">Rehabiliteringsopphald</HiddenLabel>
-      <HiddenLabel lang="nb">Logoped</HiddenLabel>
-      <HiddenLabel lang="nn">Logoped</HiddenLabel>
-      <HiddenLabel lang="nb">Terapibasseng</HiddenLabel>
-      <HiddenLabel lang="nn">Terapibasseng</HiddenLabel>
-      <HiddenLabel lang="nb">Barnehabilitering</HiddenLabel>
-      <HiddenLabel lang="nn">Barnehabilitering</HiddenLabel>
-      <HiddenLabel lang="nb">Voksenhabilitering</HiddenLabel>
-      <HiddenLabel lang="nn">Vaksenhabilitering</HiddenLabel>
-      <Definition lang="nn">Habilitering er hjelp til personar med samansette behov som på grunn av medfødde tilstandar eller tidlig ervervede tilstander som f.eks CP, Downs syndrom og autisme. Rehabilitering er hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/rehabiliteringspenger</Related>
-   </Concept>
    <Concept path="ord/heftelser-i-motorvogn">
       <PrefLabel lang="en">Motor vehicle encumbrances</PrefLabel>
       <PrefLabel lang="nb">Heftelser i motorvogn</PrefLabel>
