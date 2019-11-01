@@ -1518,17 +1518,6 @@
       <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
-     <Concept path="ord/byggekostnad">
-      <PrefLabel lang="en">Construction costs</PrefLabel>
-      <PrefLabel lang="nb">Byggekostnad</PrefLabel>
-      <PrefLabel lang="nn">Byggjekostnad</PrefLabel>
-      <HiddenLabel lang="nb">Byggekostnadsindeks</HiddenLabel>
-      <HiddenLabel lang="nn">Byggjekostnadsindeks</HiddenLabel>
-      <HiddenLabel lang="nb">Byggekostnadskalkulator</HiddenLabel>
-      <HiddenLabel lang="nn">Byggekostnadskalkulator</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bygging</Broader>
-   </Concept>
    <Concept path="ord/byggesak">
       <PrefLabel lang="en">Construction application</PrefLabel>
       <PrefLabel lang="nb">Byggesak</PrefLabel>
