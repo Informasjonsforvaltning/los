@@ -1167,17 +1167,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
-   <Concept path="ord/bebyggelsesplan">
-      <PrefLabel lang="en">Building development plan</PrefLabel>
-      <PrefLabel lang="nb">Bebyggelsesplan</PrefLabel>
-      <PrefLabel lang="nn">Utbyggingsplan</PrefLabel>
-      <HiddenLabel lang="nb">Privat bebyggelsesplan</HiddenLabel>
-      <HiddenLabel lang="nn">Privat utbyggingsplan</HiddenLabel>
-      <HiddenLabel lang="nb">Offentlig bebyggelsesplan</HiddenLabel>
-      <HiddenLabel lang="nn">Offentleg utbyggingsplan</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/kommunale-planer</Broader>
-   </Concept>
    <Concept path="ord/behandlingsreise">
       <PrefLabel lang="en">Journey required to receive medical treatment</PrefLabel>
       <PrefLabel lang="nb">Behandlingsreise</PrefLabel>
