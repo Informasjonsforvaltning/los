@@ -6726,14 +6726,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-     <Concept path="ord/trygghetsalarm">
-      <PrefLabel lang="en">Personal safety alarm</PrefLabel>
-      <PrefLabel lang="nb">Trygghetsalarm</PrefLabel>
-      <PrefLabel lang="nn">Tryggleiksalarm</PrefLabel>
-      <Definition lang="nn">Alarm for å kunne tilkalle hjelp i akutte situasjonar. Knytt til ein vaktsentral som formidlar kontakt vidare til heimesjukepleien. Vaktsentralen eller kommunepersonell rykkjer ut heile døgnet dersom alarmen går.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/helsetjenester</Broader>
-   </Concept>
    <Concept path="ord/turistkontor">
       <PrefLabel lang="en">Tourist information office</PrefLabel>
       <PrefLabel lang="nb">Turistkontor</PrefLabel>
