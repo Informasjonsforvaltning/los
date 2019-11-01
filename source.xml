@@ -2969,16 +2969,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
-   <Concept path="ord/hjemmeteknologi">
-      <PrefLabel lang="en">Home tech</PrefLabel>
-      <PrefLabel lang="nb">Hjemmeteknologi</PrefLabel>
-      <PrefLabel lang="nn">Heimeteknologi</PrefLabel>
-      <HiddenLabel lang="nb">Velferdsteknologi</HiddenLabel>
-      <HiddenLabel lang="nn">Velferdsteknologi</HiddenLabel>
-      <Definition lang="nn">*Beskrivelse mangler*</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
-   </Concept>
    <Concept path="ord/bevegelseshjelpemidler">
       <PrefLabel lang="en">Mobility aid</PrefLabel>
       <PrefLabel lang="nb">Bevegelseshjelpemidler</PrefLabel>
