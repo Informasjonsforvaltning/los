@@ -3271,19 +3271,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/kjaledyr-og-sportsdyr">
-      <PrefLabel lang="en">Pets and working animals</PrefLabel>
-      <PrefLabel lang="nb">Kjæledyr og sportsdyr</PrefLabel>
-      <PrefLabel lang="nn">Kjæledyr og sportsdyr</PrefLabel>
-      <HiddenLabel lang="nb">Karantene</HiddenLabel>
-      <HiddenLabel lang="nn">Karantene</HiddenLabel>
-      <HiddenLabel lang="nb">Båndtvang</HiddenLabel>
-      <HiddenLabel lang="nn">Bandtvang</HiddenLabel>
-      <Definition lang="nn">Dyr som menneska held for glede og trivsel, ikkje for å produsere mat eller utnytte arbeidskrafta frå.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/smittevern</Related>
-      <Broader>tema/fritid</Broader>
-   </Concept>
    <Concept path="ord/kjoretoykontroll">
       <PrefLabel lang="en">Vehicle inspection</PrefLabel>
       <PrefLabel lang="nb">Kjøretøykontroll</PrefLabel>
@@ -5785,7 +5772,6 @@
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
       <Definition lang="nn">Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kjaledyr-og-sportsdyr</Related>
       <Related>ord/vaksine</Related>
       <Broader>tema/folkehelse</Broader>
    </Concept>
