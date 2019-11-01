@@ -2113,35 +2113,7 @@
       <Definition lang="nn">Film- og kinoframvising. Billettar, stønad og drift av filmklubb m.m..</Definition>
       <Definition lang="nb">Film- og kinofremvisning. Billetter, tilskudd og drift av filmklubb m.m..</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/film-og-videokonsesjon</Related>
       <Broader>tema/kultur</Broader>
-   </Concept>
-   <Concept path="ord/film-og-videokonsesjon">
-      <PrefLabel lang="en">Film and video licences</PrefLabel>
-      <PrefLabel lang="nb">Film- og videokonsesjon</PrefLabel>
-      <PrefLabel lang="nn">Film- og videokonsesjon</PrefLabel>
-      <HiddenLabel lang="nb">Fremvisning</HiddenLabel>
-      <HiddenLabel lang="nn">Framvising</HiddenLabel>
-      <HiddenLabel lang="nb">Kinokonsesjon</HiddenLabel>
-      <HiddenLabel lang="nn">Kinokonsesjon</HiddenLabel>
-      <HiddenLabel lang="nb">Videoutleie</HiddenLabel>
-      <HiddenLabel lang="nn">Videoutleige</HiddenLabel>
-      <HiddenLabel lang="nb">Filmfremvisning</HiddenLabel>
-      <HiddenLabel lang="nn">Filmframvising</HiddenLabel>
-      <HiddenLabel lang="nb">Filmframvisning</HiddenLabel>
-      <HiddenLabel lang="nn">Filmframsyning</HiddenLabel>
-      <HiddenLabel lang="nb">Framvisning</HiddenLabel>
-      <HiddenLabel lang="nn">Framvisning</HiddenLabel>
-      <HiddenLabel lang="nb">Filmkonsesjon</HiddenLabel>
-      <HiddenLabel lang="nn">Filmkonsesjon</HiddenLabel>
-      <HiddenLabel lang="nb">Videosalg</HiddenLabel>
-      <HiddenLabel lang="nn">Videosal</HiddenLabel>
-      <HiddenLabel lang="nb">Filmframvising</HiddenLabel>
-      <HiddenLabel lang="nn">Filmframvising</HiddenLabel>
-      <Definition lang="nn">Kommunen gir løyve til å vise film i næringsformål.</Definition>
-      <Definition lang="nb">Kommunen gir tillatelser til å vise film i næringsøyemed.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/film-og-kino</Related>
    </Concept>
    <Concept path="ord/fiskeriforvaltning">
       <PrefLabel lang="en">Fisheries management</PrefLabel>
