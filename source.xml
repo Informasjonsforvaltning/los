@@ -1544,9 +1544,9 @@
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/feiing-og-stroing">
-      <PrefLabel lang="en">Snow clearing</PrefLabel>
-      <PrefLabel lang="nb">Brøyting</PrefLabel>
-      <PrefLabel lang="nn">Brøyting</PrefLabel>
+      <PrefLabel lang="en">Sweeping and gritting</PrefLabel>
+      <PrefLabel lang="nb">Feiing og strøing</PrefLabel>
+      <PrefLabel lang="nn">Feiing og strøing</PrefLabel>
       <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
       <Definition lang="nn">Feiing og rydding av sand og grus, vårreingjering av vegar, strøing av sand og grus om vinteren.</Definition>
