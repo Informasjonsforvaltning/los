@@ -5724,20 +5724,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
-   <Concept path="ord/sarskilt-norskopplaring">
-      <PrefLabel lang="en">Norwegian classes for special needs groups</PrefLabel>
-      <PrefLabel lang="nb">Særskilt norskopplæring</PrefLabel>
-      <PrefLabel lang="nn">Særskilt norskopplæring</PrefLabel>
-      <HiddenLabel lang="nb">Særskilt språkopplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Særskilt språkopplæring</HiddenLabel>
-      <HiddenLabel lang="nb">Morsmålsopplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Morsmålsopplæring</HiddenLabel>
-      <HiddenLabel lang="nb">Tospråklig fagopplæring</HiddenLabel>
-      <HiddenLabel lang="nn">Tospråkleg fagopplæring</HiddenLabel>
-      <Definition lang="nn">Opplæring til elevar med anna morsmål enn norsk og samisk inntil dei har gode nok norskkunnskapar til å følgje den vanlege opplæringa i skulen. Om nødvendig kan elevane også ha rett til morsmålsopplæring, tospråkleg opplæring eller begge delar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskole</Broader>
-   </Concept>
    <Concept path="ord/samboerskap">
       <PrefLabel lang="en">Cohabitation</PrefLabel>
       <PrefLabel lang="nb">Samboerskap</PrefLabel>
