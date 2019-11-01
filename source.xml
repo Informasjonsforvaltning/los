@@ -4135,13 +4135,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
    </Concept>
-   <Concept path="ord/midlertidig-brukstillatelse">
-      <PrefLabel lang="en">Temporary usage permit</PrefLabel>
-      <PrefLabel lang="nb">Midlertidig brukstillatelse</PrefLabel>
-      <PrefLabel lang="nn">Mellombels bruksløyve</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/bygging</Broader>
-   </Concept>
    <Concept path="ord/motorferdsel-i-utmark">
       <PrefLabel lang="en">Off-road driving</PrefLabel>
       <PrefLabel lang="nb">Motorferdsel i utmark</PrefLabel>
