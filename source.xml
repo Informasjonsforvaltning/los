@@ -908,6 +908,8 @@
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
       <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
       <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
+      <HiddenLabel lang="nb">Torgsalg</HiddenLabel>
+      <HiddenLabel lang="nn">Torgsal</HiddenLabel>
       <Definition lang="nn">Nokre bransjar treng bevilling, løyve og godkjenning for å drive verksemda si. Det gjeld for eksempel verksemder som driv servering, reinhaldstenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
       <Definition lang="nb">Noen bransjer trenger bevilling, tillatelser og godkjenning for å drive virksomheten sin. Det gjelder for eksempel virksomheter som driver servering, renholdstjenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -6677,20 +6679,6 @@
       <Definition lang="nb">Leie av grunn til hus som festeren (den som leier) har på tomta.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
-   </Concept>
-   <Concept path="ord/torgsalg">
-      <PrefLabel lang="en">Market sales</PrefLabel>
-      <PrefLabel lang="nb">Torgsalg</PrefLabel>
-      <PrefLabel lang="nn">Torgsal</PrefLabel>
-      <HiddenLabel lang="nb">Torvplass</HiddenLabel>
-      <HiddenLabel lang="nn">Torgplass</HiddenLabel>
-      <HiddenLabel lang="nb">Torvsalg</HiddenLabel>
-      <HiddenLabel lang="nn">Torgsal</HiddenLabel>
-      <HiddenLabel lang="nb">Torgplass</HiddenLabel>
-      <HiddenLabel lang="nn">Torgplass</HiddenLabel>
-      <Definition lang="nn">Handel utanom fast utsalsstad.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
    </Concept>
    <Concept path="ord/sanntids-trafikkinformasjon">
       <PrefLabel lang="en">Real time traffic information</PrefLabel>
