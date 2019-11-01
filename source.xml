@@ -2553,10 +2553,10 @@
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/utlan-og-leie</Broader>
     </Concept>
-    <Concept path="ord/lokale-idrettsanlegg">
+    <Concept path="ord/lokaler-og-idrettsanlegg">
         <PrefLabel lang="en">Sports facilities</PrefLabel>
-        <PrefLabel lang="nb">Lokale idrettsanlegg</PrefLabel>
-        <PrefLabel lang="nn">Lokale idrettsanlegg</PrefLabel>
+        <PrefLabel lang="nb">Lokaler og idrettsanlegg</PrefLabel>
+        <PrefLabel lang="nn">Lokaler og idrettsanlegg</PrefLabel>
         <Definition lang="nn">Utlån eller leige av baner, idrettshallar, symjehallar med meir.</Definition>
         <Definition lang="nb">Utlån eller leie av baner, idrettshaller, svømmehaller med mer.</Definition>
         <InScheme>ontologi/ord</InScheme>
