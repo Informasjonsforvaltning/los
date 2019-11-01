@@ -7260,27 +7260,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/visuell-kunst">
-      <PrefLabel lang="en">Visual arts</PrefLabel>
-      <PrefLabel lang="nb">Visuell kunst</PrefLabel>
-      <PrefLabel lang="nn">Visuell kunst</PrefLabel>
-      <HiddenLabel lang="nb">Billedkunst</HiddenLabel>
-      <HiddenLabel lang="nn">Biletkunst</HiddenLabel>
-      <HiddenLabel lang="nb">Kunstutstilling</HiddenLabel>
-      <HiddenLabel lang="nn">Kunstutstilling</HiddenLabel>
-      <HiddenLabel lang="nb">Kunsthandverk</HiddenLabel>
-      <HiddenLabel lang="nn">Kunsthandverk</HiddenLabel>
-      <HiddenLabel lang="nb">Bildekunst</HiddenLabel>
-      <HiddenLabel lang="nn">Biletkunst</HiddenLabel>
-      <HiddenLabel lang="nb">Utstilling</HiddenLabel>
-      <HiddenLabel lang="nn">Utstilling</HiddenLabel>
-      <HiddenLabel lang="nb">Kunsthåndverk</HiddenLabel>
-      <HiddenLabel lang="nn">Kunsthandverk</HiddenLabel>
-      <Definition lang="nn">Vising av kunst.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/kultur</Broader>
-   </Concept>
    <Concept path="ord/voldsoffererstatning">
       <PrefLabel lang="en">Compensation for victims of violent crime</PrefLabel>
       <PrefLabel lang="nb">Voldsoffererstatning</PrefLabel>
