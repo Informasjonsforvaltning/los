@@ -3132,14 +3132,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="ord/individuell-plan">
-      <PrefLabel lang="en">Individual health plan</PrefLabel>
-      <PrefLabel lang="nb">Individuell plan</PrefLabel>
-      <PrefLabel lang="nn">Individuell plan</PrefLabel>
-      <Definition lang="nn">Kommunen har plikt til å utarbeide individuelle planar for personar som har behov for langvarige og koordinerte helse- og/eller sosialtenester. Staten har tilsvarande plikt for pasientar med behov for spesialisthelsetenester.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
-   </Concept>
    <Concept path="ord/inkluderende-arbeidsliv">
       <PrefLabel lang="en">Inclusive employment</PrefLabel>
       <PrefLabel lang="nb">Inkluderende arbeidsliv</PrefLabel>
