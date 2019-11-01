@@ -2115,17 +2115,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/fiskeriforvaltning">
-      <PrefLabel lang="en">Fisheries management</PrefLabel>
-      <PrefLabel lang="nb">Fiskeriforvaltning</PrefLabel>
-      <PrefLabel lang="nn">Fiskeriforvaltning</PrefLabel>
-      <HiddenLabel lang="nb">Fiskeredskap</HiddenLabel>
-      <HiddenLabel lang="nn">Fiskereiskap</HiddenLabel>
-      <Definition lang="nn">Regulering og kontroll med fiske og fangst i salt- og ferskvatn.</Definition>
-      <Definition lang="nb">Regulering og kontroll med fiske og fangst i salt- og ferskvann.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/naturforvaltning</Broader>
-   </Concept>
    <Concept path="ord/fjernundervisning">
       <PrefLabel lang="en">Distance learning</PrefLabel>
       <PrefLabel lang="nb">Fjernundervisning</PrefLabel>
