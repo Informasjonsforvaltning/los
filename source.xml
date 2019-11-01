@@ -1639,27 +1639,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
-   <Concept path="ord/dans">
-      <PrefLabel lang="en">Dance</PrefLabel>
-      <PrefLabel lang="nb">Dans</PrefLabel>
-      <PrefLabel lang="nn">Dans</PrefLabel>
-      <HiddenLabel lang="nb">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nn">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nb">Danseskole</HiddenLabel>
-      <HiddenLabel lang="nn">Danseskule</HiddenLabel>
-      <HiddenLabel lang="nb">Dansekurs</HiddenLabel>
-      <HiddenLabel lang="nn">Dansekurs</HiddenLabel>
-      <HiddenLabel lang="nb">Folkedans</HiddenLabel>
-      <HiddenLabel lang="nn">Folkedans</HiddenLabel>
-      <HiddenLabel lang="nb">Ballett</HiddenLabel>
-      <HiddenLabel lang="nn">Ballett</HiddenLabel>
-      <HiddenLabel lang="nb">Leikarring</HiddenLabel>
-      <HiddenLabel lang="nn">Leikarring</HiddenLabel>
-      <Definition lang="nn">Kulturtilbod, dans, ballett o.l.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/kultur</Broader>
-   </Concept>
    <Concept path="ord/dodsattest">
       <PrefLabel lang="en">Death certificate</PrefLabel>
       <PrefLabel lang="nb">Dødsattest</PrefLabel>
@@ -4185,7 +4164,6 @@
       <Definition lang="nn">Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid med skuleverket og kulturlivet elles.</Definition>
       <Definition lang="nb">Musikk- og kulturfaglig tilbud for barn og ungdom. Tilbudet er organisert i samarbeid med skoleverket og kulturlivet ellers.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/dans</Related>
       <Related>ord/skolefritidsordning</Related>
       <Related>ord/musikk</Related>
       <Related>ord/visuell-kunst</Related>
