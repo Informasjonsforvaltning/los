@@ -2742,29 +2742,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
-   <Concept path="ord/gjeldsradgivning">
-      <PrefLabel lang="en">Debt counselling</PrefLabel>
-      <PrefLabel lang="nb">Gjeldsrådgivning</PrefLabel>
-      <PrefLabel lang="nn">Gjeldsrådgjeving</PrefLabel>
-      <HiddenLabel lang="nb">Gjeldsproblem</HiddenLabel>
-      <HiddenLabel lang="nn">Gjeldsproblem</HiddenLabel>
-      <HiddenLabel lang="nb">Gjeldsordning</HiddenLabel>
-      <HiddenLabel lang="nn">Gjeldsordning</HiddenLabel>
-      <HiddenLabel lang="nb">Livsoppholdssatser</HiddenLabel>
-      <HiddenLabel lang="nn">Livsopphaldssatsar</HiddenLabel>
-      <HiddenLabel lang="nb">Gjeldsrådgiving</HiddenLabel>
-      <HiddenLabel lang="nn">Gjeldsrådgjeving</HiddenLabel>
-      <HiddenLabel lang="nb">Gjeldsoffer</HiddenLabel>
-      <HiddenLabel lang="nn">Gjeldsoffer</HiddenLabel>
-      <HiddenLabel lang="nb">Inkasso</HiddenLabel>
-      <HiddenLabel lang="nn">Inkasso</HiddenLabel>
-      <HiddenLabel lang="nb">Livsopphold</HiddenLabel>
-      <HiddenLabel lang="nn">Livsopphald</HiddenLabel>
-      <Definition lang="nn">Personer med betalings- eller gjeldsproblemer kan få hjelp til å sette opp et realistisk budsjett, forhandle med kreditorer og inngå en gjeldsordningsavtale.</Definition>
-      <Definition lang="nb">Personar med betalings- eller gjeldsproblem kan få hjelp til å setje opp eit realistisk budsjett, forhandle med kreditorar og inngå ei gjeldsordningsavtale. </Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomisk-radgiving</Broader>
-   </Concept>
    <Concept path="ord/gjenlevendepensjon">
       <PrefLabel lang="en">Surivors pension</PrefLabel>
       <PrefLabel lang="nb">Gjenlevendepensjon</PrefLabel>
