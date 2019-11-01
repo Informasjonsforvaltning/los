@@ -3857,39 +3857,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
-   <Concept path="ord/kulturminnevern">
-      <PrefLabel lang="en">Cultural heritage </PrefLabel>
-      <PrefLabel lang="nb">Kulturminnevern</PrefLabel>
-      <PrefLabel lang="nn">Kulturminnevern</PrefLabel>
-      <HiddenLabel lang="nb">Fortidsminne</HiddenLabel>
-      <HiddenLabel lang="nn">Fortidsminne</HiddenLabel>
-      <HiddenLabel lang="nb">Kystkultur</HiddenLabel>
-      <HiddenLabel lang="nn">Kystkultur</HiddenLabel>
-      <HiddenLabel lang="nb">Spesialområde bevaring</HiddenLabel>
-      <HiddenLabel lang="nn">Spesialområde bevaring</HiddenLabel>
-      <HiddenLabel lang="nb">Fornminne</HiddenLabel>
-      <HiddenLabel lang="nn">Fornminne</HiddenLabel>
-      <HiddenLabel lang="nb">Arkeologisk undersøkelse</HiddenLabel>
-      <HiddenLabel lang="nn">Arkeologisk undersøking</HiddenLabel>
-      <HiddenLabel lang="nb">Kulturvern</HiddenLabel>
-      <HiddenLabel lang="nn">Kulturvern</HiddenLabel>
-      <HiddenLabel lang="nb">SEFRAK</HiddenLabel>
-      <HiddenLabel lang="nn">SEFRAK</HiddenLabel>
-      <HiddenLabel lang="nb">Riksantikvaren</HiddenLabel>
-      <HiddenLabel lang="nn">Riksantikvaren</HiddenLabel>
-      <HiddenLabel lang="nb">Fredning</HiddenLabel>
-      <HiddenLabel lang="nn">Freding</HiddenLabel>
-      <HiddenLabel lang="nb">Verneverdig</HiddenLabel>
-      <HiddenLabel lang="nn">Verneverdig</HiddenLabel>
-      <HiddenLabel lang="nb">Kulturlandskap</HiddenLabel>
-      <HiddenLabel lang="nn">Kulturlandskap</HiddenLabel>
-      <HiddenLabel lang="nb">Bygningsvern</HiddenLabel>
-      <HiddenLabel lang="nn">Bygningsvern</HiddenLabel>
-      <Definition lang="nn">Arbeid med å ta vare på kulturarven vår, både frå nær og fjern fortid. Dette kan vere materielle så vel som immaterielle kulturelement.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturvern</Related>
-      <Broader>tema/kultur</Broader>
-   </Concept>
    <Concept path="ord/lag-og-foreninger">
       <PrefLabel lang="en">Clubs and societies</PrefLabel>
       <PrefLabel lang="nb">Lag og foreninger</PrefLabel>
@@ -4555,7 +4522,7 @@
       <Definition lang="nn">Tiltak som blir gjort for å bevare naturområde, kulturlandskap og naturtypar.</Definition>
       <Definition lang="nb">Tiltak som gjøres for å bevare naturområder, kulturlandskap og naturtyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/kulturminnevern</Related>
+      <Related>ord/kulturminner</Related>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/norskopplaring">
