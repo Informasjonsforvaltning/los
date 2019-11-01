@@ -5963,21 +5963,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/skolerute">
-      <PrefLabel lang="en">School terms and holidays</PrefLabel>
-      <PrefLabel lang="nb">Skolerute</PrefLabel>
-      <PrefLabel lang="nn">Skulerute</PrefLabel>
-      <HiddenLabel lang="nb">Skoleruta</HiddenLabel>
-      <HiddenLabel lang="nn">Skuleruta</HiddenLabel>
-      <HiddenLabel lang="nb">Skoleåret</HiddenLabel>
-      <HiddenLabel lang="nn">Skuleåret</HiddenLabel>
-      <HiddenLabel lang="nb">Skoleferie</HiddenLabel>
-      <HiddenLabel lang="nn">Skuleferie</HiddenLabel>
-      <Definition lang="nn">Kalenderoversikt over ferieavviklinga i grunnskulen.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskole</Broader>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
-   </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
       <PrefLabel lang="nb">Skoleskyss</PrefLabel>
