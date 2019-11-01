@@ -2137,7 +2137,6 @@
       <HiddenLabel lang="nn">Flaumfare</HiddenLabel>
       <Definition lang="nn">Varsel om flaum. Medrekna vassføringsprognosar.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
@@ -2148,7 +2147,6 @@
       <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
       <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturskade</Related>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/lynvarsel">
@@ -2158,7 +2156,6 @@
       <Definition lang="nn">Varsel om lyn.</Definition>
       <Definition lang="nb">Varsel om lyn.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturskade</Related>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
    <Concept path="ord/flyalarm">
@@ -4104,7 +4101,6 @@
       <PrefLabel lang="nn">Naturskadeerstatning</PrefLabel>
       <Definition lang="nn">Erstatning etter naturskade.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturskade</Related>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
    <Concept path="ord/naturvern">
@@ -5788,7 +5784,6 @@
       <HiddenLabel lang="nn">Jordskred</HiddenLabel>
       <Definition lang="nn">Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/naturskade</Related>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
