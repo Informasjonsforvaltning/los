@@ -2449,6 +2449,15 @@
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/fritid</Broader>
     </Concept>
+    <Concept path="ord/lekeplass">
+        <PrefLabel lang="en">Playground</PrefLabel>
+        <PrefLabel lang="nb">Lekeplass</PrefLabel>
+        <PrefLabel lang="nn">Leikeplass</PrefLabel>
+        <Definition lang="nn">Et avgrenset sted utendørs som er tilrettelagt for at barn kan leke.</Definition>
+        <Definition lang="nb">Ein avgrensa stad utandørs som er lagt til rette for at barn kan leike.</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/fritid</Broader>
+    </Concept>
     <Concept path="ord/svommehall">
         <PrefLabel lang="en">Swimming pool</PrefLabel>
         <PrefLabel lang="nb">Svømmehall</PrefLabel>
