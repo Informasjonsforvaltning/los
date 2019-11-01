@@ -4365,6 +4365,16 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
+
+   <Concept path="ord/betaling-av-skatt">
+      <PrefLabel lang="en">Tax payment</PrefLabel>
+      <PrefLabel lang="nb">Betaling av skatt</PrefLabel>
+      <PrefLabel lang="nn">Betaling av skatt</PrefLabel>
+      <Definition lang="nn">Alle som får lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
+      <Definition lang="nb">Alle som mottar lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/skatt-og-avgift</Broader>
+   </Concept>
    <Concept path="ord/oppholdstillatelse">
       <PrefLabel lang="en">Residence permit</PrefLabel>
       <PrefLabel lang="nb">Oppholdstillatelse</PrefLabel>
