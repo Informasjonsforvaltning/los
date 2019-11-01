@@ -1954,7 +1954,6 @@
       <Definition lang="nn">Kosthald og kosthaldstilrådingar</Definition>
       <Definition lang="nb">Kosthold og kostholdstilrådinger</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/skolemaltid</Related>
       <Broader>tema/folkehelse</Broader>
    </Concept>
    <Concept path="ord/etterutdanning-og-videreutdanning">
@@ -3971,8 +3970,6 @@
       <Definition lang="nb">Musikk- og kulturfaglig tilbud for barn og ungdom. Tilbudet er organisert i samarbeid med skoleverket og kulturlivet ellers.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/skolefritidsordning</Related>
-      <Related>ord/musikk</Related>
-      <Related>ord/visuell-kunst</Related>
       <Broader>tema/fritid</Broader>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -6970,7 +6967,7 @@
       <Definition lang="nb">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/videregaende-opplaring</Broader>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
@@ -7886,7 +7883,7 @@
         <Member>ord/vegbygging</Member>
         <Member>ord/vegvedlikehold</Member>
         <Member>ord/veterinar</Member>
-        <Member>ord/videragaende-opplaring</Member>
+        <Member>ord/videregaende-skole</Member>
         <Member>ord/videregaende-skole-for-voksne</Member>
         <Member>ord/vielse</Member>
         <Member>ord/viltforvaltning</Member>
