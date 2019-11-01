@@ -4363,47 +4363,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
-   <Concept path="ord/naturskade">
-      <PrefLabel lang="en">Natural hazard</PrefLabel>
-      <PrefLabel lang="nb">Naturskade</PrefLabel>
-      <PrefLabel lang="nn">Naturskade</PrefLabel>
-      <HiddenLabel lang="nb">Isgang</HiddenLabel>
-      <HiddenLabel lang="nn">Isgang</HiddenLabel>
-      <HiddenLabel lang="nb">Stormflo</HiddenLabel>
-      <HiddenLabel lang="nn">Stormflo</HiddenLabel>
-      <HiddenLabel lang="nb">Steinskred</HiddenLabel>
-      <HiddenLabel lang="nn">Steinskred</HiddenLabel>
-      <HiddenLabel lang="nb">Fjellskred</HiddenLabel>
-      <HiddenLabel lang="nn">Fjellskred</HiddenLabel>
-      <HiddenLabel lang="nb">Jordras</HiddenLabel>
-      <HiddenLabel lang="nn">Jordras</HiddenLabel>
-      <HiddenLabel lang="nb">Snøras</HiddenLabel>
-      <HiddenLabel lang="nn">Snøras</HiddenLabel>
-      <HiddenLabel lang="nb">Leirras</HiddenLabel>
-      <HiddenLabel lang="nn">Leirras</HiddenLabel>
-      <HiddenLabel lang="nb">Leirskred</HiddenLabel>
-      <HiddenLabel lang="nn">Leirskred</HiddenLabel>
-      <HiddenLabel lang="nb">Snøskred</HiddenLabel>
-      <HiddenLabel lang="nn">Snøskred</HiddenLabel>
-      <HiddenLabel lang="nb">Kvikkleireskred</HiddenLabel>
-      <HiddenLabel lang="nn">Kvikkleireskred</HiddenLabel>
-      <HiddenLabel lang="nb">Jordskjelv</HiddenLabel>
-      <HiddenLabel lang="nn">Jordskjelv</HiddenLabel>
-      <HiddenLabel lang="nb">Jordskred</HiddenLabel>
-      <HiddenLabel lang="nn">Jordskred</HiddenLabel>
-      <HiddenLabel lang="nb">Kvikkleireras</HiddenLabel>
-      <HiddenLabel lang="nn">Kvikkleireras</HiddenLabel>
-      <HiddenLabel lang="nb">Steinsprang</HiddenLabel>
-      <HiddenLabel lang="nn">Steinsprang</HiddenLabel>
-      <HiddenLabel lang="nb">Flomskade</HiddenLabel>
-      <HiddenLabel lang="nn">Flaumskade</HiddenLabel>
-      <Definition lang="nn">Skade som har si årsak i ei naturulukke, som til dømes flaum, storm, ras eller skred.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/flomvarsel</Related>
-      <Related>ord/naturskadeerstatning</Related>
-      <Related>ord/skredvarsel</Related>
-      <Broader>tema/landbruk</Broader>
-   </Concept>
    <Concept path="ord/naturskadeerstatning">
       <PrefLabel lang="en">Natural disaster compensation</PrefLabel>
       <PrefLabel lang="nb">Naturskadeerstatning</PrefLabel>
