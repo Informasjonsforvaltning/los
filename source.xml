@@ -3324,10 +3324,6 @@
       <HiddenLabel lang="nn">Klimadata</HiddenLabel>
       <HiddenLabel lang="nb">Klimastatistikk</HiddenLabel>
       <HiddenLabel lang="nn">Klimastatistikk</HiddenLabel>
-      <HiddenLabel lang="nb">CO2-kvote</HiddenLabel>
-      <HiddenLabel lang="nn">CO2-kvote</HiddenLabel>
-      <HiddenLabel lang="nb">Klimasårbarhet</HiddenLabel>
-      <HiddenLabel lang="nn">Klimasårbarheit</HiddenLabel>
       <HiddenLabel lang="nb">Klimagasser</HiddenLabel>
       <HiddenLabel lang="nn">Klimagassar</HiddenLabel>
       <Definition lang="nn">Vêrforhold, vêrlag, medrekna Co2-kvotar, miljøovervaking, klimaendringar.</Definition>
@@ -5684,6 +5680,14 @@
       <PrefLabel lang="en">Emission trading</PrefLabel>
       <PrefLabel lang="nb">Klimakvote</PrefLabel>
       <PrefLabel lang="nn">Klimakvote</PrefLabel>
+      <HiddenLabel lang="nb">CO2-kvote</HiddenLabel>
+      <HiddenLabel lang="nn">CO2-kvote</HiddenLabel>
+      <HiddenLabel lang="nb">Klimaendring</HiddenLabel>
+      <HiddenLabel lang="nn">Klimaendring</HiddenLabel>
+      <HiddenLabel lang="nb">Klimakalkulator</HiddenLabel>
+      <HiddenLabel lang="nn">Klimakalkulator</HiddenLabel>
+      <HiddenLabel lang="nb">Klimasårbarhet</HiddenLabel>
+      <HiddenLabel lang="nn">Klimasårbarheit</HiddenLabel>
       <Definition lang="nn">Tillatelse til å sleppe ut eitt tonn CO2.</Definition>
       <Definition lang="nb">Tillatelse til å slippe ut ett tonn CO2.</Definition>
       <InScheme>ontologi/ord</InScheme>
