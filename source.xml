@@ -6938,6 +6938,7 @@
       <Definition lang="nb">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
+      <Broader>tema/videregaende-opplaring</Broader>
    </Concept>
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
