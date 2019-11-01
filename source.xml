@@ -621,34 +621,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
    </Concept>
-   <Concept path="ord/alkoholsalg">
-      <PrefLabel lang="en">Sale of alcohol</PrefLabel>
-      <PrefLabel lang="nb">Alkoholsalg</PrefLabel>
-      <PrefLabel lang="nn">Alkoholsal</PrefLabel>
-      <HiddenLabel lang="nb">Salgsbevilling</HiddenLabel>
-      <HiddenLabel lang="nn">Salsløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Kunnskapsprøven</HiddenLabel>
-      <HiddenLabel lang="nn">Kunnskapsprøven</HiddenLabel>
-      <HiddenLabel lang="nb">Ambulerende skjenkebevilling</HiddenLabel>
-      <HiddenLabel lang="nn">Ambulerande skjenkeløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Skjenkerett</HiddenLabel>
-      <HiddenLabel lang="nn">Skjenkerett</HiddenLabel>
-      <HiddenLabel lang="nb">Ølsalg</HiddenLabel>
-      <HiddenLabel lang="nn">Ølsal</HiddenLabel>
-      <HiddenLabel lang="nb">Bevillingsgebyr</HiddenLabel>
-      <HiddenLabel lang="nn">Gebyr for løyve</HiddenLabel>
-      <HiddenLabel lang="nb">Skjenkebevilling</HiddenLabel>
-      <HiddenLabel lang="nn">Skjenkeløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Uteservering</HiddenLabel>
-      <HiddenLabel lang="nn">Uteservering</HiddenLabel>
-      <HiddenLabel lang="nb">Skjenketillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Skjenkeløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Skjenketid</HiddenLabel>
-      <HiddenLabel lang="nn">Skjenketid</HiddenLabel>
-      <Definition lang="nn">Sal av alkoholhaldig drikk som øl, vin og sprit. T.d. søknad om skjenkeløyve, avgrensing av skjenketid, krav om bordservering, krav om ordensvakter m.m.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
-   </Concept>
    <Concept path="ord/allemannsrett">
       <PrefLabel lang="en">Right of access</PrefLabel>
       <PrefLabel lang="nb">Allemannsrett</PrefLabel>
