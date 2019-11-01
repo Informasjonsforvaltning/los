@@ -3147,19 +3147,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
-   <Concept path="ord/inkludering">
-      <PrefLabel lang="en">Inclusion</PrefLabel>
-      <PrefLabel lang="nb">Inkludering</PrefLabel>
-      <PrefLabel lang="nn">Inkludering</PrefLabel>
-      <HiddenLabel lang="nb">Rasisme</HiddenLabel>
-      <HiddenLabel lang="nn">Rasisme</HiddenLabel>
-      <HiddenLabel lang="nb">Antirasisme</HiddenLabel>
-      <HiddenLabel lang="nn">Antirasisme</HiddenLabel>
-      <HiddenLabel lang="nb">Diskriminering</HiddenLabel>
-      <HiddenLabel lang="nn">Diskriminering</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/integrering</Broader>
-   </Concept>
    <Concept path="ord/skattemelding-for-formue-og-inntektsskatt">
       <PrefLabel lang="en">Tax declaration for wealth tax and income tax</PrefLabel>
       <PrefLabel lang="nb">Skattemelding for formue- og inntektsskatt</PrefLabel>
