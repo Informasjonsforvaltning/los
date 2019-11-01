@@ -879,6 +879,14 @@
       <PrefLabel lang="en">Licenses and permissions</PrefLabel>
       <PrefLabel lang="nb">Bevilling og tillatelser</PrefLabel>
       <PrefLabel lang="nn">Bevilling og løyve</PrefLabel>
+      <HiddenLabel lang="nb">Frisør</HiddenLabel>
+      <HiddenLabel lang="nn">Frisør</HiddenLabel>
+      <HiddenLabel lang="nb">Hudpleievirksomhet</HiddenLabel>
+      <HiddenLabel lang="nn">Hudpleieverksemd</HiddenLabel>
+      <HiddenLabel lang="nb">Tatoveringsvirksomhet</HiddenLabel>
+      <HiddenLabel lang="nn">Tatoveringsverksemd</HiddenLabel>
+      <HiddenLabel lang="nb">Hulltakingsvirksomhet</HiddenLabel>
+      <HiddenLabel lang="nn">Hulltakingsverksemd</HiddenLabel>
       <HiddenLabel lang="nb">Torgsalg</HiddenLabel>
       <HiddenLabel lang="nn">Torgsal</HiddenLabel>
       <Definition lang="nn">Nokre bransjar treng bevilling, løyve og godkjenning for å drive verksemda si. Det gjeld for eksempel verksemder som driv servering, reinhaldstenester, godstransport og persontransport, bygg og anlegg og bemanning.</Definition>
@@ -2545,32 +2553,6 @@
         <InScheme>ontologi/ord</InScheme>
         <Broader>tema/utlan-og-leie</Broader>
     </Concept>
-    <Concept path="ord/frisor-hudpleie-tatoverings-og-hulltakingsvirksomhet">
-      <PrefLabel lang="en">Hairdressing, skincare, tattoo and piercing activities</PrefLabel>
-      <PrefLabel lang="nb">Frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet</PrefLabel>
-      <PrefLabel lang="nn">Frisør-, hudpleie-, tatoverings- og holtakingsverksemd</PrefLabel>
-      <HiddenLabel lang="nb">Soneterapi</HiddenLabel>
-      <HiddenLabel lang="nn">Soneterapi</HiddenLabel>
-      <HiddenLabel lang="nb">Pedikyr</HiddenLabel>
-      <HiddenLabel lang="nn">Pedikyr</HiddenLabel>
-      <HiddenLabel lang="nb">Piercing</HiddenLabel>
-      <HiddenLabel lang="nn">Piercing</HiddenLabel>
-      <HiddenLabel lang="nb">Hårfjerning</HiddenLabel>
-      <HiddenLabel lang="nn">Hårfjerning</HiddenLabel>
-      <HiddenLabel lang="nb">Manikyr</HiddenLabel>
-      <HiddenLabel lang="nn">Manikyr</HiddenLabel>
-      <HiddenLabel lang="nb">Aromaterapi</HiddenLabel>
-      <HiddenLabel lang="nn">Aromaterapi</HiddenLabel>
-      <HiddenLabel lang="nb">Fotpleie</HiddenLabel>
-      <HiddenLabel lang="nn">Fotpleie</HiddenLabel>
-      <HiddenLabel lang="nb">Håndpleie</HiddenLabel>
-      <HiddenLabel lang="nn">Handpleie</HiddenLabel>
-      <HiddenLabel lang="nb">Solarium</HiddenLabel>
-      <HiddenLabel lang="nn">Solarium</HiddenLabel>
-      <Definition lang="nn">Det er stilt særlege krav til utøving av slik verksemd, mellom anna til hygiene. Lokala og utstyr i tatoverings- og holtakingsverksemd skal godkjennast av kommunen.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/handel-og-service</Broader>
-   </Concept>
    <Concept path="ord/fritidsfiske">
       <PrefLabel lang="en">Recreational fishing</PrefLabel>
       <PrefLabel lang="nb">Fritidsfiske</PrefLabel>
