@@ -5554,6 +5554,7 @@
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
       <Related>ord/farlig-avfall</Related>
       <Broader>tema/avfallshandtering</Broader>
+      <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/rettferdsvederlag">
       <PrefLabel lang="en">Ex gratia payments</PrefLabel>
