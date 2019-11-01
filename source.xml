@@ -4240,7 +4240,6 @@
       <Related>ord/skolefritidsordning</Related>
       <Related>ord/musikk</Related>
       <Related>ord/visuell-kunst</Related>
-      <Related>ord/teater</Related>
       <Broader>tema/fritid</Broader>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -6502,28 +6501,6 @@
       <Definition lang="nn">Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege tannhelsetenesta.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
-   </Concept>
-   <Concept path="ord/teater">
-      <PrefLabel lang="en">Theatre</PrefLabel>
-      <PrefLabel lang="nb">Teater</PrefLabel>
-      <PrefLabel lang="nn">Teater</PrefLabel>
-      <HiddenLabel lang="nb">Teaterforestilling</HiddenLabel>
-      <HiddenLabel lang="nn">Teaterførestilling</HiddenLabel>
-      <HiddenLabel lang="nb">Revy</HiddenLabel>
-      <HiddenLabel lang="nn">Revy</HiddenLabel>
-      <HiddenLabel lang="nb">Musikal</HiddenLabel>
-      <HiddenLabel lang="nn">Musikal</HiddenLabel>
-      <HiddenLabel lang="nb">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nn">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nb">Musikkteater</HiddenLabel>
-      <HiddenLabel lang="nn">Musikkteater</HiddenLabel>
-      <HiddenLabel lang="nb">Amatørteater</HiddenLabel>
-      <HiddenLabel lang="nn">Amatørteater</HiddenLabel>
-      <HiddenLabel lang="nb">Teaterbillett</HiddenLabel>
-      <HiddenLabel lang="nn">Teaterbillett</HiddenLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/kultur</Broader>
    </Concept>
    <Concept path="ord/tilrettelagt-fritid">
       <PrefLabel lang="en">Leisure activities for disabled persons</PrefLabel>
