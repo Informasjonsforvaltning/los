@@ -6788,16 +6788,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/permisjonsordninger</Broader>
    </Concept>
-   <Concept path="ord/uteomrade">
-      <PrefLabel lang="en">Outdoor area</PrefLabel>
-      <PrefLabel lang="nb">Uteområde</PrefLabel>
-      <PrefLabel lang="nn">Uteområde</PrefLabel>
-      <HiddenLabel lang="nb">Utemiljø</HiddenLabel>
-      <HiddenLabel lang="nn">Utemiljø</HiddenLabel>
-      <Definition lang="nn">Uteområde ved skular og barnehagar. Skal gje rom for mange varierte aktivitetar og skal tilfredstille krav om å vere ein trygg men utfordrande stad for leik, læring og opplevingar.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skolemiljo</Broader>
-   </Concept>
    <Concept path="ord/utslippstillatelse">
       <PrefLabel lang="en">Emissions permit</PrefLabel>
       <PrefLabel lang="nb">Utslippstillatelse</PrefLabel>
