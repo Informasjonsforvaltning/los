@@ -3469,6 +3469,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avfallshandtering</Broader>
    </Concept>
+   <Concept path="ord/returordninger">
+      <PrefLabel lang="en">Recycling scheme</PrefLabel>
+      <PrefLabel lang="nb">Returordninger</PrefLabel>
+      <PrefLabel lang="nn">Returordningar</PrefLabel>
+      <Definition lang="nn">Gjenvinningsstasjonar og andre ordningar for mottak eller innsamling av avfall.</Definition>
+      <Definition lang="nb">Gjenvinningsstasjoner og andre ordninger for mottak eller innsamling av avfall.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/avfallshandtering</Broader>
+   </Concept>
    <Concept path="ord/ledsagerbevis">
       <PrefLabel lang="en">Care assistant certificate</PrefLabel>
       <PrefLabel lang="nb">Ledsagerbevis</PrefLabel>
