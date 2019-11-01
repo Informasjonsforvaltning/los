@@ -752,7 +752,6 @@
       <Definition lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/matlevering</Related>
-      <Related>ord/trygghetsalarm</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/helsesykepleier">
@@ -6725,16 +6724,6 @@
       <Definition lang="nb">Sikkerhet for de som ferdest i trafikken.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
-   </Concept>
-   <Concept path="ord/turistkontor">
-      <PrefLabel lang="en">Tourist information office</PrefLabel>
-      <PrefLabel lang="nb">Turistkontor</PrefLabel>
-      <PrefLabel lang="nn">Turistkontor</PrefLabel>
-      <HiddenLabel lang="nb">Turistinformasjon</HiddenLabel>
-      <HiddenLabel lang="nn">Turistinformasjon</HiddenLabel>
-      <Definition lang="nn">Informasjonskontor retta mot turistar. Tilbyr oversikt over overnatting, turistattraksjonar, aktivitetar, serveringsstader og arrangement.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/reiselivsnaring</Broader>
    </Concept>
    <Concept path="ord/tvangsekteskap">
       <PrefLabel lang="en">Forced marriage</PrefLabel>
