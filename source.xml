@@ -4223,39 +4223,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
-   <Concept path="ord/musikk">
-      <PrefLabel lang="en">Music</PrefLabel>
-      <PrefLabel lang="nb">Musikk</PrefLabel>
-      <PrefLabel lang="nn">Musikk</PrefLabel>
-      <HiddenLabel lang="nb">Orkester</HiddenLabel>
-      <HiddenLabel lang="nn">Orkester</HiddenLabel>
-      <HiddenLabel lang="nb">Konsert</HiddenLabel>
-      <HiddenLabel lang="nn">Konsert</HiddenLabel>
-      <HiddenLabel lang="nb">Rockeverksted</HiddenLabel>
-      <HiddenLabel lang="nn">Rockeverkstad</HiddenLabel>
-      <HiddenLabel lang="nb">Kor</HiddenLabel>
-      <HiddenLabel lang="nn">Kor</HiddenLabel>
-      <HiddenLabel lang="nb">Korps</HiddenLabel>
-      <HiddenLabel lang="nn">Korps</HiddenLabel>
-      <HiddenLabel lang="nb">Opera</HiddenLabel>
-      <HiddenLabel lang="nn">Opera</HiddenLabel>
-      <HiddenLabel lang="nb">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nn">Billettbestilling</HiddenLabel>
-      <HiddenLabel lang="nb">Konsertbillett</HiddenLabel>
-      <HiddenLabel lang="nn">Konsertbillett</HiddenLabel>
-      <HiddenLabel lang="nb">Sangkor</HiddenLabel>
-      <HiddenLabel lang="nn">Songkor</HiddenLabel>
-      <HiddenLabel lang="nb">Musikkverksted</HiddenLabel>
-      <HiddenLabel lang="nn">Musikkverkstad</HiddenLabel>
-      <HiddenLabel lang="nb">Skolekor</HiddenLabel>
-      <HiddenLabel lang="nn">Skulekor</HiddenLabel>
-      <HiddenLabel lang="nb">Skolekorps</HiddenLabel>
-      <HiddenLabel lang="nn">Skulekorps</HiddenLabel>
-      <Definition lang="nn">Tilstelning der ein kan høyre på framføring av musikk.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/musikk-og-kulturskole</Related>
-      <Broader>tema/kultur</Broader>
-   </Concept>
    <Concept path="ord/musikk-og-kulturskole">
       <PrefLabel lang="en">Music and arts centres</PrefLabel>
       <PrefLabel lang="nb">Musikk- og kulturskole</PrefLabel>
