@@ -4363,14 +4363,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
-   <Concept path="ord/nasjonale-prover">
-      <PrefLabel lang="en">National tests</PrefLabel>
-      <PrefLabel lang="nb">Nasjonale prøver</PrefLabel>
-      <PrefLabel lang="nn">Nasjonale prøvar</PrefLabel>
-      <Definition lang="nn">Ei årleg landsomfattande kartlegging av basiskunnskapane til grunnskuleelevane etter 4. og 7. årssteg i faga lesing, skriving, matematikk og engelsk. Prøvane er obligatoriske.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-   </Concept>
    <Concept path="ord/naturskade">
       <PrefLabel lang="en">Natural hazard</PrefLabel>
       <PrefLabel lang="nb">Naturskade</PrefLabel>
