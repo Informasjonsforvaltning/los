@@ -2928,14 +2928,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
-   <Concept path="ord/grunnskoleopplaring-for-voksne">
-      <PrefLabel lang="en">Compulsory education for adults</PrefLabel>
-      <PrefLabel lang="nb">Grunnskoleopplæring for voksne</PrefLabel>
-      <PrefLabel lang="nn">Grunnskuleopplæring for vaksne</PrefLabel>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/grunnskole</Broader>
-      <Broader>tema/voksenopplaring</Broader>
-   </Concept>
    <Concept path="ord/habilitering-og-rehabilitering">
       <PrefLabel lang="en">Habilitation and rehabilitation services</PrefLabel>
       <PrefLabel lang="nb">Habilitering og rehabilitering</PrefLabel>
