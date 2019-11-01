@@ -3490,6 +3490,7 @@
       <Definition lang="nn">Hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
+      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/omsorgsstonad">
       <PrefLabel lang="en">Carer allowance</PrefLabel>
