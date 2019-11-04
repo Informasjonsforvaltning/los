@@ -7228,6 +7228,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
+   <Concept path="tema/miljo">
+      <PrefLabel lang="en">Environment</PrefLabel>
+      <PrefLabel lang="nb">Miljø</PrefLabel>
+      <PrefLabel lang="nn">Miljø</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
@@ -7613,6 +7620,13 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
+   <Concept path="tema/Miljøsertifisering ">
+      <PrefLabel lang="en">Environmental certification</PrefLabel>
+      <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
+      <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
