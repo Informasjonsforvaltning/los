@@ -1976,17 +1976,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/fagopplaring">
-      <PrefLabel lang="en">Vocational training</PrefLabel>
-      <PrefLabel lang="nb">Fagopplæring</PrefLabel>
-      <PrefLabel lang="nn">Fagopplæring</PrefLabel>
-      <Definition lang="nn">Opplæring innanfor eit fag eller eit yrke som gir kompetanseprov og/eller sveinebrev.</Definition>
-      <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/lærling</Related>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
-   </Concept>
    <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Lærling</PrefLabel>
@@ -1994,7 +1983,6 @@
       <Definition lang="nn">Ein lærling utdannar seg til eit yrke ved å jobbe i ei bedrift. Bedrifter som ønskjer lærlingar kan søkje om å bli godkjent lærebedrift og tilby læreplassar.</Definition>
       <Definition lang="nb">En lærling utdanner seg til et yrke ved å jobbe i en bedrift. Bedrifter som ønsker lærlinger kan søke om å bli godkjent lærebedrift og tilby læreplasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagopplaring</Related>
       <Broader>tema/kvalifisering-til-arbeid</Broader>
    </Concept>
    <Concept path="ord/kvalifiseringsprogram">
@@ -2015,7 +2003,6 @@
       <Definition lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår.</Definition>
       <Definition lang="nb">Korte yrkesrettede utdanningar som bygger på videregående opplæring eller tilsvarende realkompetanse, og som har et omfang tilsvarende minimum et halvt studieår og maksimuim to studieår.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagopplaring</Related>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
    <Concept path="ord/farlig-avfall">
