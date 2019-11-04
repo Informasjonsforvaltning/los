@@ -3169,14 +3169,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/innbyggerinitiativ">
-      <PrefLabel lang="en">Citizen initiative</PrefLabel>
-      <PrefLabel lang="nb">Innbyggerinitiativ</PrefLabel>
-      <PrefLabel lang="nn">Innbyggjarinitiativ</PrefLabel>
-      <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjararne, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/politikk-og-valg</Broader>
-   </Concept>
    <Concept path="ord/innemiljo">
       <PrefLabel lang="en">Indoor environment</PrefLabel>
       <PrefLabel lang="nb">Innemiljø</PrefLabel>
