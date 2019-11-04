@@ -2416,6 +2416,7 @@
         <Broader>tema/friluftsliv</Broader>
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
+        <Broader>tema/miljotilskudd</Broader>
     </Concept>
     <Concept path="ord/seniortilbud">
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
@@ -7109,10 +7110,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/tilskuddsordninger-til-natur-klima-og-miljo">
-      <PrefLabel lang="en">Public funding schemes for nature, climate and environment</PrefLabel>
-      <PrefLabel lang="nb">Tilskuddsordninger til natur, klima og miljø</PrefLabel>
-      <PrefLabel lang="nn">Tilskotsordningar til natur, klima og miljø</PrefLabel>
+   <Concept path="tema/miljotilskudd">
+      <PrefLabel lang="en">Public funding schemes for environment</PrefLabel>
+      <PrefLabel lang="nb">Miljøstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Miljøtilskot</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
