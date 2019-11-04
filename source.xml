@@ -7109,6 +7109,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
+   <Concept path="tema/tilskuddsordninger-til-natur-klima-og-miljo">
+      <PrefLabel lang="en">Public funding schemes for nature, climate and environment</PrefLabel>
+      <PrefLabel lang="nb">Tilskuddsordninger til natur, klima og miljø</PrefLabel>
+      <PrefLabel lang="nn">Tilskotsordningar til natur, klima og miljø</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
    <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
       <PrefLabel lang="nb">Avlastning og støtte</PrefLabel>
