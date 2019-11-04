@@ -2430,6 +2430,15 @@
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/miljotilskudd</Broader>
     </Concept>
+    <Concept path="ord/miljotiltak">
+        <PrefLabel lang="en">Environmental measures</PrefLabel>
+        <PrefLabel lang="nb">Miljøtiltak</PrefLabel>
+        <PrefLabel lang="nn">Miljøtiltak</PrefLabel>
+        <Definition lang="nn">**</Definition>
+        <Definition lang="nb">**</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/miljotilskudd</Broader>
+    </Concept>
     <Concept path="ord/seniortilbud">
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
