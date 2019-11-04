@@ -3234,21 +3234,6 @@
       <Related>ord/vapentillatelse</Related>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
-   <Concept path="ord/karakterer">
-      <PrefLabel lang="en">Grades</PrefLabel>
-      <PrefLabel lang="nb">Karakterer</PrefLabel>
-      <PrefLabel lang="nn">Karakterar</PrefLabel>
-      <HiddenLabel lang="nb">Standpunktkarakter</HiddenLabel>
-      <HiddenLabel lang="nn">Standpunktkarakter</HiddenLabel>
-      <HiddenLabel lang="nb">Eksamenskarakter</HiddenLabel>
-      <HiddenLabel lang="nn">Eksamenskarakter</HiddenLabel>
-      <HiddenLabel lang="nb">Vitnemål</HiddenLabel>
-      <HiddenLabel lang="nn">Vitnemål</HiddenLabel>
-      <Definition lang="nn">Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-      <Broader>tema/skolehverdag</Broader>
-   </Concept>
    <Concept path="ord/kiropraktikk">
       <PrefLabel lang="en">Chiropractic services</PrefLabel>
       <PrefLabel lang="nb">Kiropraktikk</PrefLabel>
@@ -6982,7 +6967,6 @@
       <Definition lang="nb">Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
-      <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
@@ -7391,13 +7375,6 @@
       <PrefLabel lang="nn">Integrering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/innvandring-og-integrering</Broader>
-   </Concept>
-   <Concept path="tema/karakterer-og-evaluering">
-      <PrefLabel lang="en">Grades and assessment</PrefLabel>
-      <PrefLabel lang="nb">Karakterer og evaluering</PrefLabel>
-      <PrefLabel lang="nn">Karakterar og evaluering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="tema/kjop-og-salg">
       <PrefLabel lang="en">Buying and selling</PrefLabel>
