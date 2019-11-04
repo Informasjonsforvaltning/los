@@ -5235,6 +5235,15 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
+   <Concept path="ord/miljovennlig-transport">
+      <PrefLabel lang="en">Environmental transportation</PrefLabel>
+      <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
+      <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
    <Concept path="ord/reiseutgifter">
       <PrefLabel lang="en">Travel expenses</PrefLabel>
       <PrefLabel lang="nb">Reiseutgifter</PrefLabel>
