@@ -2800,6 +2800,7 @@
       <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/melding-om-bygging">
       <PrefLabel lang="en">Notice of projects</PrefLabel>
