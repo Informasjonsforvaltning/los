@@ -4241,8 +4241,8 @@
       <PrefLabel lang="en">Personal care leave</PrefLabel>
       <PrefLabel lang="nb">Omsorgspermisjon</PrefLabel>
       <PrefLabel lang="nn">Omsorgspermisjon</PrefLabel>
-      <Definition lang="nn">Permisjonsrettar for arbeidstakarar i samband med fødsel og adopsjon. Arbeidsmiljølova gjev fedrar rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre i samband med at dei overtek omsorga for barnet. </Definition>
-      <Definition lang="nb">Permisjonsretter for arbeidstakere i sforbindelse med fødsel og adopsjon. Arbeidsmiljøloven gir fedre rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre i forbindelse med at de overtar omsorgen for barnet. </Definition>
+      <Definition lang="nn">Permisjonsrettar for arbeidstakarar i forbindelse med sjukdom til barn og barnepassar, og fedres rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre og fosterforeldre i samband med at dei overtek omsorgen for barnet.</Definition>
+      <Definition lang="nb"Permisjonsretter for arbeidstakere i forbindelse med barns og barnepassers sykdom, og fedres rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre og fosterforeldre i forbindelse med at de overtar omsorgen for barnet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
       <Broader>tema/permisjonsordninger</Broader>
