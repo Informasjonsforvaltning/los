@@ -1976,17 +1976,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/fagopplaring">
-      <PrefLabel lang="en">Vocational training</PrefLabel>
-      <PrefLabel lang="nb">Fagopplæring</PrefLabel>
-      <PrefLabel lang="nn">Fagopplæring</PrefLabel>
-      <Definition lang="nn">Opplæring innanfor eit fag eller eit yrke som gir kompetanseprov og/eller sveinebrev.</Definition>
-      <Definition lang="nb">Opplæring innenfor et fag eller et yrke som gir kompetansebevis og/eller svennebrev.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagskoleutdanning</Related>
-      <Related>ord/lærling</Related>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
-   </Concept>
    <Concept path="ord/lærling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Lærling</PrefLabel>
@@ -1994,7 +1983,6 @@
       <Definition lang="nn">Ein lærling utdannar seg til eit yrke ved å jobbe i ei bedrift. Bedrifter som ønskjer lærlingar kan søkje om å bli godkjent lærebedrift og tilby læreplassar.</Definition>
       <Definition lang="nb">En lærling utdanner seg til et yrke ved å jobbe i en bedrift. Bedrifter som ønsker lærlinger kan søke om å bli godkjent lærebedrift og tilby læreplasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagopplaring</Related>
       <Broader>tema/kvalifisering-til-arbeid</Broader>
    </Concept>
    <Concept path="ord/kvalifiseringsprogram">
@@ -2015,7 +2003,6 @@
       <Definition lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår.</Definition>
       <Definition lang="nb">Korte yrkesrettede utdanningar som bygger på videregående opplæring eller tilsvarende realkompetanse, og som har et omfang tilsvarende minimum et halvt studieår og maksimuim to studieår.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/fagopplaring</Related>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
    <Concept path="ord/farlig-avfall">
@@ -2429,6 +2416,28 @@
         <Broader>tema/friluftsliv</Broader>
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
+        <Broader>tema/miljotilskudd</Broader>
+    </Concept>
+    <Concept path="ord/tilskudd-til-viltformål">
+        <PrefLabel lang="en">Funding for the wildlife</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til viltformål</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til viltformål</PrefLabel>
+        <Definition lang="nn">**</Definition>
+        <Definition lang="nb">**</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Related>ord/friomrade</Related>
+        <Broader>tema/friluftsliv</Broader>
+        <Broader>tema/naturforvaltning</Broader>
+        <Broader>tema/miljotilskudd</Broader>
+    </Concept>
+    <Concept path="ord/miljotiltak">
+        <PrefLabel lang="en">Environmental measures</PrefLabel>
+        <PrefLabel lang="nb">Miljøtiltak</PrefLabel>
+        <PrefLabel lang="nn">Miljøtiltak</PrefLabel>
+        <Definition lang="nn">**</Definition>
+        <Definition lang="nb">**</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Broader>tema/miljotilskudd</Broader>
     </Concept>
     <Concept path="ord/seniortilbud">
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
@@ -2791,6 +2800,7 @@
       <Definition lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bygging</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/melding-om-bygging">
       <PrefLabel lang="en">Notice of projects</PrefLabel>
@@ -3159,14 +3169,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt</Broader>
    </Concept>
-   <Concept path="ord/innbyggerinitiativ">
-      <PrefLabel lang="en">Citizen initiative</PrefLabel>
-      <PrefLabel lang="nb">Innbyggerinitiativ</PrefLabel>
-      <PrefLabel lang="nn">Innbyggjarinitiativ</PrefLabel>
-      <Definition lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjararne, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/politikk-og-valg</Broader>
-   </Concept>
    <Concept path="ord/innemiljo">
       <PrefLabel lang="en">Indoor environment</PrefLabel>
       <PrefLabel lang="nb">Innemiljø</PrefLabel>
@@ -3246,21 +3248,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vapentillatelse</Related>
       <Broader>tema/naturforvaltning</Broader>
-   </Concept>
-   <Concept path="ord/karakterer">
-      <PrefLabel lang="en">Grades</PrefLabel>
-      <PrefLabel lang="nb">Karakterer</PrefLabel>
-      <PrefLabel lang="nn">Karakterar</PrefLabel>
-      <HiddenLabel lang="nb">Standpunktkarakter</HiddenLabel>
-      <HiddenLabel lang="nn">Standpunktkarakter</HiddenLabel>
-      <HiddenLabel lang="nb">Eksamenskarakter</HiddenLabel>
-      <HiddenLabel lang="nn">Eksamenskarakter</HiddenLabel>
-      <HiddenLabel lang="nb">Vitnemål</HiddenLabel>
-      <HiddenLabel lang="nn">Vitnemål</HiddenLabel>
-      <Definition lang="nn">Vurdering av ein elev eller av ein prestasjon ved eksamen eller på skule. Til dette høyrer høyrer karakterar på alle nivå i utdanninga.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/karakterer-og-evaluering</Broader>
-      <Broader>tema/skolehverdag</Broader>
    </Concept>
    <Concept path="ord/kiropraktikk">
       <PrefLabel lang="en">Chiropractic services</PrefLabel>
@@ -4254,8 +4241,8 @@
       <PrefLabel lang="en">Personal care leave</PrefLabel>
       <PrefLabel lang="nb">Omsorgspermisjon</PrefLabel>
       <PrefLabel lang="nn">Omsorgspermisjon</PrefLabel>
-      <Definition lang="nn">Permisjonsrettar for arbeidstakarar i samband med fødsel og adopsjon. Arbeidsmiljølova gjev fedrar rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre i samband med at dei overtek omsorga for barnet. </Definition>
-      <Definition lang="nb">Permisjonsretter for arbeidstakere i sforbindelse med fødsel og adopsjon. Arbeidsmiljøloven gir fedre rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre i forbindelse med at de overtar omsorgen for barnet. </Definition>
+      <Definition lang="nn">Permisjonsrettar for arbeidstakarar i forbindelse med sjukdom til barn og barnepassar, og fedres rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre og fosterforeldre i samband med at dei overtek omsorgen for barnet.</Definition>
+      <Definition lang="nb"Permisjonsretter for arbeidstakere i forbindelse med barns og barnepassers sykdom, og fedres rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre og fosterforeldre i forbindelse med at de overtar omsorgen for barnet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
       <Broader>tema/permisjonsordninger</Broader>
@@ -5238,6 +5225,15 @@
       <HiddenLabel lang="nn">Ekspressbåt</HiddenLabel>
       <Definition lang="nn">Ordningar for billettkjøp og prisar til kollektivtrafikk og andre transportmiddel.</Definition>
       <Definition lang="nb">Ordninger for billettkjøp og priser til kollektivtrafikk og andre transportmidler.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/mobilitetstilbud</Broader>
+   </Concept>
+   <Concept path="ord/miljovennlig-transport">
+      <PrefLabel lang="en">Environmental transportation</PrefLabel>
+      <PrefLabel lang="nb">Miljøvennlig transport</PrefLabel>
+      <PrefLabel lang="nn">Miljøvenleg transport</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
@@ -6995,7 +6991,6 @@
       <Definition lang="nb">Eksamen kan være sentralt gitt fra Utdanningsdirektoratet eller lokalt gitt, og kan være skriftlig, muntlig eller praktisk. Fravær fra eksamen krever dokumentert gyldig fravær. Alle kan klage på sin eksamenskarakter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
-      <Broader>tema/karakterer-og-evaluering</Broader>
    </Concept>
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
@@ -7138,6 +7133,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
+   <Concept path="tema/miljotilskudd">
+      <PrefLabel lang="en">Public funding schemes for environment</PrefLabel>
+      <PrefLabel lang="nb">Miljøstilskudd</PrefLabel>
+      <PrefLabel lang="nn">Miljøtilskot</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
    <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
       <PrefLabel lang="nb">Avlastning og støtte</PrefLabel>
@@ -7254,6 +7256,13 @@
       <PrefLabel lang="en">Energy</PrefLabel>
       <PrefLabel lang="nb">Energi</PrefLabel>
       <PrefLabel lang="nn">Energi</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
+   <Concept path="tema/miljo">
+      <PrefLabel lang="en">Environment</PrefLabel>
+      <PrefLabel lang="nb">Miljø</PrefLabel>
+      <PrefLabel lang="nn">Miljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
@@ -7404,13 +7413,6 @@
       <PrefLabel lang="nn">Integrering</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/innvandring-og-integrering</Broader>
-   </Concept>
-   <Concept path="tema/karakterer-og-evaluering">
-      <PrefLabel lang="en">Grades and assessment</PrefLabel>
-      <PrefLabel lang="nb">Karakterer og evaluering</PrefLabel>
-      <PrefLabel lang="nn">Karakterar og evaluering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="tema/kjop-og-salg">
       <PrefLabel lang="en">Buying and selling</PrefLabel>
@@ -7649,6 +7651,13 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
+   </Concept>
+   <Concept path="tema/Miljøsertifisering ">
+      <PrefLabel lang="en">Environmental certification</PrefLabel>
+      <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
+      <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
