@@ -2418,6 +2418,18 @@
         <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
         <Broader>tema/miljotilskudd</Broader>
     </Concept>
+    <Concept path="ord/tilskudd-til-viltformål">
+        <PrefLabel lang="en">Funding for the wildlife</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til viltformål</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til viltformål</PrefLabel>
+        <Definition lang="nn">**</Definition>
+        <Definition lang="nb">**</Definition>
+        <InScheme>ontologi/ord</InScheme>
+        <Related>ord/friomrade</Related>
+        <Broader>tema/friluftsliv</Broader>
+        <Broader>tema/naturforvaltning</Broader>
+        <Broader>tema/miljotilskudd</Broader>
+    </Concept>
     <Concept path="ord/seniortilbud">
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
