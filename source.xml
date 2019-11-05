@@ -4269,7 +4269,7 @@
    <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
       <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
-      <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <PrefLabel lang="nn">Ytingar ved svangerskap, fødsel og adopsjon</PrefLabel>
       <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
       <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
       <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
@@ -4278,8 +4278,8 @@
       <HiddenLabel lang="nn">Svangerskapspengar</HiddenLabel>
       <HiddenLabel lang="nb">Adopsjonspenger</HiddenLabel>
       <HiddenLabel lang="nn">Adopsjonspengar</HiddenLabel>
-      <Definition lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</Definition>
-      <Definition lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
