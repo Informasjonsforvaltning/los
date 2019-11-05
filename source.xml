@@ -8,7 +8,7 @@
          <Option key="issues">https://github.com/difi/los/issues</Option>
       </Options>
       <Options key="site">
-         <Option key="root">/los/</Option>
+         <Option key="root">/los/3/</Option>
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
@@ -4242,7 +4242,7 @@
       <PrefLabel lang="nb">Omsorgspermisjon</PrefLabel>
       <PrefLabel lang="nn">Omsorgspermisjon</PrefLabel>
       <Definition lang="nn">Permisjonsrettar for arbeidstakarar i forbindelse med sjukdom til barn og barnepassar, og fedres rett til to veker fri i samband med fødselen. Tilsvarande gjeld adoptivforeldre og fosterforeldre i samband med at dei overtek omsorgen for barnet.</Definition>
-      <Definition lang="nb"Permisjonsretter for arbeidstakere i forbindelse med barns og barnepassers sykdom, og fedres rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre og fosterforeldre i forbindelse med at de overtar omsorgen for barnet.</Definition>
+      <Definition lang="nb">Permisjonsretter for arbeidstakere i forbindelse med barns og barnepassers sykdom, og fedres rett til to uker fri i forbindelse med fødselen. Tilsvarende gjelder adoptivforeldre og fosterforeldre i forbindelse med at de overtar omsorgen for barnet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
       <Broader>tema/permisjonsordninger</Broader>
