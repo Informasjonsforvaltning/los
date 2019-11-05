@@ -398,9 +398,9 @@
       <PrefLabel lang="en">All terrain vehicle</PrefLabel>
       <PrefLabel lang="nb">Firehjuling</PrefLabel>
       <PrefLabel lang="nn">Firehjuling</PrefLabel>
-	  <HiddenLabel lang="en">ATV</HiddenLabel>
-	  <HiddenLabel lang="nb">ATV</HiddenLabel>
-	  <HiddenLabel lang="nn">ATV</HiddenLabel>
+	    <HiddenLabel lang="en">ATV</HiddenLabel>
+	    <HiddenLabel lang="nb">ATV</HiddenLabel>
+	    <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
       <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
@@ -413,10 +413,10 @@
       <PrefLabel lang="en">Tracked vehicle</PrefLabel>
       <PrefLabel lang="nb">Beltekjøretøy</PrefLabel>
       <PrefLabel lang="nn">Beltekøyretøy</PrefLabel>
-	  <HiddenLabel lang="nb">Beltebil</HiddenLabel>
-	  <HiddenLabel lang="nn">Beltebil</HiddenLabel>
-	  <HiddenLabel lang="nb">Tråkkemaskin</HiddenLabel>
-	  <HiddenLabel lang="nn">Trakkemaskin</HiddenLabel>
+	    <HiddenLabel lang="nb">Beltebil</HiddenLabel>
+	    <HiddenLabel lang="nn">Beltebil</HiddenLabel>
+	    <HiddenLabel lang="nb">Tråkkemaskin</HiddenLabel>
+	    <HiddenLabel lang="nn">Trakkemaskin</HiddenLabel>
       <HiddenLabel lang="nb">Beltevogn</HiddenLabel>
       <HiddenLabel lang="nn">Beltevogn</HiddenLabel>
       <HiddenLabel lang="nb">Beltetraktor</HiddenLabel>
@@ -1111,6 +1111,8 @@
       <HiddenLabel lang="nn">Symjebasseng</HiddenLabel>
       <HiddenLabel lang="nb">Svømmeanlegg</HiddenLabel>
       <HiddenLabel lang="nn">Symjeanlegg</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/friluftsliv</Broader>
    </Concept>
@@ -1228,8 +1230,8 @@
       <HiddenLabel lang="nn">Læringssenter</HiddenLabel>
       <HiddenLabel lang="nb">Fylkesbibliotek</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesbibliotek</HiddenLabel>
-       <Definition lang="nn">Bibliotektenester omfattar lån av medium, lesing og studium, men er også ein møteplass og sosial arena og lokale for kulturarrangement. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysing, utdanning og anna kulturell verksemd.</Definition>
-       <Definition lang="nb">Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.</Definition>
+      <Definition lang="nn">Bibliotektenester omfattar lån av medium, lesing og studium, men er også ein møteplass og sosial arena og lokale for kulturarrangement. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysing, utdanning og anna kulturell verksemd.</Definition>
+      <Definition lang="nb">Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bibliotek</Broader>
       <Broader>tema/hoyere-utdanning</Broader>
@@ -1373,7 +1375,6 @@
       <Broader>tema/avgift</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
-
    <Concept path="ord/vegnett">
       <PrefLabel lang="en">Rod network</PrefLabel>
       <PrefLabel lang="nb">Vegnett</PrefLabel>
@@ -1435,6 +1436,8 @@
       <PrefLabel lang="nn">Bustadattest</PrefLabel>
       <HiddenLabel lang="nb">Bostedsbevis</HiddenLabel>
       <HiddenLabel lang="nn">Bustadbevis</HiddenLabel>
+      <Definition lang="nb">**</Definition>
+      <Definition lang="nn">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/flytting</Broader>
    </Concept>
@@ -1502,7 +1505,7 @@
       <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
       <Definition lang="nn">Snørydding og vintervedlikehald.</Definition>
-	  <Definition lang="nb">Snørydding og vintervedlikehold.</Definition>
+	    <Definition lang="nb">Snørydding og vintervedlikehold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
@@ -1515,7 +1518,7 @@
       <HiddenLabel lang="nb">Brøyteavtale</HiddenLabel>
       <HiddenLabel lang="nn">Brøyteavtale</HiddenLabel>
       <Definition lang="nn">Feiing og rydding av sand og grus, vårreingjering av vegar, strøing av sand og grus om vinteren.</Definition>
-     <Definition lang="nb">Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.</Definition>
+      <Definition lang="nb">Feiing og rydding av sand og grus, vårrengjøring av veier, strøing av sand og grus om vinteren.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
@@ -1604,6 +1607,8 @@
       <PrefLabel lang="en">D-number</PrefLabel>
       <PrefLabel lang="nb">D-nummer</PrefLabel>
       <PrefLabel lang="nn">D-nummer</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
@@ -1653,6 +1658,8 @@
       <HiddenLabel lang="nn">Legeerklæring ved dødsfall</HiddenLabel>
       <HiddenLabel lang="nb">Dødsårsak</HiddenLabel>
       <HiddenLabel lang="nn">Dødsårsak</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/dodsfall-og-gravferd</Broader>
    </Concept>
@@ -1735,6 +1742,7 @@
       <HiddenLabel lang="nb">Forliksklage</HiddenLabel>
       <HiddenLabel lang="nn">Forliksklage</HiddenLabel>
       <Definition lang="nn">Domstolane er ei av dei tre statsmaktene i Noreg, og utøver den dømmande makta. Herunder også forliksråd og spesialdomstolane.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -1756,6 +1764,7 @@
       <HiddenLabel lang="nb">Dyrevern</HiddenLabel>
       <HiddenLabel lang="nn">Dyrevern</HiddenLabel>
       <Definition lang="nn">Helsetilstand og trivnad til husdyr. Sports- og kjæledyr, reindrift, oppdrettsnæring og landbruk er alle eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -1794,6 +1803,8 @@
       <HiddenLabel lang="nn">Meklaropplysningar</HiddenLabel>
       <HiddenLabel lang="nb">Boligsalg</HiddenLabel>
       <HiddenLabel lang="nn">Bustadsal</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/boligfinansiering</Related>
       <Broader>tema/kjop-og-salg</Broader>
@@ -1904,6 +1915,8 @@
       <PrefLabel lang="en">Energy labelling</PrefLabel>
       <PrefLabel lang="nb">Energimerking</PrefLabel>
       <PrefLabel lang="nn">Energimerking</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/energi</Broader>
    </Concept>
@@ -1949,6 +1962,8 @@
       <PrefLabel lang="en">Further education</PrefLabel>
       <PrefLabel lang="nb">Etterutdanning og videreutdanning</PrefLabel>
       <PrefLabel lang="nn">Etterutdanning og vidareutdanning</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/voksenopplaring</Broader>
@@ -2041,6 +2056,8 @@
       <PrefLabel lang="en">Prison health service</PrefLabel>
       <PrefLabel lang="nb">Fengselshelsetjeneste</PrefLabel>
       <PrefLabel lang="nn">Fengselshelseteneste</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2098,11 +2115,13 @@
       <PrefLabel lang="en">Distance learning</PrefLabel>
       <PrefLabel lang="nb">Fjernundervisning</PrefLabel>
       <PrefLabel lang="nn">Fjernundervisning</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
-     <Concept path="ord/flomvarsel">
+   <Concept path="ord/flomvarsel">
       <PrefLabel lang="en">Flood warning</PrefLabel>
       <PrefLabel lang="nb">Flomvarsel</PrefLabel>
       <PrefLabel lang="nn">Flaumvarsel</PrefLabel>
@@ -2137,6 +2156,8 @@
       <PrefLabel lang="en">Alert</PrefLabel>
       <PrefLabel lang="nb">Flyalarm</PrefLabel>
       <PrefLabel lang="nn">Flyalarm</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/varslingstjenester</Broader>
    </Concept>
