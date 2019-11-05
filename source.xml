@@ -4310,8 +4310,6 @@
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
       <PrefLabel lang="nb">Ytelser til foreldre og foresatte</PrefLabel>
       <PrefLabel lang="nn">Ytingar til foreldre og føresette</PrefLabel>
-      <HiddenLabel lang="nb">Barnetrygd</HiddenLabel>
-      <HiddenLabel lang="nn">Barnetrygd</HiddenLabel>
       <HiddenLabel lang="nb">Barnebidrag</HiddenLabel>
       <HiddenLabel lang="nn">Barnebidrag</HiddenLabel>
       <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
@@ -4338,6 +4336,7 @@
       <Related>ord/foreldrepermisjon</Related>
       <Related>ord/kontantstøtte</Related>
       <Related>ord/barnebidrag</Related>
+      <Related>ord/barnetrygd</Related>
       <Related>ord/stønad-til-enslig-forsørger</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
