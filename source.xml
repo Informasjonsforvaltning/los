@@ -6802,14 +6802,6 @@
       <Related>ord/oppsigelse</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
-   <Concept path="ord/ventestonad">
-      <PrefLabel lang="en">Severance grant</PrefLabel>
-      <PrefLabel lang="nb">Ventestønad</PrefLabel>
-      <PrefLabel lang="nn">Ventestønad</PrefLabel>
-      <Definition lang="nn">Ventestønad er ein stønad til livsopphald og skal erstatte tapt inntekt når ein har avslutta ein lang dagpengeperiode.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
-   </Concept>
    <Concept path="ord/vergemal">
       <PrefLabel lang="en">Guardianship</PrefLabel>
       <PrefLabel lang="nb">Vergemål</PrefLabel>
