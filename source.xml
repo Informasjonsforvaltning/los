@@ -152,6 +152,7 @@
       <HiddenLabel lang="nb">Navigasjon</HiddenLabel>
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Definition lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
@@ -173,6 +174,7 @@
       <HiddenLabel lang="nb">Sjøvett</HiddenLabel>
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Definition lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
@@ -215,6 +217,7 @@
       <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
       <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
       <Definition lang="nn">Landingsløyve, landingsplass m.m. for helikopter.</Definition>
+      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
@@ -300,6 +303,7 @@
       <HiddenLabel lang="nb">Helikopter</HiddenLabel>
       <HiddenLabel lang="nn">Helikopter</HiddenLabel>
       <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -354,6 +358,8 @@
       <PrefLabel lang="en">Passenger transport licence</PrefLabel>
       <PrefLabel lang="nb">Kjøreseddel</PrefLabel>
       <PrefLabel lang="nn">Køyresetel</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
   </Concept>
@@ -362,6 +368,7 @@
       <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
       <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
       <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -376,7 +383,7 @@
       <PrefLabel lang="en">Snowmobile</PrefLabel>
       <PrefLabel lang="nb">Snøskuter</PrefLabel>
       <PrefLabel lang="nn">Snøskuter</PrefLabel>
-	  <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
+	    <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
       <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
       <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
       <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
@@ -488,6 +495,7 @@
       <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
       <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
       <Definition lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
@@ -579,6 +587,7 @@
       <HiddenLabel lang="nb">Fiskeoppdrett</HiddenLabel>
       <HiddenLabel lang="nn">Fiskeoppdrett</HiddenLabel>
       <Definition lang="nn">Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt som mat.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
@@ -628,6 +637,7 @@
       <HiddenLabel lang="nb">Fri ferdsel</HiddenLabel>
       <HiddenLabel lang="nn">Fri ferdsel</HiddenLabel>
       <Definition lang="nn">Ein av dei viktigaste føresetnadene for utøving av friluftsliv. Allemannsretten gjeld i utmark. Alllemannsretten er ein opphalds- og ferdselsrett, men gjev også rett til å hauste t.d. bær, sopp og blomster.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
@@ -642,6 +652,7 @@
       <HiddenLabel lang="nb">Pollenvarsel</HiddenLabel>
       <HiddenLabel lang="nn">Pollenvarsel</HiddenLabel>
       <Definition lang="nn">Overfølsam overfor stoff ein kjem i kontakt med. Medrekna pollenvarsling.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -650,6 +661,7 @@
       <PrefLabel lang="nb">Alternativ behandling</PrefLabel>
       <PrefLabel lang="nn">Alternativ behandling</PrefLabel>
       <Definition lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -767,6 +779,7 @@
       <HiddenLabel lang="nb">Hjemmevaktmester</HiddenLabel>
       <HiddenLabel lang="nn">Heimevaktmeister</HiddenLabel>
       <Definition lang="nn">Kommunalt tilbod om hjelp til enkle praktiske gjeremål, enkle reperasjonar og vedlikehaldsarbeid.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -794,6 +807,7 @@
       <HiddenLabel lang="nb">Lovbrudd</HiddenLabel>
       <HiddenLabel lang="nn">Lovbrot</HiddenLabel>
       <Definition lang="nn">Melde ei sak til politiet.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -830,6 +844,7 @@
       <HiddenLabel lang="nb">Ansettelsesforhold</HiddenLabel>
       <HiddenLabel lang="nn">Tilsetjingsforhold</HiddenLabel>
       <Definition lang="nn">Avtale som omtalar rettane og pliktene til arbeidsgjevar og arbeidstakar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -907,6 +922,7 @@
       <HiddenLabel lang="nb">Praksisplass</HiddenLabel>
       <HiddenLabel lang="nn">Praksisplass</HiddenLabel>
       <Definition lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -1180,6 +1196,7 @@
       <PrefLabel lang="nb">Behandlingsreise</PrefLabel>
       <PrefLabel lang="nn">Behandlingsreise</PrefLabel>
       <Definition lang="nn">Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -1284,6 +1301,7 @@
       <HiddenLabel lang="nb">Genteknologi</HiddenLabel>
       <HiddenLabel lang="nn">Genteknologi</HiddenLabel>
       <Definition lang="nn">All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller eller delar av slike celler til å framstille produkt, eller til å modifisere og forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -1298,6 +1316,7 @@
       <HiddenLabel lang="nb">Blodbank</HiddenLabel>
       <HiddenLabel lang="nn">Blodbank</HiddenLabel>
       <Definition lang="nn">Blod kan ikkje framstillast kunstig. Hovudregelen er at alle friske menneske mellom 18 og 65 år kan melde seg som blodgjevar og gje blod inntil fire gonger pr. år.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -1621,6 +1640,7 @@
       <HiddenLabel lang="nb">Arbeidsløshetstrygd</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Definition lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
@@ -1692,6 +1712,7 @@
       <HiddenLabel lang="nb">Påanking</HiddenLabel>
       <HiddenLabel lang="nn">Påanking</HiddenLabel>
       <Definition lang="nn">Ei rettsavgjerd som avsluttar saka. I ei sivil sak vert kravet som er sett fram avgjort. I ei straffesak blir det avgjort om tiltalte er skuldig i ei straffbar handling og kva straff han i tilfelle skal ha.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -2130,6 +2151,7 @@
       <HiddenLabel lang="nb">Flomfare</HiddenLabel>
       <HiddenLabel lang="nn">Flaumfare</HiddenLabel>
       <Definition lang="nn">Varsel om flaum. Medrekna vassføringsprognosar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -4407,6 +4429,7 @@
       <PrefLabel lang="nb">Oppgaveplikt</PrefLabel>
       <PrefLabel lang="nn">Oppgåveplikt</PrefLabel>
       <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven. (Bedin) ((Plikt til å føre oppgåver over oppdrag, lønnsutbetalingar, gje melding om og dokumentere transaksjonar, lønn (????) (OBS Forskrift om oppgaveplikt ved brønnboring og grunnvannsundersøkelser!!) ))</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skatt-og-avgift</Broader>
    </Concept>
@@ -4434,6 +4457,7 @@
       <HiddenLabel lang="nb">Familieinnvandring</HiddenLabel>
       <HiddenLabel lang="nn">Familieinnvandring</HiddenLabel>
       <Definition lang="nn">Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstillatelse</Related>
       <Broader>tema/innbyggerrettigheter</Broader>
@@ -4516,6 +4540,7 @@
       <HiddenLabel lang="nb">Donor</HiddenLabel>
       <HiddenLabel lang="nn">Donor</HiddenLabel>
       <Definition lang="nn">Organdonasjon er når ein organdonor gjev eitt eller fleire organ til andre. Som oftast skjer dette når donor er død, men ein levande person kan også avgje ei nyre og ein del av levera.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -4545,6 +4570,8 @@
       <PrefLabel lang="en">Withdrawal of criminal charges</PrefLabel>
       <PrefLabel lang="nb">Påtaleunnlatelse</PrefLabel>
       <PrefLabel lang="nn">Påtaleunnlating</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -4590,6 +4617,7 @@
       <HiddenLabel lang="nb">Pasientombud</HiddenLabel>
       <HiddenLabel lang="nn">Pasienteombod</HiddenLabel>
       <Definition lang="nn">Helsetilsynet i fylket kan etter forspurnad frå pasient eller pårørande vurdere om helsepersonell i spesialisthelsetenesta har gitt forsvarleg behandling. Ein eventuell klage skal sendast til Statens helsetilsyn for vurdering etter helsepersonelllova.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasientskadeerstatning</Related>
       <Broader>tema/omsorgstjenester</Broader>
@@ -4604,6 +4632,7 @@
       <HiddenLabel lang="nb">Pasientombud</HiddenLabel>
       <HiddenLabel lang="nn">Pasienteombod</HiddenLabel>
       <Definition lang="nn">Er ein blitt påført skade etter behandlingssvikt innan den offentlege helsetenesta, kan ein ha krav på erstatning. Norsk pasientskadeerstatning er ein eigen erstatningsordning som er oppretta for fysiske pasientskadar innan for det offentlege helsevesen. Pasientombudet kan gi nærare informasjon om dette.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
@@ -4666,6 +4695,7 @@
       <HiddenLabel lang="nb">Logoped</HiddenLabel>
       <HiddenLabel lang="nn">Logoped</HiddenLabel>
       <Definition lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
@@ -4701,6 +4731,7 @@
       <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
       <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
       <Definition lang="nn">Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -4935,6 +4966,8 @@
       <PrefLabel lang="nn">Politiattest</PrefLabel>
       <HiddenLabel lang="nb">Vandelsattest</HiddenLabel>
       <HiddenLabel lang="nn">Vandelsattest</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
@@ -4949,6 +4982,7 @@
       <HiddenLabel lang="nb">Partifinansiering</HiddenLabel>
       <HiddenLabel lang="nn">Partifinansiering</HiddenLabel>
       <Definition lang="nn">Alle parti som vil ha einerett til partinamn eller ønskjer å stille liste etter "forenkla reglar" må la seg registrere i Partiregisteret ved Brønnøysundregistra.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
@@ -4959,6 +4993,7 @@
       <HiddenLabel lang="nb">Sterilisering</HiddenLabel>
       <HiddenLabel lang="nn">Sterilisering</HiddenLabel>
       <Definition lang="nn">Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/svangerskap</Broader>
    </Concept>
@@ -4969,6 +5004,7 @@
       <HiddenLabel lang="nb">Friskole</HiddenLabel>
       <HiddenLabel lang="nn">Friskule</HiddenLabel>
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/fag--og-yrkesopplaring</Broader>
@@ -5004,6 +5040,7 @@
       <HiddenLabel lang="nb">Produktmerking</HiddenLabel>
       <HiddenLabel lang="nn">Produktmerking</HiddenLabel>
       <Definition lang="nn">At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap og Statens forureiningstilsyn forvaltar produktkontrolllova.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
@@ -5030,6 +5067,7 @@
       <HiddenLabel lang="nb">DPS</HiddenLabel>
       <HiddenLabel lang="nn">DPS</HiddenLabel>
       <Definition lang="nn">I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no)</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -5045,6 +5083,7 @@
       <HiddenLabel lang="nb">Fylkesplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Definition lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane. Reguleringsplan og kommuneplanlegging er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kommunale-planer</Broader>
    </Concept>
@@ -5087,6 +5126,7 @@
       <HiddenLabel lang="nb">Salgsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Salsmelding</HiddenLabel>
       <Definition lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -5213,6 +5253,7 @@
       <PrefLabel lang="nb">Rehabiliteringspenger</PrefLabel>
       <PrefLabel lang="nn">Rehabiliteringspengar</PrefLabel>
       <Definition lang="nn">Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid. Attføringsytingar, sjukepengar, uførepensjon og uførestønad er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
@@ -5298,6 +5339,7 @@
       <HiddenLabel lang="nb">Reisetilskudd</HiddenLabel>
       <HiddenLabel lang="nn">Reisetilskot</HiddenLabel>
       <Definition lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -5377,6 +5419,7 @@
       <HiddenLabel lang="nb">Billighetserstatning</HiddenLabel>
       <HiddenLabel lang="nn">Rettferdsvederlag</HiddenLabel>
       <Definition lang="nn">Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
@@ -5397,6 +5440,7 @@
       <HiddenLabel lang="nb">Advokathjelp</HiddenLabel>
       <HiddenLabel lang="nn">Advokathjelp</HiddenLabel>
       <Definition lang="nn">Fri rettshjelp betyr at staten heilt eller delvis kan dekkje utgiftene til advokathjelp. Fri rettshjelp omfattar både fritt rettsråd og fri sakførsle. I nokre saker kan ein få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det eit vilkår at ein er under visse inntektsgrenser.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -5425,6 +5469,7 @@
       <HiddenLabel lang="nb">Rettstvist</HiddenLabel>
       <HiddenLabel lang="nn">Rettstvist</HiddenLabel>
       <Definition lang="nn">Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -5510,7 +5555,7 @@
       <HiddenLabel lang="nb">Bildeling</HiddenLabel>
       <HiddenLabel lang="nn">Bildeling</HiddenLabel>
       <Definition lang="nn">**</Definition>
-	  <Definition lang="nb">**</Definition>
+	    <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
    </Concept>
@@ -5547,6 +5592,7 @@
       <HiddenLabel lang="nb">Samboerkontrakt</HiddenLabel>
       <HiddenLabel lang="nn">Sambuarkontrakt</HiddenLabel>
       <Definition lang="nn">Det er inga generell likebehandling av sambuarar og ektepar i lovverket. Sambuarar blir behandla som ektefellar på enkelte område og som einslege på andre. Medrekna sambuarkontrakt.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/samliv</Broader>
    </Concept>
@@ -5557,6 +5603,7 @@
       <HiddenLabel lang="nb">Samfunnstjeneste</HiddenLabel>
       <HiddenLabel lang="nn">Samfunnsteneste</HiddenLabel>
       <Definition lang="nn">Alternativ til fengselsstraff når det elles ikkje ville ha vorte dømt strengare straff enn fengsel i eitt år.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -5586,6 +5633,7 @@
       <HiddenLabel lang="nb">Delt foreldreansvar</HiddenLabel>
       <HiddenLabel lang="nn">Delt foreldreansvar</HiddenLabel>
       <Definition lang="nn">Søknad om separasjon skal sendast til Fylkesmannen. Etter eitt år med separasjon kan ein søkja om skilsmisse. Ektefeller som flytter frå kvarandre utan å vere separerte, kan søkje om skilsmisse to år etter samlivsbrotet. Dersom ektefellene har felles barn under 16 år, må dei møte til mekling før dei kan separerast eller skiljast.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
@@ -5598,6 +5646,7 @@
       <HiddenLabel lang="nb">Studieplass</HiddenLabel>
       <HiddenLabel lang="nn">Studieplass</HiddenLabel>
       <Definition lang="nn">Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt tilbod om ventelisteplass.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
@@ -5688,6 +5737,7 @@
       <HiddenLabel lang="nb">Offentlig skifte</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg skifte</HiddenLabel>
       <Definition lang="nn">Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/samlivsbrudd</Related>
       <Broader>tema/dodsfall-og-gravferd</Broader>
@@ -5701,6 +5751,7 @@
       <HiddenLabel lang="nb">Skogbrannfare</HiddenLabel>
       <HiddenLabel lang="nn">Skogbrannfare</HiddenLabel>
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -5769,6 +5820,7 @@
       <HiddenLabel lang="nb">SFO</HiddenLabel>
       <HiddenLabel lang="nn">SFO</HiddenLabel>
       <Definition lang="nn">Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/grunnskole</Broader>
@@ -5784,6 +5836,7 @@
       <HiddenLabel lang="nb">Helsesøster</HiddenLabel>
       <HiddenLabel lang="nn">Helsesøster</HiddenLabel>
       <Definition lang="nn">Tilbod om helsetenester til alle skuleelevar under 20 år. Gjev råd og rettleiing, gjennomfører helseundersøkingar og vaksinasjonar og kan, ved behov, vise vidare til anna helsepersonell som fastlege, tannlege eller til spesialist. Har også som oppgåve å fremje godt lærings- og arbeidsmiljø for elevane. Kommunen er ansvarleg for tenesta.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -5800,7 +5853,7 @@
       <HiddenLabel lang="nb">Skolebuss</HiddenLabel>
       <HiddenLabel lang="nn">Skulebuss</HiddenLabel>
       <Definition lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</Definition>
-	  <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
+	    <Definition lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/skolehverdag</Broader>
@@ -5830,6 +5883,7 @@
       <HiddenLabel lang="nb">Jordskred</HiddenLabel>
       <HiddenLabel lang="nn">Jordskred</HiddenLabel>
       <Definition lang="nn">Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -5841,6 +5895,7 @@
       <HiddenLabel lang="nb">Slektsforsking</HiddenLabel>
       <HiddenLabel lang="nn">Slektsforsking</HiddenLabel>
       <Definition lang="nn">Kartlegging av forfedre og deira samtid ved hjelp av ressursar som til dømes kyrkjebøker, tingbøker, folketeljingar og emigrantprotokollar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
@@ -5869,6 +5924,7 @@
       <HiddenLabel lang="nb">Hygiene</HiddenLabel>
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
       <Definition lang="nn">Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vaksine</Related>
       <Broader>tema/folkehelse</Broader>
@@ -5886,6 +5942,7 @@
       <HiddenLabel lang="nb">Sikring</HiddenLabel>
       <HiddenLabel lang="nn">Sikring</HiddenLabel>
       <Definition lang="nn">Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff, kan det vere aktuelt med soning utanfor fengsel med særlege vilkår.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -5931,6 +5988,8 @@
       <HiddenLabel lang="nb">Spesialskole</HiddenLabel>
       <HiddenLabel lang="nn">Spesialskule</HiddenLabel>
       <HiddenLabel lang="nn">Spesialundervising</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/voksenopplaring</Broader>
@@ -5944,6 +6003,7 @@
       <HiddenLabel lang="nb">Spillehall</HiddenLabel>
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Definition lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
@@ -5957,6 +6017,7 @@
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Definition lang="nn">Speleavhengigheit er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleautomat</Related>
       <Broader>tema/rus-og-avhengighet</Broader>
@@ -5966,6 +6027,7 @@
       <PrefLabel lang="nb">Statsborgerskap</PrefLabel>
       <PrefLabel lang="nn">Statsborgarskap</PrefLabel>
       <Definition lang="nn">Inneber tilhøyring til ein stat, og visse rettar og plikter overfor denne staten. Norsk statsborgarskap kan ein få ved fødsel, adopsjon, etter melding eller etter søknad.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -5986,6 +6048,7 @@
       <HiddenLabel lang="nb">Individstønad</HiddenLabel>
       <HiddenLabel lang="nn">Individstønad</HiddenLabel>
       <Definition lang="nn">Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i tiltaket.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsmarkedstiltak</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -6081,6 +6144,7 @@
       <HiddenLabel lang="nb">UV-varsling</HiddenLabel>
       <HiddenLabel lang="nn">UV-varsling</HiddenLabel>
       <Definition lang="nn">Førebygging av skadelege verknader av stråling på menneske og miljø. Dette gjeld stråling frå radioaktivt stoff, røntgenstråling, partikkelstråling, og optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller anna stråling med tilsvarande biologisk effekt, og ultralyd.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
@@ -6102,6 +6166,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
@@ -6122,6 +6187,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
@@ -6209,6 +6275,7 @@
       <HiddenLabel lang="nb">Sykeheimsplass</HiddenLabel>
       <HiddenLabel lang="nn">Sjukeheimsplass</HiddenLabel>
       <Definition lang="nn">Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad. Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
       <Broader>tema/helsetjenester</Broader>
@@ -6228,6 +6295,7 @@
       <HiddenLabel lang="nb">Diagnoserelaterte grupper</HiddenLabel>
       <HiddenLabel lang="nn">Diagnoserelaterte grupper</HiddenLabel>
       <Definition lang="nn">Ei fellesnemning på offentlege og private institusjonar som yter medisinsk hjelp.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -6269,6 +6337,8 @@
       <HiddenLabel lang="nn">Helsebuss</HiddenLabel>
       <HiddenLabel lang="nb">Pasientreise</HiddenLabel>
       <HiddenLabel lang="nn">Pasientreise</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/behandlingsreise</Related>
       <Related>ord/reiseutgifter</Related>
@@ -6321,6 +6391,7 @@
       <HiddenLabel lang="nb">Tannkjøttsykdom</HiddenLabel>
       <HiddenLabel lang="nn">Tannkjøtsjukdom</HiddenLabel>
       <Definition lang="nn">Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege tannhelsetenesta.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -6341,7 +6412,7 @@
       <Broader>tema/fritid</Broader>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
-   <Concept path="ord/Dyrehold">
+   <Concept path="ord/dyrehold">
       <PrefLabel lang="en">Pet keeping</PrefLabel>
       <PrefLabel lang="nb">Dyrehold</PrefLabel>
       <PrefLabel lang="nn">Dyrehold</PrefLabel>
@@ -6371,7 +6442,7 @@
       <HiddenLabel lang="nb">TT-ordning</HiddenLabel>
       <HiddenLabel lang="nn">TT-ordning</HiddenLabel>
       <Definition lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</Definition>
-	  <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
+	    <Definition lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
       <Broader>tema/omsorgstjenester</Broader>
@@ -6409,6 +6480,7 @@
       <HiddenLabel lang="nb">Grunnbok</HiddenLabel>
       <HiddenLabel lang="nn">Grunnbok</HiddenLabel>
       <Definition lang="nn">Tinglysing er ei offentleg registrering av ein avtale mellom to partar om rettar og plikter som gjeld fast eigedom eller visse typar lausøyre. Tinglyste dokument som gjeld fast eigedom blir registrerte i grunnboka.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/eiendomsregister</Related>
       <Related>ord/dokumentavgift</Related>
@@ -6448,6 +6520,7 @@
       <HiddenLabel lang="nb">Snus</HiddenLabel>
       <HiddenLabel lang="nn">Snus</HiddenLabel>
       <Definition lang="nn">Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -6495,6 +6568,7 @@
       <HiddenLabel lang="nb">Tollsats</HiddenLabel>
       <HiddenLabel lang="nn">Tollsats</HiddenLabel>
       <Definition lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -6530,7 +6604,7 @@
       <HiddenLabel lang="nb">Omkjøring</HiddenLabel>
       <HiddenLabel lang="nn">Omkøyring</HiddenLabel>
       <Definition lang="nn">Informasjon om veg og trafikkforhold.</Definition>
-	  <Definition lang="nb">Informasjon om veg og trafikkforhold.</Definition>
+	    <Definition lang="nb">Informasjon om veg og trafikkforhold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
@@ -6595,6 +6669,7 @@
       <HiddenLabel lang="nb">In vitro-befruktning</HiddenLabel>
       <HiddenLabel lang="nn">In vitro-befruktning</HiddenLabel>
       <Definition lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/adopsjon</Related>
       <Broader>tema/svangerskap</Broader>
@@ -6610,6 +6685,7 @@
       <HiddenLabel lang="nb">Aktivitetsstøtte</HiddenLabel>
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
       <Definition lang="nn">Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
@@ -6631,6 +6707,7 @@
       <HiddenLabel lang="nb">Utslippsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Utsleppsløyve</HiddenLabel>
       <Definition lang="nn">Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
@@ -6644,6 +6721,8 @@
       <HiddenLabel lang="nn">Våpenkort</HiddenLabel>
       <HiddenLabel lang="nb">Våpensøknad</HiddenLabel>
       <HiddenLabel lang="nn">Våpensøknad</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/jakt-og-fangst</Related>
       <Broader>tema/fritid</Broader>
@@ -6674,6 +6753,8 @@
       <HiddenLabel lang="nn">Vermelding</HiddenLabel>
       <HiddenLabel lang="nb">Værvarsling</HiddenLabel>
       <HiddenLabel lang="nn">Vervarsling</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -6858,6 +6939,7 @@
       <HiddenLabel lang="nb">Vartpenger</HiddenLabel>
       <HiddenLabel lang="nn">Vartpengar</HiddenLabel>
       <Definition lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppsigelse</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -6875,6 +6957,7 @@
       <HiddenLabel lang="nb">Umyndig</HiddenLabel>
       <HiddenLabel lang="nn">Umyndig</HiddenLabel>
       <Definition lang="nn">Verje er ein person som tek seg av ein umyndig sine interesser og handlar for den umyndige i formuessakene hans. Ein umyndig er etter lova ein mindreårig (under 18 år) eller ein som er umyndiggjort. Den umyndige kan ikkje sjølv råde over midlane sine eller binde seg ved rettshandel med mindre anna er bestemt.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -6901,6 +6984,7 @@
       <HiddenLabel lang="nb">Førstegangstjeneste</HiddenLabel>
       <HiddenLabel lang="nn">Førstegongsteneste</HiddenLabel>
       <Definition lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
@@ -6908,6 +6992,8 @@
       <PrefLabel lang="en">Repetition service</PrefLabel>
       <PrefLabel lang="nb">Repetisjonstjeneste</PrefLabel>
       <PrefLabel lang="nn">Repetisjonstjeneste</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
@@ -6915,6 +7001,8 @@
       <PrefLabel lang="en">Session</PrefLabel>
       <PrefLabel lang="nb">Sesjon</PrefLabel>
       <PrefLabel lang="nn">Sesjon</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
@@ -7093,6 +7181,7 @@
       <PrefLabel lang="nb">Voldsoffererstatning</PrefLabel>
       <PrefLabel lang="nn">Valdsoffererstatning</PrefLabel>
       <Definition lang="nn">Statleg erstatning som vert ytt til skadelidande etter visse valdshandlingar, mellom anna overfall, mishandling og valdtekt.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
@@ -7114,6 +7203,7 @@
       <HiddenLabel lang="nb">Autorisasjon</HiddenLabel>
       <HiddenLabel lang="nn">Autorisasjon</HiddenLabel>
       <Definition lang="nn">Rett til å praktisere eit yrke.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidssoking</Broader>
    </Concept>
