@@ -2191,6 +2191,7 @@
       <HiddenLabel lang="nb">Flytting til utlandet</HiddenLabel>
       <HiddenLabel lang="nn">Flytting til utlandet</HiddenLabel>
       <Definition lang="nn">Melding om flytting. Skal sendast til folkeregisteret ved likningskontoret. Medrekna flytting til utlandet.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
       <Broader>tema/flytting</Broader>
@@ -2199,6 +2200,8 @@
       <PrefLabel lang="en">Birth certificate</PrefLabel>
       <PrefLabel lang="nb">Fødselsattest</PrefLabel>
       <PrefLabel lang="nn">Fødselsattest</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
@@ -2208,6 +2211,8 @@
       <PrefLabel lang="nn">Fødselsnummer</PrefLabel>
       <HiddenLabel lang="nb">Personnummer</HiddenLabel>
       <HiddenLabel lang="nn">Personnummer</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
    </Concept>
@@ -2243,6 +2248,7 @@
       <HiddenLabel lang="nb">Forenklet forelegg</HiddenLabel>
       <HiddenLabel lang="nn">Forenkla førelegg</HiddenLabel>
       <Definition lang="nn">Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -2275,6 +2281,7 @@
       <HiddenLabel lang="nb">Grønn energi</HiddenLabel>
       <HiddenLabel lang="nn">Grøn energi</HiddenLabel>
       <Definition lang="nn">Energi frå fornybare energikjelder. Energisparing og kraftpris er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/energi</Broader>
    </Concept>
@@ -2378,8 +2385,8 @@
       <HiddenLabel lang="nn">Park</HiddenLabel>
       <HiddenLabel lang="nb">Turområde</HiddenLabel>
       <HiddenLabel lang="nn">Turområde</HiddenLabel>
-       <Definition lang="nn">Eit geografisk avgrensa areal som er regulert av kommunen til friluftsliv. Regulering til friområde blir gjerne brukt for å sikre publikumet tilgang til attraktive areal nær tettbygd område. Det gjeld spesielt område som eignar seg for badeliv, sportsfiske, leik og turgåing og på ski.</Definition>
-       <Definition lang="nb">Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv, sportsfiske, lek og turgåing til fots og på ski.</Definition>
+      <Definition lang="nn">Eit geografisk avgrensa areal som er regulert av kommunen til friluftsliv. Regulering til friområde blir gjerne brukt for å sikre publikumet tilgang til attraktive areal nær tettbygd område. Det gjeld spesielt område som eignar seg for badeliv, sportsfiske, leik og turgåing og på ski.</Definition>
+      <Definition lang="nb">Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv, sportsfiske, lek og turgåing til fots og på ski.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/balbrenning</Related>
       <Broader>tema/friluftsliv</Broader>
@@ -2648,6 +2655,7 @@
       <HiddenLabel lang="nb">Pyroteknisk vare</HiddenLabel>
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2656,6 +2664,7 @@
       <PrefLabel lang="nb">Bekymringsmelding om brannsikkerhet</PrefLabel>
       <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
       <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2664,6 +2673,7 @@
       <PrefLabel lang="nb">Branntilsyn</PrefLabel>
       <PrefLabel lang="nn">Branntilsyn</PrefLabel>
       <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2672,6 +2682,7 @@
       <PrefLabel lang="nb">Melding om overnatting</PrefLabel>
       <PrefLabel lang="nn">Melding om overnatting</PrefLabel>
       <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2686,6 +2697,7 @@
       <HiddenLabel lang="nb">Manuellterapi</HiddenLabel>
       <HiddenLabel lang="nn">Manuellterapi</HiddenLabel>
       <Definition lang="nn">Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi. Ergoterapi, kiropraktikk og eigendelar er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2759,6 +2771,7 @@
       <HiddenLabel lang="nb">Giftig</HiddenLabel>
       <HiddenLabel lang="nn">Giftig</HiddenLabel>
       <Definition lang="nn">Informasjon om gift og forgiftningar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -2959,6 +2972,7 @@
       <PrefLabel lang="nb">Heftelser i motorvogn</PrefLabel>
       <PrefLabel lang="nn">Hefte i motorvogn</PrefLabel>
       <Definition lang="nn">Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -2971,6 +2985,7 @@
       <HiddenLabel lang="nb">Helsesøster</HiddenLabel>
       <HiddenLabel lang="nn">Helsesøster</HiddenLabel>
       <Definition lang="nn">Kommunalt tilbod om helsefremjande og førebyggjande helsearbeid.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vaksine</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -3052,6 +3067,7 @@
       <PrefLabel lang="nb">Hjemmeundervisning</PrefLabel>
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
@@ -3062,6 +3078,7 @@
       <HiddenLabel lang="nb">Høyskole</HiddenLabel>
       <HiddenLabel lang="nn">Høgskule</HiddenLabel>
       <Definition lang="nn">Høgare utdanning omfattar universitets- og høgskuleutdanning. Den byggjer normalt på eksamen frå treårig vidaregåande opplæring.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
@@ -3121,6 +3138,7 @@
       <PrefLabel lang="nb">Idrettsarrangement</PrefLabel>
       <PrefLabel lang="nn">Idrettsarrangement</PrefLabel>
       <Definition lang="nn">Idrettskonkurransar, turneringar, fotballkampar osb.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/idrett</Broader>
    </Concept>
@@ -3133,6 +3151,7 @@
       <HiddenLabel lang="nb">Idrettsforening</HiddenLabel>
       <HiddenLabel lang="nn">Idrettslag</HiddenLabel>
       <Definition lang="nn">Foreining for organisering av idrett.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/lag-og-foreninger</Related>
       <Broader>tema/idrett</Broader>
@@ -3271,6 +3290,7 @@
       <HiddenLabel lang="nb">Kiropraktor</HiddenLabel>
       <HiddenLabel lang="nn">Kiropraktor</HiddenLabel>
       <Definition lang="nn">Ein kiropraktor gjev leddfrigjerande /manipulasjonsbehandling, men behandlar også muskulaturen. Behandlinga kan bli gjeven som førebyggjande helsearbeid og ved behandling av sjukdom og skade. Fysioterapi, ergoterapi og eigendelar er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -3295,6 +3315,7 @@
       <HiddenLabel lang="nb">Teknisk kjøretøykontroll</HiddenLabel>
       <HiddenLabel lang="nn">Teknisk køyretøykontroll</HiddenLabel>
       <Definition lang="nn">Til dette høyrer periodisk og annan kontroll av køyretøy.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -3520,6 +3541,7 @@
       <HiddenLabel lang="nb">Akuttplass</HiddenLabel>
       <HiddenLabel lang="nn">Akuttplass</HiddenLabel>
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald. Avlastningsbustad og sjukeheim er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -3677,6 +3699,7 @@
       <HiddenLabel lang="nb">Medisinering</HiddenLabel>
       <HiddenLabel lang="nn">Medisinering</HiddenLabel>
       <Definition lang="nn">Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre sjukdom, symptom, skade eller smerte hos menneske og dyr.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -3686,6 +3709,8 @@
       <PrefLabel lang="nn">Legevakt</PrefLabel>
       <HiddenLabel lang="nb">Akutthjelp</HiddenLabel>
       <HiddenLabel lang="nn">Akutthjelp</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/akutt-hjelp</Broader>
    </Concept>
@@ -3709,6 +3734,7 @@
       <HiddenLabel lang="nb">Framleie</HiddenLabel>
       <HiddenLabel lang="nn">Framleige</HiddenLabel>
       <Definition lang="nn">Avtalar om bruksrett til husrom mot vederlag.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
    </Concept>
@@ -3718,6 +3744,8 @@
       <PrefLabel lang="nn">Likestilling</PrefLabel>
       <HiddenLabel lang="nb">Kjønnsdiskriminering</HiddenLabel>
       <HiddenLabel lang="nn">Kjønnsdiskriminering</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -3751,6 +3779,7 @@
       <HiddenLabel lang="nb">Basar</HiddenLabel>
       <HiddenLabel lang="nn">Basar</HiddenLabel>
       <Definition lang="nn">Lotteri er eit tiltak der deltakarane mot innskot kan få gevinst av ulikt slag. Lotteri krev som hovudregel løyve frå politiet, og slikt løyve kan berre bli gjeve til lotteri kor inntektene går til eit samfunnsnyttig eller veldedig føremål.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
@@ -3798,6 +3827,7 @@
       <HiddenLabel lang="nb">Matombringning</HiddenLabel>
       <HiddenLabel lang="nn">Matombringing</HiddenLabel>
       <Definition lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
@@ -3832,6 +3862,7 @@
       <HiddenLabel lang="nb">Konfliktråd</HiddenLabel>
       <HiddenLabel lang="nn">Konfliktråd</HiddenLabel>
       <Definition lang="nn">Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling i separasjons- og skilsmissesaker og rettsmekling. Mekling i arbeidstvistar høyrer til emneordet lønn.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstvist</Related>
       <Related>ord/samlivsbrudd</Related>
@@ -3842,6 +3873,7 @@
       <PrefLabel lang="nb">Menerstatning</PrefLabel>
       <PrefLabel lang="nn">Meinerstatning</PrefLabel>
       <Definition lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/yrkesskadedekning</Related>
       <Broader>tema/erstatningsordninger</Broader>
@@ -3853,6 +3885,7 @@
       <HiddenLabel lang="nb">Ytringsfrihet</HiddenLabel>
       <HiddenLabel lang="nn">Ytringsfridom</HiddenLabel>
       <Definition lang="nn">Grunnleggjande rettar og fridomar som individa har overfor statsmaktene, og som følgjer av internasjonale overeinskomstar og praksis. Til dei klassiske menneskerettane høyrer rettstryggleik, religionsfridom, stemmerett og ytringsfridom.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -3867,6 +3900,7 @@
       <HiddenLabel lang="nb">Altinn</HiddenLabel>
       <HiddenLabel lang="nn">Altinn</HiddenLabel>
       <Definition lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -3937,6 +3971,7 @@
       <HiddenLabel lang="nb">Bensinavgift</HiddenLabel>
       <HiddenLabel lang="nn">Bensinavgift</HiddenLabel>
       <Definition lang="nn">Motorvognavgiftene omfattar seks avgifter med til dels ulik grunngjeving og føremål. Avgiftene er knytt dels til kjøp/leige av køyretøy og dels til bruk av køyretøy. Dei ikkje-bruksavhengige avgiftene er eingongsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgifta. Til dei bruksavhengige avgiftene høyrer avgiftene på bensin og diesel.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
       <Broader>tema/kjoretoy</Broader>
@@ -4091,6 +4126,7 @@
       <HiddenLabel lang="nb">Tvangsfullbyrdelse</HiddenLabel>
       <HiddenLabel lang="nn">Tvangsfullføring</HiddenLabel>
       <Definition lang="nn">Tingrett og namsmann (namsfut, ("namsfogd")) vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann. Gjeldsordning høyrer til emneordet gjeldsrådgjeving.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -4099,6 +4135,7 @@
       <PrefLabel lang="nb">Naturskadeerstatning</PrefLabel>
       <PrefLabel lang="nn">Naturskadeerstatning</PrefLabel>
       <Definition lang="nn">Erstatning etter naturskade.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
@@ -4151,6 +4188,7 @@
       <PrefLabel lang="nb">Norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål. Omsetjing, samisk språk, språkkurs- og test og særskilt norskopplæring er eigne emneord.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
@@ -4171,6 +4209,7 @@
       <HiddenLabel lang="nb">Byfogd</HiddenLabel>
       <HiddenLabel lang="nn">Byfut</HiddenLabel>
       <Definition lang="nn">Ein embetsmann som skriv under og dermed stadfestar visse rettslege forhold. Notarius publicus utfører vigsler og registreringar av partnarskap, og gjev notarialstadfestingar, herunder stadfesting av underskrift og rett kopi. Det er tingrettane og byfutane som utfører notarialforretningar. Også lensmenn kan gjere dette, med det er då i hovusak avgrensa til å stadfeste at ei underskrift er rett og utferding av leveattestar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/ekteskap</Related>
       <Broader>tema/rettsvesen</Broader>
@@ -4183,6 +4222,7 @@
       <HiddenLabel lang="nn">Offentleg anskaffelse</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg anskaffing</HiddenLabel>
       <Definition lang="nn">Innkjøp av varer, tenester der statlege, kommunale og fylkeskommunale styresmakter og offentlegrettslege organ er oppdragsgjevar.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
