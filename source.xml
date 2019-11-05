@@ -1816,17 +1816,6 @@
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
    </Concept>
-   <Concept path="ord/ektefellepensjon">
-      <PrefLabel lang="en">Surviving spouse pension</PrefLabel>
-      <PrefLabel lang="nb">Ektefellepensjon</PrefLabel>
-      <PrefLabel lang="nn">Ektefellepensjon</PrefLabel>
-      <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
-      <Definition lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/inntektssikring</Broader>
-      <Broader>tema/familieytelser</Broader>
-
-   </Concept>
    <Concept path="ord/ekteskap">
       <PrefLabel lang="en">Marriage</PrefLabel>
       <PrefLabel lang="nb">Ekteskap</PrefLabel>
@@ -2756,10 +2745,15 @@
       <PrefLabel lang="en">Surivors pension</PrefLabel>
       <PrefLabel lang="nb">Gjenlevendepensjon</PrefLabel>
       <PrefLabel lang="nn">Attlevandepensjon</PrefLabel>
+      <HiddenLabel lang="nb">Ektefellepensjon</HiddenLabel>
+      <HiddenLabel lang="nn">Ektefellepensjon</HiddenLabel>
       <HiddenLabel lang="nb">Etterlattepensjon</HiddenLabel>
       <HiddenLabel lang="nn">Gjenlevandepensjon</HiddenLabel>
+      <Definition lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</Definition>
+      <Definition lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/familieytelser</Broader>
    </Concept>
    <Concept path="ord/godstransport">
       <PrefLabel lang="en">Freight transport</PrefLabel>
