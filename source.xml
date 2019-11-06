@@ -2,7 +2,7 @@
 <Skos xmlns="urn:fdc:difi.no:2019:data:Skos-1">
    <Config>
       <Name>Los</Name>
-      <BaseURI>https://psi.norge.no/los/</BaseURI>
+      <BaseURI>http://psi.norge.no/los/</BaseURI>
       <Options key="github">
          <Option key="repository">https://github.com/difi/los</Option>
          <Option key="issues">https://github.com/difi/los/issues</Option>
@@ -5505,8 +5505,6 @@
       <HiddenLabel lang="nn">Sporvegsrute</HiddenLabel>
       <HiddenLabel lang="nb">Togrute</HiddenLabel>
       <HiddenLabel lang="nn">Togrute</HiddenLabel>
-      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
-      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
       <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
       <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
       <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
