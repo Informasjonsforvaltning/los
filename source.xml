@@ -2005,6 +2005,7 @@
       <HiddenLabel lang="nb">Helseforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Helseforsikring</HiddenLabel>
       <Definition lang="nn">Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits.</Definition>
+      <Definition lang="nn">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -7810,6 +7811,7 @@
 
     <Collection path="samling/kommune-los">
         <PrefLabel lang="nb">Kommune-los</PrefLabel>
+        <PrefLabel lang="nn">Kommune-los</PrefLabel>
         <Member>ord/adressetildeling</Member>
         <Member>ord/aktiviteter-og-livsmestring-for-rusavhengige</Member>
         <Member>ord/akutt-forurensning</Member>
