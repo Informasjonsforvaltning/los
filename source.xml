@@ -32,6 +32,7 @@
       <PrefLabel lang="nn">Temastruktur</PrefLabel>
    </ConceptScheme>
    <Concept path="hendelse/alvorlig-sykt-barn">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Å ha et alvorlig sykt barn</PrefLabel>
       <PrefLabel lang="nn">Å ha et alvorleg sjukt barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -42,6 +43,7 @@
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Dødsfall og arv</PrefLabel>
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -52,6 +54,7 @@
       <Related>ord/skifte-ved-dodsfall</Related>
    </Concept>
    <Concept path="hendelse/fa-barn">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Å få barn</PrefLabel>
       <PrefLabel lang="nn">Å få barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -62,6 +65,7 @@
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
       <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -73,6 +77,7 @@
       <Related>ord/permittering</Related>
    </Concept>
    <Concept path="hendelse/ny-i-norge">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Ny i Norge</PrefLabel>
       <PrefLabel lang="nn">Ny i Noreg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -85,6 +90,7 @@
       <Related>ord/oppholdstillatelse</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-bedrift">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Starte og drive en bedrift</PrefLabel>
       <PrefLabel lang="nn">Starte og drive ein bedrift</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -93,6 +99,7 @@
       <Related>ord/merverdiavgift</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-frivillig-organisasjon">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Starte og drive en frivillig organisasjon</PrefLabel>
       <PrefLabel lang="nn">Starte og drive ein frivillig organisasjon</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
