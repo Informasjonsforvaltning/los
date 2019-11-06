@@ -2,7 +2,7 @@
 <Skos xmlns="urn:fdc:difi.no:2019:data:Skos-1">
    <Config>
       <Name>Los</Name>
-      <BaseURI>https://psi.norge.no/los/</BaseURI>
+      <BaseURI>http://psi.norge.no/los/</BaseURI>
       <Options key="github">
          <Option key="repository">https://github.com/difi/los</Option>
          <Option key="issues">https://github.com/difi/los/issues</Option>
@@ -32,6 +32,7 @@
       <PrefLabel lang="nn">Temastruktur</PrefLabel>
    </ConceptScheme>
    <Concept path="hendelse/alvorlig-sykt-barn">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Å ha et alvorlig sykt barn</PrefLabel>
       <PrefLabel lang="nn">Å ha et alvorleg sjukt barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -42,6 +43,7 @@
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Dødsfall og arv</PrefLabel>
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -52,6 +54,7 @@
       <Related>ord/skifte-ved-dodsfall</Related>
    </Concept>
    <Concept path="hendelse/fa-barn">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Å få barn</PrefLabel>
       <PrefLabel lang="nn">Å få barn</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -62,6 +65,7 @@
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
       <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -73,6 +77,7 @@
       <Related>ord/permittering</Related>
    </Concept>
    <Concept path="hendelse/ny-i-norge">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Ny i Norge</PrefLabel>
       <PrefLabel lang="nn">Ny i Noreg</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -85,6 +90,7 @@
       <Related>ord/oppholdstillatelse</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-bedrift">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Starte og drive en bedrift</PrefLabel>
       <PrefLabel lang="nn">Starte og drive ein bedrift</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -93,6 +99,7 @@
       <Related>ord/merverdiavgift</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-frivillig-organisasjon">
+      <PrefLabel lang="en">*</PrefLabel>
       <PrefLabel lang="nb">Starte og drive en frivillig organisasjon</PrefLabel>
       <PrefLabel lang="nn">Starte og drive ein frivillig organisasjon</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -1998,6 +2005,7 @@
       <HiddenLabel lang="nb">Helseforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Helseforsikring</HiddenLabel>
       <Definition lang="nn">Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits.</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -5505,8 +5513,6 @@
       <HiddenLabel lang="nn">Sporvegsrute</HiddenLabel>
       <HiddenLabel lang="nb">Togrute</HiddenLabel>
       <HiddenLabel lang="nn">Togrute</HiddenLabel>
-      <HiddenLabel lang="nb">Rutetider</HiddenLabel>
-      <HiddenLabel lang="nn">Rutetider</HiddenLabel>
       <HiddenLabel lang="nb">Ruteopplysning</HiddenLabel>
       <HiddenLabel lang="nn">Ruteopplysning</HiddenLabel>
       <HiddenLabel lang="nb">Køreplaner</HiddenLabel>
@@ -7805,6 +7811,7 @@
 
     <Collection path="samling/kommune-los">
         <PrefLabel lang="nb">Kommune-los</PrefLabel>
+        <PrefLabel lang="nn">Kommune-los</PrefLabel>
         <Member>ord/adressetildeling</Member>
         <Member>ord/aktiviteter-og-livsmestring-for-rusavhengige</Member>
         <Member>ord/akutt-forurensning</Member>
