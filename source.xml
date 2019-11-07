@@ -1190,7 +1190,7 @@
       <Definition lang="nn">Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg.</Definition>
       <Definition lang="nb">Utanlandsbehandling, dvs. behandling i utlandet ved manglende kompetanse i Norge.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/syketransport</Related>
+      <Related>ord/pasientreiser</Related>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/bekymringsmelding-til-barnevernet">
@@ -5326,7 +5326,7 @@
       <Definition lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/syketransport</Related>
+      <Related>ord/pasientreiser</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
    <Concept path="ord/vegarbeid">
