@@ -5734,7 +5734,7 @@
       <HiddenLabel lang="nb">Skogbrannfare</HiddenLabel>
       <HiddenLabel lang="nn">Skogbrannfare</HiddenLabel>
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Varsel om fare for skogbrann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -6149,7 +6149,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Økonomiske støtte i form av stipend og/eller lån. Blir gitt til elever og studenter i videregående og høyere utdanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
@@ -6170,7 +6170,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
@@ -6302,7 +6302,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/ekteskap</Broader>
    </Concept>
-   <Concept path="ord/syketransport">
+   <Concept path="ord/pasientreiser">
       <PrefLabel lang="en">Patient transport</PrefLabel>
       <PrefLabel lang="nb">Syketransport</PrefLabel>
       <PrefLabel lang="nn">Sjuketransport</PrefLabel>
@@ -6318,8 +6318,6 @@
       <HiddenLabel lang="nn">Sjukehusbuss</HiddenLabel>
       <HiddenLabel lang="nb">Helsebuss</HiddenLabel>
       <HiddenLabel lang="nn">Helsebuss</HiddenLabel>
-      <HiddenLabel lang="nb">Pasientreise</HiddenLabel>
-      <HiddenLabel lang="nn">Pasientreise</HiddenLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
