@@ -3000,7 +3000,7 @@
       <HiddenLabel lang="nb">Helsesøster</HiddenLabel>
       <HiddenLabel lang="nn">Helsesøster</HiddenLabel>
       <Definition lang="nn">Kommunalt tilbod om helsefremjande og førebyggjande helsearbeid.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Kommunalt tilbud om helsefremmende og forebyggende helsearbeid.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vaksine</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -3082,7 +3082,7 @@
       <PrefLabel lang="nb">Hjemmeundervisning</PrefLabel>
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Foreldre underviser selv egne barn. Kommunen fører tilsyn med hjemmeundervisningen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
@@ -4148,7 +4148,7 @@
       <PrefLabel lang="nb">Naturskadeerstatning</PrefLabel>
       <PrefLabel lang="nn">Naturskadeerstatning</PrefLabel>
       <Definition lang="nn">Erstatning etter naturskade.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Erstatning etter naturskade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
@@ -4201,7 +4201,7 @@
       <PrefLabel lang="nb">Norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Opplæring i nynorsk og bokmål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
@@ -5110,8 +5110,8 @@
       <HiddenLabel lang="nn">Omregistrering</HiddenLabel>
       <HiddenLabel lang="nb">Salgsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Salsmelding</HiddenLabel>
-      <Definition lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nn">Fyrstegongsregistrering av køyretøy i Noreg og omregistrering av køyretøy, skjema, salsmelding m.m.</Definition>
+      <Definition lang="nb">Førstegangsregistrering av kjøretøy i Norge og omregistrering av kjøretøy, skjema, salgsmelding m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
