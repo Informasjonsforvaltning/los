@@ -192,7 +192,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="ord/fly">
+   <Concept path="ord/fly-og-helikopter">
       <PrefLabel lang="en">Aeroplanes</PrefLabel>
       <PrefLabel lang="nb">Fly</PrefLabel>
       <PrefLabel lang="nn">Fly</PrefLabel>
@@ -208,23 +208,8 @@
       <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
       <HiddenLabel lang="nb">Privatfly</HiddenLabel>
       <HiddenLabel lang="nn">Privatfly</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly.</Definition>
-      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/luftfart</Broader>
-   </Concept>
-   <Concept path="ord/helikopter">
-      <PrefLabel lang="en">Helicopters</PrefLabel>
-      <PrefLabel lang="nb">Helikopter</PrefLabel>
-      <PrefLabel lang="nn">Helikopter</PrefLabel>
-      <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nb">Landingstillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for helikopter.</Definition>
-      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for helikopter.</Definition>
+      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly og helikopter.</Definition>
+      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly og helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
