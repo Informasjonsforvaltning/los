@@ -11,9 +11,6 @@
          <Option key="root">/los/3/</Option>
       </Options>
    </Config>
-
-<!-- kommenterer ut hendelser fra høringsversjonen
-
    <ConceptScheme path="ontologi/hendelse">
       <PrefLabel lang="en">Events</PrefLabel>
       <PrefLabel lang="nb">Hendelser</PrefLabel>
@@ -117,7 +114,6 @@
       <Related>ord/frivilligsentral</Related>
       <Related>ord/lag-og-foreninger</Related>
    </Concept>
- -->
     <Concept path="tema/trafikk-og-transport">
       <PrefLabel lang="en">Traffic and transport</PrefLabel>
       <PrefLabel lang="nb">Trafikk og transport</PrefLabel>
