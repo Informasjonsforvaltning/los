@@ -11,25 +11,36 @@
          <Option key="root">/los/3/</Option>
       </Options>
    </Config>
+
+<!-- kommenterer ut hendelser fra høringsversjonen
+
    <ConceptScheme path="ontologi/hendelse">
-      <PrefLabel lang="en">Event</PrefLabel>
-      <PrefLabel lang="nb">Hendelse</PrefLabel>
-      <PrefLabel lang="nn">Hending</PrefLabel>
+      <PrefLabel lang="en">Events</PrefLabel>
+      <PrefLabel lang="nb">Hendelser</PrefLabel>
+      <PrefLabel lang="nn">Hendingar</PrefLabel>
+      <Description lang="nb"> "Hendelser" er et forsøk (beta) på å sortere emneord i Los etter livshendelser. Funksjonaliteten er ikke en del av versjon 3.0, men tilgjengelig her for å vise mulighetene</Description>
+      <Description lang="nn"> "Hendingar" er eit forsøk (beta) på å sortere emneord i Los etter livshendingar. Funksjonaliteten er ikkje ein del av versjon 3.0, men tilgjengeleg her for å vise kva som er muleg</Description>
    </ConceptScheme>
    <ConceptScheme path="ontologi/ord">
       <PrefLabel lang="en">Words</PrefLabel>
       <PrefLabel lang="nb">Ord</PrefLabel>
       <PrefLabel lang="nn">Ord</PrefLabel>
+      <Description lang="nn">Alle emneordene i Los (nivå 3)</Description>
+      <Description lang="nb">Alle emneorda i Los (nivå 3)</Description>
    </ConceptScheme>
    <ConceptScheme path="ontologi/tema">
       <PrefLabel lang="en">Theme</PrefLabel>
       <PrefLabel lang="nb">Tema</PrefLabel>
       <PrefLabel lang="nn">Tema</PrefLabel>
+      <Description lang="nn">Alle tema og undertema (flat liste) i Los (nivå 1 og 2)</Description>
+      <Description lang="nb">Alle tema og undertema (flat liste) i Los (nivå 1 og 2)</Description>
    </ConceptScheme>
    <ConceptScheme path="struktur">
       <PrefLabel lang="en">Theme structure</PrefLabel>
       <PrefLabel lang="nb">Temastruktur</PrefLabel>
       <PrefLabel lang="nn">Temastruktur</PrefLabel>
+      <Description lang="nn">Hierarkisk navigering i Los. Gå til http://psi.norge.no/los/3/struktur.html for å komme tilbake til toppnivået</Description>
+      <Description lang="nb">Hierarkisk navigering i Los. Gå til http://psi.norge.no/los/3/struktur.html for å komme tilbake til toppnivået</Description>
    </ConceptScheme>
    <Concept path="hendelse/alvorlig-sykt-barn">
       <PrefLabel lang="en">*</PrefLabel>
@@ -106,8 +117,7 @@
       <Related>ord/frivilligsentral</Related>
       <Related>ord/lag-og-foreninger</Related>
    </Concept>
-
- <!--Trafikk start-->
+ -->
     <Concept path="tema/trafikk-og-transport">
       <PrefLabel lang="en">Traffic and transport</PrefLabel>
       <PrefLabel lang="nb">Trafikk og transport</PrefLabel>
@@ -477,7 +487,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
-
    <Concept path="tema/yrkestransport">
       <PrefLabel lang="en">Professional transport services</PrefLabel>
       <PrefLabel lang="nb">Yrkestransport</PrefLabel>
@@ -485,14 +494,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-
-
-
- <!--Trafikk slutt-->
-
-
-
-
    <Concept path="ord/trygde-og-servicebolig">
       <PrefLabel lang="en">Welfare housing</PrefLabel>
       <PrefLabel lang="nb">Trygde- og servicebolig</PrefLabel>
