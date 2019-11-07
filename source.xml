@@ -2159,7 +2159,7 @@
       <HiddenLabel lang="nb">Flomfare</HiddenLabel>
       <HiddenLabel lang="nn">Flaumfare</HiddenLabel>
       <Definition lang="nn">Varsel om flaum. Medrekna vassføringsprognosar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Varsel om flom. Medregnet vannføringsprognoser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -2221,7 +2221,7 @@
       <HiddenLabel lang="nb">Flytting til utlandet</HiddenLabel>
       <HiddenLabel lang="nn">Flytting til utlandet</HiddenLabel>
       <Definition lang="nn">Melding om flytting. Skal sendast til folkeregisteret ved likningskontoret. Medrekna flytting til utlandet.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Melding om flytting. Skal sendes til folkeregisteret ved ligningskontoret. Medregnet flytting til utlandet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
       <Broader>tema/flytting</Broader>
@@ -2311,7 +2311,7 @@
       <HiddenLabel lang="nb">Grønn energi</HiddenLabel>
       <HiddenLabel lang="nn">Grøn energi</HiddenLabel>
       <Definition lang="nn">Energi frå fornybare energikjelder.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Energi frå fornybare energikilder</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/energi</Broader>
    </Concept>
@@ -2685,7 +2685,7 @@
       <HiddenLabel lang="nb">Pyroteknisk vare</HiddenLabel>
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Søknad og tillatelse til å oppbevare og selge fyrverkeri.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2801,7 +2801,7 @@
       <HiddenLabel lang="nb">Giftig</HiddenLabel>
       <HiddenLabel lang="nn">Giftig</HiddenLabel>
       <Definition lang="nn">Informasjon om gift og forgiftningar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Informasjon om gift og forgiftinger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -3002,7 +3002,7 @@
       <PrefLabel lang="nb">Heftelser i motorvogn</PrefLabel>
       <PrefLabel lang="nn">Hefte i motorvogn</PrefLabel>
       <Definition lang="nn">Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Tinglyst pant eller andre hefter på bil, motorsykkel, tilhenger eller andre kjøretøy.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -4399,8 +4399,6 @@
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
       <PrefLabel lang="nb">Ytelser til foreldre og foresatte</PrefLabel>
       <PrefLabel lang="nn">Ytingar til foreldre og føresette</PrefLabel>
-      <HiddenLabel lang="nb">Barnebidrag</HiddenLabel>
-      <HiddenLabel lang="nn">Barnebidrag</HiddenLabel>
       <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
       <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
       <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
@@ -4411,10 +4409,6 @@
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
-      <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
-      <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
-      <HiddenLabel lang="nb">Stønad til enslig forsørger</HiddenLabel>
-      <HiddenLabel lang="nn">Stønad til einsleg forsørgar</HiddenLabel>
       <HiddenLabel lang="nb">Stønad til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nn">Støtte til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nb">Overgangsstønad</HiddenLabel>
