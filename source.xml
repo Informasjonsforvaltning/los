@@ -81,7 +81,7 @@
       <Related>ord/personnavn</Related>
       <Related>ord/stonad-til-enslig-forsorger</Related>
       <Related>ord/svangerskapsomsorg</Related>
-      <Related>ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon</Related>
+      <Related>ord/ytelser-ved-svangerskap-fodsel-og-adopsjon</Related>
       <Related>ord/sykehus</Related>
       <Related>ord/ufrivillig-barnloshet</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
@@ -4370,7 +4370,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
    </Concept>
-   <Concept path="ord/ytelser-ved-svangerskap,-fødsel,-og-adopsjon">
+   <Concept path="ord/ytelser-ved-svangerskap-fodsel-og-adopsjon">
       <PrefLabel lang="en">Benefits in pregnancy, childbirth and adoption</PrefLabel>
       <PrefLabel lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</PrefLabel>
       <PrefLabel lang="nn">Ytingar ved svangerskap, fødsel og adopsjon</PrefLabel>
