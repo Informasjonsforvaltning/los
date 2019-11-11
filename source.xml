@@ -6207,7 +6207,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Økonomiske støtte i form av stipend og/eller lån. Blir gitt til elever og studenter i vidaregående og høyere utdanning. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
