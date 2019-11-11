@@ -51,7 +51,7 @@
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
-      <PrefLabel lang="en">*</PrefLabel>
+      <PrefLabel lang="en">Deaths and inheritance</PrefLabel>
       <PrefLabel lang="nb">Dødsfall og arv</PrefLabel>
       <PrefLabel lang="nn">Dødsfall og arv</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
@@ -60,6 +60,14 @@
       <Related>ord/gravferd</Related>
       <Related>ord/gravplass</Related>
       <Related>ord/skifte-ved-dodsfall</Related>
+      <Related>ord/barnepensjon</Related>
+      <Related>ord/gjenlevendepensjon</Related>
+      <Related>ord/registrering-av-kjoretoy</Related>
+      <Related>ord/skattekort</Related>
+      <Related>ord/stonad-til-enslig-forsorger</Related>
+      <Related>ord/stotte-til-familier</Related>
+      <Related>ord/stottekontakt</Related>
+      <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
    </Concept>
    <Concept path="hendelse/fa-barn">
       <PrefLabel lang="en">To have children</PrefLabel>
