@@ -87,6 +87,7 @@
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
       <Related>ord/fodselsattest</Related>
       <Related>ord/fodselsnummer</Related>
+      <Related> ord/svangerskapspenger</Related>
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
       <PrefLabel lang="en">*</PrefLabel>
