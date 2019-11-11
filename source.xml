@@ -6212,7 +6212,7 @@
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
    <Concept path="ord/svangerskapsomsorg">
-      <PrefLabel lang="en">Pprenatal care</PrefLabel>
+      <PrefLabel lang="en">Prenatal care</PrefLabel>
       <PrefLabel lang="nb">Svangerskapsomsorg</PrefLabel>
       <PrefLabel lang="nn">Svangerskapsomsorg</PrefLabel>
       <HiddenLabel lang="nb">Fødsel</HiddenLabel>
