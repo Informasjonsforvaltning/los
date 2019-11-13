@@ -3194,7 +3194,7 @@
       <HiddenLabel lang="nb">Idrettsforening</HiddenLabel>
       <HiddenLabel lang="nn">Idrettslag</HiddenLabel>
       <Definition lang="nn">Foreining for organisering av idrett.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Forening for organisering av idrett.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/lag-og-foreninger</Related>
       <Broader>tema/idrett</Broader>
