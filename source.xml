@@ -3358,7 +3358,7 @@
       <HiddenLabel lang="nb">Teknisk kjøretøykontroll</HiddenLabel>
       <HiddenLabel lang="nn">Teknisk køyretøykontroll</HiddenLabel>
       <Definition lang="nn">Til dette høyrer periodisk og annan kontroll av køyretøy.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Til dette hører periodisk og annen kontroll av kjøretøy.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -3777,7 +3777,7 @@
       <HiddenLabel lang="nb">Framleie</HiddenLabel>
       <HiddenLabel lang="nn">Framleige</HiddenLabel>
       <Definition lang="nn">Avtalar om bruksrett til husrom mot vederlag.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Avtaler om bruksrett til husrom mot vederlag.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/leie-og-utleie</Broader>
    </Concept>
