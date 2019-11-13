@@ -3181,7 +3181,7 @@
       <PrefLabel lang="nb">Idrettsarrangement</PrefLabel>
       <PrefLabel lang="nn">Idrettsarrangement</PrefLabel>
       <Definition lang="nn">Idrettskonkurransar, turneringar, fotballkampar osb.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Idrettskonkurranser, turneringer, fotballkamper osv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/idrett</Broader>
    </Concept>
