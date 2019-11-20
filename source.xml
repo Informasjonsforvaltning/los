@@ -1462,8 +1462,35 @@
       <HiddenLabel lang="nb">Vigsel</HiddenLabel>
       <HiddenLabel lang="nb">Borgerlig vielse</HiddenLabel>
       <HiddenLabel lang="nn">Borgarleg vielse</HiddenLabel>
+      <HiddenLabel lang="nb">Ekteskap</HiddenLabel>
+      <HiddenLabel lang="nn">Ekteskap</HiddenLabel>
       <HiddenLabel lang="nb">Kirkelig vielse</HiddenLabel>
       <HiddenLabel lang="nn">Kyrkjeleg vigsel</HiddenLabel>
+      <HiddenLabel lang="nb">Giftemål</HiddenLabel>
+      <HiddenLabel lang="nn">Giftemål</HiddenLabel>
+      <HiddenLabel lang="nb">Folkeregister</HiddenLabel>
+      <HiddenLabel lang="nn">Folkeregister</HiddenLabel>
+      <HiddenLabel lang="nb">Ekteskapsinngåelse</HiddenLabel>
+      <HiddenLabel lang="nn">Ekteskapsinngåing</HiddenLabel>
+      <HiddenLabel lang="nb">Borgerlig vielse</HiddenLabel>
+      <HiddenLabel lang="nn">Borgarleg vigsel</HiddenLabel>
+      <HiddenLabel lang="nb">Vigsle</HiddenLabel>
+      <HiddenLabel lang="nn">Vigsle</HiddenLabel>
+      <HiddenLabel lang="nb">Ektepakt</HiddenLabel>
+      <HiddenLabel lang="nn">Ektepakt</HiddenLabel>
+      <HiddenLabel lang="nn">Giftarmål</HiddenLabel>
+      <HiddenLabel lang="nb">Bryllup</HiddenLabel>
+      <HiddenLabel lang="nn">Bryllaup</HiddenLabel>
+      <HiddenLabel lang="nb">Partnerskap</HiddenLabel>
+      <HiddenLabel lang="nn">Partnarskap</HiddenLabel>
+      <HiddenLabel lang="nb">Ekteskapssvilkår</HiddenLabel>
+      <HiddenLabel lang="nn">Ekteskapssvilkår</HiddenLabel>
+      <HiddenLabel lang="nb">Partnerskapsregistrering</HiddenLabel>
+      <HiddenLabel lang="nn">Partnarskapsregistrering</HiddenLabel>
+      <HiddenLabel lang="nb">Partnerskapsinngåelse</HiddenLabel>
+      <HiddenLabel lang="nn">Partnerskapsinngåing</HiddenLabel>
+      <HiddenLabel lang="nb">Særeie</HiddenLabel>
+      <HiddenLabel lang="nn">Særeige</HiddenLabel>
       <Definition lang="nb">Kommunen har ansvaret for gjennomføring av borgerlige vielser i Norge. Det betyr at man blir viet av ordfører, varaordfører eller en annen ansatt eller folkevalgt. Kirkelig vielse gjennomføres av Den norske kirke eller et annet trossamfunn</Definition>
       <Definition lang="nn">Kommunen har ansvaret for gjennomføring av borgarlege vigslar i Noreg. Det betyr at ein blir vigt av ordførar, varaordførar eller ein annan tilsett eller folkevalt. Kyrkeleg vielse vert gjennomført av Den norske kyrkja eller eit anna trusamfunn</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -1868,48 +1895,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
-   </Concept>
-   <Concept path="ord/ekteskap">
-      <PrefLabel lang="en">Marriage</PrefLabel>
-      <PrefLabel lang="nb">Ekteskap</PrefLabel>
-      <PrefLabel lang="nn">Ekteskap</PrefLabel>
-      <HiddenLabel lang="nb">Giftemål</HiddenLabel>
-      <HiddenLabel lang="nn">Giftemål</HiddenLabel>
-      <HiddenLabel lang="nb">Folkeregister</HiddenLabel>
-      <HiddenLabel lang="nn">Folkeregister</HiddenLabel>
-      <HiddenLabel lang="nb">Ekteskapsinngåelse</HiddenLabel>
-      <HiddenLabel lang="nn">Ekteskapsinngåing</HiddenLabel>
-      <HiddenLabel lang="nb">Borgerlig vielse</HiddenLabel>
-      <HiddenLabel lang="nn">Borgarleg vigsel</HiddenLabel>
-      <HiddenLabel lang="nb">Vigsle</HiddenLabel>
-      <HiddenLabel lang="nn">Vigsle</HiddenLabel>
-      <HiddenLabel lang="nb">Ektepakt</HiddenLabel>
-      <HiddenLabel lang="nn">Ektepakt</HiddenLabel>
-      <HiddenLabel lang="nb">Vigsel</HiddenLabel>
-      <HiddenLabel lang="nn">Vigsel</HiddenLabel>
-      <HiddenLabel lang="nb">Vielse</HiddenLabel>
-      <HiddenLabel lang="nn">Giftarmål</HiddenLabel>
-      <HiddenLabel lang="nb">Bryllup</HiddenLabel>
-      <HiddenLabel lang="nn">Bryllaup</HiddenLabel>
-      <HiddenLabel lang="nb">Partnerskap</HiddenLabel>
-      <HiddenLabel lang="nn">Partnarskap</HiddenLabel>
-      <HiddenLabel lang="nb">Kirkelig vielse</HiddenLabel>
-      <HiddenLabel lang="nn">Kyrkjeleg vigsle</HiddenLabel>
-      <HiddenLabel lang="nb">Ekteskapssvilkår</HiddenLabel>
-      <HiddenLabel lang="nn">Ekteskapssvilkår</HiddenLabel>
-      <HiddenLabel lang="nb">Kyrkjeleg vigsel</HiddenLabel>
-      <HiddenLabel lang="nn">Kyrkjeleg vigsel</HiddenLabel>
-      <HiddenLabel lang="nb">Partnerskapsregistrering</HiddenLabel>
-      <HiddenLabel lang="nn">Partnarskapsregistrering</HiddenLabel>
-      <HiddenLabel lang="nb">Partnerskapsinngåelse</HiddenLabel>
-      <HiddenLabel lang="nn">Partnerskapsinngåing</HiddenLabel>
-      <HiddenLabel lang="nb">Særeie</HiddenLabel>
-      <HiddenLabel lang="nn">Særeige</HiddenLabel>
-      <Definition lang="nn">For å gifte seg i Noreg må ein oppfylle vilkåra. Det er Skatteetaten som skriv ut ein prøvingsattest når vilkåra er oppfylte. Kommunen er ansvarleg for borgarleg vigsel, krisesenter og barnevernet, i saker om tvangsekteskap.</Definition>
-      <Definition lang="nb">For å gifte seg i Norge må man oppfylle vilkårene. Det er Skatteetaten som skriver ut en prøvingsattest når vilkårene er oppfylt. Kommunen er ansvarlig for borgerlig vielse, krisesenter og barnevernet, i saker om tvangsekteskap.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Related>ord/notarius-publicus</Related>
-      <Broader>tema/samliv</Broader>
    </Concept>
    <Concept path="ord/elbil">
       <PrefLabel lang="en">Electric cars</PrefLabel>
@@ -4255,7 +4240,7 @@
       <Definition lang="nn">Ein embetsmann som skriv under og dermed stadfestar visse rettslege forhold. Notarius publicus utfører vigsler og registreringar av partnarskap, og gjev notarialstadfestingar, herunder stadfesting av underskrift og rett kopi. Det er tingrettane og byfutane som utfører notarialforretningar. Også lensmenn kan gjere dette, med det er då i hovusak avgrensa til å stadfeste at ei underskrift er rett og utferding av leveattestar.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Related>ord/ekteskap</Related>
+      <Related>ord/vielse</Related>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
    <Concept path="ord/offentlig-innkjop">
@@ -5265,8 +5250,8 @@
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
       <PrefLabel lang="nb">Renovasjonsavgift</PrefLabel>
       <PrefLabel lang="nn">Renovasjonsavgift</PrefLabel>
-      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
-      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
    </Concept>
@@ -7864,7 +7849,6 @@
         <Member>ord/eiendomsregister</Member>
         <Member>ord/eiendomsskatt</Member>
         <Member>ord/eksamen</Member>
-        <Member>ord/ekteskap</Member>
         <Member>ord/elbil</Member>
         <Member>ord/energibruk</Member>
         <Member>ord/ergoterapi</Member>
