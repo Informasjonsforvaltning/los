@@ -5265,8 +5265,8 @@
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
       <PrefLabel lang="nb">Renovasjonsavgift</PrefLabel>
       <PrefLabel lang="nn">Renovasjonsavgift</PrefLabel>
-      <Definition lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</Definition>
-      <Definition lang="nb">En kommunal skatt basert på verdien av en eiendom.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/priser-og-gebyr-for-bygg-og-eiendom</Broader>
    </Concept>
