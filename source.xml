@@ -7692,13 +7692,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="tema/reiselivsnaring">
-      <PrefLabel lang="en">Tourism industry</PrefLabel>
-      <PrefLabel lang="nb">Reiselivsnæring</PrefLabel>
-      <PrefLabel lang="nn">Reiselivsnæring</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naring</Broader>
-   </Concept>
    <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
       <PrefLabel lang="nb">Lov og rett</PrefLabel>
