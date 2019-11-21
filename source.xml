@@ -4026,7 +4026,7 @@
       <PrefLabel lang="en">Business space</PrefLabel>
       <PrefLabel lang="nb">Næringsareal</PrefLabel>
       <PrefLabel lang="nn">Næringsareal</PrefLabel>
-      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv</Definition>
+      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv.</Definition>
       <Definition lang="nb">Offentlig eid areal som kan tilbys lokalt næringsliv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
@@ -4423,7 +4423,7 @@
       <Definition lang="nn">Alle som får lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
       <Definition lang="nb">Alle som mottar lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/oppholdstillatelse">
       <PrefLabel lang="en">Residence permit</PrefLabel>
