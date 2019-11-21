@@ -7517,13 +7517,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="tema/innvandring-og-integrering">
-      <PrefLabel lang="en">Immigration and integration</PrefLabel>
-      <PrefLabel lang="nb">Innvandring og integrering</PrefLabel>
-      <PrefLabel lang="nn">Innvandring og integrering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
    <Concept path="tema/kjop-og-salg">
       <PrefLabel lang="en">Buying and selling</PrefLabel>
       <PrefLabel lang="nb">Kjøp og salg</PrefLabel>
