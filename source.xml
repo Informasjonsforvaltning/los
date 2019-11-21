@@ -334,8 +334,6 @@
       <HiddenLabel lang="nn">Føraropplæring</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
-      <HiddenLabel lang="nb">Firehjuling</HiddenLabel>
-      <HiddenLabel lang="nn">Firehjuling</HiddenLabel>
       <HiddenLabel lang="nb">Beltebil</HiddenLabel>
       <HiddenLabel lang="nn">Beltebil</HiddenLabel>
       <HiddenLabel lang="nb">Bil</HiddenLabel>
@@ -775,17 +773,6 @@
       <Definition lang="nb">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/apenhet</Broader>
-   </Concept>
-   <Concept path="ord/ambulerende-vaktmester">
-      <PrefLabel lang="en">Caretaker services</PrefLabel>
-      <PrefLabel lang="nb">Ambulerende vaktmester</PrefLabel>
-      <PrefLabel lang="nn">Ambulerande vaktmeister</PrefLabel>
-      <HiddenLabel lang="nb">Hjemmevaktmester</HiddenLabel>
-      <HiddenLabel lang="nn">Heimevaktmeister</HiddenLabel>
-      <Definition lang="nn">Kommunalt tilbod om hjelp til enkle praktiske gjeremål, enkle reperasjonar og vedlikehaldsarbeid.</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/tilleggsstonader-til-arbeidsrettede-tiltak">
       <PrefLabel lang="en">Supplementary benefits to workoriented measures</PrefLabel>
@@ -1257,8 +1244,6 @@
       <Broader>tema/bibliotek</Broader>
       <Broader>tema/hoyere-utdanning</Broader>
       <Broader>tema/kultur</Broader>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
-      <Broader>tema/grunnskole</Broader>
    </Concept>
     <Concept path="ord/lanekort">
         <PrefLabel lang="en">Library card</PrefLabel>
@@ -1990,7 +1975,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
-   <Concept path="ord/lærling">
+   <Concept path="ord/larling">
       <PrefLabel lang="en">Vocational training</PrefLabel>
       <PrefLabel lang="nb">Lærling</PrefLabel>
       <PrefLabel lang="nn">Lærling</PrefLabel>
@@ -2431,7 +2416,6 @@
         <InScheme>ontologi/ord</InScheme>
         <Related>ord/friomrade</Related>
         <Broader>tema/friluftsliv</Broader>
-        <Broader>tema/naturforvaltning</Broader>
     </Concept>
     <Concept path="ord/tilskudd-til-friluftsliv">
         <PrefLabel lang="en">Funding for the outdoors</PrefLabel>
@@ -2442,11 +2426,10 @@
         <InScheme>ontologi/ord</InScheme>
         <Related>ord/friomrade</Related>
         <Broader>tema/friluftsliv</Broader>
-        <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
         <Broader>tema/miljotilskudd</Broader>
     </Concept>
-    <Concept path="ord/tilskudd-til-viltformål">
+    <Concept path="ord/tilskudd-til-viltformal">
         <PrefLabel lang="en">Funding for the wildlife</PrefLabel>
         <PrefLabel lang="nb">Tilskudd til viltformål</PrefLabel>
         <PrefLabel lang="nn">Tilskot til viltformål</PrefLabel>
@@ -2517,7 +2500,7 @@
     </Concept>
     <Concept path="ord/kulturtilbud">
         <PrefLabel lang="en">Cultural activities</PrefLabel>
-        <PrefLabel lang="nb">kulturtilbud</PrefLabel>
+        <PrefLabel lang="nb">Kulturtilbud</PrefLabel>
         <PrefLabel lang="nn">Kulturtilbod</PrefLabel>
         <HiddenLabel lang="nb">Musikk</HiddenLabel>
         <HiddenLabel lang="nn">Musikk</HiddenLabel>
@@ -3521,7 +3504,6 @@
       <Definition lang="nn">Hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
-      <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/omsorgsstonad">
       <PrefLabel lang="en">Carer allowance</PrefLabel>
@@ -3536,6 +3518,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
+      <Broader>tema/omsorgstjenester</Broader>
    </Concept>
    <Concept path="ord/korttidsopphold">
       <PrefLabel lang="en">Temporary stay</PrefLabel>
@@ -3955,7 +3938,6 @@
       <Definition lang="nb">Med motorferdsel menes bruk av kjøretøy og båt eller annen flytende eller flyvende motordrevet fartøy. Det inkluderer også landing og start med motordrevne luftfartøy. Med utmark menes udyrket mark. I praksis vil det si mesteparten av strender, svaberg, vann, myr, hei, skog og fjell. Kommunen regulerer bruk av motorferdsel i utmark.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
-      <Broader>tema/kjoretoy</Broader>
    </Concept>
    <Concept path="ord/motorvognavgifter">
       <PrefLabel lang="en">Vehicle taxes</PrefLabel>
@@ -4546,6 +4528,7 @@
       <Definition lang="nb">Kommunen kan tilby beskyttelse og bistand ved vold og overgrep.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/akutt-hjelp</Broader>
+      <Broader>tema/barnevern-og-foreldrestotte</Broader>
    </Concept>
    <Concept path="ord/pataleunnlatelse">
       <PrefLabel lang="en">Withdrawal of criminal charges</PrefLabel>
@@ -4679,9 +4662,9 @@
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
       <Broader>tema/barnehage</Broader>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/voksenopplaring</Broader>
    </Concept>
    <Concept path="ord/pensjonskalkulator">
       <PrefLabel lang="en">Pension calculator</PrefLabel>
@@ -4914,6 +4897,7 @@
       <Definition lang="nb">Tilskudd og tilrettelegging for plantekasser, parsellhager o.l.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
+      <Broader>tema/naturforvaltning</Broader>
    </Concept>
    <Concept path="ord/plantevern">
       <PrefLabel lang="en">Plant protection</PrefLabel>
@@ -4987,8 +4971,8 @@
       <Definition lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
+      <Related>ord/fag--og-yrkesopplaring</Related>
       <Broader>tema/grunnskole</Broader>
-      <Broader>tema/fag--og-yrkesopplaring</Broader>
    </Concept>
    <Concept path="ord/tilpasset-opplaring">
       <PrefLabel lang="en">Adapted education</PrefLabel>
@@ -5312,6 +5296,7 @@
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/mobilitetstilbud</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/reiseutgifter">
       <PrefLabel lang="en">Travel expenses</PrefLabel>
@@ -5818,6 +5803,7 @@
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/skoleskyss">
       <PrefLabel lang="en">School transport</PrefLabel>
@@ -6246,7 +6232,6 @@
       <Definition lang="nn">Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad. Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/botilbud</Broader>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
    <Concept path="ord/sykehus">
@@ -6984,6 +6969,7 @@
       <Definition lang="nb">Brukermedvirkning omfatter hjem-skolesamarbeid og elevmedvirkning. Alle elever har rett til å medvirke og påvirke egen skolehverdag. Alle foreldre har rett til å medvirke gjennom råd og utvalg.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/karakterer-og-evaluering">
       <PrefLabel lang="en">Marking and evaluation</PrefLabel>
@@ -6993,6 +6979,7 @@
       <Definition lang="nb">Karakterer gis i orden og oppførsel, muntlig og skriftlig eksamen og som standpunktkarakter. Det er mulig å klage på alle karakterer. Evaluering omfatter underveisvurdering, sluttvurdering og andre evalueringer av eleven.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/permisjon-og-fritak">
       <PrefLabel lang="en">Leave of absence and exemptions</PrefLabel>
@@ -7002,6 +6989,7 @@
       <Definition lang="nb">Permisjon er å gi eleven fri for en periode etter søknad fra foresatte eller elever over 18 år. Fritak fra undervisning eller vurdering i enkelte fag kan gis etter søknad fra foresatte eller elever over 18 år.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/utdannings--og-yrkesveiledning">
       <PrefLabel lang="en">Educational and vocational guidance</PrefLabel>
@@ -7012,7 +7000,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
    </Concept>
-   <Concept path="ord/videreagaende-opplaring">
+   <Concept path="ord/videregaende-opplaring">
       <PrefLabel lang="en">Upper secondary education</PrefLabel>
       <PrefLabel lang="nb">Videregående opplæring</PrefLabel>
       <PrefLabel lang="nn">Vidaregåande opplæring</PrefLabel>
@@ -7058,6 +7046,7 @@
       <Definition lang="nb">Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/mobbing-i-skolen">
       <PrefLabel lang="en">Bullying in school</PrefLabel>
@@ -7086,6 +7075,7 @@
       <Definition lang="nb">Oversikt over fylkeskommunen sin planlagga fridagar og feriar for skulane.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/videregaende-skole</Broader>
+      <Broader>tema/grunnskole</Broader>
    </Concept>
    <Concept path="ord/eksamen">
       <PrefLabel lang="en">Exam</PrefLabel>
@@ -7435,12 +7425,12 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
-   <Concept path="tema/fag--og-yrkesopplaring">
+   <Concept path="ord/fag--og-yrkesopplaring">
       <PrefLabel lang="en">Vocational education and training</PrefLabel>
       <PrefLabel lang="nb">Fag- og yrkesopplæring</PrefLabel>
       <PrefLabel lang="nn">Fag- og yrkesopplæring</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/skole-og-utdanning</Broader>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/videregaende-skole</Broader>
    </Concept>
    <Concept path="tema/skolehverdag">
       <PrefLabel lang="en">School life</PrefLabel>
@@ -7755,13 +7745,21 @@
    </Concept>
 
     <Collection path="samling/kommune-los">
-        <PrefLabel lang="nb">Kommune-los</PrefLabel>
-        <PrefLabel lang="nn">Kommune-los</PrefLabel>
+        <PrefLabel lang="nb">Kommune-Los</PrefLabel>
+        <PrefLabel lang="nn">Kommune-Los</PrefLabel>
+        <Member>ord/tilskudd-til-viltformal</Member>
+        <Member>ord/reisegaranti</Member>
+        <Member>ord/miljovennlig-transport</Member>
+        <Member>ord/okonomisk-radgiving</Member>
         <Member>ord/adressetildeling</Member>
+        <Member>ord/videregaende-opplaring</Member>
+        <Member>ord/skoletilhorighet</Member>
+        <Member>ord/tilpasset-opplaring"</Member>
+        <Member>ord/dyrehold</Member>
+        <Member>ord/tilrettelagt-arbeidstilbud</Member>
         <Member>ord/aktiviteter-og-livsmestring-for-rusavhengige</Member>
         <Member>ord/akuttovernatting</Member>
         <Member>ord/allemannsrett</Member>
-        <Member>ord/ambulerende-vaktmester</Member>
         <Member>ord/arbeidsgiveravgift</Member>
         <Member>ord/arkiv</Member>
         <Member>ord/avlosertilskudd</Member>
@@ -7770,8 +7768,8 @@
         <Member>ord/barnehage-innhold-og-kvalitet</Member>
         <Member>ord/barnehageplass</Member>
         <Member>ord/barnevern</Member>
+        <Member>ord/lekeplass</Member>
         <Member>ord/batplass</Member>
-        <Member>ord/behandlingsreise</Member>
         <Member>ord/bekymringsmelding-om-brannsikkerhet</Member>
         <Member>ord/bekymringsmelding-til-barnevernet</Member>
         <Member>ord/besokshjem</Member>
@@ -7877,7 +7875,7 @@
         <Member>ord/livsstil</Member>
         <Member>ord/lokaler-og-idrettsanlegg</Member>
         <Member>ord/luftkvalitet</Member>
-        <!-- <Member>ord/larling</Member> -->
+        <Member>ord/larling</Member>
         <Member>ord/matlevering</Member>
         <Member>ord/melding-om-bygging</Member>
         <Member>ord/melding-om-overnatting</Member>
@@ -7891,7 +7889,6 @@
         <Member>ord/naringsareal</Member>
         <Member>ord/naringsklynger</Member>
         <Member>ord/narmiljotilskudd</Member>
-        <Member>ord/naturskadeerstatning</Member>
         <Member>ord/naturvern</Member>
         <Member>ord/norskopplaring</Member>
         <Member>ord/omsorgsavlastning</Member>
@@ -7943,7 +7940,6 @@
         <Member>ord/stotte-til-familier</Member>
         <Member>ord/stottekontakt</Member>
         <Member>ord/stoy</Member>
-        <Member>ord/stralevern</Member>
         <Member>ord/svangerskapsomsorg</Member>
         <Member>ord/svommehall</Member>
         <Member>ord/sykehjem</Member>
@@ -7962,6 +7958,7 @@
         <Member>ord/tilsyn-og-kontroll-med-naringsvirksomhet</Member>
         <Member>ord/tobakk</Member>
         <Member>ord/tolketjeneste</Member>
+        <Member>ord/utslippstillatelse</Member>
         <Member>ord/trygghet-i-hjemmet</Member>
         <Member>ord/turloyper</Member>
         <Member>ord/tvangsekteskap</Member>
