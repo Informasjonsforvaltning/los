@@ -4026,7 +4026,7 @@
       <PrefLabel lang="en">Business space</PrefLabel>
       <PrefLabel lang="nb">Næringsareal</PrefLabel>
       <PrefLabel lang="nn">Næringsareal</PrefLabel>
-      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv</Definition>
+      <Definition lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv.</Definition>
       <Definition lang="nb">Offentlig eid areal som kan tilbys lokalt næringsliv.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/reguleringsplan</Related>
@@ -4423,7 +4423,7 @@
       <Definition lang="nn">Alle som får lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
       <Definition lang="nb">Alle som mottar lønn, pensjon eller uføretrygd må betale skatt til stat og kommune.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/oppholdstillatelse">
       <PrefLabel lang="en">Residence permit</PrefLabel>
@@ -5220,7 +5220,7 @@
       <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
       <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
@@ -7517,20 +7517,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/arbeid</Broader>
    </Concept>
-   <Concept path="tema/innvandring-og-integrering">
-      <PrefLabel lang="en">Immigration and integration</PrefLabel>
-      <PrefLabel lang="nb">Innvandring og integrering</PrefLabel>
-      <PrefLabel lang="nn">Innvandring og integrering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <TopConceptOf>struktur</TopConceptOf>
-   </Concept>
-   <Concept path="tema/integrering">
-      <PrefLabel lang="en">Integration</PrefLabel>
-      <PrefLabel lang="nb">Integrering</PrefLabel>
-      <PrefLabel lang="nn">Integrering</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/innvandring-og-integrering</Broader>
-   </Concept>
    <Concept path="tema/kjop-og-salg">
       <PrefLabel lang="en">Buying and selling</PrefLabel>
       <PrefLabel lang="nb">Kjøp og salg</PrefLabel>
@@ -7691,13 +7677,6 @@
       <PrefLabel lang="nn">Politikk og val</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
-   </Concept>
-   <Concept path="tema/reiselivsnaring">
-      <PrefLabel lang="en">Tourism industry</PrefLabel>
-      <PrefLabel lang="nb">Reiselivsnæring</PrefLabel>
-      <PrefLabel lang="nn">Reiselivsnæring</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/naring</Broader>
    </Concept>
    <Concept path="tema/lov-og-rett">
       <PrefLabel lang="en">Legal matters</PrefLabel>
