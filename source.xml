@@ -213,10 +213,10 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
    </Concept>
-   <Concept path="ord/fly">
-      <PrefLabel lang="en">Aeroplanes</PrefLabel>
-      <PrefLabel lang="nb">Fly</PrefLabel>
-      <PrefLabel lang="nn">Fly</PrefLabel>
+   <Concept path="ord/fly-og-helikopter">
+      <PrefLabel lang="en">Aeroplanes and helicopters</PrefLabel>
+      <PrefLabel lang="nb">Fly og helikopter</PrefLabel>
+      <PrefLabel lang="nn">Fly og helikopter</PrefLabel>
       <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
       <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
       <HiddenLabel lang="nb">Sjøfly</HiddenLabel>
@@ -229,23 +229,8 @@
       <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
       <HiddenLabel lang="nb">Privatfly</HiddenLabel>
       <HiddenLabel lang="nn">Privatfly</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly.</Definition>
-      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/luftfart</Broader>
-   </Concept>
-   <Concept path="ord/helikopter">
-      <PrefLabel lang="en">Helicopters</PrefLabel>
-      <PrefLabel lang="nb">Helikopter</PrefLabel>
-      <PrefLabel lang="nn">Helikopter</PrefLabel>
-      <HiddenLabel lang="nb">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nn">Luftfartøyregister</HiddenLabel>
-      <HiddenLabel lang="nb">Landingstillatelse</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsløyve</HiddenLabel>
-      <HiddenLabel lang="nb">Landingsplass</HiddenLabel>
-      <HiddenLabel lang="nn">Landingsplass</HiddenLabel>
-      <Definition lang="nn">Landingsløyve, landingsplass m.m. for helikopter.</Definition>
-      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for helikopter.</Definition>
+      <Definition lang="nn">Landingsløyve, landingsplass m.m. for fly og helikopter.</Definition>
+      <Definition lang="nb">Landingstillatelse, landingsplass m.m. for fly og helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/luftfart</Broader>
    </Concept>
@@ -331,7 +316,7 @@
       <HiddenLabel lang="nb">Helikopter</HiddenLabel>
       <HiddenLabel lang="nn">Helikopter</HiddenLabel>
       <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Tillatelse til å føre fly og helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -396,7 +381,7 @@
       <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
       <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
       <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Dokumentasjon på at man har hatt oppæring i truckføring. Kan gjelde for ulike truck-klasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -826,7 +811,7 @@
       <HiddenLabel lang="nb">Lovbrudd</HiddenLabel>
       <HiddenLabel lang="nn">Lovbrot</HiddenLabel>
       <Definition lang="nn">Melde ei sak til politiet.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Melde ei sak til politiet</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -863,7 +848,7 @@
       <HiddenLabel lang="nb">Ansettelsesforhold</HiddenLabel>
       <HiddenLabel lang="nn">Tilsetjingsforhold</HiddenLabel>
       <Definition lang="nn">Avtale som omtalar rettane og pliktene til arbeidsgjevar og arbeidstakar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Avtale som omtaler rettene og pliktene til arbeidsgiver og arbeidstaker.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/arbeidsliv</Broader>
    </Concept>
@@ -1215,7 +1200,7 @@
       <PrefLabel lang="nb">Behandlingsreise</PrefLabel>
       <PrefLabel lang="nn">Behandlingsreise</PrefLabel>
       <Definition lang="nn">Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Utanlandsbehandling, dvs. behandling i utlandet ved manglende kompetanse i Norge.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -1831,7 +1816,7 @@
       <HiddenLabel lang="nb">Dyrevern</HiddenLabel>
       <HiddenLabel lang="nn">Dyrevern</HiddenLabel>
       <Definition lang="nn">Helsetilstand og trivnad til husdyr.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Helsetilstand og trivsel til husdyr.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/landbruk</Broader>
    </Concept>
@@ -2156,7 +2141,7 @@
       <HiddenLabel lang="nb">Flomfare</HiddenLabel>
       <HiddenLabel lang="nn">Flaumfare</HiddenLabel>
       <Definition lang="nn">Varsel om flaum. Medrekna vassføringsprognosar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Varsel om flom. Medregnet vannføringsprognoser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -2218,7 +2203,7 @@
       <HiddenLabel lang="nb">Flytting til utlandet</HiddenLabel>
       <HiddenLabel lang="nn">Flytting til utlandet</HiddenLabel>
       <Definition lang="nn">Melding om flytting. Skal sendast til folkeregisteret ved likningskontoret. Medrekna flytting til utlandet.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Melding om flytting. Skal sendes til folkeregisteret ved ligningskontoret. Medregnet flytting til utlandet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/personopplysninger</Broader>
       <Broader>tema/flytting</Broader>
@@ -2308,7 +2293,7 @@
       <HiddenLabel lang="nb">Grønn energi</HiddenLabel>
       <HiddenLabel lang="nn">Grøn energi</HiddenLabel>
       <Definition lang="nn">Energi frå fornybare energikjelder.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Energi frå fornybare energikilder</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/energi</Broader>
    </Concept>
@@ -2682,7 +2667,7 @@
       <HiddenLabel lang="nb">Pyroteknisk vare</HiddenLabel>
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Søknad og tillatelse til å oppbevare og selge fyrverkeri</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -2724,7 +2709,7 @@
       <HiddenLabel lang="nb">Manuellterapi</HiddenLabel>
       <HiddenLabel lang="nn">Manuellterapi</HiddenLabel>
       <Definition lang="nn">Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">En del av helsetilbudet til kommunen. Bli gitt i forbindelse med forebyggende helsearbeid og ved behandling av sjukdom eller skade. Medregnet manuell terapi.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2798,7 +2783,7 @@
       <HiddenLabel lang="nb">Giftig</HiddenLabel>
       <HiddenLabel lang="nn">Giftig</HiddenLabel>
       <Definition lang="nn">Informasjon om gift og forgiftningar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Informasjon om gift og forgiftinger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -2999,7 +2984,7 @@
       <PrefLabel lang="nb">Heftelser i motorvogn</PrefLabel>
       <PrefLabel lang="nn">Hefte i motorvogn</PrefLabel>
       <Definition lang="nn">Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Tinglyst pant eller andre hefter på bil, motorsykkel, tilhenger eller andre kjøretøy</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -3012,7 +2997,7 @@
       <HiddenLabel lang="nb">Helsesøster</HiddenLabel>
       <HiddenLabel lang="nn">Helsesøster</HiddenLabel>
       <Definition lang="nn">Kommunalt tilbod om helsefremjande og førebyggjande helsearbeid.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Kommunalt tilbud om helsefremmende og forebyggende helsearbeid</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vaksine</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -3094,7 +3079,7 @@
       <PrefLabel lang="nb">Hjemmeundervisning</PrefLabel>
       <PrefLabel lang="nn">Heimeundervisning</PrefLabel>
       <Definition lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Foreldre underviser selv egne barn. Kommunen fører tilsyn med hjemmeundervisningen.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
@@ -3317,7 +3302,7 @@
       <HiddenLabel lang="nb">Kiropraktor</HiddenLabel>
       <HiddenLabel lang="nn">Kiropraktor</HiddenLabel>
       <Definition lang="nn">Ein kiropraktor gjev leddfrigjerande /manipulasjonsbehandling, men behandlar også muskulaturen. Behandlinga kan bli gjeven som førebyggjande helsearbeid og ved behandling av sjukdom og skade.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">En kiropraktor gir leddfrigjørende /manipulasjonsbehandling, men behandler også muskulaturen. Behandlingen kan bli gitt som forebyggende helsearbeid og ved behandling av sjukdom og skade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -3568,7 +3553,7 @@
       <HiddenLabel lang="nb">Akuttplass</HiddenLabel>
       <HiddenLabel lang="nn">Akuttplass</HiddenLabel>
       <Definition lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Tidsavgrenset opphold i institusjoner som for eksempel sykehjem. Blir tildelt hjemmeboende med behov for kortere opphold, gjerne i forbindelse med sykehusopphold.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -3889,7 +3874,7 @@
       <HiddenLabel lang="nb">Konfliktråd</HiddenLabel>
       <HiddenLabel lang="nn">Konfliktråd</HiddenLabel>
       <Definition lang="nn">Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling i separasjons- og skilsmissesaker og rettsmekling.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Mekling er et møte mellom to eller flere personer i ein konflikt. Mekling i konfliktråd skjer med en uavhengig mekler oppnevnt av kommunen. Dette gjelder mekling i separasjons- og skilsmissesaker og rettsmekling.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstvist</Related>
       <Related>ord/samlivsbrudd</Related>
@@ -4069,10 +4054,9 @@
       <PrefLabel lang="en">Certification and authorization</PrefLabel>
       <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
       <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
-      <HiddenLabel lang="nb">Miljøsertifisering</HiddenLabel>
-      <HiddenLabel lang="nn">Miljøsertifisering</HiddenLabel>
-      <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar. Det kan vere ISO-sertifisering eller miljøsertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
-      <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer. Det kan være ISO-sertifisering eller miljøsertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
+      <Related>ord/miljosertifisering</Related>
+      <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar, for eksempel ISO-sertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
+      <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer, til dømes ISO-sertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naringsliv</Broader>
    </Concept>
@@ -4152,8 +4136,8 @@
       <HiddenLabel lang="nn">Namsmann</HiddenLabel>
       <HiddenLabel lang="nb">Tvangsfullbyrdelse</HiddenLabel>
       <HiddenLabel lang="nn">Tvangsfullføring</HiddenLabel>
-      <Definition lang="nn">Tingrett og namsmann (namsfut, ("namsfogd")) vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nn">Tingrett og namsmann vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann.</Definition>
+      <Definition lang="nb">Tingrett og namsmann vedtar og foretar tvangsfullføringa. I en del større kommuner er det egen namsfut. I landet forøvrig er det lensmannen eller det lokale politiet som fungerer som namsmann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -4162,7 +4146,7 @@
       <PrefLabel lang="nb">Naturskadeerstatning</PrefLabel>
       <PrefLabel lang="nn">Naturskadeerstatning</PrefLabel>
       <Definition lang="nn">Erstatning etter naturskade.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Erstatning etter naturskade.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
@@ -4215,7 +4199,7 @@
       <PrefLabel lang="nb">Norskopplæring</PrefLabel>
       <PrefLabel lang="nn">Norskopplæring</PrefLabel>
       <Definition lang="nn">Opplæring i nynorsk og bokmål.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Opplæring i nynorsk og bokmål.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/voksenopplaring</Broader>
    </Concept>
@@ -4398,8 +4382,6 @@
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
       <PrefLabel lang="nb">Ytelser til foreldre og foresatte</PrefLabel>
       <PrefLabel lang="nn">Ytingar til foreldre og føresette</PrefLabel>
-      <HiddenLabel lang="nb">Barnebidrag</HiddenLabel>
-      <HiddenLabel lang="nn">Barnebidrag</HiddenLabel>
       <HiddenLabel lang="nb">Engangsstønad</HiddenLabel>
       <HiddenLabel lang="nn">Eingongsstønad</HiddenLabel>
       <HiddenLabel lang="nb">Foreldrepenger</HiddenLabel>
@@ -4410,10 +4392,6 @@
       <HiddenLabel lang="nn">Bidragsforskot</HiddenLabel>
       <HiddenLabel lang="nb">Fødselspenger</HiddenLabel>
       <HiddenLabel lang="nn">Fødselspengar</HiddenLabel>
-      <HiddenLabel lang="nb">Kontantstøtte</HiddenLabel>
-      <HiddenLabel lang="nn">Kontantstøtte</HiddenLabel>
-      <HiddenLabel lang="nb">Stønad til enslig forsørger</HiddenLabel>
-      <HiddenLabel lang="nn">Stønad til einsleg forsørgar</HiddenLabel>
       <HiddenLabel lang="nb">Stønad til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nn">Støtte til barnetilsyn</HiddenLabel>
       <HiddenLabel lang="nb">Overgangsstønad</HiddenLabel>
@@ -5131,7 +5109,7 @@
       <HiddenLabel lang="nb">Salgsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Salsmelding</HiddenLabel>
       <Definition lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Førstegangsregistrering av kjøretøy i Norge og omregistrering av kjøretøy, skjema, salgsmelding m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
@@ -5754,7 +5732,7 @@
       <HiddenLabel lang="nb">Skogbrannfare</HiddenLabel>
       <HiddenLabel lang="nn">Skogbrannfare</HiddenLabel>
       <Definition lang="nn">Varsel om fare for skogbrann.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Varsel om fare for skogbrann.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -6169,7 +6147,7 @@
       <HiddenLabel lang="nb">Lånekassen</HiddenLabel>
       <HiddenLabel lang="nn">Lånekassa</HiddenLabel>
       <Definition lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Økonomiske støtte i form av stipend og/eller lån. Blir gitt til elever og studenter i videregående og høyere utdanning.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/studiefinansiering</Broader>
    </Concept>
