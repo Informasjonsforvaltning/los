@@ -1572,7 +1572,6 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vegvedlikehold</Related>
       <Related>ord/kommunale-avgifter-og-gebyr</Related>
-      <Broader>tema/eiendom</Broader>
       <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/byggesak">
