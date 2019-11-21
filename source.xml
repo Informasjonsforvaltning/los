@@ -80,14 +80,12 @@
       <Related>ord/pass-og-visum</Related>
       <Related>ord/personnavn</Related>
       <Related>ord/stonad-til-enslig-forsorger</Related>
-      <Related>ord/svangerskapsomsorg</Related>
       <Related>ord/ytelser-ved-svangerskap-fodsel-og-adopsjon</Related>
       <Related>ord/sykehus</Related>
       <Related>ord/ufrivillig-barnloshet</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
       <Related>ord/fodselsattest</Related>
       <Related>ord/fodselsnummer</Related>
-      <Related> ord/svangerskapspenger</Related>
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
       <PrefLabel lang="en">*</PrefLabel>
@@ -7793,11 +7791,13 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/Miljøsertifisering ">
+   <Concept path="ord/miljosertifisering ">
       <PrefLabel lang="en">Environmental certification</PrefLabel>
       <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
       <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
