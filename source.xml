@@ -7791,7 +7791,7 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="ord/miljosertifisering ">
+   <Concept path="ord/miljosertifisering">
       <PrefLabel lang="en">Environmental certification</PrefLabel>
       <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
       <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
