@@ -316,7 +316,7 @@
       <HiddenLabel lang="nb">Helikopter</HiddenLabel>
       <HiddenLabel lang="nn">Helikopter</HiddenLabel>
       <Definition lang="nn">Løyve til å føra fly og helikopter.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Tillatelse til å føre fly og helikopter.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
@@ -2667,7 +2667,7 @@
       <HiddenLabel lang="nb">Pyroteknisk vare</HiddenLabel>
       <HiddenLabel lang="nn">Pyroteknisk vare</HiddenLabel>
       <Definition lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Søknad og tillatelse til å oppbevare og selge fyrverkeri</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/brann</Broader>
    </Concept>
@@ -3874,7 +3874,7 @@
       <HiddenLabel lang="nb">Konfliktråd</HiddenLabel>
       <HiddenLabel lang="nn">Konfliktråd</HiddenLabel>
       <Definition lang="nn">Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling i separasjons- og skilsmissesaker og rettsmekling.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Mekling er et møte mellom to eller flere personer i ein konflikt. Mekling i konfliktråd skjer med en uavhengig mekler oppnevnt av kommunen. Dette gjelder mekling i separasjons- og skilsmissesaker og rettsmekling.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstvist</Related>
       <Related>ord/samlivsbrudd</Related>
@@ -5109,7 +5109,7 @@
       <HiddenLabel lang="nb">Salgsmelding</HiddenLabel>
       <HiddenLabel lang="nn">Salsmelding</HiddenLabel>
       <Definition lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Førstegangsregistrering av kjøretøy i Norge og omregistrering av kjøretøy, skjema, salgsmelding m.m.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
    </Concept>
