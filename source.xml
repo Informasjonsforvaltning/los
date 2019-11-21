@@ -6086,16 +6086,6 @@
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
-   <Concept path="ord/akutt-forurensning">
-      <PrefLabel lang="en">Acute pollution</PrefLabel>
-      <PrefLabel lang="nb">Akutt forurensning</PrefLabel>
-      <PrefLabel lang="nn">Akutt forurensning</PrefLabel>
-      <Definition lang="nn">Forureining med store følgjer som inntrer plutseleg, og som ikkje er tillate.</Definition>
-      <Definition lang="nb">Forurensning av betydning som inntrer plutselig, og som ikke er tillatt.</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/folkehelse</Broader>
-      <Broader>tema/forurensning-og-straling</Broader>
-   </Concept>
    <Concept path="ord/radonmaling">
       <PrefLabel lang="en">Radon measurement</PrefLabel>
       <PrefLabel lang="nb">Radonmåling</PrefLabel>
