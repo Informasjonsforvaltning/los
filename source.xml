@@ -2454,8 +2454,8 @@
         <PrefLabel lang="en">Activities for senior citizens</PrefLabel>
         <PrefLabel lang="nb">Seniortilbud</PrefLabel>
         <PrefLabel lang="nn">Seniortilbod</PrefLabel>
-        <PrefLabel lang="nb">Eldresenter</PrefLabel>
-        <PrefLabel lang="nn">Eldresenter</PrefLabel>
+        <HiddenLabel lang="nb">Eldresenter<HiddenLabel>
+        <HiddenLabel lang="nn">Eldresenter</HiddenLabel>
         <Definition lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</Definition>
         <Definition lang="nb">En samling aktiviteter og treffsteder for pensjonister.</Definition>
         <InScheme>ontologi/ord</InScheme>
@@ -2632,8 +2632,8 @@
       <PrefLabel lang="nb">Frivilligsentral</PrefLabel>
       <PrefLabel lang="nn">Frivilligsentral</PrefLabel>
       <HiddenLabel lang="nb">Frivillighetssentral</HiddenLabel>
-      <HiddenLabel lang="nn">Frivilligsentral</HiddenLabel>
-      <Definition lang="nn">Frivilligsentralar ("frivillighetssentraler") finst over heile landet og er ein møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører, og dermed fremje og styrkje det frivillige arbeidet.</Definition>
+      <HiddenLabel lang="nn">Frivilligheitssentral</HiddenLabel>
+      <Definition lang="nn">Frivillighetssentralar er en møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører, og dermed fremje og styrke det frivillige arbeidet.</Definition>
       <Definition lang="nb">Frivillighetssentraler er en møteplass som formidler kontakt mellom mennesker i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersoner og organisasjoner i kommunen utfører, og dermed fremme og styrke det frivillige arbeidet.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/fritid</Broader>
@@ -7754,7 +7754,7 @@
         <Member>ord/adressetildeling</Member>
         <Member>ord/videregaende-opplaring</Member>
         <Member>ord/skoletilhorighet</Member>
-        <Member>ord/tilpasset-opplaring"</Member>
+        <Member>ord/tilpasset-opplaring</Member>
         <Member>ord/dyrehold</Member>
         <Member>ord/tilrettelagt-arbeidstilbud</Member>
         <Member>ord/aktiviteter-og-livsmestring-for-rusavhengige</Member>
