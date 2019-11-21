@@ -381,7 +381,7 @@
       <PrefLabel lang="nb">Truckførerbevis</PrefLabel>
       <PrefLabel lang="nn">Truckførarbevis</PrefLabel>
       <Definition lang="nn">Dokumentasjon på at ein har hatt opplæring i truckføring. Kan gjelde for ulike truck-klassar.</Definition>
-      <Definition lang="nb">**</Definition>
+      <Definition lang="nb">Dokumentasjon på at man har hatt oppæring i truckføring. Kan gjelde for ulike truck-klasser.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forerkort-og-sertifikat</Broader>
    </Concept>
