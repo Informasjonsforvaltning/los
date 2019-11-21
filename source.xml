@@ -5220,7 +5220,7 @@
       <Definition lang="nn">Ein skatteattest er dokumentasjon på innbetalt meirverdiavgift og skatt. Leverandørar til stat eller kommune treng å vise skatteattest.</Definition>
       <Definition lang="nb">En skatteattest er dokumentasjon på innbetalt merverdiavgift og skatt. Leverandører til stat eller kommune trenger å vise skatteattest.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
+      <Broader>tema/skatt</Broader>
    </Concept>
    <Concept path="ord/renovasjonsavgift">
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
