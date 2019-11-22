@@ -4297,7 +4297,7 @@
       <Broader>tema/permisjonsordninger</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
-   <Concept path="ord/kontantstøtte">
+   <Concept path="ord/kontantstotte">
       <PrefLabel lang="en">Cash-for-care benefit</PrefLabel>
       <PrefLabel lang="nb">Kontantstøtte</PrefLabel>
       <PrefLabel lang="nn">Kontantstøtte</PrefLabel>
@@ -4383,7 +4383,7 @@
       <Definition lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/foreldrepermisjon</Related>
-      <Related>ord/kontantstøtte</Related>
+      <Related>ord/kontantstotte</Related>
       <Related>ord/barnebidrag</Related>
       <Related>ord/barnetrygd</Related>
       <Related>ord/stonad-til-enslig-forsorger</Related>
