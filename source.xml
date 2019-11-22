@@ -1605,6 +1605,8 @@
       <HiddenLabel lang="nn">Byggjesøknad</HiddenLabel>
       <HiddenLabel lang="nb">Grunnundersøkelse</HiddenLabel>
       <HiddenLabel lang="nn">Grunnundersøking</HiddenLabel>
+      <HiddenLabel lang="nb">Ferdigattest</HiddenLabel>
+      <HiddenLabel lang="nn">Ferdigattest</HiddenLabel>
       <Definition lang="nn">Løyve og dokument i samband med oppføring eller endring av eit bygg, som t.d. byggjemelding, byggjeløyve, nabovarsel m.m.</Definition>
       <Definition lang="nb">Søknader, tillatelser og dokumenter i forbindelse med oppføring eller endring av et bygg, for eksempel byggemelding, ferdigattest, osv. </Definition>
       <InScheme>ontologi/ord</InScheme>
