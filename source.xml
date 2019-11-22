@@ -4631,7 +4631,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
-   <Concept path="ord/patent,-design-og-varemerke">
+   <Concept path="ord/patent-design-og-varemerke">
       <PrefLabel lang="en">Patent, design and trademarks</PrefLabel>
       <PrefLabel lang="nb">Patent, design og varemerke</PrefLabel>
       <PrefLabel lang="nn">Patent, design og varemerke</PrefLabel>
