@@ -2495,6 +2495,8 @@
         <HiddenLabel lang="nn">Dyregraver</HiddenLabel>
         <HiddenLabel lang="nb">Bautasteiner</HiddenLabel>
         <HiddenLabel lang="nn">Bautasteinar</HiddenLabel>
+        <HiddenLabel lang="nb">Kulturminnevern</HiddenLabel>
+        <HiddenLabel lang="nn">Kulturminnevern</HiddenLabel>
         <Definition lang="nn">Kulturminne kan vere gravhaugar, offerplassar, dyregraver og bautasteinar. Kulturminne kan vere seg på land eller under vatn. Fylkeskommunen eller sametinget gir løyve til tiltak på eigedomar med kulturminne.</Definition>
         <Definition lang="nb">Kulturminner kan være gravhauger, offerplasser, dyregraver og bautasteiner. Kulturminner kan befinne seg på land eller under vann. Fylkeskommunen eller sametinget gir tillatelser til tiltak på eiendommer med kulturminner.</Definition>
         <InScheme>ontologi/ord</InScheme>
