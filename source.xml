@@ -4390,15 +4390,6 @@
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/foreldre-og-foresatte</Broader>
    </Concept>
-   <Concept path="ord/oppgaveplikt">
-      <PrefLabel lang="en">Filing requirement</PrefLabel>
-      <PrefLabel lang="nb">Oppgaveplikt</PrefLabel>
-      <PrefLabel lang="nn">Oppgåveplikt</PrefLabel>
-      <Definition lang="nn">Her brukt om pålegg om innrapportering av opplysningar frå næringsdrivande til statlege styresmakter. Ei oppgåveplikt vil ofte vere i form av eit skjema som den næringsdrivande må fylle ut. Ulike næringsdrivande kan ha ulike oppgåveplikter alt etter t.d. i kva form verksemda blir driven og kva slags næringsverksemd som blir driven.</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/skatt-og-avgift</Broader>
-   </Concept>
    <Concept path="ord/betaling-av-skatt">
       <PrefLabel lang="en">Tax payment</PrefLabel>
       <PrefLabel lang="nb">Betaling av skatt</PrefLabel>
