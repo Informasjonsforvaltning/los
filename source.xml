@@ -1378,7 +1378,6 @@
       <Definition lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</Definition>
       <Definition lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</Definition>
       <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/avgift</Broader>
       <Broader>tema/trafikkinformasjon</Broader>
    </Concept>
    <Concept path="ord/vegnett">
@@ -5330,6 +5329,7 @@
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/trafikkinformasjon</Broader>
+      <Broader>tema/veg-og-vegregulering</Broader>
    </Concept>
    <Concept path="ord/renovasjon">
       <PrefLabel lang="en">Waste collection</PrefLabel>
@@ -7091,7 +7091,7 @@
       <HiddenLabel lang="nn">Skuleutval</HiddenLabel>
       <Definition lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</Definition>
       <Definition lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</Definition>
-      <InScheme>ontologi/tema</InScheme>
+      <InScheme>ontologi/ord</InScheme>
       <Broader>tema/skole-og-utdanning</Broader>
    </Concept>
    <Concept path="ord/viltforvaltning">
