@@ -5200,6 +5200,8 @@
       <PrefLabel lang="en">Waste collection fee</PrefLabel>
       <PrefLabel lang="nb">Renovasjonsavgift</PrefLabel>
       <PrefLabel lang="nn">Renovasjonsavgift</PrefLabel>
+      <HiddenLabel lang="nn">Renovasjonsgebyr></HiddenLabel>
+      <HiddenLabel lang="nb">Renovasjonsgebyr></HiddenLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
