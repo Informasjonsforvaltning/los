@@ -2,7 +2,7 @@
 <Skos xmlns="urn:fdc:difi.no:2019:data:Skos-1">
    <Config>
       <Name>Los</Name>
-      <BaseURI>http://psi.norge.no/los/</BaseURI>
+      <BaseURI>https://psi.norge.no/los/</BaseURI>
       <Options key="github">
          <Option key="repository">https://github.com/difi/los</Option>
          <Option key="issues">https://github.com/difi/los/issues</Option>
