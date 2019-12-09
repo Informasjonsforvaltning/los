@@ -139,7 +139,7 @@
       <Concept path="tema/bat-havn-og-kyst">
       <PrefLabel lang="en">Boat, harbour and coast</PrefLabel>
       <PrefLabel lang="nb">Båt, havn og kyst</PrefLabel>
-      <PrefLabel lang="nn">Båt, havn og kyst</PrefLabel>
+      <PrefLabel lang="nn">Båt, hamn og kyst</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/trafikk-og-transport</Broader>
 	</Concept>
@@ -691,7 +691,7 @@
    <Concept path="ord/langvarige-helsetjenester">
       <PrefLabel lang="en">Long term health services</PrefLabel>
       <PrefLabel lang="nb">Langvarige helsetjenester</PrefLabel>
-      <PrefLabel lang="nn">Langevarige helsetjenester</PrefLabel>
+      <PrefLabel lang="nn">Langvarige helsetenester</PrefLabel>
       <Definition lang="nn">Somme har behov for tenester innanfor forskjellige område. Eksempel er tenester innanfor habilitering og rehabilitering, individuell plan og andre tverrfaglege eller koordinerte tenester.</Definition>
       <Definition lang="nb">Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -739,7 +739,7 @@
    <Concept path="ord/helsesykepleier">
       <PrefLabel lang="en">Health nurse</PrefLabel>
       <PrefLabel lang="nb">Helsesykepleier</PrefLabel>
-      <PrefLabel lang="nn">Helsesykepleier</PrefLabel>
+      <PrefLabel lang="nn">Helsesjukepleiar</PrefLabel>
       <Definition lang="nn">Ein helsjukepleiar er ein sjukepleiar med vidareutdanning i helsefremjande og førebyggande arbeid på system- og individnivå og er eit tilbod til skuleelevar.</Definition>
       <Definition lang="nb">En helsykepleier er en sykepleier med videreutdanning i helsefremmende og forebyggende arbeid på system- og individnivå og er et tilbud til skoleelever.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -748,7 +748,7 @@
    <Concept path="ord/friskliv-og-mestring">
       <PrefLabel lang="en">Healthy life and coping</PrefLabel>
       <PrefLabel lang="nb">Friskliv og mestring</PrefLabel>
-      <PrefLabel lang="nn">Friskliv og mestring</PrefLabel>
+      <PrefLabel lang="nn">Friskliv og meistring</PrefLabel>
       <Definition lang="nn">Kommunen tilbyr forskjellige tenester som bidreg til å halde innbyggjarane friske eller som bidreg til meistring av ein sjukdom.</Definition>
       <Definition lang="nb">Kommunen tilbyr forskjellige tjenester som bidrar til å holde innbyggerne friske eller som bidrar til mestring av en sykdom.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -2132,7 +2132,7 @@
    <Concept path="ord/blaskjellvarsel">
       <PrefLabel lang="en">Mussels warning</PrefLabel>
       <PrefLabel lang="nb">Blåskjellvarsel</PrefLabel>
-      <PrefLabel lang="nn">Blåskjellvarsel</PrefLabel>
+      <PrefLabel lang="nn">Blåskjelvarsel</PrefLabel>
       <Definition lang="nn">Blåskjellvarslet gir informasjon om kvar skjell kan vera giftige.</Definition>
       <Definition lang="nb">Blåskjellvarslet gir informasjon om hvor skjell kan være giftige.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -2569,7 +2569,7 @@
     <Concept path="ord/lokaler-og-idrettsanlegg">
         <PrefLabel lang="en">Sports facilities</PrefLabel>
         <PrefLabel lang="nb">Lokaler og idrettsanlegg</PrefLabel>
-        <PrefLabel lang="nn">Lokaler og idrettsanlegg</PrefLabel>
+        <PrefLabel lang="nn">Lokale og idrettsanlegg</PrefLabel>
         <Definition lang="nn">Utlån eller leige av baner, idrettshallar, symjehallar med meir.</Definition>
         <Definition lang="nb">Utlån eller leie av baner, idrettshaller, svømmehaller med mer.</Definition>
         <InScheme>ontologi/ord</InScheme>
@@ -2657,7 +2657,7 @@
    <Concept path="ord/bekymringsmelding-om-brannsikkerhet">
       <PrefLabel lang="en">Fire safety report</PrefLabel>
       <PrefLabel lang="nb">Bekymringsmelding om brannsikkerhet</PrefLabel>
-      <PrefLabel lang="nn">Bekymringsmelding om brannsikkerhet</PrefLabel>
+      <PrefLabel lang="nn">Bekymringsmelding om branntryggleik</PrefLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -3829,7 +3829,7 @@
    <Concept path="ord/hjelp-ved-rusavhengighet">
       <PrefLabel lang="en">Aid for drug adiction</PrefLabel>
       <PrefLabel lang="nb">Hjelp ved rusavhengighet</PrefLabel>
-      <PrefLabel lang="nn">Hjelp ved rusavhengighet</PrefLabel>
+      <PrefLabel lang="nn">Hjelp ved rusavhengigheit</PrefLabel>
       <Definition lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</Definition>
       <Definition lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -4107,7 +4107,7 @@
    <Concept path="ord/namsmyndighet">
       <PrefLabel lang="en">Enforcement authority</PrefLabel>
       <PrefLabel lang="nb">Namsmyndighet</PrefLabel>
-      <PrefLabel lang="nn">Namsmyndigheit</PrefLabel>
+      <PrefLabel lang="nn">Namsmakt</PrefLabel>
       <HiddenLabel lang="nb">Tvangssalg</HiddenLabel>
       <HiddenLabel lang="nn">Tvangssal</HiddenLabel>
       <HiddenLabel lang="nb">Namsfogd</HiddenLabel>
@@ -4705,7 +4705,7 @@
    <Concept path="ord/tilrettelagt-arbeidstilbud">
       <PrefLabel lang="en">Assisted job opportunities</PrefLabel>
       <PrefLabel lang="nb">Tilrettelagt arbeidstilbud</PrefLabel>
-      <PrefLabel lang="nn">Tilrettelagt arbeidstilbod</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagd arbeidstilbod</PrefLabel>
       <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
       <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
       <Definition lang="nb">Kommunen kan tilby og koordinere tiltak slik at yrkeshemmede og utviklingshemmede som har arbeidsevne og kapasitet, skal få varig  og tilrettelagt arbeid etter endt utdanning.</Definition>
@@ -6347,7 +6347,7 @@
    <Concept path="ord/tilrettelagt-fritid">
       <PrefLabel lang="en">Leisure activities for disabled persons</PrefLabel>
       <PrefLabel lang="nb">Tilrettelagt fritid</PrefLabel>
-      <PrefLabel lang="nn">Tilrettelagt fritid</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagd fritid</PrefLabel>
       <HiddenLabel lang="nb">Fritidskalender</HiddenLabel>
       <HiddenLabel lang="nn">Fritidskalender</HiddenLabel>
       <HiddenLabel lang="nb">Ferietilbud</HiddenLabel>
@@ -6364,7 +6364,7 @@
    <Concept path="ord/dyrehold">
       <PrefLabel lang="en">Pet keeping</PrefLabel>
       <PrefLabel lang="nb">Dyrehold</PrefLabel>
-      <PrefLabel lang="nn">Dyrehold</PrefLabel>
+      <PrefLabel lang="nn">Dyrehald</PrefLabel>
       <HiddenLabel lang="nb">Kjæledyr og sportsdyr</HiddenLabel>
       <HiddenLabel lang="nn">Kjæledyr og sportsdyr</HiddenLabel>
       <HiddenLabel lang="nb">Husdyrhold</HiddenLabel>
@@ -6377,7 +6377,7 @@
    <Concept path="ord/tilrettelagt-transport">
       <PrefLabel lang="en">Transport services for disabled persons</PrefLabel>
       <PrefLabel lang="nb">Tilrettelagt transport</PrefLabel>
-      <PrefLabel lang="nn">Tilrettelagt transport</PrefLabel>
+      <PrefLabel lang="nn">Tilrettelagd transport</PrefLabel>
       <HiddenLabel lang="nb">Drosjelapper</HiddenLabel>
       <HiddenLabel lang="nn">Drosjelappar</HiddenLabel>
       <HiddenLabel lang="nb">TT-kort</HiddenLabel>
@@ -6941,7 +6941,7 @@
    <Concept path="ord/repetisjonstjeneste">
       <PrefLabel lang="en">Repetition service</PrefLabel>
       <PrefLabel lang="nb">Repetisjonstjeneste</PrefLabel>
-      <PrefLabel lang="nn">Repetisjonstjeneste</PrefLabel>
+      <PrefLabel lang="nn">Repetisjonsteneste</PrefLabel>
       <Definition lang="nn">**</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -7056,7 +7056,7 @@
    <Concept path="ord/fraver">
       <PrefLabel lang="en">Absence</PrefLabel>
       <PrefLabel lang="nb">Fravær</PrefLabel>
-      <PrefLabel lang="nn">Fråver</PrefLabel>
+      <PrefLabel lang="nn">Fråvær</PrefLabel>
       <Definition lang="nn">Vidaregående skular har reglar for kor mykje fråvær ein elev kan ha utan å miste grunnlaget for karakter. Fråværsreglane er nasjonale, men kvar skule kan sjølv vurdere enkelttilfelle slik at ikkje alt fråvær blir tald som fråvær. I tillegg finst dei gyldige grunnane til fråvær som visse rettar i opplæringslova, helse, politisk arbeid, religionsutøving eller anna. Gyldige grunnar til fråvær må dokumenterast.</Definition>
       <Definition lang="nb">Videregående skoler har regler for hvor mye fravær en elev kan ha uten å miste grunnlaget for karakter. Fraværsreglene er nasjonale, men hver skole kan selv vurdere enkelttilfeller slik at ikke all fravær telles som fravær. I tillegg finnes det gyldige grunner til fravær som visse rettigheter i opplæringsloven, helse, politisk arbeid, religionsutøvelse eller annet. Gyldige grunner til fravær må dokumenteres.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -7084,7 +7084,7 @@
    <Concept path="tema/videregaende-skole">
       <PrefLabel lang="en">Upper secondary school</PrefLabel>
       <PrefLabel lang="nb">Videregående skole</PrefLabel>
-      <PrefLabel lang="nn">Vidaregående skule</PrefLabel>
+      <PrefLabel lang="nn">Vidaregåande skule</PrefLabel>
       <HiddenLabel lang="nb">Elevråd</HiddenLabel>
       <HiddenLabel lang="nn">Elevråd</HiddenLabel>
       <HiddenLabel lang="nb">Skolemiljøutvalg</HiddenLabel>
@@ -7311,7 +7311,7 @@
    <Concept path="tema/okonomiske-ytelser-og-radgivning">
       <PrefLabel lang="en">Financial support and advice</PrefLabel>
       <PrefLabel lang="nb">Økonomiske ytelser og rådgiving</PrefLabel>
-      <PrefLabel lang="nn">Økonomiske ytelser og rådgjeving</PrefLabel>
+      <PrefLabel lang="nn">Økonomiske ytingar og rådgjeving</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/sosiale-tjenester</Broader>
    </Concept>
@@ -7662,7 +7662,7 @@
    <Concept path="tema/rettsvesen">
       <PrefLabel lang="en">Legal system</PrefLabel>
       <PrefLabel lang="nb">Rettsvesen</PrefLabel>
-      <PrefLabel lang="nn">Rettsvesen</PrefLabel>
+      <PrefLabel lang="nn">Rettsstell</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/lov-og-rett</Broader>
    </Concept>
