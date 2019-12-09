@@ -6179,14 +6179,14 @@
    <Concept path="ord/sykefravar">
       <PrefLabel lang="en">Sick leave</PrefLabel>
       <PrefLabel lang="nb">Sykefravær</PrefLabel>
-      <PrefLabel lang="nn">Sjukefråver</PrefLabel>
+      <PrefLabel lang="nn">Sjukefråvær</PrefLabel>
       <HiddenLabel lang="nb">Egenmelding</HiddenLabel>
       <HiddenLabel lang="nn">Eigenmelding</HiddenLabel>
       <HiddenLabel lang="nb">Sykemelding</HiddenLabel>
       <HiddenLabel lang="nn">Sjukemelding</HiddenLabel>
       <HiddenLabel lang="nb">Sykmelding</HiddenLabel>
       <HiddenLabel lang="nn">Sjukmelding</HiddenLabel>
-      <Definition lang="nn">Sjukefråver er fråver frå lønna arbeid på grunn av sjukdom. .</Definition>
+      <Definition lang="nn">Sjukefråvær er fråver frå lønna arbeid på grunn av sjukdom. .</Definition>
       <Definition lang="nb">Sykefravær er fravær fra lønnet arbeid på grunn av sykdom. </Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/sykepenger</Related>
