@@ -7276,7 +7276,7 @@
    <Concept path="tema/familieytelser">
       <PrefLabel lang="en">Family benefits</PrefLabel>
       <PrefLabel lang="nb">Familieytelser</PrefLabel>
-      <PrefLabel lang="nn">Familieytelsar</PrefLabel>
+      <PrefLabel lang="nn">Familieytingar</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/familie-og-barn</Broader>
    </Concept>
