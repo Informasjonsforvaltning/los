@@ -5153,7 +5153,7 @@
    <Concept path="ord/betalingssatser-for-kommunale-tjenester">
       <PrefLabel lang="en">Payment rates for municipal plans</PrefLabel>
       <PrefLabel lang="nb">Betalingssatser for kommunale tjenester</PrefLabel>
-      <PrefLabel lang="nn">Betalingssatser for kommunale tjenester</PrefLabel>
+      <PrefLabel lang="nn">Betalingssatsar for kommunale tenester</PrefLabel>
       <Definition lang="nn">Betaling for kommunale tenester, som feiing, vatn og avløpsgebyr, bostømming, osv.</Definition>
       <Definition lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyr, søppeltømming, osv.</Definition>
       <InScheme>ontologi/ord</InScheme>
