@@ -7206,7 +7206,7 @@
    <Concept path="tema/medvirkning">
       <PrefLabel lang="en">Involvement</PrefLabel>
       <PrefLabel lang="nb">Medvirkning</PrefLabel>
-      <PrefLabel lang="nn">Medverkand</PrefLabel>
+      <PrefLabel lang="nn">Medverknad</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/demokrati-og-innbyggerrettigheter</Broader>
    </Concept>
