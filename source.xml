@@ -4308,7 +4308,7 @@
    <Concept path="ord/ytelser-ved-sykdom-i-familien">
       <PrefLabel lang="en">Benefits for familiy illness </PrefLabel>
       <PrefLabel lang="nb">Ytelser ved sykdom i familien</PrefLabel>
-      <PrefLabel lang="nn">Ytelsar ved sjukdom i familien</PrefLabel>
+      <PrefLabel lang="nn">Ytingar ved sjukdom i familien</PrefLabel>
       <HiddenLabel lang="nb">Pleiepenger</HiddenLabel>
       <HiddenLabel lang="nn">Pleiepengar</HiddenLabel>
       <HiddenLabel lang="nb">Omsorgspenger</HiddenLabel>
@@ -4354,7 +4354,7 @@
    <Concept path="ord/ytelser-til-gjenlevende">
       <PrefLabel lang="en">Benefits to survivors</PrefLabel>
       <PrefLabel lang="nb">Ytelser til gjenlevende</PrefLabel>
-      <PrefLabel lang="nn">Ytelsar til gjenlevende</PrefLabel>
+      <PrefLabel lang="nn">Ytingar til gjenlevende</PrefLabel>
       <Definition lang="nn">Gjenlevendepensjon og overgangsstønad til gjenlevande ektefelle / samboar. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon blir gitt når ein eller begge foreldre er døde. Ytelsar til einsleg tidligere familiepleier som ikkje kan forsørge seg sjølv etter pleieforholdets opphør.</Definition>
       <Definition lang="nb">Gjenlevendepensjon og overgangsstønad til gjenlevende ektefelle / samboer. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon gis når en eller begge foreldre er døde. Ytelser til enslig tidligere familiepleier som ikke kan forsørge seg selv etter pleieforholdets opphør.</Definition>
       <InScheme>ontologi/ord</InScheme>
@@ -7234,7 +7234,7 @@
    <Concept path="tema/avlastning-og-stotte">
       <PrefLabel lang="en">Care relief and support</PrefLabel>
       <PrefLabel lang="nb">Avlastning og støtte</PrefLabel>
-      <PrefLabel lang="nn">Avlastning og støtte</PrefLabel>
+      <PrefLabel lang="nn">Avlasting og støtte</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
