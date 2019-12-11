@@ -3866,7 +3866,7 @@
    <Concept path="ord/menerstatning">
       <PrefLabel lang="en">Permanent injury compensation</PrefLabel>
       <PrefLabel lang="nb">Menerstatning</PrefLabel>
-      <PrefLabel lang="nn">Meinerstatning</PrefLabel>
+      <PrefLabel lang="nn">Menerstatning</PrefLabel>
       <Definition lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
