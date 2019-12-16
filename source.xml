@@ -176,6 +176,16 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Related>ord/arbeidsmiljo</Related>
+      <Related>ord/bingo</Related>
+      <Related>ord/idrettsmidler</Related>
+      <Related>ord/kulturmidler</Related>
+      <Related>ord/lotteri</Related>
+      <Related>ord/narmiljotilskudd</Related>
+      <Related>ord/rapportering-for-naringsdrivende</Related>
+      <Related>ord/tilskudd-til-friluftsliv</Related>
+      <Related>ord/tilskudd-til-helse-og-eldre</Related>
+      <Related>ord/tilskudd-til-tro-og-livssyn</Related>
+      <Related>ord/ungdomsmidler</Related>
       <Related>ord/merverdiavgift</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-frivillig-organisasjon">
