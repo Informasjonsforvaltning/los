@@ -488,8 +488,8 @@
 	    <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
-      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
+      <Definition lang="nn">Ein firehjuls motorsykkel som kan vere registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
+      <Definition lang="nb">En firehjuls motorsykkel som kan være registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
