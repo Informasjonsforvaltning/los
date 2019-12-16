@@ -89,15 +89,38 @@
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
       <PrefLabel lang="en">*</PrefLabel>
-      <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
-      <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
+      <PrefLabel lang="nb">Miste og finne jobb</PrefLabel>
+      <PrefLabel lang="nn">Miste og finne jobb</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
       <Related>ord/hogskole-og-universitet</Related>
       <Related>ord/inkluderende-arbeidsliv</Related>
+      <Related>ord/fagskoleutdanning</Related>
+      <Related>ord/grunnskole-for-voksne</Related>
+      <Related>ord/arbeidsavtale</Related>
+      <Related>ord/arbeidsmarkedstiltak</Related>
+      <Related>ord/arbeidsmiljo</Related>
+      <Related>ord/cv</Related>
+      <Related>ord/ferierettigheter</Related>
+      <Related>ord/lonn</Related>
+      <Related>ord/oppsigelse</Related>
+      <Related>ord/realkompetanse</Related>
+      <Related>ord/samordna-opptak</Related>
+      <Related>ord/skattekort</Related>
+      <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
+      <Related>ord/studiefinansiering</Related>
+      <Related>ord/tilleggsstønader-til-arbeidsrettede-tiltak</Related>
+      <Related>ord/tilrettelegging-pa-arbeidsplassen</Related>
+      <Related>ord/voksenopplaring</Related>
+      <Related>ord/yrkesautorisasjon</Related>
       <Related>ord/permittering</Related>
+      <Related>ord/inkluderende-arbeidsliv</Related>
+      <Related>ord/hogskole-og-universitet</Related>
+      <Related>ord/hogskole-og-universitet</Related>
+      <Related>ord/dagpenger</Related>
+      <Related>ord/arbeidssoking</Related>
    </Concept>
    <Concept path="hendelse/ny-i-norge">
       <PrefLabel lang="en">*</PrefLabel>
