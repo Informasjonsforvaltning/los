@@ -38,8 +38,42 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/skoleskyss</Related>
       <Related>ord/frikort-for-helsetjenester</Related>
+      <Related>ord/habilitering-og-rehabilitering</Related>
+      <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
       <Related>ord/personlig-assistent</Related>
+      <Related>ord/omsorgsstonad</Related>
+      <Related>ord/behandlingsreise</Related>
+      <Related>ord/fastlege</Related>
+      <Related>ord/fysioterapi</Related>
+      <Related>ord/helsestasjon</Related>
+      <Related>ord/hjemmesykepleie</Related>
+      <Related>ord/kiropraktikk</Related>
+      <Related>ord/langvarige-helsetjenester</Related>
+      <Related>ord/legemiddel</Related>
+      <Related>ord/omsorgsavlastning</Related>
+      <Related>ord/rehabiliteringspenger</Related>
+      <Related>ord/syketransport</Related>
+      <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
+      <Related>ord/ytelser-ved-sykdom-i-familien</Related>
+      <Related>ord/pasient-og-brukerombud</Related>
+      <Related>ord/pasientskadeerstatning</Related>
+      <Related>ord/radgiving-og-kurs</Related>
+      <Related>ord/stottekontakt</Related>
+      <Related>ord/tilrettelagt-fritid</Related>
+      <Related>ord/legehjelp</Related>
+      <Related>ord/bofellesskap</Related>
+      <Related>ord/dagtilbud</Related>
+      <Related>ord/klage-pa-helse-og-omsorgstje</Related>
+      <Related>ord/barnehageplass</Related>
+      <Related>ord/besokshjem</Related>
+      <Related>ord/bostotte</Related>
+      <Related>ord/ertgoterapi</Related>
+      <Related>ord/pedagogisk-psykologisk-tjeneste</Related>
+      <Related>ord/horselshjelpemidler</Related>
+      <Related>ord/kommunikasjon-og-kognisjon</Related>
+      <Related>ord/synshjelpemidler</Related>
+      <Related>ord/bevegelseshjelpemidler</Related>
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
@@ -89,15 +123,38 @@
    </Concept>
    <Concept path="hendelse/miste-og-finne-jobb">
       <PrefLabel lang="en">*</PrefLabel>
-      <PrefLabel lang="nb">Miste og finne jobb, inkludert ta et utdanningsvalg</PrefLabel>
-      <PrefLabel lang="nn">Miste og finne jobb, inkludert ta eit utdanningsvalg</PrefLabel>
+      <PrefLabel lang="nb">Miste og finne jobb</PrefLabel>
+      <PrefLabel lang="nn">Miste og finne jobb</PrefLabel>
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/dagpenger</Related>
       <Related>ord/etterutdanning-og-videreutdanning</Related>
       <Related>ord/fagskoleutdanning</Related>
       <Related>ord/hogskole-og-universitet</Related>
       <Related>ord/inkluderende-arbeidsliv</Related>
+      <Related>ord/fagskoleutdanning</Related>
+      <Related>ord/grunnskole-for-voksne</Related>
+      <Related>ord/arbeidsavtale</Related>
+      <Related>ord/arbeidsmarkedstiltak</Related>
+      <Related>ord/arbeidsmiljo</Related>
+      <Related>ord/cv</Related>
+      <Related>ord/ferierettigheter</Related>
+      <Related>ord/lonn</Related>
+      <Related>ord/oppsigelse</Related>
+      <Related>ord/realkompetanse</Related>
+      <Related>ord/samordna-opptak</Related>
+      <Related>ord/skattekort</Related>
+      <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
+      <Related>ord/studiefinansiering</Related>
+      <Related>ord/tilleggsstønader-til-arbeidsrettede-tiltak</Related>
+      <Related>ord/tilrettelegging-pa-arbeidsplassen</Related>
+      <Related>ord/voksenopplaring</Related>
+      <Related>ord/yrkesautorisasjon</Related>
       <Related>ord/permittering</Related>
+      <Related>ord/inkluderende-arbeidsliv</Related>
+      <Related>ord/hogskole-og-universitet</Related>
+      <Related>ord/hogskole-og-universitet</Related>
+      <Related>ord/dagpenger</Related>
+      <Related>ord/arbeidssoking</Related>
    </Concept>
    <Concept path="hendelse/ny-i-norge">
       <PrefLabel lang="en">*</PrefLabel>
@@ -119,6 +176,16 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/arbeidsgiveravgift</Related>
       <Related>ord/arbeidsmiljo</Related>
+      <Related>ord/bingo</Related>
+      <Related>ord/idrettsmidler</Related>
+      <Related>ord/kulturmidler</Related>
+      <Related>ord/lotteri</Related>
+      <Related>ord/narmiljotilskudd</Related>
+      <Related>ord/rapportering-for-naringsdrivende</Related>
+      <Related>ord/tilskudd-til-friluftsliv</Related>
+      <Related>ord/tilskudd-til-helse-og-eldre</Related>
+      <Related>ord/tilskudd-til-tro-og-livssyn</Related>
+      <Related>ord/ungdomsmidler</Related>
       <Related>ord/merverdiavgift</Related>
    </Concept>
    <Concept path="hendelse/starte-og-drive-frivillig-organisasjon">
@@ -3866,7 +3933,7 @@
    <Concept path="ord/menerstatning">
       <PrefLabel lang="en">Permanent injury compensation</PrefLabel>
       <PrefLabel lang="nb">Menerstatning</PrefLabel>
-      <PrefLabel lang="nn">Meinerstatning</PrefLabel>
+      <PrefLabel lang="nn">Menerstatning</PrefLabel>
       <Definition lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Definition>
       <Definition lang="nb">**</Definition>
       <InScheme>ontologi/ord</InScheme>
