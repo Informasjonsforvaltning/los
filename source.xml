@@ -38,8 +38,42 @@
       <InScheme>ontologi/hendelse</InScheme>
       <Related>ord/skoleskyss</Related>
       <Related>ord/frikort-for-helsetjenester</Related>
+      <Related>ord/habilitering-og-rehabilitering</Related>
+      <Related>ord/frikort-for-helsetjenester</Related>
       <Related>ord/stotte-til-familier</Related>
       <Related>ord/personlig-assistent</Related>
+      <Related>ord/omsorgsstonad</Related>
+      <Related>ord/behandlingsreise</Related>
+      <Related>ord/fastlege</Related>
+      <Related>ord/fysioterapi</Related>
+      <Related>ord/helsestasjon</Related>
+      <Related>ord/hjemmesykepleie</Related>
+      <Related>ord/kiropraktikk</Related>
+      <Related>ord/langvarige-helsetjenester</Related>
+      <Related>ord/legemiddel</Related>
+      <Related>ord/omsorgsavlastning</Related>
+      <Related>ord/rehabiliteringspenger</Related>
+      <Related>ord/syketransport</Related>
+      <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
+      <Related>ord/ytelser-ved-sykdom-i-familien</Related>
+      <Related>ord/pasient-og-brukerombud</Related>
+      <Related>ord/pasientskadeerstatning</Related>
+      <Related>ord/radgiving-og-kurs</Related>
+      <Related>ord/stottekontakt</Related>
+      <Related>ord/tilrettelagt-fritid</Related>
+      <Related>ord/legehjelp</Related>
+      <Related>ord/bofellesskap</Related>
+      <Related>ord/dagtilbud</Related>
+      <Related>ord/klage-pa-helse-og-omsorgstje</Related>
+      <Related>ord/barnehageplass</Related>
+      <Related>ord/besokshjem</Related>
+      <Related>ord/bostotte</Related>
+      <Related>ord/ertgoterapi</Related>
+      <Related>ord/pedagogisk-psykologisk-tjeneste</Related>
+      <Related>ord/horselshjelpemidler</Related>
+      <Related>ord/kommunikasjon-og-kognisjon</Related>
+      <Related>ord/synshjelpemidler</Related>
+      <Related>ord/bevegelseshjelpemidler</Related>
       <Related>ord/sykehus</Related>
    </Concept>
    <Concept path="hendelse/dodsfall-og-arv">
