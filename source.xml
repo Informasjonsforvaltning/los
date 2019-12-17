@@ -463,8 +463,8 @@
       <PrefLabel lang="nn">Snøskuter</PrefLabel>
 	    <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
       <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
-      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
+      <Definition lang="nn">Eit køyretøy som blir driven framover av ein motor kopla til eitt eller to belter som blir styrt ved hjelp av frontmonterte ski.</Definition>
+      <Definition lang="nb">Et kjøretøy som blir drevet framover av en motor koblet til ett eller to belter som blir styrt ved hjelp av frontmonterte ski.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -473,8 +473,8 @@
       <PrefLabel lang="en">Water scooter</PrefLabel>
       <PrefLabel lang="nb">Vannskuter</PrefLabel>
       <PrefLabel lang="nn">Vasskuter</PrefLabel>
-      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av vannskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
+      <Definition lang="nn">Ein sjøgåande farkost som føraren står eller sitt på, med ein vannjet som sørgjer for framdrift og styring.</Definition>
+      <Definition lang="nb">En sjøgående farkost som føreren står eller sitter på, med en vannjet som sørger for fremdrift og styring.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -488,8 +488,8 @@
 	    <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
-      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
-      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
+      <Definition lang="nn">Ein firehjuls motorsykkel som kan vere registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
+      <Definition lang="nb">En firehjuls motorsykkel som kan være registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -7865,7 +7865,6 @@
         <Member>ord/ferie-og-fridager</Member>
         <Member>ord/festival</Member>
         <Member>ord/film-og-kino</Member>
-        <Member>ord/firehjuling</Member>
         <Member>ord/forhandskonferanse</Member>
         <Member>ord/forurenset-grunn</Member>
         <Member>ord/fosterhjem</Member>
@@ -7992,7 +7991,6 @@
         <Member>ord/skolemiljo</Member>
         <Member>ord/skoleskyss</Member>
         <Member>ord/smittevern</Member>
-        <Member>ord/snoskuter</Member>
         <Member>ord/soke-skole</Member>
         <Member>ord/sosialhjelp</Member>
         <Member>ord/spesialundervisning</Member>
@@ -8030,7 +8028,6 @@
         <Member>ord/vaksine</Member>
         <Member>ord/vann-og-avlop</Member>
         <Member>ord/vannforurensning</Member>
-        <Member>ord/vannskuter</Member>
         <Member>ord/vassdrag</Member>
         <Member>ord/vegbygging</Member>
         <Member>ord/vegvedlikehold</Member>
