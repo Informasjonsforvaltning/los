@@ -2507,10 +2507,10 @@
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/miljotilskudd</Broader>
     </Concept>
-    <Concept path="ord/miljotiltak">
-        <PrefLabel lang="en">Environmental measures</PrefLabel>
-        <PrefLabel lang="nb">Miljøtiltak</PrefLabel>
-        <PrefLabel lang="nn">Miljøtiltak</PrefLabel>
+    <Concept path="ord/tilskudd-til-miljotiltak">
+        <PrefLabel lang="en">Funding for environmental measures</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til miljøtiltak</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til miljøtiltak</PrefLabel>
         <Definition lang="nn">**</Definition>
         <Definition lang="nb">**</Definition>
         <InScheme>ontologi/ord</InScheme>
