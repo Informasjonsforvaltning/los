@@ -7302,7 +7302,7 @@
    </Concept>
    <Concept path="tema/miljotilskudd">
       <PrefLabel lang="en">Public funding schemes for environment</PrefLabel>
-      <PrefLabel lang="nb">Miljøstilskudd</PrefLabel>
+      <PrefLabel lang="nb">Miljøtilskudd</PrefLabel>
       <PrefLabel lang="nn">Miljøtilskot</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
