@@ -5033,6 +5033,15 @@
       <Related>ord/fag--og-yrkesopplaring</Related>
       <Broader>tema/grunnskole</Broader>
    </Concept>
+   <Concept path="ord/sarskilt-sprakopplaring">
+      <PrefLabel lang="en">Special language training schools</PrefLabel>
+      <PrefLabel lang="nb">Særskilt språkopplæring</PrefLabel>
+      <PrefLabel lang="nn">Særskild språkopplæring</PrefLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">**</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/grunnskole</Broader>
+   </Concept>
    <Concept path="ord/tilpasset-opplaring">
       <PrefLabel lang="en">Adapted education</PrefLabel>
       <PrefLabel lang="nb">Tilpasset opplæring</PrefLabel>
