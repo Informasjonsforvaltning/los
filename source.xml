@@ -1415,16 +1415,18 @@
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/kjop-og-salg</Broader>
    </Concept>
-   <Concept path="ord/bolignummer">
+   <Concept path="ord/bruksenhetsnummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
-      <PrefLabel lang="nb">Bolignummer</PrefLabel>
-      <PrefLabel lang="nn">Bustadnummer</PrefLabel>
+      <PrefLabel lang="nb">Bruksenhetsnummer</PrefLabel>
+      <PrefLabel lang="nn">Brukseiningsnummer</PrefLabel>
       <HiddenLabel lang="nb">Adresse</HiddenLabel>
       <HiddenLabel lang="nn">Adresse</HiddenLabel>
+      <HiddenLabel lang="nb">Bolignummer</HiddenLabel>
+      <HiddenLabel lang="nn">Bustadnummer</HiddenLabel>
       <HiddenLabel lang="nb">Boligregister</HiddenLabel>
       <HiddenLabel lang="nn">Bustadregister</HiddenLabel>
-      <Definition lang="nn">Alle bustader har i tillegg til adresse også eit bustadnummer. I hus med fleire bueiningar har kvar eining eige bustadnummer. Desse skal også ha adressemerke med bustadnummer som blir plassert ved sida av døra.  Kommunen kan gi bustadnummer der dei manglar.</Definition>
-      <Definition lang="nb">Alle boliger har i tillegg til adresse også et bolignummer. I hus med flere boenheter har hver enhet eget bolignummer. Disse skal også ha adressemerke med bolignummer som plasseres ved siden av døra. Kommunen kan tildele bolignummer der de mangler.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">Bruksenhetsnummeret består av en bokstav og fire siffer som entydig identifiserer den enkelte bruksenhet (f.eks. leilighet) innenfor en adresserbar bygning eller bygningsdel. Alle leiligheter skal ha sin egen adresse, på lik linje med eneboliger.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
@@ -7840,7 +7842,7 @@
         <Member>ord/bibliotektjenester</Member>
         <Member>ord/bofellesskap</Member>
         <Member>ord/boligfinansiering</Member>
-        <Member>ord/bolignummer</Member>
+        <Member>ord/bruksenhetsnummer</Member>
         <Member>ord/bominformasjon</Member>
         <Member>ord/boplikt</Member>
         <Member>ord/bostotte</Member>
