@@ -1936,14 +1936,16 @@
       <PrefLabel lang="nn">Eigedomsregister</PrefLabel>
       <HiddenLabel lang="nb">Matrikkel</HiddenLabel>
       <HiddenLabel lang="nn">Matrikkel</HiddenLabel>
+      <HiddenLabel lang="nb">Matrikkelen</HiddenLabel>
+      <HiddenLabel lang="nn">Matrikkelen</HiddenLabel>
       <HiddenLabel lang="nb">Bruksnummer</HiddenLabel>
       <HiddenLabel lang="nn">Bruksnummer</HiddenLabel>
       <HiddenLabel lang="nb">Gårdsnummer</HiddenLabel>
       <HiddenLabel lang="nn">Gardsnummer</HiddenLabel>
       <HiddenLabel lang="nb">GAB-register</HiddenLabel>
       <HiddenLabel lang="nn">GAB-register</HiddenLabel>
-      <Definition lang="nn">Eigedomsregisteret (EDR) er det nasjonale registeret over alle faste eigedommar landet. EDR inneheld all informasjon frå grunnboka og GAB.</Definition>
-      <Definition lang="nb">Eiendomsregisteret (EDR) er det nasjonale registeret over alle faste eiendommer landet. EDR inneholder all informasjon fra grunnboka og GAB.</Definition>
+      <Definition lang="nn">Register over fast eigedom, herunder bygningar, bustadar og adresser. Matrikkelen er offisielt register over fast eigedom i Noreg.</Definition>
+      <Definition lang="nb">Register over fast eiendom, herunder bygninger, boliger og adresser. Matrikkelen er offisielt register over fast eiendom i Norge.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tinglysing</Related>
       <Broader>tema/eiendom</Broader>
