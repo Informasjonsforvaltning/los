@@ -2526,10 +2526,10 @@
         <Broader>tema/naturforvaltning</Broader>
         <Broader>tema/miljotilskudd</Broader>
     </Concept>
-    <Concept path="ord/miljotiltak">
-        <PrefLabel lang="en">Environmental measures</PrefLabel>
-        <PrefLabel lang="nb">Miljøtiltak</PrefLabel>
-        <PrefLabel lang="nn">Miljøtiltak</PrefLabel>
+    <Concept path="ord/tilskudd-til-miljotiltak">
+        <PrefLabel lang="en">Funding for environmental measures</PrefLabel>
+        <PrefLabel lang="nb">Tilskudd til miljøtiltak</PrefLabel>
+        <PrefLabel lang="nn">Tilskot til miljøtiltak</PrefLabel>
         <Definition lang="nn">**</Definition>
         <Definition lang="nb">**</Definition>
         <InScheme>ontologi/ord</InScheme>
@@ -4122,6 +4122,8 @@
       <PrefLabel lang="en">Certification and authorization</PrefLabel>
       <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
       <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
+      <HiddenLabel lang="nb">Miljøsertifisering</HiddenLabel>
+      <HiddenLabel lang="nn">Miljøsertifisering</HiddenLabel>
       <Related>ord/miljosertifisering</Related>
       <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar, for eksempel ISO-sertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
       <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer, til dømes ISO-sertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
@@ -7436,13 +7438,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/miljo">
-      <PrefLabel lang="en">Environment</PrefLabel>
-      <PrefLabel lang="nb">Miljø</PrefLabel>
-      <PrefLabel lang="nn">Miljø</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-klima-og-miljo</Broader>
-   </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
@@ -7807,15 +7802,6 @@
       <PrefLabel lang="nn">Vêr og klima</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
-   </Concept>
-   <Concept path="ord/miljosertifisering">
-      <PrefLabel lang="en">Environmental certification</PrefLabel>
-      <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
-      <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/miljo</Broader>
    </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
