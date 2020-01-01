@@ -1430,6 +1430,23 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
+   <Concept path="ord/rettighetsregister">
+      <PrefLabel lang="en">Dwelling number</PrefLabel>
+      <PrefLabel lang="nb">Bruksenhetsnummer</PrefLabel>
+      <PrefLabel lang="nn">Brukseiningsnummer</PrefLabel>
+      <HiddenLabel lang="nb">Grunnbok</HiddenLabel>
+      <HiddenLabel lang="nn">Grunnbok</HiddenLabel>
+      <HiddenLabel lang="nb">Grunnboka</HiddenLabel>
+      <HiddenLabel lang="nn">Grunnboka</HiddenLabel>
+      <HiddenLabel lang="nb">Heftelser</HiddenLabel>
+      <HiddenLabel lang="nn">Heftelser</HiddenLabel>
+      <HiddenLabel lang="nb">Tinglysing</HiddenLabel>
+      <HiddenLabel lang="nn">Tinglysing</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">Register over tinglyste rettigheter og heftelser i fast eiendom og borettslagsandeler. Ved tinglysing får man rettsvern etter prinsippet om "først i tid, best i rett". Grunnboken er et offentlig register over rettigheter og heftelser i Norge.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
    <Concept path="ord/bominformasjon">
       <PrefLabel lang="en">Toll information</PrefLabel>
       <PrefLabel lang="nb">Bominformasjon</PrefLabel>
