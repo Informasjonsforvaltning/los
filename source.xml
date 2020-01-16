@@ -7334,6 +7334,7 @@
       <PrefLabel lang="nn">Familie og barn</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/SOCI</broadMatch>
    </Concept>
    <Concept path="tema/demokrati-og-innbyggerrettigheter">
       <PrefLabel lang="en">Democracy and citizen rights</PrefLabel>
@@ -7383,6 +7384,7 @@
       <PrefLabel lang="nn">Samfunnstryggleik og beredskap</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/JUST</broadMatch>
    </Concept>
    <Concept path="tema/bibliotek">
       <PrefLabel lang="en">Libraries</PrefLabel>
@@ -7439,6 +7441,7 @@
       <PrefLabel lang="nn">Energi</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
+      <exactMatch>http://publications.europa.eu/resource/authority/data-theme/ENER</exactMatch>
    </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
@@ -7594,6 +7597,7 @@
       <PrefLabel lang="nn">Kultur, idrett og fritid</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/EDUC</broadMatch>
    </Concept>
    <Concept path="tema/landbruk">
       <PrefLabel lang="en">Agriculture sector</PrefLabel>
@@ -7601,6 +7605,7 @@
       <PrefLabel lang="nn">Landbruk</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/naring</Broader>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/AGRI</broadMatch>
    </Concept>
    <Concept path="tema/naringsliv">
       <PrefLabel lang="en">Agriculture</PrefLabel>
@@ -7671,6 +7676,7 @@
       <PrefLabel lang="nn">Natur, klima og miljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <CloseMatch>http://publications.europa.eu/resource/authority/data-theme/ENVI</closeMatch>
    </Concept>
    <Concept path="tema/naturforvaltning">
       <PrefLabel lang="en">Nature management</PrefLabel>
@@ -7706,6 +7712,7 @@
       <PrefLabel lang="nn">Bygg og eigedom</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://http://publications.europa.eu/resource/authority/data-theme/REGI</broadMatch>
    </Concept>
    <Concept path="tema/pasientrettigheter">
       <PrefLabel lang="en">Patient rights</PrefLabel>
@@ -7741,6 +7748,7 @@
       <PrefLabel lang="nn">Lov og rett</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/JUST</broadMatch>
    </Concept>
    <Concept path="tema/rettsvesen">
       <PrefLabel lang="en">Legal system</PrefLabel>
@@ -7776,6 +7784,7 @@
       <PrefLabel lang="nn">Skule og utdanning</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/EDUC</broadMatch>
    </Concept>
    <Concept path="tema/skolemiljo">
       <PrefLabel lang="en">School environment</PrefLabel>
