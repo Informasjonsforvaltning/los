@@ -202,6 +202,7 @@
       <PrefLabel lang="nn">Trafikk og transport</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
+      <broadMatch>http://publications.europa.eu/resource/authority/data-theme/TRAN</broadMatch>
    </Concept>
       <Concept path="tema/bat-havn-og-kyst">
       <PrefLabel lang="en">Boat, harbour and coast</PrefLabel>
