@@ -463,8 +463,8 @@
       <PrefLabel lang="nn">Snøskuter</PrefLabel>
 	    <HiddenLabel lang="nb">Snøscooter</HiddenLabel>
       <HiddenLabel lang="nn">Snøscooter</HiddenLabel>
-      <Definition lang="nn">Eit køyretøy som blir driven framover av ein motor kopla til eitt eller to belter som blir styrt ved hjelp av frontmonterte ski.</Definition>
-      <Definition lang="nb">Et kjøretøy som blir drevet framover av en motor koblet til ett eller to belter som blir styrt ved hjelp av frontmonterte ski.</Definition>
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -473,8 +473,8 @@
       <PrefLabel lang="en">Water scooter</PrefLabel>
       <PrefLabel lang="nb">Vannskuter</PrefLabel>
       <PrefLabel lang="nn">Vasskuter</PrefLabel>
-      <Definition lang="nn">Ein sjøgåande farkost som føraren står eller sitt på, med ein vannjet som sørgjer for framdrift og styring.</Definition>
-      <Definition lang="nb">En sjøgående farkost som føreren står eller sitter på, med en vannjet som sørger for fremdrift og styring.</Definition>
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av vannskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av vassskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -488,8 +488,8 @@
 	    <HiddenLabel lang="nn">ATV</HiddenLabel>
       <HiddenLabel lang="nb">Terrengkjøretøy</HiddenLabel>
       <HiddenLabel lang="nn">Terrengkøyretøy</HiddenLabel>
-      <Definition lang="nn">Ein firehjuls motorsykkel som kan vere registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
-      <Definition lang="nb">En firehjuls motorsykkel som kan være registrert som moped, firehjuls motorsykkel eller traktor.</Definition>
+      <Definition lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av firehjuling og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</Definition>
+      <Definition lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av firehjuling og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kjoretoy</Broader>
       <Broader>tema/forerkort-og-sertifikat</Broader>
@@ -1415,16 +1415,35 @@
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
       <Broader>tema/kjop-og-salg</Broader>
    </Concept>
-   <Concept path="ord/bolignummer">
+   <Concept path="ord/bruksenhetsnummer">
       <PrefLabel lang="en">Dwelling number</PrefLabel>
-      <PrefLabel lang="nb">Bolignummer</PrefLabel>
-      <PrefLabel lang="nn">Bustadnummer</PrefLabel>
+      <PrefLabel lang="nb">Bruksenhetsnummer</PrefLabel>
+      <PrefLabel lang="nn">Brukseiningsnummer</PrefLabel>
       <HiddenLabel lang="nb">Adresse</HiddenLabel>
       <HiddenLabel lang="nn">Adresse</HiddenLabel>
+      <HiddenLabel lang="nb">Bolignummer</HiddenLabel>
+      <HiddenLabel lang="nn">Bustadnummer</HiddenLabel>
       <HiddenLabel lang="nb">Boligregister</HiddenLabel>
       <HiddenLabel lang="nn">Bustadregister</HiddenLabel>
-      <Definition lang="nn">Alle bustader har i tillegg til adresse også eit bustadnummer. I hus med fleire bueiningar har kvar eining eige bustadnummer. Desse skal også ha adressemerke med bustadnummer som blir plassert ved sida av døra.  Kommunen kan gi bustadnummer der dei manglar.</Definition>
-      <Definition lang="nb">Alle boliger har i tillegg til adresse også et bolignummer. I hus med flere boenheter har hver enhet eget bolignummer. Disse skal også ha adressemerke med bolignummer som plasseres ved siden av døra. Kommunen kan tildele bolignummer der de mangler.</Definition>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">Bruksenhetsnummeret består av en bokstav og fire siffer som entydig identifiserer den enkelte bruksenhet (f.eks. leilighet) innenfor en adresserbar bygning eller bygningsdel. Alle leiligheter skal ha sin egen adresse, på lik linje med eneboliger.</Definition>
+      <InScheme>ontologi/ord</InScheme>
+      <Broader>tema/eiendom</Broader>
+   </Concept>
+   <Concept path="ord/rettighetsregister">
+      <PrefLabel lang="en">Dwelling number</PrefLabel>
+      <PrefLabel lang="nb">Bruksenhetsnummer</PrefLabel>
+      <PrefLabel lang="nn">Brukseiningsnummer</PrefLabel>
+      <HiddenLabel lang="nb">Grunnbok</HiddenLabel>
+      <HiddenLabel lang="nn">Grunnbok</HiddenLabel>
+      <HiddenLabel lang="nb">Grunnboka</HiddenLabel>
+      <HiddenLabel lang="nn">Grunnboka</HiddenLabel>
+      <HiddenLabel lang="nb">Heftelser</HiddenLabel>
+      <HiddenLabel lang="nn">Heftelser</HiddenLabel>
+      <HiddenLabel lang="nb">Tinglysing</HiddenLabel>
+      <HiddenLabel lang="nn">Tinglysing</HiddenLabel>
+      <Definition lang="nn">**</Definition>
+      <Definition lang="nb">Register over tinglyste rettigheter og heftelser i fast eiendom og borettslagsandeler. Ved tinglysing får man rettsvern etter prinsippet om "først i tid, best i rett". Grunnboken er et offentlig register over rettigheter og heftelser i Norge.</Definition>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/eiendom</Broader>
    </Concept>
@@ -4103,6 +4122,8 @@
       <PrefLabel lang="en">Certification and authorization</PrefLabel>
       <PrefLabel lang="nb">Sertifisering og autorisasjon</PrefLabel>
       <PrefLabel lang="nn">Sertifisering og autorisasjon</PrefLabel>
+      <HiddenLabel lang="nb">Miljøsertifisering</HiddenLabel>
+      <HiddenLabel lang="nn">Miljøsertifisering</HiddenLabel>
       <Related>ord/miljosertifisering</Related>
       <Definition lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar, for eksempel ISO-sertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</Definition>
       <Definition lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer, til dømes ISO-sertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</Definition>
@@ -7426,13 +7447,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="tema/miljo">
-      <PrefLabel lang="en">Environment</PrefLabel>
-      <PrefLabel lang="nb">Miljø</PrefLabel>
-      <PrefLabel lang="nn">Miljø</PrefLabel>
-      <InScheme>ontologi/tema</InScheme>
-      <Broader>tema/natur-klima-og-miljo</Broader>
-   </Concept>
    <Concept path="tema/erstatningsordninger">
       <PrefLabel lang="en">Compensation schemes</PrefLabel>
       <PrefLabel lang="nb">Erstatningsordninger</PrefLabel>
@@ -7798,15 +7812,6 @@
       <InScheme>ontologi/tema</InScheme>
       <Broader>tema/natur-klima-og-miljo</Broader>
    </Concept>
-   <Concept path="ord/miljosertifisering">
-      <PrefLabel lang="en">Environmental certification</PrefLabel>
-      <PrefLabel lang="nb">Miljøsertifisering </PrefLabel>
-      <PrefLabel lang="nn">Miljøsertifisering </PrefLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
-      <InScheme>ontologi/ord</InScheme>
-      <Broader>tema/miljo</Broader>
-   </Concept>
    <Concept path="tema/voksenopplaring">
       <PrefLabel lang="en">Adult education</PrefLabel>
       <PrefLabel lang="nb">Voksenopplæring</PrefLabel>
@@ -7849,7 +7854,7 @@
         <Member>ord/bibliotektjenester</Member>
         <Member>ord/bofellesskap</Member>
         <Member>ord/boligfinansiering</Member>
-        <Member>ord/bolignummer</Member>
+        <Member>ord/bruksenhetsnummer</Member>
         <Member>ord/bominformasjon</Member>
         <Member>ord/boplikt</Member>
         <Member>ord/bostotte</Member>
@@ -7874,6 +7879,7 @@
         <Member>ord/ferie-og-fridager</Member>
         <Member>ord/festival</Member>
         <Member>ord/film-og-kino</Member>
+        <Member>ord/firehjuling</Member>
         <Member>ord/forhandskonferanse</Member>
         <Member>ord/forurenset-grunn</Member>
         <Member>ord/fosterhjem</Member>
@@ -8000,6 +8006,7 @@
         <Member>ord/skolemiljo</Member>
         <Member>ord/skoleskyss</Member>
         <Member>ord/smittevern</Member>
+        <Member>ord/snoskuter</Member>
         <Member>ord/soke-skole</Member>
         <Member>ord/sosialhjelp</Member>
         <Member>ord/spesialundervisning</Member>
@@ -8037,6 +8044,7 @@
         <Member>ord/vaksine</Member>
         <Member>ord/vann-og-avlop</Member>
         <Member>ord/vannforurensning</Member>
+        <Member>ord/vannskuter</Member>
         <Member>ord/vassdrag</Member>
         <Member>ord/vegbygging</Member>
         <Member>ord/vegvedlikehold</Member>
