@@ -7543,7 +7543,7 @@
       <PrefLabel lang="nn">Helse og omsorg</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
-      <ExactMatch>http://publications.europa.eu/resource/authority/data-theme/HEAL</ExactMatch>
+      <exactMatch>http://publications.europa.eu/resource/authority/data-theme/HEAL</exactMatch>
    </Concept>
    <Concept path="tema/helsetjenester">
       <PrefLabel lang="en">Health services</PrefLabel>
@@ -7686,7 +7686,7 @@
       <PrefLabel lang="nn">Natur, klima og miljø</PrefLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
-      <CloseMatch>http://publications.europa.eu/resource/authority/data-theme/ENVI</closeMatch>
+      <closeMatch>http://publications.europa.eu/resource/authority/data-theme/ENVI</closeMatch>
    </Concept>
    <Concept path="tema/naturforvaltning">
       <PrefLabel lang="en">Nature management</PrefLabel>
