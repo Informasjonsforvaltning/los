@@ -1432,9 +1432,9 @@
       <Broader>tema/eiendom</Broader>
    </Concept>
    <Concept path="ord/rettighetsregister">
-      <PrefLabel lang="en">Dwelling number</PrefLabel>
-      <PrefLabel lang="nb">Bruksenhetsnummer</PrefLabel>
-      <PrefLabel lang="nn">Brukseiningsnummer</PrefLabel>
+      <PrefLabel lang="en">Rights registry</PrefLabel>
+      <PrefLabel lang="nb">Rettighetsregister</PrefLabel>
+      <PrefLabel lang="nn">Rettigheitsregister</PrefLabel>
       <HiddenLabel lang="nb">Grunnbok</HiddenLabel>
       <HiddenLabel lang="nn">Grunnbok</HiddenLabel>
       <HiddenLabel lang="nb">Grunnboka</HiddenLabel>
