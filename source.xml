@@ -5061,8 +5061,8 @@
       <PrefLabel lang="en">Special language training schools</PrefLabel>
       <PrefLabel lang="nb">Særskilt språkopplæring</PrefLabel>
       <PrefLabel lang="nn">Særskild språkopplæring</PrefLabel>
-      <Definition lang="nn">**</Definition>
-      <Definition lang="nb">**</Definition>
+      <Note lang="nn">Forsterka opplæring i norsk inntil eleven har fått tilstrekkelege norskferdigheiter til å følgje den ordinære opplæringa i skulen. Om nødvendig har eleven også rett til tospråkleg fagopplæring og morsmålsopplæring.</Note>
+      <Note lang="nb">Forsterket opplæring i norsk inntil eleven har fått tilstrekkelige norskferdigheter til å følge den ordinære opplæringen i skolen. Om nødvendig har eleven også rett til tospråklig fagopplæring og morsmålsopplæring.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
    </Concept>
