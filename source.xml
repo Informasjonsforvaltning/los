@@ -8,7 +8,7 @@
          <Option key="issues">https://github.com/difi/los/issues</Option>
       </Options>
       <Options key="site">
-         <Option key="root">/los/3/</Option>
+         <Option key="root">/los/</Option>
       </Options>
    </Config>
    <ConceptScheme path="ontologi/hendelse">
