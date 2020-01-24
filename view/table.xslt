@@ -79,8 +79,8 @@
                 </div>
             </xsl:if>
 
-            <xsl:if test="s:Definition[@lang = $lang]">
-                <div style="margin-top: 5pt;"><xsl:value-of select="s:Definition[@lang = $lang][1]"/></div>
+            <xsl:if test="s:Note[@lang = $lang]">
+                <div style="margin-top: 5pt;"><xsl:value-of select="s:Note[@lang = $lang][1]"/></div>
             </xsl:if>
         </div>
 
