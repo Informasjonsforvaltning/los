@@ -15,9 +15,9 @@ Los is a vocabulary in Norwegian Nynorsk, Norwegian Bokmål and English and is m
 ## Explore Los
 
 * [Complete RDF](http://psi.norge.no/los/all.rdf)
-* [List view in English (html)](http://psi.norge.no/los/3/view/table-en)
+* [List view in English (html)](http://psi.norge.no/los/view/table-en)
 
 
-## Los 2
+## Los 2 (Deprecated)
 
 * [Complete RDF](http://psi.norge.no/los/2/all.rdf)
