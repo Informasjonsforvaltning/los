@@ -565,7 +565,7 @@
       <HiddenLabel lang="nb">Tilrettelagt bolig</HiddenLabel>
       <HiddenLabel lang="nn">Tilrettelagt bustad</HiddenLabel>
       <Note lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Bosted for trygdede som selv ikke kan ivareta sine interesser på boligmarkedet. Medregnet boliger med særskilt tilpassing og med hjelpevernetiltak for de som trenger det pga. alder, funksjonshemming eller av andre årsaker. Tildelingen er ikke hjemlet i lov. Kommunen behandler søknaden etter en totalvurdering av situasjonen til søkeren. </Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/botilbud</Broader>
    </Concept>
@@ -657,7 +657,7 @@
       <HiddenLabel lang="nb">Fiskeoppdrett</HiddenLabel>
       <HiddenLabel lang="nn">Fiskeoppdrett</HiddenLabel>
       <Note lang="nn">Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt som mat.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Oppaling (oppdretting) av fisk eller skalldyr for salg, vanligvis for å bli brukt som mat.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
@@ -705,7 +705,7 @@
       <HiddenLabel lang="nb">Fri ferdsel</HiddenLabel>
       <HiddenLabel lang="nn">Fri ferdsel</HiddenLabel>
       <Note lang="nn">Ein av dei viktigaste føresetnadene for utøving av friluftsliv. Allemannsretten gjeld i utmark. Alllemannsretten er ein opphalds- og ferdselsrett, men gjev også rett til å hauste t.d. bær, sopp og blomster.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En av de viktigste forutsetningene for utøvelse av friluftsliv. Allemannsretten gjelder i utmark. Allemannsretten er en oppholds- og ferdselsrett, men gir også rett til å høste t.d. bær, sopp og blomster.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/naturforvaltning</Broader>
    </Concept>
@@ -720,7 +720,7 @@
       <HiddenLabel lang="nb">Pollenvarsel</HiddenLabel>
       <HiddenLabel lang="nn">Pollenvarsel</HiddenLabel>
       <Note lang="nn">Overfølsam overfor stoff ein kjem i kontakt med. Medrekna pollenvarsling.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Overfølsom ovenfor stoff man kommer i kontakt med. Medregnet pollenvarsling.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -729,7 +729,7 @@
       <PrefLabel lang="nb">Alternativ behandling</PrefLabel>
       <PrefLabel lang="nn">Alternativ behandling</PrefLabel>
       <Note lang="nn">Medisinske behandlingsmetodar som står utanfor etablert skulemedisin og ofte utanfor offentlege helsetilbod. Alternativ medisin vert ikkje dekt av folketrygda.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Medisinske behandlingsmetoder som står utenfor etablert skolemedisin og ofte utenfor offentlige helsetilbud. Alternativ medisin blir ikke dekket av folketrygden.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -978,8 +978,8 @@
       <HiddenLabel lang="nn">AMO</HiddenLabel>
       <HiddenLabel lang="nb">Praksisplass</HiddenLabel>
       <HiddenLabel lang="nn">Praksisplass</HiddenLabel>
-      <Note lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.</Note>
+      <Note lang="nb">Tiltak som skal bidra til å styrke kompetanse og arbeidsevnen til deltakerne, gi deltakerne bedre forutsetninger for å få ordinært arbeid, forebygge og dempe skadevirkningene av arbeidsløshet m.m.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/stonad-ved-arbeidsmarkedstiltak</Related>
       <Broader>tema/arbeidsliv</Broader>
@@ -1356,7 +1356,7 @@
       <HiddenLabel lang="nb">Genteknologi</HiddenLabel>
       <HiddenLabel lang="nn">Genteknologi</HiddenLabel>
       <Note lang="nn">All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller eller delar av slike celler til å framstille produkt, eller til å modifisere og forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">All teknologi som baserer seg på bruk av mikroorganismer, platen- og dyreceller eller deler av slike celler til å fremstille produkt, eller til å modifisere og forbedre levende organismer. Medregnet genteknologi og medisinsk bruk av bioteknologi.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
