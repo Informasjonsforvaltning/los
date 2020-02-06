@@ -248,7 +248,7 @@
       <HiddenLabel lang="nb">Navigasjon</HiddenLabel>
       <HiddenLabel lang="nn">Navigasjon</HiddenLabel>
       <Note lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Administrasjon av lover og regelverk som gjelder kysten vår. Til dette hører trygg ferdsel på sjøen, fyr, merker og lostjeneste.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat-havn-og-kyst</Broader>
     </Concept>
@@ -270,7 +270,7 @@
       <HiddenLabel lang="nb">Sjøvett</HiddenLabel>
       <HiddenLabel lang="nn">Sjøvett</HiddenLabel>
       <Note lang="nn">Tryggleik til sjøs, både for liv, helse, fartøy og miljø.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Trygghet til sjøs, både for liv, helse, fartøy og miljø.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/bat-havn-og-kyst</Broader>
    </Concept>
