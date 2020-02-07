@@ -3957,7 +3957,9 @@
       <PrefLabel lang="nb">Menerstatning</PrefLabel>
       <PrefLabel lang="nn">Menerstatning</PrefLabel>
       <Note lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Erstatning for tapt livsutfolding når en person har fått varig og betydelig skade av medisinsk art.
+
+</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/yrkesskadedekning</Related>
       <Broader>tema/erstatningsordninger</Broader>
@@ -3969,7 +3971,7 @@
       <HiddenLabel lang="nb">Ytringsfrihet</HiddenLabel>
       <HiddenLabel lang="nn">Ytringsfridom</HiddenLabel>
       <Note lang="nn">Grunnleggjande rettar og fridomar som individa har overfor statsmaktene, og som følgjer av internasjonale overeinskomstar og praksis. Til dei klassiske menneskerettane høyrer rettstryggleik, religionsfridom, stemmerett og ytringsfridom.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Grunnleggende retter og friheter som individer har overfor statsmaktene, og som følger av internasjonale overenskomster og praksiser. Til de klassiske menneskerettene hører rettstrygghet, religionsfrihet, stemmerett og ytringsfrihet.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -3984,7 +3986,7 @@
       <HiddenLabel lang="nb">Altinn</HiddenLabel>
       <HiddenLabel lang="nn">Altinn</HiddenLabel>
       <Note lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Avgift som skal betales på omsetning av varer og tjenester i alle ledd.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -4054,7 +4056,7 @@
       <HiddenLabel lang="nb">Bensinavgift</HiddenLabel>
       <HiddenLabel lang="nn">Bensinavgift</HiddenLabel>
       <Note lang="nn">Motorvognavgiftene omfattar seks avgifter med til dels ulik grunngjeving og føremål. Avgiftene er knytt dels til kjøp/leige av køyretøy og dels til bruk av køyretøy. Dei ikkje-bruksavhengige avgiftene er eingongsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgifta. Til dei bruksavhengige avgiftene høyrer avgiftene på bensin og diesel.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Motorvognavgiftene omfatter seks avgifter med til dels ulik grunngivelse og formål. Avgiftene er knyttet dels til kjøp/leie av kjøretøy og dels til bruk av kjøretøy. De ikke bruksavhengige avgiftene er engangsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgiften. Til de bruksavhengige avgiftene hører avgiftene på bensin og diesel.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
       <Broader>tema/kjoretoy</Broader>
