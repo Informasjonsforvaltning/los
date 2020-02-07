@@ -4681,7 +4681,7 @@
       <HiddenLabel lang="nb">Pasientombud</HiddenLabel>
       <HiddenLabel lang="nn">Pasienteombod</HiddenLabel>
       <Note lang="nn">Er ein blitt påført skade etter behandlingssvikt innan den offentlege helsetenesta, kan ein ha krav på erstatning. Norsk pasientskadeerstatning er ein eigen erstatningsordning som er oppretta for fysiske pasientskadar innan for det offentlege helsevesen. Pasientombudet kan gi nærare informasjon om dette.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Dersom man er blitt påført skade etter behandlingssvikt i den offentlige helsetjenesten, kan man ha krav på erstatning. Norsk pasientskadeerstatning er en egen erstatningsordning som er opprettet for fysiske pasientskader innen det offentlige helsevesenet. Pasientombudet kan gi nærmere informasjon om dette.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasient-og-brukerombud</Related>
       <Broader>tema/pasientrettigheter</Broader>
@@ -4744,7 +4744,7 @@
       <HiddenLabel lang="nb">Logoped</HiddenLabel>
       <HiddenLabel lang="nn">Logoped</HiddenLabel>
       <Note lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Alle kommuner og fylkeskommuner skal ha en pedagogisk-psykologisk tjeneste. Barn/elever under 15 år kan vises til tjenesten av foresatte eller i samråd med barnehage/skole. Unge over 15 år kan selv ta initiativ til kontakt med tjenesten, eventuelt i samarbeid med skolen. Den pedagogisk-psykologiske tjenesten skal sørge for at det blir utarbeidd en sakkyndig vurdering om behov for spesialpedagogiske tiltak.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/grunnskole</Broader>
       <Broader>tema/barnehage</Broader>
@@ -4780,7 +4780,7 @@
       <HiddenLabel lang="nb">Brukerstyrt personlig assistanse</HiddenLabel>
       <HiddenLabel lang="nn">Brukarstyrt personleg assistanse</HiddenLabel>
       <Note lang="nn">Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tjeneste som omfatter praktisk og personlig hjelp i dagliglivet for funksjonshemma med sammensatte og omfattende behov.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avlastning-og-stotte</Broader>
    </Concept>
@@ -5032,7 +5032,7 @@
       <HiddenLabel lang="nb">Partifinansiering</HiddenLabel>
       <HiddenLabel lang="nn">Partifinansiering</HiddenLabel>
       <Note lang="nn">Alle parti som vil ha einerett til partinamn eller ønskjer å stille liste etter "forenkla reglar" må la seg registrere i Partiregisteret ved Brønnøysundregistra.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Alle parti som vil ha enerett til partinavn eller ønsker å stille liste etter "forenkla regler" må la seg registrere i Partiregisteret ved Brønnøysundregistra.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/politikk-og-valg</Broader>
    </Concept>
@@ -5043,7 +5043,7 @@
       <HiddenLabel lang="nb">Sterilisering</HiddenLabel>
       <HiddenLabel lang="nn">Sterilisering</HiddenLabel>
       <Note lang="nn">Middel eller metode for å hindre uønska graviditet. Helsestasjonen i kommunen gjev informasjon og rettleiing.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Middel eller metode for å hindre uønsket graviditet. Helsestasjonen i kommunen gir informasjon og veiledning.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/svangerskap</Broader>
    </Concept>
@@ -5054,7 +5054,7 @@
       <HiddenLabel lang="nb">Friskole</HiddenLabel>
       <HiddenLabel lang="nn">Friskule</HiddenLabel>
       <Note lang="nn">Friskular er skular i privat eige. Dei er regulerte av friskulelova.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Friskoler er skoler i privat eige. De er regulerte av friskoleloven.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/fag--og-yrkesopplaring</Related>
       <Broader>tema/grunnskole</Broader>
@@ -5099,7 +5099,7 @@
       <HiddenLabel lang="nb">Produktmerking</HiddenLabel>
       <HiddenLabel lang="nn">Produktmerking</HiddenLabel>
       <Note lang="nn">At eit forbrukarprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratat for samfunnssikkerheit og beredskap og Statens forureiningstilsyn forvaltar produktkontrolllova.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">At et forbrukerprodukt som med utgangspunkt i normale bruksvilkår, ikke medfører en uakseptabel risiko for helseskade. Direktoratet for samfunnssikkerhet og beredskap og Statens forurensningstilsyn forvalter produktkontrollloven.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
@@ -5126,7 +5126,7 @@
       <HiddenLabel lang="nb">DPS</HiddenLabel>
       <HiddenLabel lang="nn">DPS</HiddenLabel>
       <Note lang="nn">I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no)</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">I opptrappingsplanen for psykisk helse er det anbefalt at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbudet, mens sentralsjukehusene skal gi et tilbud dersom det er nødvendig med spesielt store ressurser. Det er viktig at det er et tett samarbeid mellom disse aktørene.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/tilrettelagt-fritid</Related>
       <Broader>tema/helsetjenester</Broader>
@@ -5142,7 +5142,7 @@
       <HiddenLabel lang="nb">Fylkesplanlegging</HiddenLabel>
       <HiddenLabel lang="nn">Fylkesplanlegging</HiddenLabel>
       <Note lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Fylkesplanlegging er hjemlet i plan- og bygningsloven og er et virkemiddel for å utvikle fylket. Kan bla. Inneholde retningslinjer for bruken av areal og naturressurser som har vesentlig virkning ut over grensene for en kommune eller små må sees i sammenheng med for flere kommuner. Planene blir til i en prosess ledet av fylkeskommunen, og Fylkestinget vedtar planene.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/planer</Broader>
    </Concept>
@@ -5314,7 +5314,7 @@
       <PrefLabel lang="nb">Rehabiliteringspenger</PrefLabel>
       <PrefLabel lang="nn">Rehabiliteringspengar</PrefLabel>
       <Note lang="nn">Yting til livsopphald ved sjukdom, skade eller lyte som fører til at ein ikkje kan utføre arbeid.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Ytelse til livsopphold ved sykdom, skade eller lyte som fører til at en ikke kan utføre arbeid.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
@@ -5401,7 +5401,7 @@
       <HiddenLabel lang="nb">Reisetilskudd</HiddenLabel>
       <HiddenLabel lang="nn">Reisetilskot</HiddenLabel>
       <Note lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphold. Medregnet utgifter til følge.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/syketransport</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -5481,8 +5481,8 @@
       <HiddenLabel lang="nn">Rettferdsyting</HiddenLabel>
       <HiddenLabel lang="nb">Billighetserstatning</HiddenLabel>
       <HiddenLabel lang="nn">Rettferdsvederlag</HiddenLabel>
-      <Note lang="nn">Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nn">Rettferdsvederlag (tidlegare "billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular.</Note>
+      <Note lang="nb">Rettferdsvederlag (tidligere billighetserstatning) er ment å være en siste utvei for å få økonomisk ytelse for den skaden eller ulempen man er påført. Medregnet søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidende samer og kvener, og for barn i barnehjem, fosterhjem og spesialskoler.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
