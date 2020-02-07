@@ -4295,7 +4295,7 @@
       <HiddenLabel lang="nb">Byfogd</HiddenLabel>
       <HiddenLabel lang="nn">Byfut</HiddenLabel>
       <Note lang="nn">Ein embetsmann som skriv under og dermed stadfestar visse rettslege forhold. Notarius publicus utfører vigsler og registreringar av partnarskap, og gjev notarialstadfestingar, herunder stadfesting av underskrift og rett kopi. Det er tingrettane og byfutane som utfører notarialforretningar. Også lensmenn kan gjere dette, med det er då i hovusak avgrensa til å stadfeste at ei underskrift er rett og utferding av leveattestar.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En embetsmann som skriv under og dermed stadfester visse rettslige forhold. Notarius piblicus utfører vigsler og registreringer av partnerskap, og gir notarialstadfestinger, herunder stadfesting av underskrift og rett kopi. Det er tingrettene og byfutene som utfører notarialforretninger. Også lensmenn kan gjøre dette, men det er i hovedsak avgrenset til å stadfeste at en underskrift er rett og utstedelse av leveattester.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vielse</Related>
       <Broader>tema/rettsvesen</Broader>
@@ -4308,7 +4308,7 @@
       <HiddenLabel lang="nn">Offentleg anskaffelse</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg anskaffing</HiddenLabel>
       <Note lang="nn">Innkjøp av varer, tenester der statlege, kommunale og fylkeskommunale styresmakter og offentlegrettslege organ er oppdragsgjevar.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Innkjøp av varer, tjenester der statlige, kommunale og fylkeskommunale styresmakter og offentligrettslige organ er oppdragsgiver.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/handel-og-service</Broader>
    </Concept>
@@ -4506,7 +4506,7 @@
       <HiddenLabel lang="nb">Familieinnvandring</HiddenLabel>
       <HiddenLabel lang="nn">Familieinnvandring</HiddenLabel>
       <Note lang="nn">Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tillatelse til å oppholde seg i landet permanent eller for en kortere eller lengre periode.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidstillatelse</Related>
       <Broader>tema/innbyggerrettigheter</Broader>
@@ -4589,7 +4589,7 @@
       <HiddenLabel lang="nb">Donor</HiddenLabel>
       <HiddenLabel lang="nn">Donor</HiddenLabel>
       <Note lang="nn">Organdonasjon er når ein organdonor gjev eitt eller fleire organ til andre. Som oftast skjer dette når donor er død, men ein levande person kan også avgje ei nyre og ein del av levera.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Organdonasjon er når en organdonor gir ett eller flere organ til andre. Som oftest skjer dette når donor er død, men en levende person kan også gi en nyre og en del av leveren.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -4666,7 +4666,7 @@
       <HiddenLabel lang="nb">Pasientombud</HiddenLabel>
       <HiddenLabel lang="nn">Pasienteombod</HiddenLabel>
       <Note lang="nn">Helsetilsynet i fylket kan etter forspurnad frå pasient eller pårørande vurdere om helsepersonell i spesialisthelsetenesta har gitt forsvarleg behandling. Ein eventuell klage skal sendast til Statens helsetilsyn for vurdering etter helsepersonelllova.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Helsetilsynet i fylket kan etter forespørsel fra pasient eller pårørende vurdere om helsepersonell i spesialhelsetjenesten har gitt forsvarlig behandling. En eventuell klage skal sendes til Statens helsetilsyn for vurdering etter helsepersonelloven.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/pasientskadeerstatning</Related>
       <Broader>tema/omsorgstjenester</Broader>
