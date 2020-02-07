@@ -1371,7 +1371,7 @@
       <HiddenLabel lang="nb">Blodbank</HiddenLabel>
       <HiddenLabel lang="nn">Blodbank</HiddenLabel>
       <Note lang="nn">Blod kan ikkje framstillast kunstig. Hovudregelen er at alle friske menneske mellom 18 og 65 år kan melde seg som blodgjevar og gje blod inntil fire gonger pr. år.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Blod kan ikke fremstilles kunstig. Hovedregelen er at alle friske mennesker mellom 18 og 65 år kan melde seg som blodgiver og gi blod inntil fire gonger pr. år.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -1741,7 +1741,7 @@
       <HiddenLabel lang="nb">Arbeidsløshetstrygd</HiddenLabel>
       <HiddenLabel lang="nn">Arbeidsløysetrygd</HiddenLabel>
       <Note lang="nn">Ei yting til arbeidslause eller permitterte.Ytinga er ei delvis erstatning for tapt arbeidsinntekt. Medrekna skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpengar m.m.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En ytelse til arbeidsløse eller permitterte. Ytelsen er en delvis erstatning for tapt arbeidsinntekt. Medregnet skjema om stadfesting av sluttårsak, søknad om godkjenning av utdanning med rett til dagpenger m.m.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
    </Concept>
@@ -1813,7 +1813,7 @@
       <HiddenLabel lang="nb">Påanking</HiddenLabel>
       <HiddenLabel lang="nn">Påanking</HiddenLabel>
       <Note lang="nn">Ei rettsavgjerd som avsluttar saka. I ei sivil sak vert kravet som er sett fram avgjort. I ei straffesak blir det avgjort om tiltalte er skuldig i ei straffbar handling og kva straff han i tilfelle skal ha.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En rettsavgjørelse som avslutter saken. I en sivil sak vert kravet som er satt fram avgjort. I en straffesak blir det avgjort om tiltalte er skyldig i en straffbar handling og hvilken straff han i tilfelle skal ha.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -1864,7 +1864,7 @@
       <HiddenLabel lang="nb">Forliksklage</HiddenLabel>
       <HiddenLabel lang="nn">Forliksklage</HiddenLabel>
       <Note lang="nn">Domstolane er ei av dei tre statsmaktene i Noreg, og utøver den dømmande makta. Herunder også forliksråd og spesialdomstolane.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Domstolene er en av de tre statsmaktene i Norge, og utøver den dømmende makt. Herunder også forliksråd og spesialdomstolene.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -2059,7 +2059,7 @@
       <HiddenLabel lang="nb">Helseforsikring</HiddenLabel>
       <HiddenLabel lang="nn">Helseforsikring</HiddenLabel>
       <Note lang="nn">Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Dokumentasjon på at man har rett til nødvendig helsehjelp på lik linje med statsborgerne i oppholdslandet. Gjelder ved midlertidig opphold i et EØS-land eller Sveits.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -2332,7 +2332,7 @@
       <HiddenLabel lang="nb">Forenklet forelegg</HiddenLabel>
       <HiddenLabel lang="nn">Forenkla førelegg</HiddenLabel>
       <Note lang="nn">Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Bot. Eit dokument som sørlig blir nyttet i mindre straffesaker og som blir utferda av påtalemakten. Medregnet forenklet forelegg.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -3162,7 +3162,7 @@
       <HiddenLabel lang="nb">Høyskole</HiddenLabel>
       <HiddenLabel lang="nn">Høgskule</HiddenLabel>
       <Note lang="nn">Høgare utdanning omfattar universitets- og høgskuleutdanning. Den byggjer normalt på eksamen frå treårig vidaregåande opplæring.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Høyere utdanning omfatter universitets- og høyskoleutdanning. Den bygger normalt på eksamen fra treårig videregående opplæring.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
@@ -3783,7 +3783,7 @@
       <HiddenLabel lang="nb">Medisinering</HiddenLabel>
       <HiddenLabel lang="nn">Medisinering</HiddenLabel>
       <Note lang="nn">Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre sjukdom, symptom, skade eller smerte hos menneske og dyr.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Et legemiddel er et farmasøytisk produkt som kan forebygge, lege eller lindre sykdom, symptom, skade eller smerte hos mennesker og dyr.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -3863,7 +3863,7 @@
       <HiddenLabel lang="nb">Basar</HiddenLabel>
       <HiddenLabel lang="nn">Basar</HiddenLabel>
       <Note lang="nn">Lotteri er eit tiltak der deltakarane mot innskot kan få gevinst av ulikt slag. Lotteri krev som hovudregel løyve frå politiet, og slikt løyve kan berre bli gjeve til lotteri kor inntektene går til eit samfunnsnyttig eller veldedig føremål.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Lotteri er et tiltak der deltakerne mot innskudd kan få gevinst av ulike slag. Lotteri krev som hovedregel tillatelse fra politiet, og slik tillatelse kan bare bli gitt til lotteri der inntektene går til et samfunnsnyttig eller veldedig formål.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lotteri-og-pengespill</Broader>
    </Concept>
@@ -3911,7 +3911,7 @@
       <HiddenLabel lang="nb">Matombringning</HiddenLabel>
       <HiddenLabel lang="nn">Matombringing</HiddenLabel>
       <Note lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tilbud til hjemmeboende eldre eller funksjonshemma som pga. alder eller andre grunner ikke er i stand til å lage mat.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/omsorgstjenester</Broader>
    </Concept>
