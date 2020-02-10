@@ -5503,7 +5503,7 @@
       <HiddenLabel lang="nb">Advokathjelp</HiddenLabel>
       <HiddenLabel lang="nn">Advokathjelp</HiddenLabel>
       <Note lang="nn">Fri rettshjelp betyr at staten heilt eller delvis kan dekkje utgiftene til advokathjelp. Fri rettshjelp omfattar både fritt rettsråd og fri sakførsle. I nokre saker kan ein få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det eit vilkår at ein er under visse inntektsgrenser.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Fri rettshjelp betyr at staten helt eller delvis kan dekke utgiftene til advokathjelp. Fri rettshjelp omfatter både fritt rettsråd og fri sakførsel. I noen saker kan man få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det et vilkår at man er under visse inntektsgrenser.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
