@@ -5986,7 +5986,7 @@
       <HiddenLabel lang="nb">Hygiene</HiddenLabel>
       <HiddenLabel lang="nn">Hygiene</HiddenLabel>
       <Note lang="nn">Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Overvåking av smittsomme sykdommer og smittestoff, og forebygging av smittsomme sykdommer.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/vaksine</Related>
       <Broader>tema/folkehelse</Broader>
@@ -6004,7 +6004,7 @@
       <HiddenLabel lang="nb">Sikring</HiddenLabel>
       <HiddenLabel lang="nn">Sikring</HiddenLabel>
       <Note lang="nn">Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff, kan det vere aktuelt med soning utanfor fengsel med særlege vilkår.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Straffegjennomføring i form av fengselsopphold. Ved halvveis gjennomført straff, kan det være aktuelt med soning utenfor fengsel med særlige vilkår.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -6065,7 +6065,7 @@
       <HiddenLabel lang="nb">Spillehall</HiddenLabel>
       <HiddenLabel lang="nn">Spelehall</HiddenLabel>
       <Note lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Gevinstautomat. En maskin der brukeren, etter en viss pengeinnsats, kan få en pengegevinst.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleavhengighet</Related>
       <Broader>tema/lotteri-og-pengespill</Broader>
@@ -6079,7 +6079,7 @@
       <HiddenLabel lang="nb">Spillegalskap</HiddenLabel>
       <HiddenLabel lang="nn">Spelegalskap</HiddenLabel>
       <Note lang="nn">Speleavhengigheit er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Spilleavhengighet er en tilstand der en person er blitt avhengig av pengespill og har mistet kontrollen over forbruket sitt.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/spilleautomat</Related>
       <Broader>tema/rus-og-avhengighet</Broader>
@@ -6089,7 +6089,7 @@
       <PrefLabel lang="nb">Statsborgerskap</PrefLabel>
       <PrefLabel lang="nn">Statsborgarskap</PrefLabel>
       <Note lang="nn">Inneber tilhøyring til ein stat, og visse rettar og plikter overfor denne staten. Norsk statsborgarskap kan ein få ved fødsel, adopsjon, etter melding eller etter søknad.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Innebærer visse rettigheter og plikter overfor denne staten. Norsk statsborgerskap kan man få ved fødsel, adopsjon, etter melding eller etter søknad.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -6110,7 +6110,7 @@
       <HiddenLabel lang="nb">Individstønad</HiddenLabel>
       <HiddenLabel lang="nn">Individstønad</HiddenLabel>
       <Note lang="nn">Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i tiltaket.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Økonomisk ytelse ved deltakelse i arbeidsmarkedstiltak. Basisytelse og barnetillegg skal dekke utgifter til livsopphold og blir gitt for de dagene man deltar i tiltaket.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsmarkedstiltak</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -6196,7 +6196,7 @@
       <HiddenLabel lang="nb">UV-varsling</HiddenLabel>
       <HiddenLabel lang="nn">UV-varsling</HiddenLabel>
       <Note lang="nn">Førebygging av skadelege verknader av stråling på menneske og miljø. Dette gjeld stråling frå radioaktivt stoff, røntgenstråling, partikkelstråling, og optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller anna stråling med tilsvarande biologisk effekt, og ultralyd.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Forebygging av skadelige virkninger av stråling på mennesker og miljø. Dette gjelder stråling fra radioaktivt stoff, røntgenstråling, partikkelstråling, og optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller annen stråling med tilsvarende biologisk effekt, og ultralyd.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
       <Broader>tema/forurensning-og-straling</Broader>
@@ -6327,7 +6327,7 @@
       <HiddenLabel lang="nb">Sykeheimsplass</HiddenLabel>
       <HiddenLabel lang="nn">Sjukeheimsplass</HiddenLabel>
       <Note lang="nn">Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad. Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Kommunalt drevet boform som skal ha tilbud om heldøgns opphold. Rettet mot de som ikke får dekket sitt daglige behov for pleie og omsorg i hjemmet eller i omsorgsbosted. Tilbyr langtidsopphold, avlastningsopphold og korttidsopphold.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -6346,7 +6346,7 @@
       <HiddenLabel lang="nb">Diagnoserelaterte grupper</HiddenLabel>
       <HiddenLabel lang="nn">Diagnoserelaterte grupper</HiddenLabel>
       <Note lang="nn">Ei fellesnemning på offentlege og private institusjonar som yter medisinsk hjelp.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En fellesnevning på offentlige og private institusjoner som yter medisinsk hjelp.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -6442,7 +6442,7 @@
       <HiddenLabel lang="nb">Tannkjøttsykdom</HiddenLabel>
       <HiddenLabel lang="nn">Tannkjøtsjukdom</HiddenLabel>
       <Note lang="nn">Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege tannhelsetenesta.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Helsetilbud tilrettelagt for å fremme god tannhelse hos innbyggerne. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlige tannhelsetjenesten.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
    </Concept>
@@ -6531,7 +6531,7 @@
       <HiddenLabel lang="nb">Grunnbok</HiddenLabel>
       <HiddenLabel lang="nn">Grunnbok</HiddenLabel>
       <Note lang="nn">Tinglysing er ei offentleg registrering av ein avtale mellom to partar om rettar og plikter som gjeld fast eigedom eller visse typar lausøyre. Tinglyste dokument som gjeld fast eigedom blir registrerte i grunnboka.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tinglysing er en offentlig registrering av en avtale mellom to parter om retter og plikter som gjelder fast eiendom eller enkelte typer løsøre. Tinglyste dokument som gjeld fast eiendom blir registrerte i grunnboka.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/eiendomsregister</Related>
       <Related>ord/dokumentavgift</Related>
@@ -6571,7 +6571,7 @@
       <HiddenLabel lang="nb">Snus</HiddenLabel>
       <HiddenLabel lang="nn">Snus</HiddenLabel>
       <Note lang="nn">Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Lovlig rusmiddel som ved bruk har en betydelig helserisiko. Det blir arbeidet for å redusere bruk av tobakk, motivere og gi hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/folkehelse</Broader>
    </Concept>
@@ -6619,8 +6619,8 @@
       <HiddenLabel lang="nn">Vareoversikt</HiddenLabel>
       <HiddenLabel lang="nb">Tollsats</HiddenLabel>
       <HiddenLabel lang="nn">Tollsats</HiddenLabel>
-      <Note lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nn">Avgift som staten legg på varer ved landet si grense. Ein skil mellom varer som vert ført inn utanfrå til statens område (innføreselstoll), eller som blir ført ut derifrå (utførselstoll), eller som blir ført gjennom statens område (gjennomførsels- eller transitttoll). I Noreg er tollbestemmelsane hjemla i lov om toll av 10. juni 1966 med forskrifter.</Note>
+      <Note lang="nb">Avgift som staten legger på varer ved landets grenser. Man skiller mellom varer som bringes inn utenfra til statens område (innførselstoll), eller som føres ut derfra (utførselstoll) eller som føres gjennom statens område (gjennomførsels- eller transittoll). I Norge er tollbestemmelsene hjemlet i lov om toll av 10. juni 1966 med forskrifter.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/avgift</Broader>
    </Concept>
@@ -6720,8 +6720,8 @@
       <HiddenLabel lang="nn">Assistert befruktning</HiddenLabel>
       <HiddenLabel lang="nb">In vitro-befruktning</HiddenLabel>
       <HiddenLabel lang="nn">In vitro-befruktning</HiddenLabel>
-      <Note lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nn">Manglande evne til å få barn til tross før ynskje om dette.</Note>
+      <Note lang="nb">Manglende evne til å få barn til tross for ønske om dette.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/adopsjon</Related>
       <Broader>tema/svangerskap</Broader>
@@ -6737,7 +6737,7 @@
       <HiddenLabel lang="nb">Aktivitetsstøtte</HiddenLabel>
       <HiddenLabel lang="nn">Aktivitetsstøtte</HiddenLabel>
       <Note lang="nn">Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Kommunale midler som skal stimulere lag, foreninger og organisasjoner til å drive aktiviteter rettet mot ungdom.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/tilskudd-til-kultur-idrett-og-fritid</Broader>
    </Concept>
@@ -6759,7 +6759,7 @@
       <HiddenLabel lang="nb">Utslippsløyve</HiddenLabel>
       <HiddenLabel lang="nn">Utsleppsløyve</HiddenLabel>
       <Note lang="nn">Løyve til å sleppe ut stoff, væske eller gass som kan vere forureinande. Eigar pliktar å søke kommunen om løyve til utslepp av avløpsvatn frå bustadhus, hytter, turistbedrifter og liknande.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tillatelse til å slippe ut stoff, væske eller gass som kan være forurensende. Eier plikter til å søke kommunen om tillatelse til utslipp av avløpsvann fra bolighus, hytter, turistbedrifter og lignende.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forurensning-og-straling</Broader>
    </Concept>
@@ -6991,7 +6991,7 @@
       <HiddenLabel lang="nb">Vartpenger</HiddenLabel>
       <HiddenLabel lang="nn">Vartpengar</HiddenLabel>
       <Note lang="nn">Ventelønn kan innvilgast til tilsette som blir uforskyldt oppsagte i statlege verksemder.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Ventelønn som kan innvilges til ansatte som blir uforskyldt oppsagde i statlige virksomheter. Ordningen med ventelønn blir faset ut fra og med 1.3.2016. Det vil si at det ikke kan innvilges ventelønn for personer som  fratrer sin stilling etter 1.3.2016 eller senere.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/oppsigelse</Related>
       <Broader>tema/okonomiske-ytelser-og-radgivning</Broader>
@@ -7009,7 +7009,7 @@
       <HiddenLabel lang="nb">Umyndig</HiddenLabel>
       <HiddenLabel lang="nn">Umyndig</HiddenLabel>
       <Note lang="nn">Verje er ein person som tek seg av ein umyndig sine interesser og handlar for den umyndige i formuessakene hans. Ein umyndig er etter lova ein mindreårig (under 18 år) eller ein som er umyndiggjort. Den umyndige kan ikkje sjølv råde over midlane sine eller binde seg ved rettshandel med mindre anna er bestemt.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Verge er en person som tar seg av en umyndig sine interesser og handler for den umyndige i formuessakene dens. En umyndig er etter loven en mindreårig (under 18 år) eller en som er umyndiggjort. Den umyndige kan ikke selv råde over midlene sine eller binde seg ved rettshandel med mindre annet er bestemt.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/innbyggerrettigheter</Broader>
    </Concept>
@@ -7035,8 +7035,8 @@
       <HiddenLabel lang="nn">Tenestebevis</HiddenLabel>
       <HiddenLabel lang="nb">Førstegangstjeneste</HiddenLabel>
       <HiddenLabel lang="nn">Førstegongsteneste</HiddenLabel>
-      <Note lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nn">Både menn og kvinner (berre kvinner fødd i 1997 eller seinare) som er norske statsborgarar kan bli vernepliktige. Som vernepliktig pliktar du å gjennomføre inntil 19 månader (575 dagar) ordinær teneste.</Note>
+      <Note lang="nb">Både menn og kvinner (bare kvinner fødd i 1997 eller senere) som er norske statsborgere kan bli vernepliktige.  Som vernepliktig plikter du å gjennomføre inntil 19 måneder (575 dager) ordinær tjeneste.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/forsvaret</Broader>
    </Concept>
@@ -7238,7 +7238,7 @@
       <PrefLabel lang="nb">Voldsoffererstatning</PrefLabel>
       <PrefLabel lang="nn">Valdsoffererstatning</PrefLabel>
       <Note lang="nn">Statleg erstatning som vert ytt til skadelidande etter visse valdshandlingar, mellom anna overfall, mishandling og valdtekt.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Statlig erstatning som blir ytt til skadelidende etter visse voldshandlinger, mellom annet overfall, mishandling og voldtekt.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/erstatningsordninger</Broader>
    </Concept>
