@@ -5532,7 +5532,7 @@
       <HiddenLabel lang="nb">Rettstvist</HiddenLabel>
       <HiddenLabel lang="nn">Rettstvist</HiddenLabel>
       <Note lang="nn">Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">En sak som blir ført for en domstol. Flest mulige sider ved saken skal utdypes slik at domstolen på best mulig grunnlag kan dømme.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/rettsvesen</Broader>
    </Concept>
@@ -5653,7 +5653,7 @@
       <HiddenLabel lang="nb">Samboerkontrakt</HiddenLabel>
       <HiddenLabel lang="nn">Sambuarkontrakt</HiddenLabel>
       <Note lang="nn">Det er inga generell likebehandling av sambuarar og ektepar i lovverket. Sambuarar blir behandla som ektefellar på enkelte område og som einslege på andre. Medrekna sambuarkontrakt.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Det er ingen generell likebehandling av samboer og ektepar i lovverket. Samboer blir behandlet som ektefeller på enkelte område, og som enslige på andre. Medregnet samboerkontrakt.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/samliv</Broader>
    </Concept>
@@ -5664,7 +5664,7 @@
       <HiddenLabel lang="nb">Samfunnstjeneste</HiddenLabel>
       <HiddenLabel lang="nn">Samfunnsteneste</HiddenLabel>
       <Note lang="nn">Alternativ til fengselsstraff når det elles ikkje ville ha vorte dømt strengare straff enn fengsel i eitt år.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Alternativ til fengselsstraff når det ellers ikke ville ha blitt dømt strengere straff enn fengsel i ett år.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/lovbrudd-og-straff</Broader>
    </Concept>
@@ -5694,7 +5694,7 @@
       <HiddenLabel lang="nb">Delt foreldreansvar</HiddenLabel>
       <HiddenLabel lang="nn">Delt foreldreansvar</HiddenLabel>
       <Note lang="nn">Søknad om separasjon skal sendast til Fylkesmannen. Etter eitt år med separasjon kan ein søkja om skilsmisse. Ektefeller som flytter frå kvarandre utan å vere separerte, kan søkje om skilsmisse to år etter samlivsbrotet. Dersom ektefellene har felles barn under 16 år, må dei møte til mekling før dei kan separerast eller skiljast.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Søknad om seperasjon skal sendes til Fylkesmannen. Etter ett år med seperasjon kan man søke om skilsmisse. Ektefeller som flytter fra hverandre uten å være separerte, kan søke om skilsmisse to år etter samlivsbruddet. Dersom ektefellene har felles barn under 16 år, må de møte til megling før de kan separeres eller skilles.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/mekling</Related>
       <Related>ord/ytelser-til-foreldre-og-foresatte</Related>
@@ -5707,7 +5707,7 @@
       <HiddenLabel lang="nb">Studieplass</HiddenLabel>
       <HiddenLabel lang="nn">Studieplass</HiddenLabel>
       <Note lang="nn">Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt tilbod om ventelisteplass.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Samordna opptak koordinerer opptak til høyskoler og universitet i Norge. Samordning av opptaket innebærer at hver søker bare får ett tilbud om studieplass, og eventuelt tilbud om ventelisteplass.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/hoyere-utdanning</Broader>
    </Concept>
@@ -5798,7 +5798,7 @@
       <HiddenLabel lang="nb">Offentlig skifte</HiddenLabel>
       <HiddenLabel lang="nn">Offentleg skifte</HiddenLabel>
       <Note lang="nn">Fordeling av formue og eigedom mellom arvingar etter eit dødsfall eller mellom ektefeller ved skilsmisse.Privat eller offentleg skifte.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Fordeling av formue og eiendom mellom arvinger etter et dødsfall eller mellom ektefeller ved skilsmisse. Privat eller offentlig skifte.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/samlivsbrudd</Related>
       <Broader>tema/dodsfall-og-gravferd</Broader>
@@ -5881,7 +5881,7 @@
       <HiddenLabel lang="nb">SFO</HiddenLabel>
       <HiddenLabel lang="nn">SFO</HiddenLabel>
       <Note lang="nn">Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Et tilbud før og etter skoletid til barn fra 1. til 4. klasse. Barn med spesielle behov kan få dette tilbudet fra 1.-7. klasse.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/musikk-og-kulturskole</Related>
       <Broader>tema/grunnskole</Broader>
@@ -5897,7 +5897,7 @@
       <HiddenLabel lang="nb">Helsesøster</HiddenLabel>
       <HiddenLabel lang="nn">Helsesøster</HiddenLabel>
       <Note lang="nn">Tilbod om helsetenester til alle skuleelevar under 20 år. Gjev råd og rettleiing, gjennomfører helseundersøkingar og vaksinasjonar og kan, ved behov, vise vidare til anna helsepersonell som fastlege, tannlege eller til spesialist. Har også som oppgåve å fremje godt lærings- og arbeidsmiljø for elevane. Kommunen er ansvarleg for tenesta.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Tilbud om helsetjenester til alle skoleelever under 20 år. Gir råd og veiledning, gjennomfører helseundersøkelser og vaksinasjoner og kan, ved behov, vise videre til annen helsepersonell som fastlege, tannlege eller til spesialist. Har også som oppgave å fremme godt lærings- og arbeidsmiljø for elevene. Kommunen er ansvarlig for tjenesten.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/helsetjenester</Broader>
       <Broader>tema/grunnskole</Broader>
@@ -5945,7 +5945,7 @@
       <HiddenLabel lang="nb">Jordskred</HiddenLabel>
       <HiddenLabel lang="nn">Jordskred</HiddenLabel>
       <Note lang="nn">Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Varsling om veistrekning og område som er særlig utsatte for ras og skred i form av jord, leire, snø eller stein.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/var-og-klima</Broader>
       <Broader>tema/varslingstjenester</Broader>
@@ -5957,7 +5957,7 @@
       <HiddenLabel lang="nb">Slektsforsking</HiddenLabel>
       <HiddenLabel lang="nn">Slektsforsking</HiddenLabel>
       <Note lang="nn">Kartlegging av forfedre og deira samtid ved hjelp av ressursar som til dømes kyrkjebøker, tingbøker, folketeljingar og emigrantprotokollar.</Note>
-      <Note lang="nb">**</Note>
+      <Note lang="nb">Kartlegging av forferder og deres samtid ved hjelp av ressurser som til dømes kirkebøker, tingbøker, folkefortellinger og emigrantprotokoller.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/kultur</Broader>
    </Concept>
