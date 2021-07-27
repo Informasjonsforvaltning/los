@@ -7721,6 +7721,13 @@
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
+   <Concept path="tema/pensjon">
+      <PrefLabel lang="en">Pension</PrefLabel>
+      <PrefLabel lang="nb">Pensjon</PrefLabel>
+      <PrefLabel lang="nn">Pensjon</PrefLabel>
+      <InScheme>ontologi/tema</InScheme>
+      <Broader>tema/sosiale-tjenester</Broader>
+   </Concept>
    <Concept path="tema/bygg-og-eiendom">
       <PrefLabel lang="en">Building and property</PrefLabel>
       <PrefLabel lang="nb">Bygg og eiendom</PrefLabel>
