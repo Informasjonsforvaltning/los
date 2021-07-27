@@ -7837,6 +7837,7 @@
     <Collection path="samling/kommune-los">
         <PrefLabel lang="nb">Kommune-Los</PrefLabel>
         <PrefLabel lang="nn">Kommune-Los</PrefLabel>
+        <Member>ord/valg</Member>
         <Member>ord/tilskudd-til-viltformal</Member>
         <Member>ord/reisegaranti</Member>
         <Member>ord/miljovennlig-transport</Member>
