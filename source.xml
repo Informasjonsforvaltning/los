@@ -7712,9 +7712,12 @@
       <Broader>tema/helse-og-omsorg</Broader>
    </Concept>
    <Concept path="tema/sosiale-tjenester">
-      <PrefLabel lang="en">Social services</PrefLabel>
-      <PrefLabel lang="nb">Sosiale tjenester</PrefLabel>
-      <PrefLabel lang="nn">Sosiale tenester</PrefLabel>
+      <PrefLabel lang="en">Pension, social security and social services</PrefLabel>
+      <PrefLabel lang="nb">Pensjon, trygd og sosiale tjenester</PrefLabel>
+      <PrefLabel lang="nn">Pensjon, trygd og sosiale tenester</PrefLabel>
+      <AltLabel lang="nb">Sosiale tjenester</AltLabel>
+	    <AltLabel lang="nn">Sosiale tenester</AltLabel>
+      <AltLabel lang="en">Social services</AltLabel>
       <InScheme>ontologi/tema</InScheme>
       <TopConceptOf>struktur</TopConceptOf>
    </Concept>
