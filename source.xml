@@ -695,6 +695,8 @@
       <Note lang="nb">Pensjonsutbetaling fra folketrygden etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medregnet avtalefestet pensjon, pensjonsberekning m.m.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/pensjon</Broader>
+
    </Concept>
    <Concept path="ord/allemannsrett">
       <PrefLabel lang="en">Right of access</PrefLabel>
@@ -1226,6 +1228,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/barnevern">
       <PrefLabel lang="en">Child protection</PrefLabel>
@@ -2872,6 +2875,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/godstransport">
       <PrefLabel lang="en">Freight transport</PrefLabel>
@@ -4452,6 +4456,8 @@
       <Note lang="nb">Gjenlevendepensjon og overgangsstønad til gjenlevende ektefelle / samboer. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon gis når en eller begge foreldre er døde. Ytelser til enslig tidligere familiepleier som ikke kan forsørge seg selv etter pleieforholdets opphør.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/familieytelser</Broader>
+      <Broader>tema/pensjon</Broader>
+
    </Concept>
    <Concept path="ord/ytelser-til-foreldre-og-foresatte">
       <PrefLabel lang="en">Benefits to parents and guardians</PrefLabel>
@@ -4763,6 +4769,7 @@
       <Note lang="nb">Automatisert informasjon på internett der man kan regne ut fremtidig alderspensjon fra folketrygden. Statens Pensjonskasse og Kommunal Landspensjonskasse har også pensjonsberegninger på internett.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/permittering">
       <PrefLabel lang="en">Temporary redundancy</PrefLabel>
@@ -4845,6 +4852,7 @@
       <Note lang="nb">Folketrygden er den mest generelle trygdeordningen, og den omfatter alle som er bosatt i Noreg. Personskadetrygdene (krigspensjon og "gammel" yrkesskadetrygd) og tenestepensjonsordningene må sees som supplerende ordninger til folketrygden.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/persontransport">
       <PrefLabel lang="en">Passenger transport</PrefLabel>
@@ -6547,6 +6555,7 @@
       <Note lang="nb">En alderspensjons-opptening i tillegg til folketrygden. Arbeidsgivere har plikt til å opprette en pensjonsordning for tilsette og personer som utfører arbeid i foretaket.</Note>
       <InScheme>ontologi/ord</InScheme>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/tobakk">
       <PrefLabel lang="en">Tobacco</PrefLabel>
@@ -6705,6 +6714,7 @@
       <InScheme>ontologi/ord</InScheme>
       <Related>ord/arbeidsavklaringspenger</Related>
       <Broader>tema/inntektssikring</Broader>
+      <Broader>tema/pensjon</Broader>
    </Concept>
    <Concept path="ord/ufrivillig-barnloshet">
       <PrefLabel lang="en">Involuntary childlessness</PrefLabel>
