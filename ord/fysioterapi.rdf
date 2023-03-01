@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fysioterapi">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fysioterapi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fysioterapi</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Physiotherapy</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fysioterapeut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fysioterapeut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Manuellterapeut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Manuellterapeut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Manuellterapi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Manuellterapi</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein del av helsetilbodet til kommunen. Blir gjeve i samband med førebyggjande helsearbeid og ved behandling av sjukdom eller skade. Medrekna manuell terapi.</skos:note>
+      <skos:note xml:lang="nb">En del av helsetilbudet til kommunen. Bli gitt i forbindelse med forebyggende helsearbeid og ved behandling av sjukdom eller skade. Medregnet manuell terapi.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

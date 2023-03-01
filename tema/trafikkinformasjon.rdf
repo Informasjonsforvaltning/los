@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/trafikkinformasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Trafic information</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Trafikkinformasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Trafikkinformasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegtrafikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegtrafikk</skos:hiddenLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikk-og-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bominformasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sanntids-trafikkinformasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/trafikksignaler-og-reguleringer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/trafikksikkerhet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/veg--og-foreforhold"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vegarbeid"/>
+   </rdf:Description>
+</rdf:RDF>

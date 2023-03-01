@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vergemal">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Guardianship</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Vergemål</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Verjemål</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Hjelpeverge</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hjelpeverje</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mindreårig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mindreårig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overformynderiet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overformynderiet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Umyndig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Umyndig</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Verje er ein person som tek seg av ein umyndig sine interesser og handlar for den umyndige i formuessakene hans. Ein umyndig er etter lova ein mindreårig (under 18 år) eller ein som er umyndiggjort. Den umyndige kan ikkje sjølv råde over midlane sine eller binde seg ved rettshandel med mindre anna er bestemt.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/innbyggerrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

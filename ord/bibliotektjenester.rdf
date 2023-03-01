@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bibliotektjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Bibliotektenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bibliotektjenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Library services</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bokbuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bokbuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bokbåt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bokbåt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fagbibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fagbibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folkebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Folkebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folkeboksamling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Folkeboksamling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fylkesbibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fylkesbibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Høgskolebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Høgskulebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Høgskulebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Høyskolebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Læringssenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Læringssenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skulebibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Universitetsbibliotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Universitetsbibliotek</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Bibliotektenester omfattar lån av medium, lesing og studium, men er også ein møteplass og sosial arena og lokale for kulturarrangement. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysing, utdanning og anna kulturell verksemd.</skos:note>
+      <skos:note xml:lang="nb">Bibliotektjenester omfatter lån av medier, lesing og studier, men er også en møteplass og sosial arena og lokale for kulturarrangementer. Biblioteket skal være gratis for alle. Formålet er å arbeide for opplysning, utdanning og annen kulturell virksomhet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bibliotek"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hoyere-utdanning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

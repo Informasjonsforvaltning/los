@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lotteri">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Lotteri</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lotteri</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Lottery</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Basar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Basar</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Lotteri er eit tiltak der deltakarane mot innskot kan få gevinst av ulikt slag. Lotteri krev som hovudregel løyve frå politiet, og slikt løyve kan berre bli gjeve til lotteri kor inntektene går til eit samfunnsnyttig eller veldedig føremål.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lotteri-og-pengespill"/>
+   </rdf:Description>
+</rdf:RDF>

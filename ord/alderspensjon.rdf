@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/alderspensjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Alderspensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Alderspensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Retirement pension</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">AFP</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">AFP</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Alderstrygd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Alderstrygd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avtalefesta pensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avtalefestet pensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folketrygdpensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Folketrygdpensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Førtidspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Førtidspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnbeløp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnbeløp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnpensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnpensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgspoeng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgspoeng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pensjonsfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pensjonsfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pensjonskasse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pensjonskasse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pensjonspoeng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pensjonspoeng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sjømannspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjømannspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tidlegpensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tidligpensjon</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Pensjonsutbetaling fra folketrygden etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medregnet avtalefestet pensjon, pensjonsberekning m.m.</skos:note>
+      <skos:note xml:lang="nn">Pensjonsutbetaling frå folketrygda etter fylte 67 år. I offentleg sektor er det også særaldersgrenser. Medrekna avtalefesta pensjon, pensjonsberekning m.m.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

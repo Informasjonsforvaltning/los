@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fyrverkeri">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Fireworks</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fyrverkeri</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fyrverkeri</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Avbrenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avbrenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oppskyting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oppskyting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pyroteknisk vare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pyroteknisk vare</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Søknad og løyve til å oppbevare og selje fyrverkeri.</skos:note>
+      <skos:note xml:lang="nb">Søknad og tillatelse til å oppbevare og selge fyrverkeri</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/brann"/>
+   </rdf:Description>
+</rdf:RDF>

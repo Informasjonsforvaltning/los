@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/syketransport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Patient transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sjuketransport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Syketransport</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Ambulanse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ambulanse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helsebuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helsebuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helseekspress</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helseekspress</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjørekontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Køyrekontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pasientreise</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pasientreise</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukebil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukehusbuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykebil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykehusbuss</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/behandlingsreise"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/reiseutgifter"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

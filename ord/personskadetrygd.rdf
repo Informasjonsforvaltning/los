@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/personskadetrygd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Personal injury benefit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Personskadetrygd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Personskadetrygd</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Invalidepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Invalidepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Krigsinvalidepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Krigsinvalidepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Krigspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Krigspensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samordning</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Folketrygda er den mest generelle trygdeordninga, og ho omfattar alle som er busette i Noreg. Personskadetrygdene (krigspensjon og "gammal" yrkesskadetrygd) og tenestepensjonsordningane må sjåast som supplerande ordningar til folketrygda.</skos:note>
+      <skos:note xml:lang="nb">Folketrygden er den mest generelle trygdeordningen, og den omfatter alle som er bosatt i Noreg. Personskadetrygdene (krigspensjon og "gammel" yrkesskadetrygd) og tenestepensjonsordningene må sees som supplerende ordninger til folketrygden.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

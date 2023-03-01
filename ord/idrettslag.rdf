@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/idrettslag">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Idrettslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Idrettslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sports clubs</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Idrettsforening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Idrettsklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Idrettsklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Idrettslag</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Foreining for organisering av idrett.</skos:note>
+      <skos:note xml:lang="nb">Forening for organisering av idrett.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/lag-og-foreninger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/idrett"/>
+   </rdf:Description>
+</rdf:RDF>

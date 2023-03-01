@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/friskliv-og-mestring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Friskliv og meistring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Friskliv og mestring</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Healthy life and coping</skos:prefLabel>
+      <skos:note xml:lang="nn">Kommunen tilbyr forskjellige tenester som bidreg til å halde innbyggjarane friske eller som bidreg til meistring av ein sjukdom.</skos:note>
+      <skos:note xml:lang="nb">Kommunen tilbyr forskjellige tjenester som bidrar til å holde innbyggerne friske eller som bidrar til mestring av en sykdom.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

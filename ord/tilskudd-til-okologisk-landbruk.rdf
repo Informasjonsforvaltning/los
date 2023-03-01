@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilskudd-til-okologisk-landbruk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Organic agriculture grants</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskot til økologisk landbruk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskudd til økologisk landbruk</skos:prefLabel>
+      <skos:note xml:lang="nb">Fellesbetegnelse for tilskudd til de som driver økologisk landbruk.</skos:note>
+      <skos:note xml:lang="nn">Fellesnamn for tilskot til dei som driv økologisk landbruk.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskuddsordninger-for-naring"/>
+   </rdf:Description>
+</rdf:RDF>

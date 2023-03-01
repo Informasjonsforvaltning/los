@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/stotte-til-bedrifter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Stønad til bedrifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Støtte til bedrifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Support for businesses</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Næringsfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Næringsfond</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Tilbud til lokale bedrifter som omfatter råd og veiledning, hjelp til etablering, tilbud om utstyr og økonomiske støtteordninger.</skos:note>
+      <skos:note xml:lang="nn">Tilbod til lokale bedrifter som omfattar råd og rettleiing, hjelp til etablering, tilbod om utstyr og økonomiske stønadsordningar.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsutvikling"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskuddsordninger-for-naring"/>
+   </rdf:Description>
+</rdf:RDF>

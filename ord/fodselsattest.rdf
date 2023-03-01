@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fodselsattest">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Birth certificate</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fødselsattest</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fødselsattest</skos:prefLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/personopplysninger"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Democracy and citizen rights</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Demokrati og innbyggerrettigheter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Demokrati og innbyggjarrettar</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/apenhet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/innbyggerrettigheter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/medvirkning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/personopplysninger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/politikk-og-valg"/>
+   </rdf:Description>
+</rdf:RDF>

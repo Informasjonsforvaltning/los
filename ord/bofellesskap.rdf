@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bofellesskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bofellesskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bufellesskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Shared housing</skos:prefLabel>
+      <skos:note xml:lang="nb">Kommunalt botilbud til psykisk utviklingshemmede, eldre, personer med funksjonsnedsettelser eller enslige mindreårige asylsøkere.</skos:note>
+      <skos:note xml:lang="nn">Kommunalt butilbod til psykisk utviklingshemma, eldre, personar med funksjonsnedsetting eller einslege mindreårige asylsøkjarar.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/botilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

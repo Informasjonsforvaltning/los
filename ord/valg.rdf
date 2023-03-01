@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/valg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Election</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Val</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Valg</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Folkeavstemming</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folkeavstemning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forhåndsstemming</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fylkestingsval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fylkestingsvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Førehandsstemming</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommmuneval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommunestyreval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunestyrevalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunevalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Listeforslag</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Listeforslag</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Manntal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Manntall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røystefør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samemanntal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samemanntall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sametingsval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sametingsvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stemmeberettiget</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stemmerett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stemmerett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stemmeseddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stemmesetel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stortingsval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stortingsvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Valgkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Valgresultat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Valkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Valresultat</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Avstemning for å peike ut personar til verv, stillingar og posisjonar. I Noreg er det stortingsval og kommune- og fylkestingsval kvart fjerde år. Alle norske borgarar som er fylt 18 år innan valåret har stemmerett.</skos:note>
+      <skos:note xml:lang="nb">Avstemning for å velge ut personer til verv, stillinger og posisjoner. I Norge er det stortingsvalg og kommune- og fylkestingsvalg hvert fjerde år. Alle norske borgere som har fylt 18 år innen valgåret har stemmerett.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/politikk-og-valg"/>
+   </rdf:Description>
+</rdf:RDF>

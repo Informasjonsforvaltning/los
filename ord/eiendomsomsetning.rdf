@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/eiendomsomsetning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Eiendomsomsetning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Eigedomsomsetning</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Trade in property</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligkjøp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligomsetning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligsalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadkjøp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadomsetnad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bustadomsetning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadomsetning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadsal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Eiendomskjøp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Eiendomssalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigedomskjøp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigedomssal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjøp av eiendom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjøp av eigedom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Megleropplysninger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Meklaropplysningar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sal av eigedom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Salg av eiendom</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/boligfinansiering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjop-og-salg"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ledsagerbevis">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Care assistant certificate</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Følgjebevis</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ledsagerbevis</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Følgje</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ledsager</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit dokument gjer det mulig å ta med seg følje utan ekstra kostnader på kultur- og fritidsarrangement og på transportmiddel der ordninga vert akseptert.</skos:note>
+      <skos:note xml:lang="nb">Et dokument gjør det mulig å ta med seg en ledsager uten ekstra kostnader på kultur- og fritidsarrangement og på transportmidler der ordningen aksepteres.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

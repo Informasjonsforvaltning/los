@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/samlivsbrudd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Relationship break-up</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Samlivsbrot</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Samlivsbrudd</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Delt foreldreansvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Delt foreldreansvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mekling for foreldre</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mekling for foreldre</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samværsrett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samværsrett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Separasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Separasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skilsmisse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skilsmisse</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Søknad om separasjon skal sendast til Fylkesmannen. Etter eitt år med separasjon kan ein søkja om skilsmisse. Ektefeller som flytter frå kvarandre utan å vere separerte, kan søkje om skilsmisse to år etter samlivsbrotet. Dersom ektefellene har felles barn under 16 år, må dei møte til mekling før dei kan separerast eller skiljast.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/mekling"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skifte-ved-dodsfall"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samliv"/>
+   </rdf:Description>
+</rdf:RDF>

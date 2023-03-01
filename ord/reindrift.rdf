@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/reindrift">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Reindeer herding</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Reindrift</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Reindrift</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Nedfôring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Nedfôring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovdyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovdyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovdyrerstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovdyrerstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovdyrskade</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovdyrskade</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovvilterstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovvilterstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovviltskade</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovviltskade</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Reindrift er ei viktig næring både i samisk og lokal samanheng.</skos:note>
+      <skos:note xml:lang="nb">Reindrift er en viktig næring både i samisk og lokal sammenheng.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/landbruk"/>
+   </rdf:Description>
+</rdf:RDF>

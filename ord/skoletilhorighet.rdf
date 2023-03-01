@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skoletilhorighet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">School districts</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skoletilhørighet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skuletilhøyrsel</skos:prefLabel>
+      <skos:note xml:lang="nb">Barn i skolealder blir delt inn i skolekretser. Elever har rett til å gå på den skolen de hører til. Kommunen kan beslutte bytte av skole etter søknad fra foresatte.</skos:note>
+      <skos:note xml:lang="nn">Barn i skulealder blir delt inn i skulekrinsar. Elevar har rett til å gå på den skulen dei høyrer til. Kommunen kan avgjere byte av skule etter søknad frå føresette.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+   </rdf:Description>
+</rdf:RDF>

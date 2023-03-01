@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/havn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Hamn</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Harbour</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Havn</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Hamneavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hamnevesen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Havneavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Havnevesen</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunale hamner kan omfatte ferjeterminalar, kaianlegg, utleige, fortøyings- og slepetenester m.m.</skos:note>
+      <skos:note xml:lang="nb">Kommunale havner kan omfatte fergeterminaler, kaianlegg, utleie, fortøynings- og slepetjenester m.m.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bat-havn-og-kyst"/>
+   </rdf:Description>
+</rdf:RDF>

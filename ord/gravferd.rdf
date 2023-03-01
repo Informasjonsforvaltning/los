@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gravferd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Funerals</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gravferd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gravferd</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Askespredning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Begravelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Begravelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bisetjing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bisettelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bisetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bisetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravferdsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravferdsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravferdsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravferdsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kremasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kremasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kremering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kremering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oskespreiing</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Som regel er det de nærmeste etterlatte som har ansvaret for gravferden. Ved uenighet om hvem som skal sørge for gravferden, treffer kommunen avgjørelse. Dersom ingen sørger for gravferden, skal den besørges av kommunen der avdøde hadde sin bopel.</skos:note>
+      <skos:note xml:lang="nn">Som regel er det dei nærmaste attlevande som har ansvaret for gravferda. Ved usemje om kven som skal sørgje for gravferda, treffer kommunen avgjerd. Dersom ingen sørgjer for gravferda, skal den sørgjast for av kommunen der avdøde hadde bustaden sin.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/dodsfall-og-gravferd"/>
+   </rdf:Description>
+</rdf:RDF>

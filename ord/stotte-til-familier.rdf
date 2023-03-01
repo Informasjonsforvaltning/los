@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/stotte-til-familier">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Family support</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Støtte til familiar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Støtte til familier</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Familiekontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familiekontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familierådgiving</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familierådgivning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familierådgjeving</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familierådgjeving</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familievernkontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familievernkontor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husmorvikar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husmorvikar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkurs</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkurs</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samlivskurs</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samlivskurs</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Rådgivning eller forskjellige former for avlastning til familier som er sårbare og som trenger hjelp</skos:note>
+      <skos:note xml:lang="nn">Rådgjeving eller forskjellige former for avlasting til familiar som er sårbare og som treng hjelp.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

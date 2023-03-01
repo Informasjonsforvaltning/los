@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/spilleavhengighet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Gambling addiction</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Speleavhengigheit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Spilleavhengighet</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelavhengigheit</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelegalskap</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillavhengighet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillegalskap</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Speleavhengigheit er ein tilstand det ein person er vorten avhengig av pengespel og har mista kontrollen over forbruket sitt.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/spilleautomat"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rus-og-avhengighet"/>
+   </rdf:Description>
+</rdf:RDF>

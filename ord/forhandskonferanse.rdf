@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/forhandskonferanse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Construction application</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Forhåndskonferanse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Førehandskonferanse</skos:prefLabel>
+      <skos:note xml:lang="nb">Forhåndskonferanse er en ordning der tiltakshaver (byggherre) og kommunen kan møtes for å avklare forutsetninger for byggetiltaket og rammene for den videre saksbehandlingen.</skos:note>
+      <skos:note xml:lang="nn">Førehandskonferanse er ei ordning der tiltakshavar (byggherre) og kommunen kan møtast for å avklare førutsetningar for byggetiltaket og rammene for den vidare saksbehandlingen.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/boligfinansiering"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/reguleringsplan"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygging"/>
+   </rdf:Description>
+</rdf:RDF>

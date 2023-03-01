@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Barnevern og foreldrestøtte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnevern og foreldrestøtte</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Child and family welfare</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familie-og-barn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/barnevern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bekymringsmelding-til-barnevernet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/besokshjem"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fosterhjem"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hjelp-ved-overgrep"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stotte-til-familier"/>
+   </rdf:Description>
+</rdf:RDF>

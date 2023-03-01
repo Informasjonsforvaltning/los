@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/organdonasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Organ donation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Organdonasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Organdonasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Donor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Donor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Donorkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Donorkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Organdonor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Organdonor</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Organdonasjon er når ein organdonor gjev eitt eller fleire organ til andre. Som oftast skjer dette når donor er død, men ein levande person kan også avgje ei nyre og ein del av levera.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Civil protection and emergency planning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Samfunnssikkerhet og beredskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Samfunnstryggleik og beredskap</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/brann"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/forsvaret"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/varslingstjenester"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+   </rdf:Description>
+</rdf:RDF>

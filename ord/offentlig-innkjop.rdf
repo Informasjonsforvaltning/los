@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/offentlig-innkjop">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Offentleg innkjøp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Offentlig innkjøp</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public procurement</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Offentleg anskaffelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Offentleg anskaffing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Offentlig anskaffelse</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Innkjøp av varer, tenester der statlege, kommunale og fylkeskommunale styresmakter og offentlegrettslege organ er oppdragsgjevar.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/handel-og-service"/>
+   </rdf:Description>
+</rdf:RDF>

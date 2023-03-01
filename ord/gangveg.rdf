@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gangveg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Footpath</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gangveg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gangveg</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fortau</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fortau</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fotgjengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fotgjenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gangfelt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gangfelt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gangsti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gangsti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gangveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gangvei</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen utviklar og vedlikeheld gangvegar og sykkelstiar.</skos:note>
+      <skos:note xml:lang="nb">Kommunen utvikler og vedlikeholder gangveier og sykkelstier.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

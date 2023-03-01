@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/varslingstjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Fire</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Varslingstenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Varslingstjenester</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/blaskjellvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flomvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flyalarm"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/lynvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skogbrannvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skredvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/varvarsel"/>
+   </rdf:Description>
+</rdf:RDF>

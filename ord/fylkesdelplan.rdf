@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fylkesdelplan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fylkesdelplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fylkesdelplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Regional sub-plan</skos:prefLabel>
+      <skos:note xml:lang="nn">Ein fylkesdelplan omfattar ein bestemt del av fylket sitt areal.</skos:note>
+      <skos:note xml:lang="nb">En fylkesdelplan omfatter en bestemt del av fylkets totale areal.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fylkesplan"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/regional-planlegging"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bostotte">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bostøtte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bustønad</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Housing allowance</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligtilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadtilskot</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Bostøtte er en hjelp for personer som har lave inntekter og høye boutgifter. Husbanken og kommunen samarbeider om bostøtteordningen. Det er kommunen som behandler søknaden.</skos:note>
+      <skos:note xml:lang="nn">Bustønad er ei hjelp for personar som har låge inntekter og høge buutgifter. Husbanken og kommunen samarbeider om bustønadsordninga. Det er kommunen som behandlar søknaden.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/boligfinansiering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/elevrettigheter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Elevrettar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Elevrettigheter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pupil rights</skos:prefLabel>
+      <skos:note xml:lang="nn">Elevrettar er nemninga for dei rettane som ligg i opplæringslova, forvaltingslova, offentleglova, personopplysingslova og forskrift om miljøretta helsevern. Det er kommunen og fylkeskommunen som er ansvarlege for elevane sine rettar.</skos:note>
+      <skos:note xml:lang="nb">Elevrettigheter er betegnelsen for de rettighetene som ligger i opplæringslova, forvaltningsloven, offentleglova, personopplysningsloven og forskrift om miljørettet helsevern. Det er kommunen og fylkeskommunen som er ansvarlige for elevenes rettigheter.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/apenhet"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/persontransport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Passenger transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Persontransport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Persontransport</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Buss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Buss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Drosjeløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Drosjeløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Einskildturløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Enkeltturtillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellesskapslisens</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellesskapslisens</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Limousin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Limousin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Passasjertransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Passasjertransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Selskapsvognløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Selskapsvognløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Taxi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Taxi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Transportbevilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Transportbevilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Transportløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Transportløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turbil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turbil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turbuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turbuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turvognløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turvognløyve</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordna ansvaret for den samla transportpolitikken, og skal utvikle og fastsetje rammevilkåra for kollektivtransporten.</skos:note>
+      <skos:note xml:lang="nb">Ansvaret for lokal kollektivtransport er delt mellom stat, fylkeskommune og kommune. Staten har det overordnede ansvaret for den samlede transportpolitikken, og skal utvikle og fastsette rammevilkårene for kollektivtransporten.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/yrkestransport"/>
+   </rdf:Description>
+</rdf:RDF>

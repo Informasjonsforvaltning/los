@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/hoyere-utdanning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Higher education</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Høgare utdanning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Høyere utdanning</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skole-og-utdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bibliotektjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/etterutdanning-og-videreutdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fagskoleutdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fjernundervisning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hogskole-og-universitet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/samordna-opptak"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/temaplan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Temaplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Temaplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Theme plan</skos:prefLabel>
+      <skos:note xml:lang="nn">Temaplanar er kommunedelplanar for bestemte tema, sektorar eller tenester.</skos:note>
+      <skos:note xml:lang="nb">Temaplaner er kommunedelplaner for bestemte temaer, sektorer eller tjenester.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/byggesak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/naringsareal"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

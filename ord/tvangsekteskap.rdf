@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tvangsekteskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Forced marriage</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tvangsekteskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tvangsekteskap</skos:prefLabel>
+      <skos:note xml:lang="nb">Benevnelse for et arrangert ekteskap som blir gjennomført til tross for at minst én av partene er motvillig</skos:note>
+      <skos:note xml:lang="nn">Nemning på eit arrangert ekteskap som vert gjennomført trass i at minst ein av partane er motvillig.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/ekteskap"/>
+   </rdf:Description>
+</rdf:RDF>

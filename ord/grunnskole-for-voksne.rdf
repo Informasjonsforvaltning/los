@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/grunnskole-for-voksne">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Grunnskole for voksne</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Grunnskule for vaksne</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Primary and lower secondary education for adults</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnskoleopplæring for vaksne</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnskoleopplæring for voksne</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Vaksne som ikkje har fått grunnskuleopplæring har rett til grunnskuleopplæring. Opplæringa er gratis og tilpassa kvar enkelt.</skos:note>
+      <skos:note xml:lang="nb">Voksne som ikke har fått grunnskoleopplæring har rett til grunnskoleopplæring. Opplæringen er gratis og tilpasset den enkeltes behov.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/voksenopplaring"/>
+   </rdf:Description>
+</rdf:RDF>

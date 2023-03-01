@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rapportering-for-naringsdrivende">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Business reporting</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rapportering for næringsdrivande</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rapportering for næringsdrivende</skos:prefLabel>
+      <skos:note xml:lang="nn">Alle som driv næringsverksemd i Noreg har plikt til å rapportere til det offentlege om forhold innanfor økonomi, skatt og avgifter.</skos:note>
+      <skos:note xml:lang="nb">Alle som driver næringsvirksomhet i Norge har plikt til å rapportere til det offentlige om forhold innenfor økonomi, skatt og avgifter.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsliv"/>
+   </rdf:Description>
+</rdf:RDF>

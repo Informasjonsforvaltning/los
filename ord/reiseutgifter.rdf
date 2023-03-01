@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/reiseutgifter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Reiseutgifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Reiseutgifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Travel expenses</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Reisetilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reisetilskudd</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Dekking av reiseutgifter til persontransport ved behandling og rehabiliteringsopphald. Medrekna utgifter til følgje.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/syketransport"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

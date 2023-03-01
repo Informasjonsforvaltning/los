@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bioteknologi">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Biotechnology</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bioteknologi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bioteknologi</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fosterdiagnostikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fosterdiagnostikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Genetiske undersøkelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Genetiske undersøkingar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Genmodifisert mat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Genmodifisert mat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Genteknologi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Genteknologi</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">All teknologi som baserer seg på bruk av mikroorganismar, plante- og dyreceller eller delar av slike celler til å framstille produkt, eller til å modifisere og forbetre levande organismar. Medrekna genteknologi og medisinsk bruk av bioteknologi.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/eiendomsskatt">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Eiendomsskatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Eigedomsskatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Property tax</skos:prefLabel>
+      <skos:note xml:lang="nn">Ein kommunal skatt basert på verdien av ein eigedom.</skos:note>
+      <skos:note xml:lang="nb">En kommunal skatt basert på verdien av en eiendom.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skatt"/>
+   </rdf:Description>
+</rdf:RDF>

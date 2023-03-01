@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vegnett">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Rod network</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Vegnett</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vegnett</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aksellastrestriksjoner</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aksellastrestriksjoner</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fortau</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fortau</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gangvegar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gangveier</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gatelys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gatelys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelnettverk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelnettverk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelstiar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelstier</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelvegar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkeveger</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hjemmehjelp">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Heimehjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Hjemmehjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Home help</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Praktisk bistand i heimen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Praktisk bistand i hjemmet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reingjeringshjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rengjøringshjelp</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilbod om praktisk hjelp i heimen for personar som på grunn av sjukdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker treng hjelp til daglege gjeremål.</skos:note>
+      <skos:note xml:lang="nb">Tilbud om praktisk hjelp i hjemmet for personer som på grunn av sykdom, funksjonshemming, rusmiddelmisbruk, alder aller andre årsaker trenger hjelp til daglige gjøremål.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

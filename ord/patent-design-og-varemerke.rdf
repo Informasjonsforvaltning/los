@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/patent-design-og-varemerke">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Patent, design and trademarks</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Patent, design og varemerke</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Patent, design og varemerke</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Oppfinnelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oppfinning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Patentbeskyttelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Patentering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Patentering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Patentvern</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Patent, designbeskyttelse og registrering av varemerke er virkemidler som beskytter en virksomhet eller et produkt fra å bli kopiert. Virksomheter kan søke om å ta patent på en oppfinnelse, registrere et design eller et varemerke.</skos:note>
+      <skos:note xml:lang="nn">Patent, designvern og registrering av varemerke er verkemiddel som vernar ei verksemd eller eit produkt frå å bli kopiert. Verksemder kan søkje om å ta patent på ei oppfinning, registrere ein design eller eit varemerke.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsliv"/>
+   </rdf:Description>
+</rdf:RDF>

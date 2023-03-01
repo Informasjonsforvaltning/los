@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hjelp-ved-rusavhengighet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Aid for drug adiction</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Hjelp ved rusavhengigheit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Hjelp ved rusavhengighet</skos:prefLabel>
+      <skos:note xml:lang="nn">Hjelp til å stoppe misbruk av alkohol og andre rusmiddel. Tiltak kan også omfatte råd, rettleiing og hjelp til familiar.</skos:note>
+      <skos:note xml:lang="nb">Hjelp til å stoppe misbruk av alkohol og andre rusmidler. Tiltak kan også omfatte råd, veiledning og hjelp til familier.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/doping"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rus-og-avhengighet"/>
+   </rdf:Description>
+</rdf:RDF>

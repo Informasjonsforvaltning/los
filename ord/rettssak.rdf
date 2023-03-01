@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rettssak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Legal case</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rettssak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rettssak</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Påtale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Påtale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettsgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettsgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettstvist</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettstvist</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Saksøking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Saksøking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sivil sak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sivil sak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stemning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stevning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Straffesak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Straffesak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tiltale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tiltale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vitnegodtgjering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vitnegodtgjering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vitnegodtgjørelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vitnegodtgjøring</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Ei sak som blir ført for ein domstol. Flest mogelege sider ved saka skal utdjupast slik at domstolen på best mogeleg grunnlag kan dømme.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rettsvesen"/>
+   </rdf:Description>
+</rdf:RDF>

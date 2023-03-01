@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/registrering-av-kjoretoy">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Registrering av kjøretøy</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Registrering av køyretøy</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vehicle registration</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Eierskifte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigarskifte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjennemerke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjennemerke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjøretøyregisteret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Køyretøyregisteret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omregistrering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omregistrering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Registreringsforhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Registreringstilhøve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Salgsmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Salsmelding</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Førstegangsregistrering av kjøretøy i Norge og omregistrering av kjøretøy, skjema, salgsmelding m.m.</skos:note>
+      <skos:note xml:lang="nn">Førstegongsregistrering av køyretøy i Noreg og omregistrering av kjøretøy, skjema, salsmelding m.m.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

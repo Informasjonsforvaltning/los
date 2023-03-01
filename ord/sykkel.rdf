@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sykkel">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Bicycle</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sykkel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sykkel</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bysykkel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bysykkel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelfelt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelfelt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelsti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelsti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykling</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen kan tilby syklar til utleige eller utlån. Kommunen planlegg, utviklar og driftar sykkelstiar.</skos:note>
+      <skos:note xml:lang="nb">Kommunen kan tilby sykler til utleie eller utlån. Kommunen planlegger, utvikler og drifter sykkelstier.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

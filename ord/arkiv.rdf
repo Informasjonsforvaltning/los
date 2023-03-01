@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arkiv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Archives</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Arkiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arkiv</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Byarkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Byarkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunearkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommunearkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lokalhistorisk arkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lokalhistorisk arkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Riksarkivet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Riksarkivet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Statsarkiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Statsarkiv</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Offentlege organs ansvar for arkiv inneber bevaring, forvalting av informasjon og sikring av offentlegheit og personvern.</skos:note>
+      <skos:note xml:lang="nb">Offentlige organs ansvar for arkiv innebærer bevaring, forvaltning av informasjon og sikring av offentlighet og personvern.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

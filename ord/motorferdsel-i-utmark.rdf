@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/motorferdsel-i-utmark">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Motorferdsel i utmark</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Motorferdsel i utmark</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Off-road driving</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">ATV</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">ATV</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Beltebil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Beltebil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ervervskjører</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ervervskjøring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ervervskøyrar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ervervskøyring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Firehjuling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Firehjuling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helikopter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helikopter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Leiekjører</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Leiekjøring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Leigekøyrar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Leigekøyring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Motorbåt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Motorbåt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Scooterløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Scooterløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sjøfly</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjøfly</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skuterløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuterløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snøscooter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snøscooter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snøskuter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snøskuter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Terrengkjøretøy</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Terrengkøyretøy</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Traktor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Traktor</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Med motorferdsel meiner ein bruk av køyretøy og båt eller anna flytande eller svevande fartøy drive med motor. Det inkluderer også landing og start med motordrive luftfartøy. Med utmark meiner ein udyrka mark. I praksis vil det seie hovuddelen av strender, svaberg, vatn, myr, hei, skog og fjell. I lov om motorferdsel i utmark blir også setervoll, hustomt, engslått, kulturbeite og skogplantefelt som ligg i utmark, rekna likt med utmark.</skos:note>
+      <skos:note xml:lang="nb">Med motorferdsel menes bruk av kjøretøy og båt eller annen flytende eller flyvende motordrevet fartøy. Det inkluderer også landing og start med motordrevne luftfartøy. Med utmark menes udyrket mark. I praksis vil det si mesteparten av strender, svaberg, vann, myr, hei, skog og fjell. Kommunen regulerer bruk av motorferdsel i utmark.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

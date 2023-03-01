@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/luftkvalitet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Air quality</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Luftkvalitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Luftkvalitet</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Benzen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Benzen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Eksos</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eksos</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Luftforureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Luftforureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Luftforurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Luftforurensning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Luftureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Luftureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">NOx</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">NOx</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Nitrogenoksid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Nitrogenoksider</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">O3</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">O3</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ozon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ozon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">SO2</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">SO2</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svevestøv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svevestøv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svoveldioksid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svoveldioksid</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Utslepp til atmosfæren, som har ugunstig innverknad på miljøet. Framkalla av menneskeleg aktivitet.</skos:note>
+      <skos:note xml:lang="nb">Utslipp til atmosfæren, som har ugunstig påvirkning på miljøet. Fremkalt av menneskelig aktivitet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+   </rdf:Description>
+</rdf:RDF>

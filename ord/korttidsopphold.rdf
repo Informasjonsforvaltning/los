@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/korttidsopphold">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Korttidsopphald</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Korttidsopphold</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Temporary stay</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Akuttplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Akuttplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avlastingsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avlastningsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avlastningsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avlastningsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rehabiliteringsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rehabiliteringsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vurderingsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vurderingsopphold</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tidsavgrensa opphald i institusjonar som til dømes sjukeheim. Vert tildelt heimebuande med behov for kortare opphald, gjerne i samband med sjukehusopphald.</skos:note>
+      <skos:note xml:lang="nb">Tidsavgrenset opphold i institusjoner som for eksempel sykehjem. Blir tildelt hjemmeboende med behov for kortere opphold, gjerne i forbindelse med sykehusopphold.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

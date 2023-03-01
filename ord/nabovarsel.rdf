@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/nabovarsel">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Nabovarsel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Nabovarsel</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Notice to neighbours</skos:prefLabel>
+      <skos:note xml:lang="nb">Den som skal bygge eller grave har plikt til å varsle naboer og gjenboere om tiltaket før det settes i gang. Naboer skal ha mulighet til å kvittere når de ikke har noen merknader, eller protestere. Kommunen kan frita søkeren for varsling eller utvide varslingsplikten, avhengig av tiltaket.</skos:note>
+      <skos:note xml:lang="nn">Den som skal byggje eller grave har plikt til å varsle naboar og gjenbuere om tiltaket før dei tek i gong. Naboar skal ha høve til å kvittere når dei ikkje har nokre merknader, eller protestere. Kommunen kan frita søkjaren for varsling eller utvide varslingsplikta, avhengig av tiltaket.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygging"/>
+   </rdf:Description>
+</rdf:RDF>

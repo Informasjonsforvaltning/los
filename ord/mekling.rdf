@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/mekling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Mediation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Mekling</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Mekling</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Konfliktråd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Konfliktråd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Megling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mekling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettsmegling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettsmekling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettsmekling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettsmekling</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Mekling er eit møte mellom to eller fleire personar i ein konflikt. Mekling i konfliktråd skjer med ein uavhengig meklar oppnemnd av kommunen. Dette gjeld mekling i separasjons- og skilsmissesaker og rettsmekling.</skos:note>
+      <skos:note xml:lang="nb">Mekling er et møte mellom to eller flere personer i ein konflikt. Mekling i konfliktråd skjer med en uavhengig mekler oppnevnt av kommunen. Dette gjelder mekling i separasjons- og skilsmissesaker og rettsmekling.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidstvist"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/samlivsbrudd"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rettsvesen"/>
+   </rdf:Description>
+</rdf:RDF>

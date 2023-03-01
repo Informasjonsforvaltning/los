@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gjenlevendepensjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Attlevandepensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gjenlevendepensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Surivors pension</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Ektefellepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ektefellepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Etterlattepensjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gjenlevandepensjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Pensjon/overgangsstønad til attlevande ektefelle, registrert partnar eller sambuar ved dødsfall.</skos:note>
+      <skos:note xml:lang="nb">Pensjon/overgangsstønad til igjenlevende ektefelle, registrert partner eller samboer ved dødsfall.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

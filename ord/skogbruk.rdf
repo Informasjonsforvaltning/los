@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skogbruk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Forestry</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skogbruk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skogbruk</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Avverking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avverking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avvirking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avvirkning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hogst</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hogst</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogdrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogdrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogkultur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogkultur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogsdrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsdrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogsvirke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsvirke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Verna skog</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vernet skog</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Skogbruk omfattar dyrking og stell av trebestand og drift og utnytting av det virke som blir produsert.</skos:note>
+      <skos:note xml:lang="nb">Skogbruk omfatter dyrking og stell av trebestand og drift og utnytting av det virket som blir produsert.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/landbruk"/>
+   </rdf:Description>
+</rdf:RDF>

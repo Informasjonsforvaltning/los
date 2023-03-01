@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/batplass">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Båtplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Båtplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Mooring space</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Småbåthamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Småbåthavn</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Utleie av båtplasser og drift av småbåthavner.</skos:note>
+      <skos:note xml:lang="nn">Utleige av båtplassar og drift av småbåthamner.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bat-havn-og-kyst"/>
+   </rdf:Description>
+</rdf:RDF>

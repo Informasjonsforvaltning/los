@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnehageplass">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Barnehageplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnehageplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Kindergarten place</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Barnehagedekning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barnehagedekning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familiebarnehage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familiebarnehage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Foreldrebetaling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Foreldrebetaling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Friplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Friplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Syskenmoderasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Søskenmoderasjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Barnehagen er ei pedagogisk tilrettelagt verksemd for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehagar.</skos:note>
+      <skos:note xml:lang="nb">Barnehagen er en pedagogisk tilrettelagt virksomhet for barn under opplæringspliktig alder. Felles søknadsskjema for kommunale og private barnehager.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnehage"/>
+   </rdf:Description>
+</rdf:RDF>

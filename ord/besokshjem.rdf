@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/besokshjem">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Besøksheim</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Besøkshjem</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Temporary home</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Besøksfamilie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Besøksfamilie</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Hjelpetiltak for å bedre foreldrenes omsorg for barna sine, for å hindre adferdsproblemer hos et barn eller hindre problem i nettverket til barnet eller familien. Besøkshjemmet må godkjennes av barnevertjenesten.</skos:note>
+      <skos:note xml:lang="nn">Hjelpetiltak for å betre foreldras omsorg for barna sine, for å hindre åtferdsproblem hos eit barn eller hindra problem i nettverket til barnet eller familien. Besøksheimen må godkjennast av barnevertenesta.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

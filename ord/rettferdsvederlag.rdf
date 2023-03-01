@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rettferdsvederlag">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Ex gratia payments</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rettferdsvederlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rettferdsvederlag</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Barneheimserstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Barnehjemserstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Billighetserstatning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Krigsbarn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Krigsbarn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettferdsvederlag</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettferdsyting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettferdsyting</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Rettferdsvederlag ("billighetserstatning") er meint å vere ein siste utveg for å få ei økonomisk yting for den skaden eller ulempa ein er påført. Medrekna søknad om rettferdsvederlag av statskassen til krigsbarn, til utdanningslidande samar og kvenar, og for barn i barneheim, fosterheim og spesialskular.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/erstatningsordninger"/>
+   </rdf:Description>
+</rdf:RDF>

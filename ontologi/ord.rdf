@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ontologi/ord">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <skos:prefLabel xml:lang="nb">Ord</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ord</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Words</skos:prefLabel>
+   </rdf:Description>
+</rdf:RDF>

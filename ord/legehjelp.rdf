@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/legehjelp">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Legehjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Legehjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Medical aid</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Allmennlege</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Allmennlegeteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Allmennlegetjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Allmennlækjar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fastlegebyte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fastlegebytte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fastlegeordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fastlegeordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Legeattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Legeerklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Legetime</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lækjarattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lækjartime</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">lækjarerklæring</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunale tilbod som omfattar legevakt og fastlege.</skos:note>
+      <skos:note xml:lang="nb">Kommunale tilbud som omfatter legevakt og fastlege.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

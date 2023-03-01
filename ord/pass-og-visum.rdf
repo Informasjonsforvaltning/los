@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/pass-og-visum">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Pass og visum</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Pass og visum</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Passports and visa</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Legitimasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Legitimasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reisebevis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reisedokument</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reisedokument</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reiseløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Schengen-avtalen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Schengen-avtalen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utlendingspass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utlendingspass</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Alle norske stastborgere som skal reise utenfor Norden, bør ha gyldig norsk pass. Pass er det eneste godkjende norske identitetsdokumentet. Du treng derfor passet som legitimasjon ved innkvartering, banktjenester og i andre tilfelle der det er krav om identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein anbefalt å ta med pass. Enkelte land krever også visum for å reise inn (og ut) av landet.</skos:note>
+      <skos:note xml:lang="nn">Alle norske statsborgarar som skal reise utanfor Norden, bør ha gyldig norsk pass. Pass er det einaste godkjende norske identitetsdokumentet. Du treng difor passet som legitimasjon ved innkvartering, banktenester og i andre tilfelle der det blir kravd identitetsdokumentasjon. Også på reiser til land som er med i Schengen-samarbeidet blir ein tilrådd å ta med pass. Enkelte land krev også visum for å reise inn (og ut) av landet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/innbyggerrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

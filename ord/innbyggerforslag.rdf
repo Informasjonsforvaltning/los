@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/innbyggerforslag">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Citizen propositions</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Innbyggerforslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Innbyggjarforslag</skos:prefLabel>
+      <skos:note xml:lang="nn">Eit forslag som er fremja av innbyggjarane. Kommunestyre eller fylkesting pliktar å ta stilling til framlegg som gjeld arbeidet deira dersom minst 2 % av innbyggjarane, alternativt 300 i kommunen eller 500 i fylket, står bak framlegget.</skos:note>
+      <skos:note xml:lang="nb">Et forslag som er fremmet av innbyggerne. Kommunestyret eller fylkestinget plikter å behandle et innbyggerforslag dersom minst 2 % av innbyggerne, alternativt 300 i kommunen eller 500 i fylket, står bak forslaget.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/medvirkning"/>
+   </rdf:Description>
+</rdf:RDF>

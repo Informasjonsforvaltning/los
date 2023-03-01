@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/reguleringsplan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Local area development plan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Reguleringsplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Reguleringsplan</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Arealbruksendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arealbruksendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arealplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arealplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ekspropriasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Offentleg reguleringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Offentlig reguleringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oreigning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Privat reguleringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Privat reguleringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reguleringsbestemmelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reguleringsforskrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reguleringsforskrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reguleringsføresegn</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein reguleringsplan er ein politisk vedteken plan over eit avgrensa område. Reguleringsplanen fastset korleis området kan brukast og kva som kan byggjast der. Planen omfattar eit kart med reguleringsbestemmelsar.</skos:note>
+      <skos:note xml:lang="nb">En reguleringsplan er en politisk vedtatt plan over et avgrenset område. Reguleringsplanen fastsetter hvordan området kan brukes og hva som kan bygges der. Planen består av et kart med reguleringsbestemmelser.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/byggesak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/forhandskonferanse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/naringsareal"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vegbygging"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

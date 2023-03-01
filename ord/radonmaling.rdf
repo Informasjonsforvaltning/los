@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/radonmaling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Radon measurement</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Radonmåling</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Radonmåling</skos:prefLabel>
+      <skos:note xml:lang="nn">Måling av mengda radongass i inneluft.</skos:note>
+      <skos:note xml:lang="nb">Måling av mengden radongass i inneluft.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+   </rdf:Description>
+</rdf:RDF>

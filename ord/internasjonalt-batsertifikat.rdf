@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/internasjonalt-batsertifikat">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Internasjonalt båtsertifikat (ICC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Internasjonalt båtsertifikat (ICC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">International Certificate of Competence for Operators of Pleasure Craft (ICC)</skos:prefLabel>
+      <skos:note xml:lang="nn">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er ein internasjonal standard for fritidsbåtsertifikat.</skos:note>
+      <skos:note xml:lang="nb">Skal du føre fritidsbåter i utlandet kan det hende du må ha internasjonal båtførersertifikat. International Cerfiticate of Competency (ICC), er en internasjonal standard for fritidsbåtsertifikat.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forerkort-og-sertifikat"/>
+   </rdf:Description>
+</rdf:RDF>

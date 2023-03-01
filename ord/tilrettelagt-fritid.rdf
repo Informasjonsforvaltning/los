@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilrettelagt-fritid">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Leisure activities for disabled persons</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilrettelagd fritid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilrettelagt fritid</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aktiv fritid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aktiv fritid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ferietilbod</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ferietilbud</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fritidskalender</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fritidskalender</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Aktivitetar og tilbod for personar med fysisk eller psykisk funksjonsnedsetjing.</skos:note>
+      <skos:note xml:lang="nb">Aktiviteter og tilbud for personer med fysisk eller psykisk funksjonsnedsettelse.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/psykisk-helse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stottekontakt"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

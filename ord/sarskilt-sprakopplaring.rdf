@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sarskilt-sprakopplaring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Special language training schools</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Særskild språkopplæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Særskilt språkopplæring</skos:prefLabel>
+      <skos:note xml:lang="nn">Forsterka opplæring i norsk inntil eleven har fått tilstrekkelege norskferdigheiter til å følgje den ordinære opplæringa i skulen. Om nødvendig har eleven også rett til tospråkleg fagopplæring og morsmålsopplæring.</skos:note>
+      <skos:note xml:lang="nb">Forsterket opplæring i norsk inntil eleven har fått tilstrekkelige norskferdigheter til å følge den ordinære opplæringen i skolen. Om nødvendig har eleven også rett til tospråklig fagopplæring og morsmålsopplæring.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fagskoleutdanning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fagskoleutdanning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fagskuleutdanning</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vocational education</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Teknisk fagskole</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teknisk fagskule</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Korte yrkesretta utdanningar som byggjer på vidaregåande opplæring eller tilsvarande realkompetanse, og som har eit omfang tilsvarande minimum eit halvt studieår og maksimuim to studieår.</skos:note>
+      <skos:note xml:lang="nb">Korte yrkesrettede utdanningar som bygger på videregående opplæring eller tilsvarende realkompetanse, og som har et omfang tilsvarende minimum et halvt studieår og maksimuim to studieår.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hoyere-utdanning"/>
+   </rdf:Description>
+</rdf:RDF>

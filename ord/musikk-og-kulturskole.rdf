@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/musikk-og-kulturskole">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Music and arts centres</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Musikk- og kulturskole</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Musikk- og kulturskule</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Kultur- og musikkskole</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kultur- og musikkskule</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturskole</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturskule</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Musikkskole</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Musikkskule</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Musikk- og kulturfagleg tilbod for barn og ungdom. Tilbodet er organisert i samarbeid med skuleverket og kulturlivet elles.</skos:note>
+      <skos:note xml:lang="nb">Musikk- og kulturfaglig tilbud for barn og ungdom. Tilbudet er organisert i samarbeid med skoleverket og kulturlivet ellers.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skolefritidsordning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

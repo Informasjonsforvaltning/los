@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidstillatelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Arbeidsløyve</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Arbeidstillatelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Work permit</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsinnvandring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsinnvandring</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Hvis du er fra et land utenfor EU/EØS og ønsker å arbeide i Norge, må du ha en oppholdstillatelse. Hvis du ikke allerede har en oppholdstillatelse, må du søke om en oppholdstillatelse for arbeid. Tidligere ble dette kalt en arbeidstillatelse. Dette kan for eksempel være en oppholdstillatelse for faglærte arbeidere, nasjonalitetskokker, sesongarbeidere, selvstendig næringsdrivende eller ansatte i en humanitær, ideell eller religiøs organisasjon.</skos:note>
+      <skos:note xml:lang="nn">Om du er frå eit land utanfor EU/EØS og ynskjer å arbeide i Noreg, må du ha oppholdstillatelse. Hvis du ikkje allereie har oppholdstillatelse, må du søke om oppholdstillatelse for arbeid. Tidlegere blei dette kalla ein arbeidstillatelse. Dette kan for eksempel vere ein oppholdstillatelse for faglærte arbeidarar, nasjonalitetskokker, sesongarbeidere, sjølvstendig næringsdrivande eller tilsett i ein humanitær, ideell eller religiøs organisasjon.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/oppholdstillatelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidssoking"/>
+   </rdf:Description>
+</rdf:RDF>

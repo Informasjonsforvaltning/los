@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnebidrag">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Barnebidrag</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnebidrag</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Child support</skos:prefLabel>
+      <skos:note xml:lang="nn">Barnebidrag er eit bidrag frå ein forelder til ein annan til forsørging av felles barn som ikkje bur saman med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</skos:note>
+      <skos:note xml:lang="nb">Barnebidrag er et bidrag fra en forelder til en annen til forsørgelse av felles barn som ikke bor sammen med begge foreldrene. Det kan også omfatte bidragsforskudd og ektefellebidrag.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+   </rdf:Description>
+</rdf:RDF>

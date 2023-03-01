@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/langvarige-helsetjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Langvarige helsetenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Langvarige helsetjenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Long term health services</skos:prefLabel>
+      <skos:note xml:lang="nb">Enkelte har behov for tjenester innenfor forskjellige områder. Eksempler er tjenester innenfor habilitering og rehabilitering, individuell plan og andre tverrfaglige eller koordinerte tjenester.</skos:note>
+      <skos:note xml:lang="nn">Somme har behov for tenester innanfor forskjellige område. Eksempel er tenester innanfor habilitering og rehabilitering, individuell plan og andre tverrfaglege eller koordinerte tenester.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

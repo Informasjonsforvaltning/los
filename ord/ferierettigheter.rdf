@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ferierettigheter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Ferierettar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ferierettigheter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Holiday right</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellesferie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellesferie</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ferie er ein vanleg nemning på samanhengande rekkje av dagar då man har fri frå arbeidet. I Norge er dette regulert i ferielova.</skos:note>
+      <skos:note xml:lang="nb">Ferie er en vanlig betegnelse på sammenhengende rekke av dager da man har fri fra sitt arbeid. I Norge reguleres dette i ferieloven.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/feriepenger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

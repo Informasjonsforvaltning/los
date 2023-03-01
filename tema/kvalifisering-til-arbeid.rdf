@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/kvalifisering-til-arbeid">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Kvalifisering til arbeid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kvalifisering til arbeid</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Qualification for work</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/sosiale-tjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/introduksjonsprogram-for-innvandrere"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kvalifiseringsprogram"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/larling"/>
+   </rdf:Description>
+</rdf:RDF>

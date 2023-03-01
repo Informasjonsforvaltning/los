@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lokaler-og-idrettsanlegg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Lokale og idrettsanlegg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Lokaler og idrettsanlegg</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sports facilities</skos:prefLabel>
+      <skos:note xml:lang="nb">Utlån eller leie av baner, idrettshaller, svømmehaller med mer.</skos:note>
+      <skos:note xml:lang="nn">Utlån eller leige av baner, idrettshallar, symjehallar med meir.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/utlan-og-leie"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/seniortilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Activities for senior citizens</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Seniortilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Seniortilbud</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Eldresenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eldresenter</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ei samling aktivitetar og treffstader for pensjonistar.</skos:note>
+      <skos:note xml:lang="nb">En samling aktiviteter og treffsteder for pensjonister.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

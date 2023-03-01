@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilskudd-til-tro-og-livssyn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Funding for religious and ethnic communities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskot til tru og livssyn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskudd til tro og livssyn</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Støtteordningar for tru og livssyn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Støtteordninger for tro og livssyn</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Offentleg tilskot til tru- og livssynssamfunn.</skos:note>
+      <skos:note xml:lang="nb">Offentlig tilskudd til tros- og livssynssamfunn.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

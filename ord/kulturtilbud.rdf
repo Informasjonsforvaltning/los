@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kulturtilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cultural activities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kulturtilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kulturtilbud</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Dans</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dans</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Musikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Musikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Teater</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teater</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilbod innan musikk, dans og teater.</skos:note>
+      <skos:note xml:lang="nb">Tilbud innenfor musikk, dans og teater.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/film-og-kino"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

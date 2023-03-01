@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lanekort">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Library card</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Lånekort</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lånekort</skos:prefLabel>
+      <skos:note xml:lang="nn">Lånekortet blir brukt for å identifisere den som låner og til å registrere utlån på biblioteket.</skos:note>
+      <skos:note xml:lang="nb">Lånekortet brukes for å identifisere den som låner og til å registrere utlån på biblioteket.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bibliotek"/>
+   </rdf:Description>
+</rdf:RDF>

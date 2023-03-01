@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidsgiver">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Arbeidsgiver</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidsgjevar</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Employers</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aa-melding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aa-melding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Aa-registeret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aa-registeret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsgivaransvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsgivarkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsgivarkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsgiveransvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsgiverkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsgjevaransvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsgjevaransvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsgjevarkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønns- og trekkoppgave</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønns- og trekkoppgåve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tiltaksarrangør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tiltaksarrangør</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Alle som har tilsett arbeidstakarar for å utføre arbeid i si teneste.</skos:note>
+      <skos:note xml:lang="nb">Enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsgiveravgift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

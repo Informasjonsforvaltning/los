@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/snoskuter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Snowmobile</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Snøskuter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Snøskuter</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Snøscooter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snøscooter</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Kommunen vedtar i forskrift tillatelser og forbud om kjøring av snøskuter og andre motorkjøretøy, motorfartøy eller luftfartøy utenfor fastsatte løyper.</skos:note>
+      <skos:note xml:lang="nn">Kommunen vedtek i forskrift løyve og forbod om køyring av snøskuter og andre motorkøyretøy, motorfartøy eller luftfartøy utanfor fastsette løyper.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forerkort-og-sertifikat"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

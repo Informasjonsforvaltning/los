@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidstvist">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Arbeidstvist</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidstvist</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Labour dispute</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidskonflikt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidskonflikt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidstagerorganisasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidstakarorganisasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidstakarorganisasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidstakerorganisasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fagforeining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fagforening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Interessetvist</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Interessetvist</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lockout</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lockout</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Streik</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Streik</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tenestetvist</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tjenestetvist</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Arbeidstvist er ein spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følgje av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om oppretting av tariffavtale og/eller ved reforhandling av eksisterande tariffavtale</skos:note>
+      <skos:note xml:lang="nb">Arbeidstvist er en spesifikk type konflikt som kan oppstå på arbeidsplasser. Arbeidstvisten kan oppstå som følge av uenighet om for eksempel lønn, arbeidstid, arbeidsmiljø osv. I Norge oppstår arbeidstvister som regel i forbindelse med krav fra ansatte om opprettelse av tariffavtale og/eller ved reforhandling av eksisterende tariffavtale</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/mekling"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

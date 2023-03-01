@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kommunedelplan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Kommunedelplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kommunedelplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Municipal sector plan</skos:prefLabel>
+      <skos:note xml:lang="nn">En kommunedelplan omfattar ein bestemt del av det totale arealet til kommunen.</skos:note>
+      <skos:note xml:lang="nb">En kommunedelplan omfatter en bestemt del av kommunens totale areal.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

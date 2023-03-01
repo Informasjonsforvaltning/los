@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kjoretoykontroll">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Kjøretøykontroll</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Køyretøykontroll</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vehicle inspection</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Biltilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Biltilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">EU-kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">EU-kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">EØS-kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">EØS-kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Periodisk kjøretøykontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Periodisk kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Periodisk kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Periodisk køyretøykontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Teknisk kjøretøykontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Teknisk kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teknisk kontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teknisk køyretøykontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikkstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikkstasjon</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Til dette hører periodisk og annen kontroll av kjøretøy.</skos:note>
+      <skos:note xml:lang="nn">Til dette høyrer periodisk og annan kontroll av køyretøy.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

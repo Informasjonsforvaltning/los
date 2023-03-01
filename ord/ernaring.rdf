@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ernaring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Ernæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ernæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Nutrition</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">E-stoff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">E-stoffer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grøn resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grønn resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kosthald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kosthold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Matvarer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Matvarer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Næringsmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Næringsmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Næringsmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Næringsmidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsetjingsstoff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsetjingsstoff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsetningsstoffer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsettingsstoffer</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kosthald og kosthaldstilrådingar</skos:note>
+      <skos:note xml:lang="nb">Kosthold og kostholdstilrådinger</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

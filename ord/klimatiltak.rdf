@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/klimatiltak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Climate change measuers</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Klimatiltak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Klimatiltak</skos:prefLabel>
+      <skos:note xml:lang="nb">Tiltak som er med på å forebygge klimaendringer.</skos:note>
+      <skos:note xml:lang="nn">Tiltak som er med på å førebygge klimaendringar.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/var-og-klima"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bot">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bot</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bot</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Penalty</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Mulkt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mulkt</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Pengeytelse som blir pålagt i forbindelse med rettsbrot. Til dette hører fartsbot.</skos:note>
+      <skos:note xml:lang="nn">Pengeyting som blir pålagt i samband med rettsbrot. Til dette høyrer fartsbot.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lovbrudd-og-straff"/>
+   </rdf:Description>
+</rdf:RDF>

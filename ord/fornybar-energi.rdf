@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fornybar-energi">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fornybar energi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fornybar energi</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Renewable energy</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Alternativ energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Alternativ energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bioenergi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bioenergi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fjernvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fjernvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Geovarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Geovarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grøn energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grønn energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ny fornybar energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ny fornybar energi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Solceller</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Solceller</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Solenergi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Solenergi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spillvarme</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vannkraft</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vasskraft</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vindkraft</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vindkraft</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Energi frå fornybare energikilder</skos:note>
+      <skos:note xml:lang="nn">Energi frå fornybare energikjelder.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/energi"/>
+   </rdf:Description>
+</rdf:RDF>

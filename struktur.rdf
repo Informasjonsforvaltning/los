@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/struktur">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/arbeid"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/bygg-og-eiendom"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/familie-og-barn"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/helse-og-omsorg"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/kultur-idrett-og-fritid"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/lov-og-rett"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/naring"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/skatt-og-avgift"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/skole-og-utdanning"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/sosiale-tjenester"/>
+      <skos:hasTopConcept rdf:resource="https://psi.norge.no/los/tema/trafikk-og-transport"/>
+      <skos:prefLabel xml:lang="nb">Temastruktur</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Temastruktur</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Theme structure</skos:prefLabel>
+   </rdf:Description>
+</rdf:RDF>

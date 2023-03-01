@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/permittering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Permittering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Permittering</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Temporary redundancy</skos:prefLabel>
+      <skos:note xml:lang="nn">Permittering inneber at arbeidstakaren vert heilt eller delvis løyst frå arbeidet på grunn av innskrenking i drifta eller arbeidsstans bestemt av arbeidsgjevar.</skos:note>
+      <skos:note xml:lang="nb">Permittering innebærer at en eller flere ansatte midlertidig, helt eller delvis blir løst fra arbeidsplikten, fordi virksomheten har besluttet å redusere eller stanse driften.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

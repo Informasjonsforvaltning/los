@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/livskriser">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Life crises</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Livskriser</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Livskriser</skos:prefLabel>
+      <skos:note xml:lang="nn">Akutt psykologisk hjelp i ein krisesituasjon. Tenesta tilbyr samtale, rådgjeving, hjelp til sjølvhjelp og formidlar kontakt med andre hjelpeinstansar.</skos:note>
+      <skos:note xml:lang="nb">Akutt psykologisk hjelp i en krisesituasjon. Tjenesten tilbyr samtale, rådgivning, hjelp til selvhjelp og formidler kontakt med andre hjelpeinstanser.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/akutt-hjelp"/>
+   </rdf:Description>
+</rdf:RDF>

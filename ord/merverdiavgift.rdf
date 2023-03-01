@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/merverdiavgift">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Meirverdiavgift</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Merverdiavgift</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Value added tax</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Altinn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Altinn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Moms</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Moms</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mva.</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mva.</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Avgift som skal betalast på omsetning av varer og tenester i alle ledd.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avgift"/>
+   </rdf:Description>
+</rdf:RDF>

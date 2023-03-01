@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/krisesenter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Krisesenter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Krisesenter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Shelter</skos:prefLabel>
+      <skos:note xml:lang="nn">Eit trygt, mellombels butilbod, informasjon om rettar, råd og rettleiing, formidling til hjelpeinstansar for kvinner, menn og barn som er utsett for vald eller truslar i nære relasjonar.</skos:note>
+      <skos:note xml:lang="nb">Et trygt, midlertidig botilbud, informasjon om rettigheter, råd og veiledning, formidling til hjelpeinstanser for kvinner, menn og barn som er utsatt for vold eller trusler i nære relasjoner.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/akutt-hjelp"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/ekteskap"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samliv"/>
+   </rdf:Description>
+</rdf:RDF>

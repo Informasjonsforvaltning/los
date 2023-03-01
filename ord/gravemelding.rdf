@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gravemelding">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Excavation notification</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gravemelding</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gravemelding</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Graveløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravetillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Terrenginngrep</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Terrenginngrep</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen gir løyve til å grave i kommunale vegar, parkområde og friområde.</skos:note>
+      <skos:note xml:lang="nb">Kommunen gir tillatelse til å grave i kommunale veier, parkområder og friområder.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygging"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

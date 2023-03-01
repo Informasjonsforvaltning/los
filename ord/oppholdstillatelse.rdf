@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/oppholdstillatelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Opphaldsløyve</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Oppholdstillatelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Residence permit</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsinnvandring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsinnvandring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bosettingstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Busetjingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Busettiingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Busettiingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familiegjenforening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familiegjenforening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familieinnvandring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familieinnvandring</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Løyve til å opphalde seg i landet permanent eller for ei kortare elle lengre tid.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/ny-i-norge"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidstillatelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/innbyggerrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/spilleautomat">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Slot machines</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Speleautomat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Spilleautomat</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelehall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillehall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Underhaldningsautomat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Underholdningsautomat</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Gevinstautomat. Ein maskin der brukaren, etter ein viss pengeinnsats, kan få ein pengegevinst.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/spilleavhengighet"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lotteri-og-pengespill"/>
+   </rdf:Description>
+</rdf:RDF>

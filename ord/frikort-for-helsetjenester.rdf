@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/frikort-for-helsetjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Fee exemption card for health services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Frikort for helsetenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Frikort for helsetjenester</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Egenandel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Egenandelstak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigendel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigendelstak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frikort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frikort</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Den delen av ei helseteneste ein må betale sjølv. Summen blir fastsett av Stortinget kvart år.</skos:note>
+      <skos:note xml:lang="nb">Den delen av en helsetjeneste man må betale selv. Summen blir fastsatt av Stortinget hvert år.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

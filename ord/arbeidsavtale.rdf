@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidsavtale">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Arbeidsavtale</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidsavtale</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Work contracts</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Ansettelsesforhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ansettelseskontrakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidskontrakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidskontrakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsetjingsforhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsetjingskontrakt</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Avtale som omtalar rettane og pliktene til arbeidsgjevar og arbeidstakar.</skos:note>
+      <skos:note xml:lang="nb">Avtale som omtaler rettene og pliktene til arbeidsgiver og arbeidstaker.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

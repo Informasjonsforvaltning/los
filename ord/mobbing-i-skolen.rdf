@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/mobbing-i-skolen">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Bullying in school</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Mobbing i skolen</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Mobbing i skulen</skos:prefLabel>
+      <skos:note xml:lang="nn">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</skos:note>
+      <skos:note xml:lang="nb">Elever eller foresatte som ønsker å varsle om mobbing, plaging, trakassering eller diskriminering kan melde direkte til skolens rektor.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

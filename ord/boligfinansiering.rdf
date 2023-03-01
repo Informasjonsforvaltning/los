@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/boligfinansiering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Boligfinansiering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bustadfinansiering</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Home financing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Boliglån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligtilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadlån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadtilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Byggelån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Byggelån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Etableringstilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Etableringstilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnlån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnlån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husbanken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husbanken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Huslån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Huslån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Startlån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Startlån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utbedringslån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utbetringslån</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Lån og stønad frå kommunen og Husbanken, til dømes søknad om bustadlån, startlån.</skos:note>
+      <skos:note xml:lang="nb">Lån og støtte fra kommunen og Husbanken, for eksempel søknad om boliglån, kommunalt lån, startlån.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/bostotte"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/byggesak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/eiendomsomsetning"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/forhandskonferanse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/okonomisk-radgiving"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjop-og-salg"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

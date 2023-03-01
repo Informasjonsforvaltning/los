@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/landbruk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Agriculture sector</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Landbruk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Landbruk</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/dyrehelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/erstatningsordninger-i-landbruket"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/landbrukseiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/plantedyrking"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/plantevern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/reindrift"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skogbruk"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vegbygging"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/veterinar"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+   </rdf:Description>
+</rdf:RDF>

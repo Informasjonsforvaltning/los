@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bevilling-og-tillatelser">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Bevilling og løyve</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bevilling og tillatelser</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Licenses and permissions</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Frisør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frisør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hudpleieverksemd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hudpleievirksomhet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hulltakingsverksemd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hulltakingsvirksomhet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tatoveringsverksemd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tatoveringsvirksomhet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Torgsal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Torgsalg</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Noen bransjer trenger bevilling, tillatelser og godkjenning for å drive virksomheten sin. Det gjelder for eksempel virksomheter som driver servering, renholdstjenester, godstransport og persontransport, bygg og anlegg og bemanning.</skos:note>
+      <skos:note xml:lang="nn">Nokre bransjar treng bevilling, løyve og godkjenning for å drive verksemda si. Det gjeld for eksempel verksemder som driv servering, reinhaldstenester, godstransport og persontransport, bygg og anlegg og bemanning.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsliv"/>
+   </rdf:Description>
+</rdf:RDF>

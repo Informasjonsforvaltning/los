@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vannforurensning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Vannforurensning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vassforureining</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Water pollution</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Forsuring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forsuring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vannforurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vassforureining</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Skadelige verknader på vassdrag og havvatn pga. utslepp frå industri, kloakk, landbruk m.m.</skos:note>
+      <skos:note xml:lang="nb">Skader på elver, sjøer og havvann pga. utslipp fra industri, kloakk, landbruk m.m.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+   </rdf:Description>
+</rdf:RDF>

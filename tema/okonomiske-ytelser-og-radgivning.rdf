@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Financial support and advice</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Økonomiske ytelser og rådgiving</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Økonomiske ytingar og rådgjeving</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/sosiale-tjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidsavklaringspenger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/boligfinansiering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bostotte"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/dagpenger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/okonomisk-radgiving"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgsstonad"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/rehabiliteringspenger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/reiseutgifter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sosialhjelp"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stonad-ved-arbeidsmarkedstiltak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/svangerskapspenger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sykepenger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ventelonn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

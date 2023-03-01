@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/folkehelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Folkehelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Folkehelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public health</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helse-og-omsorg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/allergi"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bioteknologi"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/blodgiving"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ernaring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fysisk-aktivitet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gift"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/innemiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/livsstil"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/organdonasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/radonmaling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skadedyr"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/smittevern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stoy"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stralevern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tobakk"/>
+   </rdf:Description>
+</rdf:RDF>

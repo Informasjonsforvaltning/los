@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/trafikk-og-transport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Traffic and transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Trafikk og transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Trafikk og transport</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/bat-havn-og-kyst"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/forerkort-og-sertifikat"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/luftfart"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/yrkestransport"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+   </rdf:Description>
+</rdf:RDF>

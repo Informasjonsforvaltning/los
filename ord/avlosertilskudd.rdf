@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/avlosertilskudd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Avløsertilskudd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Avløysartilskot</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Farm assistance grant</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Avløserordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avløysarordning</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Avløserordningene er en del av velferdsordningene i landbruket. Husdyrbrukere skal få avløsing ved ferier, sykdom o.l.</skos:note>
+      <skos:note xml:lang="nn">Avløysarordningane er ein del av velferdsordningane i landbruket. Husdyrbrukarar skal få avløysing ved feriar, sjukdom o.l.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskuddsordninger-for-naring"/>
+   </rdf:Description>
+</rdf:RDF>

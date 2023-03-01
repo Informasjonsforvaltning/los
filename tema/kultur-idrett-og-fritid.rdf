@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/kultur-idrett-og-fritid">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Culture, sport and recreation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kultur, idrett og fritid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kultur, idrett og fritid</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/bibliotek"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/idrett"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/lotteri-og-pengespill"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/utlan-og-leie"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+   </rdf:Description>
+</rdf:RDF>

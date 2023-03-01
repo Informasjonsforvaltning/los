@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/utenlandsk-bedrift">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Foreign businesses in Norway</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Utenlandsk bedrift</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Utenlandsk bedrift</skos:prefLabel>
+      <skos:note xml:lang="nn">Ein standard er ein felles definisjon og omtale på korleis noko skal lagast eller gjerast. Standard gir detaljerte omtalar til EU-direktiv, lover og forskrifter og finst for dei fleste bransjar.</skos:note>
+      <skos:note xml:lang="nb">En standard er en felles definisjon og beskrivelse på hvordan noe skal lages eller gjøres. Standarder gir detaljerte beskrivelser til EU-direktiver, lover og forskrifter og finnes for de fleste bransjer.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsliv"/>
+   </rdf:Description>
+</rdf:RDF>

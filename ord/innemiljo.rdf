@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/innemiljo">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Indoor environment</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Innemiljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Innemiljø</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Hygiene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hygiene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Inneklima</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Inneklima</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reinhald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Renhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ventilasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ventilasjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilskot, råd og rettleiing om betre innemiljø.</skos:note>
+      <skos:note xml:lang="nb">Tilskudd, råd og veiledning om bedre innemiljø.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skolemiljo"/>
+   </rdf:Description>
+</rdf:RDF>

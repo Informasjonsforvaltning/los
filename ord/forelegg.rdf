@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/forelegg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Fine</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Forelegg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Førelegg</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Forenkla førelegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forenklet forelegg</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Bot. Eit dokument som særleg blir nytta i mindre straffesaker og som blir utferda av påtalemakta. Medrekna forenkla førelegg.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lovbrudd-og-straff"/>
+   </rdf:Description>
+</rdf:RDF>

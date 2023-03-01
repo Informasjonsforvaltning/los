@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fritidstilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Fritidstilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fritidstilbud</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Recreational activities</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aktivitetshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aktivitetshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fritidsklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fritidsklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ungdomshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ungdomshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ungdomsklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ungdomsklubb</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Idrettsaktivitetar, familieaktivitetar og kulturelle aktivitetar for alle aldersgrupper. Omfattar også tilskot innbyggjarane kan søkja på.</skos:note>
+      <skos:note xml:lang="nb">Idrettsaktiviteter, familieaktiviteter og kulturelle aktiviteter for alle aldersgrupper. Omfatter også tilskudd innbyggerne kan søke på.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

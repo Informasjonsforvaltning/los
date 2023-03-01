@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/renovasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Renovasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Renovasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Waste collection</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Attvinning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avfallsbehaldar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avfallsbeholder</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avfallsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avfallsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Boss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bostømming</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gjenvinning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kildesortering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjeldesortering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøsanering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøsanering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Resirkulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Resirkulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Returordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Returordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Retursystem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Retursystem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Søppeltømming</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunane sørgjer for innsamling av hushaldsavfall, mottak for farleg avfall og returordningar for bestemde typar avfall.</skos:note>
+      <skos:note xml:lang="nb">Kommunene sørger for innsamling av husholdningsavfall, mottak for farlig avfall og returordninger for bestemte typer avfall.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/farlig-avfall"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kommunale-avgifter-og-gebyr"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avfallshandtering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/europeisk-helsetrygdkort">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">European Health Insurance</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Europeisk helsetrygdkort</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Europeisk helsetrygdkort</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Helseforsikring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helseforsikring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helsetrygdekort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helsetrygdekort</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Dokumentasjon på at ein har rett til nødvendig helsehjelp på lik linje med statsborgarane i opphaldslandet. Gjeld ved midlertidig opphald i eit EØS-land eller Sveits.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

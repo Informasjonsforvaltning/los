@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Benefits to parents and guardians</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ytelser til foreldre og foresatte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ytingar til foreldre og føresette</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Bidragsforskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bidragsforskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eingongsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Engangsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Foreldrepengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Foreldrepenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fødselspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fødselspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overgangsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overgangsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stønad til barnetilsyn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Støtte til barnetilsyn</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Økonomiske ytelser i forbindelse med det å ha barn.</skos:note>
+      <skos:note xml:lang="nn">Økonomiske ytingar i samband med det å ha barn.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/barnebidrag"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/barnetrygd"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/foreldrepermisjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kontantstotte"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/samlivsbrudd"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stonad-til-enslig-forsorger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

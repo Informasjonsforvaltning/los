@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/festival">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Festival</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Festival</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Festivals</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Billettbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Billettbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Festivalpass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Festivalpass</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Større arrangement kring eit hovudemne, t.d. kulturelt eller idrettsleg.</skos:note>
+      <skos:note xml:lang="nb">Større arrangementer rundt et hovedemne, f.eks. kulturelt eller idrettslig.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

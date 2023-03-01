@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fly-og-helikopter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Aeroplanes and helicopters</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fly og helikopter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fly og helikopter</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Flyskjøte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Flyskøyte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Landingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Landingsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Landingsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Landingstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Luftfartøyregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Luftfartøyregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Privatfly</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Privatfly</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sjøfly</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjøfly</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Landingsløyve, landingsplass m.m. for fly og helikopter.</skos:note>
+      <skos:note xml:lang="nb">Landingstillatelse, landingsplass m.m. for fly og helikopter.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/luftfart"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/film-og-kino">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Film and cinema</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Film og kino</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Film og kino</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Billettbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Billettbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Filmklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Filmklubb</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kinobillett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kinobillett</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Film- og kinoframvising. Billettar, stønad og drift av filmklubb m.m..</skos:note>
+      <skos:note xml:lang="nb">Film- og kinofremvisning. Billetter, tilskudd og drift av filmklubb m.m..</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kulturtilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/inkluderende-arbeidsliv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Inclusive employment</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Inkluderande arbeidsliv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Inkluderende arbeidsliv</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">IA-avtale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">IA-avtale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">IA-bedrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">IA-bedrift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilretteleggingstilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilretteleggingstilskudd</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit avtalesamarbeid som skal skape eit arbeidsliv med plass til alle gjennom å førebyggje sjukefråvær og fråfall og på denne måten bidra til å øke sysselsettningen.</skos:note>
+      <skos:note xml:lang="nb">Et avtalesamarbeid som skal skape et arbeidsliv med plass til alle gjennom å forebygge sykefravær og frafall og på denne måten bidra til å auke sysselsetjinga.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

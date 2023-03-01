@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/svangerskapspenger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Pregnancy benefit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Svangerskapspengar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Svangerskapspenger</skos:prefLabel>
+      <skos:note xml:lang="nb">Økonomisk ytelse til friske gravide kvinner som ikke kan fortsette å arbeide under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</skos:note>
+      <skos:note xml:lang="nn">Økonomisk yting til friske gravide kvinner som ikkje kan halda fram med arbeidet under svangerskapet, fordi det kan medføre risiko for skade på fosteret.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

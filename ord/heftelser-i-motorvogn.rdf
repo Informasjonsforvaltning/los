@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/heftelser-i-motorvogn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Hefte i motorvogn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Heftelser i motorvogn</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Motor vehicle encumbrances</skos:prefLabel>
+      <skos:note xml:lang="nn">Tinglyst pant eller andre hefte på bil, motorsykkel, tilhengar eller andre køyretøy.</skos:note>
+      <skos:note xml:lang="nb">Tinglyst pant eller andre hefter på bil, motorsykkel, tilhenger eller andre kjøretøy</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

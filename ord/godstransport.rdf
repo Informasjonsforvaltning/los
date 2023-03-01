@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/godstransport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Freight transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Godstransport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Godstransport</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Einskildturløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Enkeltturtillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellesskapsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellesskapstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frakt og logistikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frakt og logistikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Godsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Godsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spesialtransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spesialtransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Transportbevilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Transportbevilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Transportløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Transportløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tungtransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tungtransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegliste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegliste</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunane har det administrative ansvaret for løyveordningane. Privatpersonar eller t.d. eit idrettslag kan i einskildshøve gjennomføre transportoppdrag utan løyve.</skos:note>
+      <skos:note xml:lang="nb">Alle som skal drive godstransport med motorvogn over 3500 kg, må ha løyve. Fylkeskommunene har det administrative ansvaret for løyveordningene. Privatpersoner eller t.d. et idrettslag kan i enkelttilfeller gjennomføre transportoppdrag uten løyve.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/yrkestransport"/>
+   </rdf:Description>
+</rdf:RDF>

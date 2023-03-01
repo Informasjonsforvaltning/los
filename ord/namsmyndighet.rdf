@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/namsmyndighet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Enforcement authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Namsmakt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Namsmyndighet</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Namsfogd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Namsfut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Namsmann</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Namsmann</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tvangsauksjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tvangsauksjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tvangsfullbyrdelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tvangsfullføring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tvangssal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tvangssalg</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Tingrett og namsmann vedtar og foretar tvangsfullføringa. I en del større kommuner er det egen namsfut. I landet forøvrig er det lensmannen eller det lokale politiet som fungerer som namsmann.</skos:note>
+      <skos:note xml:lang="nn">Tingrett og namsmann vedtek og føretek tvangsfullføringa. I ein del større kommunar er det eigen namsfut. I landet elles er det lensmannen eller det lokale politiet som fungerer som namsmann.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rettsvesen"/>
+   </rdf:Description>
+</rdf:RDF>

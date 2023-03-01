@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sykehus">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Hospital</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sjukehus</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sykehus</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">DRG</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">DRG</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Diagnoserelaterte grupper</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Diagnoserelaterte grupper</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fritt sjukehusval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fritt sykehusvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helseforetak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helseføretak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spesialisthelseteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spesialisthelsetjeneste</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Ei fellesnemning på offentlege og private institusjonar som yter medisinsk hjelp.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vaksine">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Vaccination</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Vaksine</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vaksine</skos:prefLabel>
+      <skos:note xml:lang="nn">Vaksine mot smittsame sjukdomar blir tilboden heile befolkninga. Det er kommunen si helseteneste som står for tilbodet.</skos:note>
+      <skos:note xml:lang="nb">Vaksine mot smittsomme sykdommer tilbys hele befolkningen. Det er kommunens helsetjeneste som står for tilbudet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/helsestasjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/smittevern"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/naringsliv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Agriculture</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Næringsliv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Næringsliv</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bevilling-og-tillatelser"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/patent-design-og-varemerke"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/rapportering-for-naringsdrivende"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sertifisering-og-autorisasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/standarder"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/starte-eller-avslutte-bedrift"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilsyn-og-kontroll-med-naringsvirksomhet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tjenester-og-krav-til-arbeidsgiver"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tjenester-og-krav-til-enkeltbransjer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/utenlandsk-bedrift"/>
+   </rdf:Description>
+</rdf:RDF>

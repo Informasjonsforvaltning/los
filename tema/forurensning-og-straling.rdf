@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/forurensning-og-straling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Forureining og stråling</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Forurensning og stråling</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pollution and radiation</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/forurenset-grunn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/luftkvalitet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/radonmaling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stoy"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stralevern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/utslippstillatelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vannforurensning"/>
+   </rdf:Description>
+</rdf:RDF>

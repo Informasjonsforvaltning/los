@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/innsynsrett">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Innsynsrett</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Innsynsrett</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Right of access to information</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Innsyn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Innsyn</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Rett til innsyn og informasjon om egne personopplysninger for å ta vare på eget personvern. Det kan kreves at feilaktige eller unødvendige opplysninger skal slettes.</skos:note>
+      <skos:note xml:lang="nn">Rett til innsyn og informasjon om eigne personopplysningar for å ta vare på eige personvern. Det kan krevjast at urette eller unødvendige opplysningar skal slettast.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/apenhet"/>
+   </rdf:Description>
+</rdf:RDF>

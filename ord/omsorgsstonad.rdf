@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/omsorgsstonad">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Carer allowance</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Omsorgsstønad</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Omsorgsstønad</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Følgje</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ledsager</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgsløn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgslønn</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Kommunen kan gi omsorgsstønad til personer som pleier og har omsorg for familie og nærstående. Hensikten med ordningen er å støtte opp under den familiebaserte omsorgen, og gjøre det mulig for private omsorgsytere å fortsette med omsorgsarbeidet.</skos:note>
+      <skos:note xml:lang="nn">Kommunen kan yte omsorgsstønad til personar som pleier og har omsorg for familie og nærståande. Hovudføremålet med omsorgslønnsordninga er å støtte opp under den familiebaserte omsorga, og gjere det mogeleg for private omsorgsytarar å halde fram med omsorgsarbeidet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

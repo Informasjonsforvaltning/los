@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/frivilligsentral">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Frivilligsentral</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Frivilligsentral</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Volunteer centre</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Frivilligheitssentral</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frivillighetssentral</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Frivillighetssentralar er en møteplass som formidlar kontakt mellom menneske i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersonar og organisasjonar i kommunen utfører, og dermed fremje og styrke det frivillige arbeidet.</skos:note>
+      <skos:note xml:lang="nb">Frivillighetssentraler er en møteplass som formidler kontakt mellom mennesker i lokalmiljøet. Målet er å samordne den frivillige innsatsen som privatpersoner og organisasjoner i kommunen utfører, og dermed fremme og styrke det frivillige arbeidet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-frivillig-organisasjon"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

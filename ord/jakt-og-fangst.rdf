@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/jakt-og-fangst">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Hunting</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Jakt og fangst</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Jakt og fangst</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Elgjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elgjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ettersøkshund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ettersøkshund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellingskvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellingskvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellingsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellingsrapport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fellingsrapport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fellingstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jaktrapportering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jaktrapportering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jegeravgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jegeravgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jegerprøve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jegerprøve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jegerregisteret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jegerregisteret</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Småviltjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Småviltjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snarefangst</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snarefangst</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Storviltjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Storviltjakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vald</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen sine avgjerder om jakt og fangst som jegerprøve og jaktkort.</skos:note>
+      <skos:note xml:lang="nb">Kommunens bestemmelser om jakt og fangst som jegerprøve og jaktkort.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vapentillatelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

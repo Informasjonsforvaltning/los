@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/naturforvaltning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Nature management</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Naturforvaltning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Naturforvaltning</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/akvakultur"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/allemannsrett"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/balbrenning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/friomrade"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fritidsfiske"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/jakt-og-fangst"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/motorferdsel-i-utmark"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/naturvern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/plantedyrking"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-viltformal"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vassdrag"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/viltforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kulturminner">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cultural heritage</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kulturminne</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kulturminner</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Bautasteinar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bautasteiner</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dyregraver</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dyregraver</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravhaugar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravhauger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturminnevern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturminnevern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Offerplassar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Offerplasser</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kulturminne kan vere gravhaugar, offerplassar, dyregraver og bautasteinar. Kulturminne kan vere seg på land eller under vatn. Fylkeskommunen eller sametinget gir løyve til tiltak på eigedomar med kulturminne.</skos:note>
+      <skos:note xml:lang="nb">Kulturminner kan være gravhauger, offerplasser, dyregraver og bautasteiner. Kulturminner kan befinne seg på land eller under vann. Fylkeskommunen eller sametinget gir tillatelser til tiltak på eiendommer med kulturminner.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/naturvern"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

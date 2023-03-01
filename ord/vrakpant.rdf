@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vrakpant">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Scrap vehicle bonus</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Vrakpant</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vrakpant</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bilvrak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bilvrak</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Vrakpant er ei panteordning for bil, og er eit tiltak for at fleire skal gjenvinne audlagga/gamle bilar istadenfor at dei skal stå å skade miljøet.</skos:note>
+      <skos:note xml:lang="nb">Vrakpant er en panteordning for bil, og er et tiltak for at flere skal gjenvinne ødelagte/gamle biler istedenfor at de skal stå å skade miljøet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/egenbetaling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Egenbetaling</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Eigenbetaling</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">User fees</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Betalingsfritak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Betalingsfritak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Betalingsreduksjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Betalingsreduksjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Den delen av ei omsorgsteneste ein må betale sjølv. Til dette høyrer eigenbetaling for t.d. heimehjelp og tryggleiksalarm. Ikkje medrekna foreldrebetaling i barnehage, skulefritidsordning eller kulturskule.</skos:note>
+      <skos:note xml:lang="nb">Den delen av en omsorgstjeneste man må betale selv. Til dette hører egenbetaling for t.d. hjemmehjelp og trygghetsalarm. Ikke medregnet foreldrebetaling i barnehage, skolefritidsordning eller kulturskole.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/svangerskapsomsorg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Prenatal care</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Svangerskapsomsorg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Svangerskapsomsorg</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fosterdiagnostikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fosterdiagnostikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fødsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fødsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Graviditet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Graviditet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Heimefødsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hjemmefødsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordmor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordmor</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordmorteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordmortjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svangerskap</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svangerskap</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svangerskapskontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svangerskapskontroll</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Svangerskapskontroll på helsestasjonen er eit tilbod til gravide for å bidra til god helse under svangerskapet. Kommunen skal tilby helseundersøkingar, rettleiing, opplysningsverksemd samt samlivs- og foreldrerettleiing.</skos:note>
+      <skos:note xml:lang="nb">Svangerskapskontroll på helsestasjonen er et tilbud til gravide for å bidra til god helse under svangerskapet. Kommunen tilbyr helseundersøkelser, veiledning, opplysningsvirksomhet samt samlivs- og foreldreveiledning.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/svangerskap"/>
+   </rdf:Description>
+</rdf:RDF>

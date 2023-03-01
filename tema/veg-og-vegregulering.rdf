@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/veg-og-vegregulering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Road and road regulation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Veg og vegregulering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Veg og vegregulering</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegtrafikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegtrafikk</skos:hiddenLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikk-og-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/aksellastrestriksjoner"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/broyting"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/feiing-og-stroing"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gangveg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gatelys"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gravemelding"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/miljovennlig-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/parkering-og-hvileplasser"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/privat-vei"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sykkel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/trafikksignaler-og-reguleringer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vegbygging"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vegnett"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vegvedlikehold"/>
+   </rdf:Description>
+</rdf:RDF>

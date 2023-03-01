@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilrettelagt-transport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Tilrettelagd transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilrettelagt transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Transport services for disabled persons</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Drosjelappar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Drosjelapper</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reiserett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reiserett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">TT-brukar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">TT-bruker</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">TT-kort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">TT-kort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">TT-ordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">TT-ordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">TT-tjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">TT-tjeneste</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ei teneste retta mot funksjonshemma som er avhengig av dør-til-dør-transport. Skal gje høve til å ta del i aktivitetar i nærmiljøet. TT-ordninga skal berre nyttast til lokale fritidsreiser, og ikkje til sjuketransport, legebesøk, reise til fysioterapi eller andre reiser som vert dekka av folketrygda.</skos:note>
+      <skos:note xml:lang="nb">En tjeneste rettet mot funksjonshemmede som er avhengig av dør-til-dør-transport. Skal gi anledning til å ta del i aktiviteter i nærmiljøet. TT-ordninga skal bare benyttes til lokale fritidsreiser, og ikke til syketransport, legebesøk, reise til fysioterapi eller andre reiser som blir dekket av folketrygden.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

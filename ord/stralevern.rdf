@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/stralevern">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Radiation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Strålevern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Strålevern</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Radioaktivitet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Radioaktivitet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Radon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Radon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stråling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stråling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">UV-stråling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">UV-stråling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">UV-varsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">UV-varsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">UV-varsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">UV-varsling</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Førebygging av skadelege verknader av stråling på menneske og miljø. Dette gjeld stråling frå radioaktivt stoff, røntgenstråling, partikkelstråling, og optisk stråling, radiofrekvent stråling, elektriske og magnetiske felt eller anna stråling med tilsvarande biologisk effekt, og ultralyd.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+   </rdf:Description>
+</rdf:RDF>

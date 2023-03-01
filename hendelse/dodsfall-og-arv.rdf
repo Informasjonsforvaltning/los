@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/dodsfall-og-arv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">Deaths and inheritance</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Dødsfall og arv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Dødsfall og arv</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/barnepensjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/dodsattest"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/gjenlevendepensjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/gravferd"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/gravplass"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/organdonasjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/registrering-av-kjoretoy"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skattekort"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skifte-ved-dodsfall"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stonad-til-enslig-forsorger"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stotte-til-familier"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stottekontakt"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

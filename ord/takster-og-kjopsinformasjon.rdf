@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/takster-og-kjopsinformasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Fare and purchase information</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Takstar og kjøpsinformasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Takster og kjøpsinformasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Billett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Billett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Billettprisar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Billettpriser</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+   </rdf:Description>
+</rdf:RDF>

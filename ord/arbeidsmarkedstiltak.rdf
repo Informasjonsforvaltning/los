@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidsmarkedstiltak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Arbeidsmarkedstiltak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidsmarknadstiltak</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Labour market activities</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">AMO</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">AMO</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidspraksis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidspraksis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønnstilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønnstilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Praksisplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Praksisplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tiltaksarrangør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tiltaksarrangør</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Tiltak som skal bidra til å styrkje kompetanse og arbeidsevna til deltakarane, gje deltakarane betre føresetnader for å få ordinært arbeid, førebyggje og dempe skadeverknadene av arbeidsløyse m.m.. Til dette høyrer Arbeidsmarked-kurs, arbeidspraksis i ordinære eller skjerma verksemder, arbeid med bistand, tiltak i arbeidsmarkedsbedrift m.m. Arbeids- og velferdsetaten er ansvarleg for tiltaka, og Nav fylke skal godkjenna dei.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stonad-ved-arbeidsmarkedstiltak"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidssoking"/>
+   </rdf:Description>
+</rdf:RDF>

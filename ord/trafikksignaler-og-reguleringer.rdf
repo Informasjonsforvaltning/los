@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/trafikksignaler-og-reguleringer">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Traffic signs and regulations</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Trafikksignal og reguleringar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Trafikksignaler og reguleringer</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Forbikjøringsrestriksjoner</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forbikøyringsrestriksjonar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Høgdebgrensningar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Høydebegrensinger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikklys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikklys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tyndebegrensningar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tyngdebregrensinger</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

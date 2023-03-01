@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/brukermedvirkning-i-skolen">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Brukarmedverknad i skulen</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Brukermedvirkning i skolen</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">User involvement in school</skos:prefLabel>
+      <skos:note xml:lang="nn">Brukarmedverknad omfattar heim-skulesamarbeid og elevmedverknad. Alle elevar har rett til å medverke og påverke eigen skulekvardag. Alle foreldre har rett til å medverke gjennom råd og utval.</skos:note>
+      <skos:note xml:lang="nb">Brukermedvirkning omfatter hjem-skolesamarbeid og elevmedvirkning. Alle elever har rett til å medvirke og påvirke egen skolehverdag. Alle foreldre har rett til å medvirke gjennom råd og utvalg.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilpasset-opplaring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Adapted education</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilpassa opplæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilpasset opplæring</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Friskole</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Friskule</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilpassa opplæring gjeld for alle elevar, lærlingar, lærekandidatar og vaksne. Tilpassa opplæring er eit verkemiddel for at alle skal oppleve auka læringsutbytte. Det er ingen individuell rett, men skal skje gjennom variasjon og tilpassingar til mangfaldet i elevgruppa innanfor fellesskapet.</skos:note>
+      <skos:note xml:lang="nb">Tilpasset opplæring gjelder for alle elever, lærlinger, lærekandidater og voksne. Tilpasset opplæring er et virkemiddel for at alle skal oppleve økt læringsutbytte. Det er ingen individuell rett, men skal skje gjennom variasjon og tilpasninger til mangfoldet i elevgruppen innenfor fellesskapet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+   </rdf:Description>
+</rdf:RDF>

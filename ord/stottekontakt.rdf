@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/stottekontakt">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Støttekontakt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Støttekontakt</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Support person</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fritidsassistent</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fritidsassistent</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fritidskontakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fritidskontakt</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit tilbod til personar med behov for kontakt, hjelp og rettleiing i kvardagen. Støttekontakten tilbyr mellom anna sosialt samvær etter behov og følgje til ulike fritidsaktivitetar.</skos:note>
+      <skos:note xml:lang="nb">Et tilbud til personer med behov for kontakt, hjelp og veiledning i hverdagen. Støttekontakten tilbyr melmom annet sosialt samvær etter behov og følge til ulike fritidsaktiviteter.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-fritid"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/verneplikt">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Compulsory military service</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Verneplikt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Verneplikt</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Forsvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forsvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Førstegangstjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Førstegongsteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Innrullering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Innrullering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Militærnekting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Militærnekting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Militært tenestebevis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Militært tjenestebevis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sesjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sesjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sivilarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sivilarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sivilteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Siviltjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tenestebevis</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tjenestebevis</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Verneplikt er ei plikt mannlege statsborgarar i landet har til å delta i forsvaret av Noreg.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forsvaret"/>
+   </rdf:Description>
+</rdf:RDF>

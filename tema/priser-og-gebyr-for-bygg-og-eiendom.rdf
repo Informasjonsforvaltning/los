@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Prices and fees for construction and property</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Prisar og gebyr for bygg og eigedom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Priser og gebyr for bygg og eiendom</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygg-og-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/betalingssatser-for-kommunale-tjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/eiendomsskatt"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gebyr-for-byggesak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/renovasjonsavgift"/>
+   </rdf:Description>
+</rdf:RDF>

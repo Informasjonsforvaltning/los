@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sykehjem">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Nursing home</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sjukeheim</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sykehjem</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aldersheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aldersheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Aldershjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aldershjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bo- og behandlingssenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boform for heldøgns omsorg og pleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bu- og behandlingssenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Buform for heildøgns omsorg og pleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gamleheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gamlehjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Langtidsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Langtidsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pleieheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pleieheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pleiehjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pleiehjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rehabiliteringsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rehabiliteringsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukeheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukeheimsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukeheimsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukeheimsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykeheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykeheimsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykeheimsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykehjemsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykehjemsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykehjemsplass</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Kommunalt driven buform som skal ha tilbod om heildøgns opphald. Retta mot dei som ikkje får dekka sitt daglege behov for pleie og omsorg i heimen eller i omsorgsbustad. Tilbyr langtidsopphald, avlastningsopphald og korttidsopphald.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

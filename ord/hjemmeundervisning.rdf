@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hjemmeundervisning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Heimeundervisning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Hjemmeundervisning</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Home teaching</skos:prefLabel>
+      <skos:note xml:lang="nn">Foreldra underviser sjølv eigne barn. Kommunen fører tilsyn med heimeundervisninga.</skos:note>
+      <skos:note xml:lang="nb">Foreldre underviser selv egne barn. Kommunen fører tilsyn med hjemmeundervisningen.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/yrkesskadedekning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Occupational injury coverage</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Yrkesskadedekning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Yrkesskadedekning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsulukke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsulykke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadeforklaring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadeforklaring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Yrkesrelatert helseplage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Yrkesrelatert helseplage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Yrkessjukdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Yrkesskadeforsikring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Yrkesskadeforsikring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Yrkessykdom</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Yrkesskade er ein skade som skjer ved ei ulykke i arbeidstiden. Yrkesskadedekningen gir særfordelar utover folketrygda sitt ordinære stønadssystem.</skos:note>
+      <skos:note xml:lang="nb">Yrkesskade er en skade som skjer ved en ulykke i arbeidstiden. Yrkesskadedekningen gir særfordeler utover folketrygdens ordinære stønadssystem.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/menerstatning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

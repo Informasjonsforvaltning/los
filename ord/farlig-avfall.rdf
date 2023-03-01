@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/farlig-avfall">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Farleg avfall</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Farlig avfall</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Hazardous waste</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Deponi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Deponi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">EE-avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">EE-avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Elektrisk avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elektrisk avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Elektronisk avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elektronisk avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Giftig avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Giftig avfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spesialavfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spesialavfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillolje</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spillolje</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Farleg avfall leverast til kommunale mottaksordningar.</skos:note>
+      <skos:note xml:lang="nb">Farlig avfall leveres til kommunale mottaksordninger.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/renovasjon"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avfallshandtering"/>
+   </rdf:Description>
+</rdf:RDF>

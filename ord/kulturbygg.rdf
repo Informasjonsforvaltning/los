@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kulturbygg">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cultural buildings</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kulturbygg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kulturbygg</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Galleri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Galleri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grendehus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grendehus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Heradshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Herredshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturhus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturhus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samfunnshus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samfunnshus</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Lokale og regionale møteplassar og formidlingsarena for kultur, som til dømes nasjonale kulturbygg, samfunnshus, kulturbåtar og liknande.</skos:note>
+      <skos:note xml:lang="nb">Lokale og regionale møteplasser og formidlingsarenaer for kultur, som for eksempel nasjonale kulturbygg, samfunnshus, kulturbåter og lignende.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

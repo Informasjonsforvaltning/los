@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lonn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Lønn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lønn</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Salary</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Likeløn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Likelønn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønnsforhandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønnsgarantiordninga</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønnsgarantiordningen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønnsoppgjer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønnsoppgjør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lønnsregulativ</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønnsregulativ</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lønsforhandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Regulativ</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Regulativ</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tariffavtale</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tariffavtale</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Betaling for utført arbeid. Regulert av lovverk og avtalar.</skos:note>
+      <skos:note xml:lang="nb">Betaling for utført arbeid. Regulert av lovverk og avtaler.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntekt"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skoleskyss">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">School transport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skoleskyss</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skuleskyss</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolebuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skoletransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skoleveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolevei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skulebuss</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuletransport</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuleveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuleveg</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Transport til og fra skolen. Retten gjelder for elever som bor over en viss avstand fra skolen og elever som har særlig farlig eller vanskelig skoleveg. Retten til skyss gjeld ikke til/fra skolefritidsordningen (SFO).</skos:note>
+      <skos:note xml:lang="nn">Transport til og frå skulen. Retten gjeld for elevar som bur over ein viss avstand frå skulen og elevar som har særleg farleg eller vanskeleg skuleveg. Retten til skyss gjeld ikkje til/frå skulefritidsordninga (SFO).</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skolehverdag"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

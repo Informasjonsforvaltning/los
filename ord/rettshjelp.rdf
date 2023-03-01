@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rettshjelp">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Legal aid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rettshjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rettshjelp</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Advokatbistand</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Advokathjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Advokathjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Advokathjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fri rettshjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fri rettshjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fri sakførsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fri sakførsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Juridisk hjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Juridisk hjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rettsråd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rettsråd</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Fri rettshjelp betyr at staten heilt eller delvis kan dekkje utgiftene til advokathjelp. Fri rettshjelp omfattar både fritt rettsråd og fri sakførsle. I nokre saker kan ein få fri rettshjelp uavhengig av inntekt og formue. I andre saker er det eit vilkår at ein er under visse inntektsgrenser.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rettsvesen"/>
+   </rdf:Description>
+</rdf:RDF>

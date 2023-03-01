@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/trafikksikkerhet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Traffic safety</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Trafikksikkerheit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Trafikksikkerhet</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Skoleveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolevei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuleveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuleveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikksikkerheitsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikksikkerheitsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikksikkerhetsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikktryggleiksplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikkulukker</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikkulykker</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trygg trafikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trygg trafikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegtrafikkulukke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegtrafikkulukke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegtrafikkulykke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veitrafikkulykke</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Sikkerheit for dei som ferdast i trafikken.</skos:note>
+      <skos:note xml:lang="nb">Sikkerhet for de som ferdest i trafikken.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+   </rdf:Description>
+</rdf:RDF>

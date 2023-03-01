@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skolefritidsordning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Extra curricular activities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skolefritidsordning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skulefritidsordning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">SFO</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">SFO</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Eit tilbod før og etter skuletid til barn frå 1. til 4. klasse. Barn med spesielle behov kan få dette tilbodet frå 1. til 7. klasse.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/musikk-og-kulturskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+   </rdf:Description>
+</rdf:RDF>

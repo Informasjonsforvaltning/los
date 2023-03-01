@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/heftelser-pa-eiendom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Hefte på eigedom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Heftelser på eiendom</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Legal claims on property</skos:prefLabel>
+      <skos:note xml:lang="nn">Hefte på ein eigedom er ein rett som avgrensar bruken til grunneigaren av eigedomen. Buplikt, kulturminnevern eller reguleringsplaner er døme på typar heftelser.</skos:note>
+      <skos:note xml:lang="nb">Heftelser på en eiendom er en rettighet som begrenser grunneiers bruk av eiendommen. Boplikt, kulturminnevern eller reguleringsplaner er eksempler på typer heftelser.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

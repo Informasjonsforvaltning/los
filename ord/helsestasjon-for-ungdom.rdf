@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/helsestasjon-for-ungdom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Health station for youth</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Helsestasjon for ungdom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Helsestasjon for ungdom</skos:prefLabel>
+      <skos:note xml:lang="nn">Unge under 20 år kan få råd og rettleiing om blant anna rus, seksualitet, kjønnssjukdomar, psykiske problem og kosthald.</skos:note>
+      <skos:note xml:lang="nb">Unge under 20 år kan få råd og veiledning om blant annet rus, seksualitet, kjønnssykdommer, psykiske problemer og kosthold.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

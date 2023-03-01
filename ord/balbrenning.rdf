@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/balbrenning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Bonfires</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bålbrenning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bålbrenning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bråtebrann</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bråtebrann</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bråtebrenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bråtebrenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bålplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bålplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grillplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grillplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jonsokbål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sankthansbål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">St. Hansbål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">St. Hansbål</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Utandørs brenning eller brenning av avfall i småomnar. Kommunen fastset lokale reglar.</skos:note>
+      <skos:note xml:lang="nb">Utendørs brenning eller brenning av avfall i småovner. Kommunen fastsetter lokale regler.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/friomrade"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

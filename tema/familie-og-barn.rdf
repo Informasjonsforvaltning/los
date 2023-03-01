@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/familie-og-barn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="nb">Familie og barn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Familie og barn</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Family and children</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/barnehage"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/dodsfall-og-gravferd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/ekteskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/samliv"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+   </rdf:Description>
+</rdf:RDF>

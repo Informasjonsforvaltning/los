@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tinglysing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Official registration</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tinglysing</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tinglysing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnbok</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnbok</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samanføyingsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sammenføyingsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sammenføyningsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sammenføyningsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skjøte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skøyte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tinglysingsgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tinglysingsgebyr</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Tinglysing er ei offentleg registrering av ein avtale mellom to partar om rettar og plikter som gjeld fast eigedom eller visse typar lausøyre. Tinglyste dokument som gjeld fast eigedom blir registrerte i grunnboka.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/dokumentavgift"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/eiendomsregister"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjop-og-salg"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/personlig-assistent">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Personal assistant</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Personleg assistent</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Personlig assistent</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Brukarstyrt personleg assistanse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Brukerstyrt personlig assistanse</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Teneste som omfattar praktisk og personleg hjelp i dagleglivet for funksjonshemma med samansette og omfattande behov.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

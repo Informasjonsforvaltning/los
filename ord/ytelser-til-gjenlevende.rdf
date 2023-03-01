@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ytelser-til-gjenlevende">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Benefits to survivors</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ytelser til gjenlevende</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ytingar til gjenlevende</skos:prefLabel>
+      <skos:note xml:lang="nn">Gjenlevendepensjon og overgangsstønad til gjenlevande ektefelle / samboar. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon blir gitt når ein eller begge foreldre er døde. Ytelsar til einsleg tidligere familiepleier som ikkje kan forsørge seg sjølv etter pleieforholdets opphør.</skos:note>
+      <skos:note xml:lang="nb">Gjenlevendepensjon og overgangsstønad til gjenlevende ektefelle / samboer. Kan også omfatte stønad til barnetilsyn og utdanningsstønad. Barnepensjon gis når en eller begge foreldre er døde. Ytelser til enslig tidligere familiepleier som ikke kan forsørge seg selv etter pleieforholdets opphør.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+   </rdf:Description>
+</rdf:RDF>

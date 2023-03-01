@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/menerstatning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Menerstatning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Menerstatning</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Permanent injury compensation</skos:prefLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Erstatning for tapt livsutfalding når ein person har fått varig og betydeleg skade av medisinsk art.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/yrkesskadedekning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/erstatningsordninger"/>
+   </rdf:Description>
+</rdf:RDF>

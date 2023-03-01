@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/trygghet-i-hjemmet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Safety at home</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Trygghet i hjemmet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tryggleik i heimen</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Digital kalender</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Digital kalender</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Digital varsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Digital varsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Døralarm</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Døralarm</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Døralarm</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Døralarm</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">E-lås</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">E-lås</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Elektronisk dørlås</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elektronisk dørlås</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Elektronisk medisindispenser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elektronisk medisindispenser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fallvarsling, bevegelsesvarsling og røykvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fallvarsling, bevegelsesvarsling og røykvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">GPS</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">GPS</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Komfyrvakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Komfyrvakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lokaliseringstenester</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lokaliseringstjenester</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Responstenester</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Responstjenester</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sensorer for egenmåling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sensorer for egenmåling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Talehjelpemiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Talehjelpemiddel</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Omfattar tenester og tekniske løysingar som gir heimebuande sjuke og eldre meir sjølvstende, medavgjerd, livskvalitet og komfort.</skos:note>
+      <skos:note xml:lang="nb">Omfatter tjenester og tekniske løsninger som gir hjemmeboende syke og eldre mer selvstendighet, medbestemmelse, livskvalitet og komfort.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/matlevering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

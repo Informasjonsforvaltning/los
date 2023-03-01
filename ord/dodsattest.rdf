@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/dodsattest">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Death certificate</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Dødsattest</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Dødsattest</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Dødsmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dødsmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dødsårsak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dødsårsak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Legeerklæring ved dødsfall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Legeerklæring ved dødsfall</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/dodsfall-og-gravferd"/>
+   </rdf:Description>
+</rdf:RDF>

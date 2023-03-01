@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hogskole-og-universitet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">High schools and universities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Høgskole og universitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Høgskule og universitet</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Høgskule</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Høyskole</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Høgare utdanning omfattar universitets- og høgskuleutdanning. Den byggjer normalt på eksamen frå treårig vidaregåande opplæring.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hoyere-utdanning"/>
+   </rdf:Description>
+</rdf:RDF>

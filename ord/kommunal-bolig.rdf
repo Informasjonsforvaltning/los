@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kommunal-bolig">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Kommunal bolig</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kommunal bustad</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Municipal housing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommunal leilegheit</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunal leilighet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunal utleiebolig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommunal utleigebustad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mellombels bustad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mellombels husvære</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Midlertidig bolig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Midlertidig husvære</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Bolig eid av kommunen som brukes til å leie ut bolig til de med økonomiske problemer.</skos:note>
+      <skos:note xml:lang="nn">Bustad ått av kommunen som blir brukt til å leige ut bustad til dei med økonomiske problem.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/botilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/leie-og-utleie"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/midlertidig-botilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Arranged housing offers</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Mellombels bustad</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Midlertidig botilbud</skos:prefLabel>
+      <skos:note xml:lang="nb">Bolig eid av kommunen og brukt til å skaffe bolig i en nødsituasjon.</skos:note>
+      <skos:note xml:lang="nn">Bustad eigd av kommunen og brukt til å skaffe bustad i ein nødsituasjon.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/botilbud"/>
+   </rdf:Description>
+</rdf:RDF>

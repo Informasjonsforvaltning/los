@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/arbeidsliv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Arbeidsliv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidsliv</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Employment</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidsavtale"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidsgiver"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidsmarkedstiltak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidsmiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidstillatelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/arbeidstvist"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/cv"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ferierettigheter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/inkluderende-arbeidsliv"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/innemiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/oppsigelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/permittering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sykefravar"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelegging-pa-arbeidsplassen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/yrkesskadedekning"/>
+   </rdf:Description>
+</rdf:RDF>

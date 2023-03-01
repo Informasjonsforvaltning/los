@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/adressetildeling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Address allocation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Adressetildeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Adressetildeling</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Adressering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Adressering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gateadresse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gateadresse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gatenamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gatenavn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husnummer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husnummer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegnamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegnamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegnavn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veinavn</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen gir eller endrar adresser. Eigarar og andre som blir påverka av avgjerda har rett til å uttale seg.</skos:note>
+      <skos:note xml:lang="nb">Kommunen tildeler eller endrer adresser. Eiere og andre som blir påvirket av avgjørelsen har rett til å uttale seg.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

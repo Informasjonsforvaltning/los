@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/varvarsel">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Værvarsel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vêrvarsel</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Weather forecast</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Havvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Havvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulingvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulingvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kystvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kystvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Småbåtvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Småbåtvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vermelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vermelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vervarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vindvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vindvarsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Værmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Værvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vêrdata</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vêrdata</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vêrmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vêrstatistikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vêrstatistikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vêrvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vêrvarsling</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/var-og-klima"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/varslingstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

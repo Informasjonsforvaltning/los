@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/yrkesautorisasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Professional qualifications</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Yrkesautorisasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Yrkesautorisasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Autorisasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Autorisasjon</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Rett til å praktisere eit yrke.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidssoking"/>
+   </rdf:Description>
+</rdf:RDF>

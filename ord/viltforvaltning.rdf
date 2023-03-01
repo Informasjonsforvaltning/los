@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/viltforvaltning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Viltforvaltning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Viltforvaltning</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Wildlife management</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Elg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fallvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fallvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hjortevilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hjortevilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovdyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovdyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rovvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rovvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rådyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rådyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skada vilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadd vilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadd vilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadet vilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Småvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Småvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Storvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Storvilt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Viltfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Viltfond</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Viltnemnd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Viltnemnd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Viltpåkjørsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Viltpåkøyrsel</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Arbeidet med å bevare, auke, hauste eller avgrense viltbestandar. I dei fleste tilfella vert arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</skos:note>
+      <skos:note xml:lang="nb">Arbeidet med å bevare, øke, høste eller avgrense viltbestander. I de fleste tilfeller blir arbeidet utøvd av kommunen eller fylkeskommunen gjennom viltnemnder eller ved delegert vedtak.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

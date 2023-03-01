@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/doping">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Doping</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Doping</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Doping</skos:prefLabel>
+      <skos:note xml:lang="nn">Bruk av stoff som kan påverke prestasjonsevna til kroppen i ulike samanhengar.</skos:note>
+      <skos:note xml:lang="nb">Bruk av stoff som kan påvirke prestasjonsevnen til kroppen i ulike sammenhenger.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/hjelp-ved-rusavhengighet"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/idrett"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rus-og-avhengighet"/>
+   </rdf:Description>
+</rdf:RDF>

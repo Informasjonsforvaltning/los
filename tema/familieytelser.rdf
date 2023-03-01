@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/familieytelser">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Familieytelser</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Familieytingar</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Family benefits</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familie-og-barn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/barnebidrag"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/barnepensjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/barnetrygd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gjenlevendepensjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kontantstotte"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stonad-til-enslig-forsorger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ytelser-til-gjenlevende"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ytelser-ved-svangerskap-fodsel-og-adopsjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ytelser-ved-sykdom-i-familien"/>
+   </rdf:Description>
+</rdf:RDF>

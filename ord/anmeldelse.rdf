@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/anmeldelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Anmeldelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Politimelding ("Anmeldelse")</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Reporting a crime</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Brotsverk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forbrytelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forseelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kriminalitet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kriminalitet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lovbrot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lovbrudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Misferd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Politisak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Politisak</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Melde ei sak til politiet</skos:note>
+      <skos:note xml:lang="nn">Melde ei sak til politiet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lovbrudd-og-straff"/>
+   </rdf:Description>
+</rdf:RDF>

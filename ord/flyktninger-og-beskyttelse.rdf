@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/flyktninger-og-beskyttelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Flyktningar og vern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Flyktninger og beskyttelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Refugees and protection</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Asyl</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Asyl</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Asylmottak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Asylmottak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Transittmottak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Transittmottak</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Til dette hører kvoteflyktninger, asylsøkere, asylmottak, retter flyktninger og asylsøkere har m.m.</skos:note>
+      <skos:note xml:lang="nn">Til dette høyrer kvoteflyktningar, asylsøkjarar, asylmottak, rettar flyktningar og asylsøkjarar har m.m.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/ny-i-norge"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/innbyggerrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

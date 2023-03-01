@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/motorvognavgifter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Motorvognavgifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Motorvognavgifter</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vehicle taxes</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bensinavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bensinavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bilavgifter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bilavgifter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Biltilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Biltilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dieselavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dieselavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eingongsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Engangsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omregistreringsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omregistreringsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikkstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikkstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veiavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vektårsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vektårsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Årsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Årsavgift</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Motorvognavgiftene omfattar seks avgifter med til dels ulik grunngjeving og føremål. Avgiftene er knytt dels til kjøp/leige av køyretøy og dels til bruk av køyretøy. Dei ikkje-bruksavhengige avgiftene er eingongsavgifta, omregistreringsavgifta, årsavgifta og vektårsavgifta. Til dei bruksavhengige avgiftene høyrer avgiftene på bensin og diesel.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avgift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

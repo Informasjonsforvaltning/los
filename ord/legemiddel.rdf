@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/legemiddel">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Legemiddel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lækjemiddel</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Medicines</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Apotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Apotek</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Blå resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Blå resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Legemiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Legemidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Medisin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Medisin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Medisinering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Medisinering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Medisinutsal</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Medisinutsalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reseptbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reseptbestilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reseptfornyelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reseptfornying</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Eit lækjemiddel er eit farmasøytisk produkt som kan førebyggje, lækje eller lindre sjukdom, symptom, skade eller smerte hos menneske og dyr.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

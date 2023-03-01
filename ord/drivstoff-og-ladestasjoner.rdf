@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/drivstoff-og-ladestasjoner">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Drivstoff og ladestasjonar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Drivstoff og ladestasjoner</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Filling and charging stations</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bensin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bensin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Diesel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Diesel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hurtiglading</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hurtiglading</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hydrogen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hydrogen</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+   </rdf:Description>
+</rdf:RDF>

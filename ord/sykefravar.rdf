@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sykefravar">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Sick leave</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sjukefråvær</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sykefravær</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Egenmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eigenmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukemelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjukmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykemelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykmelding</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Sjukefråvær er fråver frå lønna arbeid på grunn av sjukdom. .</skos:note>
+      <skos:note xml:lang="nb">Sykefravær er fravær fra lønnet arbeid på grunn av sykdom.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/sykepenger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

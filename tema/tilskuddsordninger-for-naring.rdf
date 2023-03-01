@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/tilskuddsordninger-for-naring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Public funding schemes for business</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskotsordningar for næring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskuddsordninger for næring</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/avlosertilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/jordbrukstilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/produksjonstilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skogbrukstilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stotte-til-bedrifter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-okologisk-landbruk"/>
+   </rdf:Description>
+</rdf:RDF>

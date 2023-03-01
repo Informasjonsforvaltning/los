@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">*</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Starte og drive ein bedrift</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Starte og drive en bedrift</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsgiveravgift"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsmiljo"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/bingo"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/idrettsmidler"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kulturmidler"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/lotteri"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/merverdiavgift"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/narmiljotilskudd"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/rapportering-for-naringsdrivende"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-friluftsliv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-helse-og-eldre"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-tro-og-livssyn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ungdomsmidler"/>
+   </rdf:Description>
+</rdf:RDF>

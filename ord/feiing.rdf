@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/feiing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Chimney sweep services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Feiing</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Feiing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsyn med eldstad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsyn med fyringsanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsyn med fyringsanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsyn med ildsted</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Vedlikehald og tilsyn av fyringsanlegg. Kommunen har brannførebyggjande oppgåver, som feiing og tilsyn.</skos:note>
+      <skos:note xml:lang="nb">Vedlikehold og tilsyn av fyringsanlegg. Kommunen har brannforebyggende oppgaver, som feiing og tilsyn.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kommunale-avgifter-og-gebyr"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/brann"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

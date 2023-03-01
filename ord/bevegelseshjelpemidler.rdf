@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bevegelseshjelpemidler">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bevegelseshjelpemidler</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Mobility aid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rørslehjelpemiddel</skos:prefLabel>
+      <skos:note xml:lang="nn">Hjelpemiddel for rørslehemma.</skos:note>
+      <skos:note xml:lang="nb">Hjelpemidler for bevegelseshemmede.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hjelpemidler"/>
+   </rdf:Description>
+</rdf:RDF>

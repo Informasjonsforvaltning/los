@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/utlan-og-leie">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Loans and rentals</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Utlån og leie</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Utlån og leige</skos:prefLabel>
+      <skos:note xml:lang="nn">Utlån eller leie av utstyr fra en offentlig virksomhet</skos:note>
+      <skos:note xml:lang="nb">Utlån eller leige av utstyr frå ei offentleg verksemd</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur-idrett-og-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fritidsutstyr"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/lokaler-og-idrettsanlegg"/>
+   </rdf:Description>
+</rdf:RDF>

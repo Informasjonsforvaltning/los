@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sosialhjelp">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Financial social assistance</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sosialhjelp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sosialhjelp</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hjelpestønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hjelpestønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Introduksjonsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Introduksjonsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Introduksjonsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Introduksjonsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommunalt lån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kommunalt lån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Livsopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Livsopphaldssatsar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Livsopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Livsoppholdssatser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sosiallån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sosiallån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sosialstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sosialstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utdanningsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utdanningsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utdanningsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utdanningsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Økonomisk sosialhjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Økonomisk sosialhjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Økonomisk stønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Økonomisk støtte</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Økonomisk stønad som skal sikre hjelp til livsopphald. Med dette meinast pengar til det som blir rekna som nødvendig for å leve, slik som mat, klede, bustad, men også fritid, telefoni, tv, internett, transport og helseutgifter.</skos:note>
+      <skos:note xml:lang="nb">Økonomisk støtte som skal sikre hjelp til livsopphold. Med dette menes penger til det som regnes som nødvendig for å leve, slik som mat, klær, bolig, men også fritid, telefoni, tv, internett, transport og helseutgifter.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

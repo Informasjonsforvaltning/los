@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skredvarsel">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Avalanche warning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skredvarsel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skredvarsel</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordskred</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordskred</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Leirras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Leirras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Leirskred</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Leirskred</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rasfare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rasfare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skredfare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skredfare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skredvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skredvarsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snøras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snøras</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snøskred</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snøskred</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Varsling om vegstrekningar og område som er særleg utsette for ras og skred i form av jord, leire, snø eller stein.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/var-og-klima"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/varslingstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

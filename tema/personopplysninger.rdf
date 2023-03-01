@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/personopplysninger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Personal information</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Personopplysningar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Personopplysninger</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/d-nummer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flyttemelding"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fodselsattest"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fodselsnummer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/personnavn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/personvern"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/politiattest"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bingo">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Bingo</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bingo</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bingo</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Entreprenørbingo</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Entreprenørbingo</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Foreiningsbingo</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Foreningsbingo</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Medrekna søknad om løyve til å spele bingo.</skos:note>
+      <skos:note xml:lang="nb">Medreknet søknad om løyve til å spille bingo.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lotteri-og-pengespill"/>
+   </rdf:Description>
+</rdf:RDF>

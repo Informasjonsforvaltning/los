@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidsavklaringspenger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Arbeidsavklaringspengar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Arbeidsavklaringspenger</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Work assessment allowance</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Attføringspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Attføringspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Attføringsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Attføringsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Attføringsytelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Attføringsytingar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tidsavgrensa uførestønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tidsbegrenset uførestønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Uføregrad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Uføregrad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Uføretrygd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Uføretrygd</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Økonomisk støtte som skal sikre inntekt til livsopphold til personer som har fått inntektsevnen langvarig nedsett pga. sykdom, skade eller lyte.</skos:note>
+      <skos:note xml:lang="nn">Økonomisk yting som skal sikre inntekt til livsopphald til personar som har fått inntektsevna langvarig nedsett pga. sjukdom, skade eller lyte.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/uforetrygd"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

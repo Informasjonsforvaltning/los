@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/flyttemelding">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Flyttemelding</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Flyttemelding</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Notification of move or change of address</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Adresseendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Adresseendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Adresseendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Adresseforandring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Emigrasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Emigrasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Flytting til utlandet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Flytting til utlandet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folkeregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Folkeregister</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Melding om flytting. Skal sendast til folkeregisteret ved likningskontoret. Medrekna flytting til utlandet.</skos:note>
+      <skos:note xml:lang="nb">Melding om flytting. Skal sendes til folkeregisteret ved ligningskontoret. Medregnet flytting til utlandet.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/flytting"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/personopplysninger"/>
+   </rdf:Description>
+</rdf:RDF>

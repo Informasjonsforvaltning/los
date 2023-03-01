@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bruksenhetsnummer">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Brukseiningsnummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bruksenhetsnummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Dwelling number</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Adresse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Adresse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bolignummer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Boligregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadnummer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bustadregister</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">Bruksenhetsnummeret består av en bokstav og fire siffer som entydig identifiserer den enkelte bruksenhet (f.eks. leilighet) innenfor en adresserbar bygning eller bygningsdel. Alle leiligheter skal ha sin egen adresse, på lik linje med eneboliger.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

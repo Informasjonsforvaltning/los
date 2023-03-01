@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/natur-klima-og-miljo">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="nb">Natur, klima og miljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Natur, klima og miljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Nature, climate and environment</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/avfallshandtering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/energi"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/miljotilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/var-og-klima"/>
+      <skos:closeMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fritidsutstyr">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fritidsutstyr</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fritidsutstyr</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Recreational equipment</skos:prefLabel>
+      <skos:note xml:lang="nn">Utlån eller leie av utstyr, som for eksempel sykler, kjelker og lignende.</skos:note>
+      <skos:note xml:lang="nb">Utlån eller leige av utstyr, som for eksempel syklar, kjelkar og liknande.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/utlan-og-leie"/>
+   </rdf:Description>
+</rdf:RDF>

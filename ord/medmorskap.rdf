@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/medmorskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Co-maternity</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Medmorskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Medmorskap</skos:prefLabel>
+      <skos:note xml:lang="nb">Søknad om medmorskap sendes folkeregistermyndigheten.</skos:note>
+      <skos:note xml:lang="nn">Søknad om medmorskap skal sendast folkeregistermyndigheita.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ytelser-ved-svangerskap-fodsel-og-adopsjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Benefits in pregnancy, childbirth and adoption</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ytelser ved svangerskap, fødsel og adopsjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ytingar ved svangerskap, fødsel og adopsjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Adopsjonspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Adopsjonspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eingongsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Engangsstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Foreldrepengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Foreldrepenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svangerskapspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svangerskapspenger</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+   </rdf:Description>
+</rdf:RDF>

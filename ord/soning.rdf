@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/soning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Serving a criminal sentence</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Soning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Soning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fengselsstraff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fengselsstraff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forvaring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forvaring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kriminalomsorg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kriminalomsorg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sikring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sikring</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Straffegjennomføring i form av fengselsopphald. Ved halvvegs gjennomført straff, kan det vere aktuelt med soning utanfor fengsel med særlege vilkår.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/lovbrudd-og-straff"/>
+   </rdf:Description>
+</rdf:RDF>

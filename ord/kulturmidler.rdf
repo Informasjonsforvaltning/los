@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kulturmidler">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cultural funding</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kulturmidlar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kulturmidler</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arrangementsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arrangementsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Den kulturelle skolesekken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Den kulturelle skulesekken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Den kulturelle spaserstokken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Den kulturelle spaserstokken</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Festivalstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Festivalstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturformål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturføremål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturprosjekt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturprosjekt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturtilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturtilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kulturverntilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kulturverntilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kunstnarstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kunstnerstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillemidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tippemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tippemidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Underskotsgaranti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Underskuddsgaranti</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunalt eller fylkeskommunalt tilskot til kulturarbeid, som til dømes oppstartingstilskot, prosjektmidlar, kulturstipend, festivalstøtte og kunstnarstipend.</skos:note>
+      <skos:note xml:lang="nb">Kommunalt eller fylkeskommunalt tilskudd til kulturarbeid, som for eksempel oppstartingstilskudd, prosjektmidler, kulturstipend, festivalstøtte og kunstnerstipend.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

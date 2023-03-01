@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/abort">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Abort</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Abort</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Abortion</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Svangerskapsavbrot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svangerskapsavbrudd</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Selvbestemt svangerskapsavbrudd innen 12. svangerskapsuke.</skos:note>
+      <skos:note xml:lang="nn">Sjølvbestemt svangerskapsavbrot innan 12. svangerskapsveke.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/svangerskap"/>
+   </rdf:Description>
+</rdf:RDF>

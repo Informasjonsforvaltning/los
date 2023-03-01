@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/videregaende-skole">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Upper secondary school</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vidaregåande skule</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Videregående skole</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Elevråd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Elevråd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolemiljøutvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skoleutvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skulemiljøutval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuleutval</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Vidaregåande skule omfattar kompetansegjevande opplæring mellom grunnskulen og høgare utdanning. Opplæringa er frivillig, men all ungdom mellom 16 og 19 år har lovfesta rett til tre års vidaregåande opplæring. Fylkeskommunen har lovfesta plikt til å følgje opp ungdom mellom 16 og 19 år som ikkje er under opplæring eller i arbeid.</skos:note>
+      <skos:note xml:lang="nb">Vidaregående skole omfatter kompetansegivende opplæring mellom grunnskolen og høyere utdanning. Opplæringen er frivillig, men all ungdom mellom 16 og 19 år har lovfestet rett til tre års vidaregående opplæring. Fylkeskommunen har lovfestet plikt til å følge opp ungdom mellom 16 og 19 år som ikke er under opplæring eller i arbeid.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skole-og-utdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/brukermedvirkning-i-skolen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/eksamen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fag--og-yrkesopplaring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ferie-og-fridager"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fraver"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/karakterer-og-evaluering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/mobbing-i-skolen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/pedagogisk-psykologisk-tjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/permisjon-og-fritak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skolemiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skoleskyss"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/soke-skole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/utdannings--og-yrkesveiledning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/videregaende-opplaring"/>
+   </rdf:Description>
+</rdf:RDF>

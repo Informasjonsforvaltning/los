@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/naringsklynger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Business parks</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Næringsklynger</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Næringsklynger</skos:prefLabel>
+      <skos:note xml:lang="nn">Næringsparkar og andre samlingar av bedrifter som kan ha nytte av å vere lokalisert eller gruppert saman.</skos:note>
+      <skos:note xml:lang="nb">Næringsparker og andre samlinger av bedrifter som kan ha nytte av å være lokalisert eller gruppert sammen.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsutvikling"/>
+   </rdf:Description>
+</rdf:RDF>

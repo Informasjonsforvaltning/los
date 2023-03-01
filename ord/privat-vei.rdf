@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/privat-vei">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Privat veg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Privat vei</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Road building</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Privat veg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Privat veg</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ei avkøyrsle er området mellom ein offentleg veg og privat eigedom. Kommunen gir tillatelse til å byggje eller flytte ei avkøyrsle frå kommunal veg.</skos:note>
+      <skos:note xml:lang="nb">En avkjørsel er området mellom en offentlig vei og privat eiendom. Kommunen gir tillatelse til bygge eller flytte en avkjørsel fra kommunal vei.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vegbygging"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vegvedlikehold"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

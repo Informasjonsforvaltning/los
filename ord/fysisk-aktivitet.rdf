@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fysisk-aktivitet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fysisk aktivitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fysisk aktivitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Physical exercise</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Grøn resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grønn resept</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mosjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mosjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trening</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trim</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Grøn resept og trening.</skos:note>
+      <skos:note xml:lang="nb">Grønn resept og trening.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

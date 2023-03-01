@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/karakterer-og-evaluering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Karakterar og evaluering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Karakterer og evaluering</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Marking and evaluation</skos:prefLabel>
+      <skos:note xml:lang="nn">Eleven får karakterar i orden og oppførsle, munnleg og skriftleg eksamen og standpunktkarakter. Det er mogeleg å klage på alle karakterar. Evaluering omfattar undervegsvurdering, sluttvurdering og andre evalueringar av eleven.</skos:note>
+      <skos:note xml:lang="nb">Karakterer gis i orden og oppførsel, muntlig og skriftlig eksamen og som standpunktkarakter. Det er mulig å klage på alle karakterer. Evaluering omfatter underveisvurdering, sluttvurdering og andre evalueringer av eleven.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

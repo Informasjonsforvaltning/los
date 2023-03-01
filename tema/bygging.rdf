@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/bygging">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Bygging</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bygging</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Construction</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygg-og-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/byggesak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/forhandskonferanse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/forurenset-grunn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/gravemelding"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/klage-pa-byggesak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/melding-om-bygging"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/melding-om-ulovlige-tiltak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/nabovarsel"/>
+   </rdf:Description>
+</rdf:RDF>

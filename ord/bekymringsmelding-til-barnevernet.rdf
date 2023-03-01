@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bekymringsmelding-til-barnevernet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bekymringsmelding til barnevernet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Melding til barnevernstenesta</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Reports to the child welfare service</skos:prefLabel>
+      <skos:note xml:lang="nn">Både privatpersonar og offentlege instansar kan melde frå til barnevernstenesta om at eit barn kan ha det vanskeleg.</skos:note>
+      <skos:note xml:lang="nb">Både privatpersoner og offentlige instanser kan melde fra til barnevernstjenesten om at et barn kan ha det vanskelig.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

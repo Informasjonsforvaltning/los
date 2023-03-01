@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/renovasjonsavgift">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Renovasjonsavgift</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Renovasjonsavgift</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Waste collection fee</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Renovasjonsgebyr&gt;</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Renovasjonsgebyr&gt;</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/kommunale-avgifter-og-gebyr"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

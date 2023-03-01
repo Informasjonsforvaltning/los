@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/innbyggerrettigheter">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Citizens' rights</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Innbyggerrettigheter</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Innbyggjarettar</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flyktninger-og-beskyttelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/likestilling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/menneskerettigheter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/oppholdstillatelse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/pass-og-visum"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/statsborgerskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vergemal"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/foreldrepermisjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Foreldrepermisjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Foreldrepermisjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Parental leave</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Adopsjonspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Adopsjonspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Barselpermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barselpermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fedrekvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fedrekvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fødselspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fødselspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pappapermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pappapermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svangerskapspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Svangerskapspermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tidskonto</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tidskonto</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Permisjon fra arbeid for mor og far i forbindelse med fødsel og adopsjon, dersom vilkårene for opptening er oppfylte.</skos:note>
+      <skos:note xml:lang="nn">Permisjon frå arbeid for mor og far i samband med fødsel og adopsjon, dersom vilkåra for opptening er oppfylte.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/omsorgspermisjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/permisjonsordninger"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/fritid">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Fritid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fritid</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Leisure time</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur-idrett-og-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/dyrehold"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fritidstilbud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/frivilligsentral"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/lag-og-foreninger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/lekeplass"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/musikk-og-kulturskole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/seniortilbud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vapentillatelse"/>
+   </rdf:Description>
+</rdf:RDF>

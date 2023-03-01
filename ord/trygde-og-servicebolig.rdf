@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/trygde-og-servicebolig">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Trygde- og servicebolig</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Trygde- og servicebustad</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Welfare housing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilrettelagt bolig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilrettelagt bustad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trygdebolig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trygdebustad</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Bustad for trygda som sjølv ikkje kan ivareta sine interesser på bustadsmarknaden. Medrekna bustader med særskild tilpasning og med hjelpeverntiltak for dei som treng det pga. alder, funksjonshemming eller av andre årsaker. Tildelinga er ikkje lovheimla. Kommunen behandlar søknaden etter ei totalvurdering av situasjonen til søkjaren.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/botilbud"/>
+   </rdf:Description>
+</rdf:RDF>

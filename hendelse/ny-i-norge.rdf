@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/ny-i-norge">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">*</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ny i Noreg</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ny i Norge</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/flyktninger-og-beskyttelse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/introduksjonsprogram-for-innvandrere"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/lag-og-foreninger"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/norskopplaring"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/oppholdstillatelse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/statsborgerskap"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tolketjeneste"/>
+   </rdf:Description>
+</rdf:RDF>

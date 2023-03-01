@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tolketjeneste">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Interpreter services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tolketeneste</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tolketjeneste</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsetjing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsetjing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oversetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tegnspråktolk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tegnspråktolk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tolking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tolking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Translatør</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Translatør</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tenester som gjev att ein persons tale for andre lyttarar på det tidspunktet ytringa blir gjort. Attgjevinga kan vera muntleg, skriftleg eller på tegnspråk, og (oftast) på eit anna språk.</skos:note>
+      <skos:note xml:lang="nb">Tjenester som gjengir en persons tale for andre lyttere på det tidspunktet ytringen blir gjort. Gjengivelsen kan være muntlig, skriftlig eller på tegnspråk, og (oftest) på annet språk.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/ny-i-norge"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/medvirkning"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ergoterapi">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Ergonomics</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ergoterapi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ergoterapi</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Ergoterapeut</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ergoterapeut</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilbod til personer som har vanskar med å klare daglege aktivitetar, eller som står i fare for å få det i samband med alder, funksjonshemming, sjukdom eller skade.</skos:note>
+      <skos:note xml:lang="nb">Tilbud til personer som har vanskligheter med å klare daglige aktiviteter, eller som står i fare for å få det i samenheng med alder, funksjonshemming, sykdom eller skade.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

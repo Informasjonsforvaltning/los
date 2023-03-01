@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/svommehall">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Svømmehall</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Swimming pool</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Symjehall</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Svømmebasseng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Symjebasseng</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Svømmehaller er åpne for publikum til visse tider og kan være tilgjengelige for utleie</skos:note>
+      <skos:note xml:lang="nn">Symjehallar er opne for publikum til visse tider og kan være tilgjengelege for utleige</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/idrett"/>
+   </rdf:Description>
+</rdf:RDF>

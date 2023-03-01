@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/energibruk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Energibruk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Energibruk</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Energy consumption</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">ENØK-tiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">ENØK-tiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Effektiv energibruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Effektiv energibruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Energiforbruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Energiforbruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Energisparing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Energisparing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Energiøkonomisering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Energiøkonomisering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oljefyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oljefyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pellets</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pellets</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Varmepumpe</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Varmepumpe</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vedomn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vedovn</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ulike måtar å redusere bruken av energi. Medrekna energisparingstiltak og tilskot.</skos:note>
+      <skos:note xml:lang="nb">Ulike måter å redusere bruken av energi. For eksempel energisparingstiltak og tilskudd.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/energi"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ungdomsmidler">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Funding for youth activities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ungdomsmidlar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ungdomsmidler</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ungdomsformål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ungdomsføremål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ungdomstiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ungdomstiltak</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Kommunale midlar som skal stimulere lag, foreningar og organisasjonar til å drive aktivitetar retta mot ungdom.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

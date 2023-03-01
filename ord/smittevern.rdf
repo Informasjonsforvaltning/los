@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/smittevern">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Infection prevention and control</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Smittevern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Smittevern</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Epidemi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Epidemi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hygiene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hygiene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Karantene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Karantene</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjønnssjukdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjønnssykdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pandemi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pandemi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Seksuelt overførbare sykdommer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Seksuelt overførlege sjukdommar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Smitte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Smitte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vaksinasjonskort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vaksinasjonskort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vaksinasjonssertifikat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vaksinasjonssertifikat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vaksinering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vaksinering</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Overvaking av smittsame sjudommar og smittestoff, og førebygging av smittsame sjukdommar.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vaksine"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/omsorgstjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Care services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Omsorgstenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Omsorgstjenester</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helse-og-omsorg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bofellesskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/dagtilbud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/egenbetaling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hjemmehjelp"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hjemmesykepleie"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/matlevering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgsbolig"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgsstonad"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/pasient-og-brukerombud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-transport"/>
+   </rdf:Description>
+</rdf:RDF>

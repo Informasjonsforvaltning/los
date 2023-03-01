@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnehage-innhold-og-kvalitet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Barnehage - innhald og kvalitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Barnehage - innhold og kvalitet</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Kindergarten - content and quality</skos:prefLabel>
+      <skos:note xml:lang="nb">Barnehagen skal ivareta barnas behov for omsorg og lek og fremme læring og danning som grunnlag for allsidig utvikling.</skos:note>
+      <skos:note xml:lang="nn">Barnehagen skal vareta behovet til barna for omsorg og leik og fremje læring og danning som grunnlag for allsidig utvikling.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnehage"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilsyn-og-godkjenning-av-barnehager">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Supervision and approval of kindergartens</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilsyn og godkjenning av barnehagar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilsyn og godkjenning av barnehager</skos:prefLabel>
+      <skos:note xml:lang="nn">Kommunen fører tilsyn med private og kommunale barnehagar og skal godkjenne barnehagar under oppføring.</skos:note>
+      <skos:note xml:lang="nb">Kommunen fører tilsyn med private og kommunale barnehager og skal godkjenne barnehager under oppføring.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnehage"/>
+   </rdf:Description>
+</rdf:RDF>

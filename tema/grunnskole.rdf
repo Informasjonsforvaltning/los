@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/grunnskole">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Compulsory education</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Grunnskole</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Grunnskule</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skole-og-utdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/brukermedvirkning-i-skolen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ferie-og-fridager"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/grunnskole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hjemmeundervisning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/karakterer-og-evaluering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/mobbing-i-skolen"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/pedagogisk-psykologisk-tjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/permisjon-og-fritak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/privatskole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sarskilt-sprakopplaring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skolefritidsordning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skolehelsetjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skolemiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skoleskyss"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skoletilhorighet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/spesialundervisning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilpasset-opplaring"/>
+   </rdf:Description>
+</rdf:RDF>

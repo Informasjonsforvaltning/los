@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lufthavn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Airport</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lufthamn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Lufthavn</skos:prefLabel>
+      <skos:altLabel xml:lang="nb">Flyplass</skos:altLabel>
+      <skos:altLabel xml:lang="nn">Flyplass</skos:altLabel>
+      <skos:hiddenLabel xml:lang="nb">Flybase</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Flypbase</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Landingsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Landingsplass</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein stad der fly lettar og landar</skos:note>
+      <skos:note xml:lang="nb">Et sted hvor fly letter og lander</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/luftfart"/>
+   </rdf:Description>
+</rdf:RDF>

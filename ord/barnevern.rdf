@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnevern">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Barnevern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnevern</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Child protection</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bekymringsmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bekymringsmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hjelpetiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hjelpetiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgsovertagelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgsovertakelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgsovertaking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgsovertaking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgstiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgstiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plasseringstiltak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plasseringstiltak</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Hjelp og støtte til barn, unge og familiar i vanskelege situasjonar.</skos:note>
+      <skos:note xml:lang="nb">Hjelp og støtte til barn, unge og familier i vanskelige situasjoner.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

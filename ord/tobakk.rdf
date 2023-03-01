@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tobakk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Tobacco</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tobakk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tobakk</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Nikotin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Nikotin</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røykeavvenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røykeavvenning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røykeslutt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røykeslutt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røykestopp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røykestopp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røyketelefonen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røyketelefonen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røykfri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røykfri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Røyking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Røyking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Snus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Snus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tobakksskade</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tobakksskade</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Lovleg rusmiddel som ved bruk har ein betydeleg helserisiko. Det blir arbeidd for å redusere bruk av tobakk, motivere og gje hjelp til røykeslutt og sikre vern mot eksponering for tobakksrøyk.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

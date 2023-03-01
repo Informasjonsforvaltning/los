@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/starte-og-drive-frivillig-organisasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">*</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Starte og drive ein frivillig organisasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Starte og drive en frivillig organisasjon</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/frivilligsentral"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/lag-og-foreninger"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/politiske-partier">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Political party</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Politiske parti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Politiske partier</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Partifinansiering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Partifinansiering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Partiprogram</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Partiprogram</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Partistøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Partistøtte</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Alle parti som vil ha einerett til partinamn eller ønskjer å stille liste etter "forenkla reglar" må la seg registrere i Partiregisteret ved Brønnøysundregistra.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/politikk-og-valg"/>
+   </rdf:Description>
+</rdf:RDF>

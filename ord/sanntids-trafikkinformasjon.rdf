@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sanntids-trafikkinformasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Real time traffic information</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sanntids trafikkinformasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sanntids trafikkinformasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Kolonnekjøring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kolonnekøyring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omkjøring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omkøyring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegmelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegstenging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegstenging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegstenging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veimelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Veimelding</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veistenging</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Informasjon om veg og trafikkforhold.</skos:note>
+      <skos:note xml:lang="nb">Informasjon om veg og trafikkforhold.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+   </rdf:Description>
+</rdf:RDF>

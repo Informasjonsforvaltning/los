@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/arbeidsmiljo">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Arbeidsmiljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Arbeidsmiljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Work environment</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">AMU</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">AMU</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeid av barn og ungdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeid av barn og ungdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidsmiljøutval</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidsmiljøutvalg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arbeidstilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arbeidstilsynet</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">BHT</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">BHT</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bedriftshelseteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bedriftshelsetjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravide arbeidstakarar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravide arbeidstakere</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">HMS</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">HMT</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helse-, miljø- og sikkerheitsarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helse-, miljø- og sikkerhetsarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helse-, miljø- og tryggleiksarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helse-, miljø- og tryggleiksarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mellombels arbeidsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Midlertidig arbeidsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omplassering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Omplassering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skiftande arbeidsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skiftende arbeidsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Unge arbeidstakarar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Unge arbeidstakere</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Verneombod</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Verneombud</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Forholda for arbeidstakarane på ein arbeidsplass, særleg dei fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholda.</skos:note>
+      <skos:note xml:lang="nb">Forholdene for arbeidstakerne på en arbeidsplass, særlig de fysiske, vernetekniske, yrkeshygieniske og velferdsmessige forholdene.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

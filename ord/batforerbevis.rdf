@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/batforerbevis">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Båtførarbevis</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Båtførerbevis</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Norwegian boating licence</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Båtførarprøven</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Båtførerprøven</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Er du født 01.01.1980 eller seinare, og skal føre båt med meir enn 25 hk eller over 8 meter lengde trenger du båtførarbevis</skos:note>
+      <skos:note xml:lang="nb">Er du født 01.01.1980 eller senere, og skal føre båt med mer enn 25 hk eller over 8 meter lengde trenger du båtførerbevis</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forerkort-og-sertifikat"/>
+   </rdf:Description>
+</rdf:RDF>

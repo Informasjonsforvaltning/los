@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnepensjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Barnepensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnepensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Childrens pension</skos:prefLabel>
+      <skos:note xml:lang="nb">En ytelse til barn som har mistet en eller begge foreldrene. Pensjonen skal sikre barnet inntekt til livsopphold.</skos:note>
+      <skos:note xml:lang="nn">En yting til barn som har mista ein eller begge foreldra. Pensjonen skal sikre barnet inntekt til livsopphald.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

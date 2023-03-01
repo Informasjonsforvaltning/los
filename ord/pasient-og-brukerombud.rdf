@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/pasient-og-brukerombud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Ombudsman for patients</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Pasient- og brukarombod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Pasient- og brukerombud</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Pasienteombod</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pasientklage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pasientklage</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pasientombud</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Helsetilsynet i fylket kan etter forspurnad frå pasient eller pårørande vurdere om helsepersonell i spesialisthelsetenesta har gitt forsvarleg behandling. Ein eventuell klage skal sendast til Statens helsetilsyn for vurdering etter helsepersonelllova.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/klage-pa-helse--og-omsorgstjenester"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/pasientskadeerstatning"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/pasientrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

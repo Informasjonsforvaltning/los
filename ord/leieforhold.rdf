@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/leieforhold">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Leieforhold</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Leigeforhold</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Rent conditions</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Framleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Framleige</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husleiekontrakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husleige</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husleigekontrakt</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Avtalar om bruksrett til husrom mot vederlag.</skos:note>
+      <skos:note xml:lang="nb">Avtaler om bruksrett til husrom mot vederlag.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/leie-og-utleie"/>
+   </rdf:Description>
+</rdf:RDF>

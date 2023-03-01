@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilskudd-til-friluftsliv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Funding for the outdoors</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskot til friluftsliv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskudd til friluftsliv</skos:prefLabel>
+      <skos:note xml:lang="nn">Tilskot til tiltak som fremjar bruk av natur og friluftsområde.</skos:note>
+      <skos:note xml:lang="nb">Tilskudd til tiltak som fremmer bruk av natur og friluftsområder.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/friomrade"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/miljotilskudd"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

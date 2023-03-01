@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/mobilitetstilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Mobilitetstilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Mobilitetstilbud</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Mobility services</skos:prefLabel>
+      <skos:altLabel xml:lang="nn">Transporttilbod</skos:altLabel>
+      <skos:altLabel xml:lang="nb">Transporttilbud</skos:altLabel>
+      <skos:hiddenLabel xml:lang="nb">Kollektivtilbod</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kollektivtilbud</skos:hiddenLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikk-og-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/drivstoff-og-ladestasjoner"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/lokasjonstjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/miljovennlig-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/parkering-og-hvileplasser"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/reisebillett"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/reisegaranti"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ruteinformasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ruteplanlegger"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skoleskyss"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/takster-og-kjopsinformasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-transport"/>
+   </rdf:Description>
+</rdf:RDF>

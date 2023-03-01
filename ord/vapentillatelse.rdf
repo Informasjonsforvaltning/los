@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vapentillatelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Våpenløyve</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Våpentillatelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Weapons permit</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Våpenkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Våpenkort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Våpenløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Våpenløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Våpensøknad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Våpensøknad</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/jakt-og-fangst"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/personnavn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">First names</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Personnamn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Personnavn</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Etternamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Etternavn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Folkeregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Folkeregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fornavn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Førenamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mellomnamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mellomnavn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Namneendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Navneendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Slektsnamn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Slektsnavn</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Melding om å ta, endre eller sløyfe namn skal sendast til folkeregisteret. Alle skal ha førenamn og eitt enkelt eller dobbelt etternamn. I tillegg kan ein ha mellomnamn. Første gongs namneval må skje innan barnet fyller seks månader.</skos:note>
+      <skos:note xml:lang="nb">Melding om å ta, endre eller sløyfe navn skal sendes til folkeregisteret. Alle skal ha forenavn og eitt enkelt eller dobbelt etternavn. I tillegg kan en ha mellomnavn. Første gangs navneval må skje innen barnet fyller seks måneder.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/personopplysninger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samliv"/>
+   </rdf:Description>
+</rdf:RDF>

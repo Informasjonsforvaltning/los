@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/barnetrygd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Barnetrygd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Barnetrygd</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Child allowance</skos:prefLabel>
+      <skos:note xml:lang="nn">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</skos:note>
+      <skos:note xml:lang="nb">Barnetrygd skal bidra til å dekke utgifter til forsørgelse av barn</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+   </rdf:Description>
+</rdf:RDF>

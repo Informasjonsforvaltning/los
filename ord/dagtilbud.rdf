@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/dagtilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Dagtilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Dagtilbud</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Daytime activities</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Dagopphald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dagopphold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dagsenter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dagsenter</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit tilbod til heimebuande eldre, funksjonshemma m.fl. Dagsentera skal gje deltaking i sosialt fellesskap, hindre isolasjon og gje høve til auka meistring og utvikling av funksjonsnivå.</skos:note>
+      <skos:note xml:lang="nb">Et tilbud til hjemmeboende eldre, funksjonshemmede m.fl. Dagsenterne skal gi deltakelse i sosialt fellesskap, hindre isolasjon og gi anledning til økt mestring og utvikling av funksjonsnivå.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

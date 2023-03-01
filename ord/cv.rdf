@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/cv">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">CV</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">CV</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">CV</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Curriculum vitae</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Curriculum vitae</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kandidatsøk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kandidatsøk</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit samandrag over erfaringar og kvalifikasjonar fra utdanning og yrkesliv. Det er vanlig å leggje ved ein CV når ein søker på ein stilling. Ein CV inneheld vanlegvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og liknande.</skos:note>
+      <skos:note xml:lang="nb">Et sammendrag over en persons erfaringer og kvalifikasjoner fra utdanning og yrkesliv. Det er vanlig å legge ved en CV når man søker på en stilling. En CV inneholder vanligvis informasjon om personalia, utdanning og arbeidserfaring, kurs, fritidsinteresser og lignende.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidssoking"/>
+   </rdf:Description>
+</rdf:RDF>

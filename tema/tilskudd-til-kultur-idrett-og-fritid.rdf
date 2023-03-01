@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Funding for culture, sport and recreation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskot til kultur, idrett og fritid</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskudd til kultur, idrett og fritid</skos:prefLabel>
+      <skos:note xml:lang="nn">Tilskot og støtteordningar knytt til kultur, idrett og fritid.</skos:note>
+      <skos:note xml:lang="nb">Tilskudd og støtteordningar knytt til kultur, idrett og fritid.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur-idrett-og-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/idrettsmidler"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kulturmidler"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/narmiljotilskudd"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-friluftsliv"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-helse-og-eldre"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-tro-og-livssyn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ungdomsmidler"/>
+   </rdf:Description>
+</rdf:RDF>

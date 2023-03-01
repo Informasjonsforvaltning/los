@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/utdanningspermisjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Study leave</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Utdanningspermisjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Utdanningspermisjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Studiepermisjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Studiepermisjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Rett til heiltids- eller deltidspermisjon til arbeidstakarar som etter ei tid i arbeidslivet ønskjer seg meir utdanning. Kan krevjast for inntil tre år og er ein del av kompetansereformen.</skos:note>
+      <skos:note xml:lang="nb">Rett til heltids- eller deltidspermisjon til arbeidstakere som etter en tid i arbeidslivet ønsker seg mer utdanning. Kan kreves for inntil tre år og er en del av kompetansereformen.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/permisjonsordninger"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilrettelagt-arbeidstilbud">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Assisted job opportunities</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilrettelagd arbeidstilbod</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilrettelagt arbeidstilbud</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Brukarstyrt personleg assistanse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Brukerstyrt personlig assistanse</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen kan tilby og koordinere tiltak slik at yrkeshemma og utviklingshemma som har arbeidsevne og kapasitet, skal få varig og tilrettelagd arbeid etter enda utdanning.</skos:note>
+      <skos:note xml:lang="nb">Kommunen kan tilby og koordinere tiltak slik at yrkeshemmede og utviklingshemmede som har arbeidsevne og kapasitet, skal få varig og tilrettelagt arbeid etter endt utdanning.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

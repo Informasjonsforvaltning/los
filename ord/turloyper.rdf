@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/turloyper">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Trails</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Turløyper</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Turløyper</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Natursti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Natursti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelløyper</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelløyper</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sykkelstiar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sykkelstier</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turløype</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turløype</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tursti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tursti</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turvegkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turveikart</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein opparbeidde trasé for ferdsel til fots eller med sykkel, open for alle og halden ved like av kommunen eller ein privat organisasjon.</skos:note>
+      <skos:note xml:lang="nb">En opparbeidet trasé for ferdsel til fots eller med sykkel, tilgjengelig for alle og vedlikeholdt av kommunen eller en privat organisasjon.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/friomrade"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+   </rdf:Description>
+</rdf:RDF>

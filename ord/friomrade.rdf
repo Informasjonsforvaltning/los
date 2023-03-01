@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/friomrade">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Friområde</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Friområde</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public outdoor areas</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Friluftsområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Friluftsområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gapahuk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gapahuk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Marka</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Marka</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Markaområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Markaområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Park</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Park</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Telting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Telting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Teltplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teltplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Turområde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Turveg</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Eit geografisk avgrensa areal som er regulert av kommunen til friluftsliv. Regulering til friområde blir gjerne brukt for å sikre publikumet tilgang til attraktive areal nær tettbygd område. Det gjeld spesielt område som eignar seg for badeliv, sportsfiske, leik og turgåing og på ski.</skos:note>
+      <skos:note xml:lang="nb">Et geografisk avgrenset areal som er regulert av kommunen til friluftsliv. Regulering til friområde brukes gjerne for å sikre allmennheten tilgang til attraktive arealer nær tettbebygde områder. Det gjelder spesielt områder som egner seg for badeliv, sportsfiske, lek og turgåing til fots og på ski.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/balbrenning"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-friluftsliv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilskudd-til-viltformal"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/turloyper"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

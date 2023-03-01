@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/lag-og-foreninger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Clubs and societies</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Lag og foreiningar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Lag og foreninger</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Friviljuge organisasjonar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frivillige organisasjoner</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frivillige organisasjoner</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Private institusjoner med ideell, politisk eller annet formål.</skos:note>
+      <skos:note xml:lang="nn">Sjølveigande institusjonar, med føremål av ideell, politisk eller annan art.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/ny-i-norge"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-frivillig-organisasjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/idrettslag"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

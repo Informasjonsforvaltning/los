@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/forerkort-og-sertifikat">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Driving licences</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Førarkort og sertifikat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Førerkort og sertifikat</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikk-og-transport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/batforerbevis"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/beltekjoretoy"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/firehjuling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flysertifikat"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/forerkort"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fritidsskippersertifikat"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/internasjonalt-batsertifikat"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kjoreseddel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/snoskuter"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/truckforerbevis"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vannskuter"/>
+   </rdf:Description>
+</rdf:RDF>

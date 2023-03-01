@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/psykisk-helse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Mental health care</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Psykisk helse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Psykisk helse</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">BUP</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">BUP</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Barne- og ungdomspsykiatrisk poliklinikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barne- og ungdomspsykiatrisk poliklinikk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Barnepsykiatri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barnepsykiatri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">DPS</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">DPS</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Distriktspsykiatrisk senter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Distriktspsykiatrisk senter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Psykiatri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Psykiatri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Psykiske lidelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Psykiske lidingar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Psykolog</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Psykolog</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ungdomspsykiatri</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ungdomspsykiatri</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">I Opptrappingsplanen for psykisk helse er det tilrådd at distriktspsykiatriske sentre (DPS) skal stå for det allmennpsykiatriske tilbodet, kommunane skal tilby bustad og nødvendig omsorg, mens sentralsjukehusa skal gje eit tilbod dersom det er naudsynt med spesielt store ressursar. Det er viktig at det er eit tett samarbeid mellom disse aktørane. (Norge.no)</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-fritid"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

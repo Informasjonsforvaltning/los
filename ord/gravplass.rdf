@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gravplass">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cemetary</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gravplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gravplass</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Festa grav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Festegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Festegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Festet grav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frigrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frigrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravlund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravlund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Gravsted</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gravsted</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kirkegård</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kistegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kistegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kyrkjegard</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Minnelund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Minnelund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Urnegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Urnegrav</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Urnelund</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Urnelund</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Alle som har bopel i kommunen, har rett til fri gravplass i kommunen. Kirkelig fellesråd kan gi tillatelse til at også personer uten bopel i kommunen kan få gravplass.</skos:note>
+      <skos:note xml:lang="nn">Alle som har bustad i kommunen, har rett til fri gravplass i kommunen. Kyrkjeleg fellesråd kan gi løyve til at også personar utan bustad i kommunen kan få gravplass.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/dodsfall-og-gravferd"/>
+   </rdf:Description>
+</rdf:RDF>

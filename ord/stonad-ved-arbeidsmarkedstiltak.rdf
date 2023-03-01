@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/stonad-ved-arbeidsmarkedstiltak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Job creation grant</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Stønad ved arbeidsmarkedstiltak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Stønad ved arbeidsmarknadstiltak</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Borteboertillegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bortebuartillegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Flyttetilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Flyttetilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Individstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Individstønad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Reisetilskot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Reisetilskudd</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilskot til flytting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilskudd til flytting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsynstillegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsynstillegg</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Økonomisk yting ved deltaking i arbeidsmarknadstiltak. Basisyting og barnetillegg skal dekkje utgifter til livsopphald og vert gitt for dei dagane ein deltek i tiltaket.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsmarkedstiltak"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/okonomiske-ytelser-og-radgivning"/>
+   </rdf:Description>
+</rdf:RDF>

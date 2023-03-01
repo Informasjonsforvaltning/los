@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vegbygging">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Road building</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Vegbygging</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vegbygging</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Avkjøringstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avkjørsel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avkøyring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avkøyringsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avkøyrselløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Brobygging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Brubygging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Landbruksveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Landbruksveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Landbruksvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Landbruksvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsbilveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsbilveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogsbilvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogsveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogsveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogsvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skogveg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skogvei</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tunellbygging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tunnelbygging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegbygging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veibygging</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Løyve til bygging av private vegar som landbruksvegar og utvikling av det kommunale vegnettet.</skos:note>
+      <skos:note xml:lang="nb">Tillatelser til bygging av private veier som landbruksveier og utvikling av det kommunale veinettet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/privat-vei"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/private-reguleringsplaner"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/reguleringsplan"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/landbruk"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

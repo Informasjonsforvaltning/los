@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/narmiljotilskudd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Local initiative funding</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Nærmiljøtilskot</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Nærmiljøtilskudd</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillemidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tippemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tippemidler</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tilskot til tiltak og ulike anlegg i nærmiljøet, som til dømes fritidsklubb, ungdomskafé, bydelsanlegg, grendaleikeplassar, skuleområde og grøne areal i sentrumsområda.</skos:note>
+      <skos:note xml:lang="nb">Tilskudd til tiltak og ulike anlegg i nærmiljøet, som for eksempel fritidsklubb, ungdomskafé, bydelsanlegg, lekeplasser, skoleområder og grøntareal i sentrumsområder.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

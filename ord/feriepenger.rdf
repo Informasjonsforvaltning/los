@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/feriepenger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Feriepengar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Feriepenger</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Holiday pay</skos:prefLabel>
+      <skos:note xml:lang="nn">Feriepengar er ei godtgjersle ein arbeidstakar opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepeng er eit prosenttillegg til den løna som er utbetalt året før pengane skal utbetalast. Retten til feriepeng er nedfelt i ferielova.</skos:note>
+      <skos:note xml:lang="nb">Feriepenger er en godtgjørelse en arbeidstaker opparbeider seg rett til gjennom kalenderåret forut for ferieåret. Feriepenger er et prosenttillegg til den lønnen som er utbetalt året før pengene skal utbetales. Retten til feriepenger er nedfelt i ferieloven.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ferierettigheter"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntekt"/>
+   </rdf:Description>
+</rdf:RDF>

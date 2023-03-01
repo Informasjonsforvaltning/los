@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/avfallshandtering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Avfallshandtering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Avfallshåndtering</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Waste management</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/farlig-avfall"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kompostering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/renovasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/returordninger"/>
+   </rdf:Description>
+</rdf:RDF>

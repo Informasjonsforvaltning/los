@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/var-og-klima">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Vær og klima</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vêr og klima</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Weather and climate</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/flomvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/klima"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/klimakvote"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/klimatiltak"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skogbrannvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skredvarsel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/varvarsel"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/helsesykepleier">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Health nurse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Helsesjukepleiar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Helsesykepleier</skos:prefLabel>
+      <skos:note xml:lang="nn">Ein helsjukepleiar er ein sjukepleiar med vidareutdanning i helsefremjande og førebyggande arbeid på system- og individnivå og er eit tilbod til skuleelevar.</skos:note>
+      <skos:note xml:lang="nb">En helsykepleier er en sykepleier med videreutdanning i helsefremmende og forebyggende arbeid på system- og individnivå og er et tilbud til skoleelever.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

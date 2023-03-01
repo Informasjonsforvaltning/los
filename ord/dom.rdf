@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/dom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Criminal sentence</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Dom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Dom</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Anke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Anke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ankeerklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Ankeerklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Benådning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Betinget dom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Frifinnelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frifinning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Nåde</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Påanking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Påanking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ubetinget dom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vilkårsdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vilkårslaus dom</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Ei rettsavgjerd som avsluttar saka. I ei sivil sak vert kravet som er sett fram avgjort. I ei straffesak blir det avgjort om tiltalte er skuldig i ei straffbar handling og kva straff han i tilfelle skal ha.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/rettsvesen"/>
+   </rdf:Description>
+</rdf:RDF>

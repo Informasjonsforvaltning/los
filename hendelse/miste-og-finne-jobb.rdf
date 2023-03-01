@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/miste-og-finne-jobb">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">*</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Miste og finne jobb</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Miste og finne jobb</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsavtale"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsmarkedstiltak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsmiljo"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidssoking"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/cv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/dagpenger"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/etterutdanning-og-videreutdanning"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fagskoleutdanning"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ferierettigheter"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/grunnskole-for-voksne"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/hogskole-og-universitet"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/inkluderende-arbeidsliv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/lonn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/oppsigelse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/permittering"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/realkompetanse"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/samordna-opptak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skattekort"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stonad-ved-arbeidsmarkedstiltak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/studiefinansiering"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilleggsstønader-til-arbeidsrettede-tiltak"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/tilrettelegging-pa-arbeidsplassen"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/voksenopplaring"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/yrkesautorisasjon"/>
+   </rdf:Description>
+</rdf:RDF>

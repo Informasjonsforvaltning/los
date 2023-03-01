@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fritidsfiske">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Fritidsfiske</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fritidsfiske</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Recreational fishing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Fiskaravgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fiskekort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fiskekort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fiskeravgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sportsfiske</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sportsfiske</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen sine avgjerder om fiskeavgifter og fiskekort.</skos:note>
+      <skos:note xml:lang="nb">Kommunens bestemmelser om fiskeavgifter og fiskekort.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/plantevern">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Plant protection</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Plantevern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Plantevern</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Giftnemnda</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Giftnemnda</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plantehelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plantehelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plantevernavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plantevernavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plantevernmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plantevernmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plantevernmiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plantevernmidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Plantevernplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Plantevernplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sprøytemiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sprøytemiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sprøytemiddel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sprøytemidler</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kjøp og bruk av plantevernmiddel krev gyldig autorisasjonsprov.</skos:note>
+      <skos:note xml:lang="nb">Kjøp og bruk av plantevernmidler krever gyldig autorisasjonsbevis.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/skadedyr"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/landbruk"/>
+   </rdf:Description>
+</rdf:RDF>

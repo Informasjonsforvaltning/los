@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/studiefinansiering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Student finances</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Studiefinansiering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Studiefinansiering</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skole-og-utdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stipend"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/studielan"/>
+   </rdf:Description>
+</rdf:RDF>

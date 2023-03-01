@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/studielan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Student loan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Studielån</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Studielån</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Legat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Legat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lån</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lånekassa</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lånekassa</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lånekassa</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lånekassen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Statens lånekasse for utdanning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Statens lånekasse for utdanning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Stipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stipend</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Økonomiske støtte i form av stipend og/eller lån. Blir gitt til elever og studenter i videregående og høyere utdanning.</skos:note>
+      <skos:note xml:lang="nn">Økonomiske støtte i form av stipend og/eller lån. Vert gitt til elevar og studentar i vidaregåande og høgare utdanning.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/studiefinansiering"/>
+   </rdf:Description>
+</rdf:RDF>

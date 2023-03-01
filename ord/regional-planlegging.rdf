@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/regional-planlegging">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Regional planlegging</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Regional planlegging</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Regional planning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fylkesplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fylkesplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Interkommunalt plansamarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Interkommunalt plansamarbeid</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Regionale planer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Regionale planer</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Fylkesplanlegging er heimla i plan- og bygningslova og er eit verkemiddel for å utvikle fylket. Kan m.a. innehalde retningslinjer for bruken av areal og naturressursar som har vesentleg verknad ut over grensene for ein kommune eller som må sjåast i samanheng med for fleire kommunar. Planane blir til i ein prosess leia av fylkeskommunen, og Fylkestinget vedtek planane.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fylkesdelplan"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fylkesplan"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

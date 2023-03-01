@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/brann">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Brann</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Brann</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fire</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Brannfarleg vare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Brannfarlig vare</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Brannvesen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Brannvesen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eksplosiv</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Eksplosiver</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eldstad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Ildsted</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Sprengstoff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sprengstoff</skos:hiddenLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bekymringsmelding-om-brannsikkerhet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/branntilsyn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/feiing"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fyrverkeri"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/melding-om-overnatting"/>
+   </rdf:Description>
+</rdf:RDF>

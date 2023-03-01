@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/slektsforskning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Genealogy</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Slektsforsking</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Slektsforskning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Slektsforsking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Slektsforsking</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Kartlegging av forfedre og deira samtid ved hjelp av ressursar som til dømes kyrkjebøker, tingbøker, folketeljingar og emigrantprotokollar.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

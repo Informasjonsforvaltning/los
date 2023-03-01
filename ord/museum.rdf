@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/museum">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Museum</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Museum</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Museums</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bygdesamling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bygdesamling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bygdetun</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bygdetun</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Museer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Museum</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utstilling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utstilling</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Institusjon eller bygning med samling av gjenstandar av kulturhistorisk, historisk, naturvitskapleg, teknisk eller kunstnerisk interesse. Er systematisk ordna og open for publikum.</skos:note>
+      <skos:note xml:lang="nb">Institusjon eller bygning med samling av gjenstander av kulturhistorisk, historisk, naturvitenskaplig, teknisk eller kunstnerisk interesse. Er systematisk ordnet og åpen for publikum.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kultur"/>
+   </rdf:Description>
+</rdf:RDF>

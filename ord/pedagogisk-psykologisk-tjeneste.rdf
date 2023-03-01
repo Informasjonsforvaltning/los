@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/pedagogisk-psykologisk-tjeneste">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Educational-psychological service</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Pedagogisk-psykologisk teneste</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Pedagogisk-psykologisk tjeneste</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Audiopedagog</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Audiopedagog</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Logoped</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Logoped</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">PP-teneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">PP-tjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">PPT</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">PPT</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Alle kommunar og fylkeskommunar skal ha ei pedagogisk-psykologisk teneste. Born/elevar under 15 år kan visast til tenesta av føresette eller i samråd med barnehage/skule. Unge over 15 år kan sjølv ta initiativ til kontakt med tenesta, eventuelt i samarbeid med skulen. Den pedagogisk-psykologiske tenesta skal sørgje for at det vert utarbeidd ei sakkunnig vurdering om behov for spesialpedagogiske tiltak.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnehage"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/voksenopplaring"/>
+   </rdf:Description>
+</rdf:RDF>

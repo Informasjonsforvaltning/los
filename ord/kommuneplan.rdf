@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kommuneplan">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Kommuneplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kommuneplan</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Municipal plan</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Arealdelen til kommuneplanen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arealplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arealplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Detaljregulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Detaljregulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Føresegner til kommuneplanen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommuneplanbestemmelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommuneplanens arealdel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kommuneplanens samfunnsdel</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Næringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Næringsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Områderegulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Områderegulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oversiktsplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oversynsplanlegging</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samfunnsdelen til kommuneplanen</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Samfunnsplan</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samfunnsplan</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommuneplan er styrande for all planlegging i kommunen. Planen skal skape langsiktigheit og forutsigbarheit i politikk og arealbruk for kommunen sine innbyggjarar. Ei effektiv planlegging føreset kontakt og samspel mellom kommunen, private lokale interesser og statlege og fylkeskommunale organ under utarbeidinga av planane. Gjennom opne møter, informasjon og høyring søkjer kommunen å stimulere til debatt og medverknad før avgjerd fattast.</skos:note>
+      <skos:note xml:lang="nb">Kommuneplan er styrende for all planlegging i kommunen. Planen skal skape langsiktighet og forutsigbarhet i politikk og arealbruk for kommunens innbyggere. En effektiv planlegging forutsetter kontakt og samspill mellom kommunen, private lokale interesser og statlige og fylkeskommunale organer under utarbeidingen av planene. Gjennom åpne møter, informasjon og høring søker kommunen å stimulere til debatt og medvirkning før vedtak fattes.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/planer"/>
+   </rdf:Description>
+</rdf:RDF>

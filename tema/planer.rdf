@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/planer">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Planar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Planer</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Plans</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygg-og-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fylkesdelplan"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fylkesplan"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kommunedelplan"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kommuneplan"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/private-reguleringsplaner"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/regional-planlegging"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/reguleringsplan"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/temaplan"/>
+   </rdf:Description>
+</rdf:RDF>

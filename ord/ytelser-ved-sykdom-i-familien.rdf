@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ytelser-ved-sykdom-i-familien">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Benefits for familiy illness</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ytelser ved sykdom i familien</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ytingar ved sjukdom i familien</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Omsorgspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Omsorgspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Opplæringspengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Opplæringspenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Pleiepengar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Pleiepenger</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med barns eller barnepassers sykdom, barns funksjonshemning og pleie av nærstående i livets sluttfase, som omfatter pleiepenger, omsorgspenger, opplæringspenger.</skos:note>
+      <skos:note xml:lang="nn">Bidra til å dekke bortfall av arbeidsinntekt for yrkesaktive i forbindelse med sjukdom til barn eller barnepassar, barn som har funksjonshemning og pleie av nærståande i livet sin sluttfase, som omfattar pleiepengar, omsorgspengar, opplæringspengar.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familieytelser"/>
+   </rdf:Description>
+</rdf:RDF>

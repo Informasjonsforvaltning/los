@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/bygg-og-eiendom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Building and property</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Bygg og eiendom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bygg og eigedom</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/bygging"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/flytting"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/kjop-og-salg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/leie-og-utleie"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/planer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom"/>
+      <skos:broadMatch rdf:resource="http://http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+   </rdf:Description>
+</rdf:RDF>

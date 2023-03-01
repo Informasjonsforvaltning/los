@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hjemmesykepleie">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Heimesjukepleie</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Hjemmesykepleie</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Home nurse</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Livshjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Livshjelp</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Psykiatrisk heimesjukepleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Psykiatrisk hjemmesykepleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Terminal pleie</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Terminal pleie</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Sjukepleie for heimebuande pasientar. Tenesta kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, sjuke, funksjonshemma osb. Arbeidet vert utført av sjukepleiarar eller andre helsearbeidarar. Tenesta er gratis.</skos:note>
+      <skos:note xml:lang="nb">Sykepleie for hjemmeboende pasienter. Tjenesten kan omfatte sårbehandling, pleie, medikamenthandtering osv. for eldre, syke, funksjonshemma osv. Arbeidet blir utført av sykepleiere eller andre helsearbeidere. Tjenesten er gratis.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

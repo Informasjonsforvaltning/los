@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tannhelsetjeneste">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Dental health service</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tannhelseteneste</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tannhelsetjeneste</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjeveortopedi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjeveortopedi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Periodontitt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Periodontitt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skoletannlege</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skuletannlege</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tannbehandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tannbehandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tannkjøtsjukdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tannkjøttsykdom</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tannlegevakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tannlegevakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tannpleiar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tannpleier</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tannregulering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tannregulering</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Helsetilbod tilrettelagt for å fremje god tannhelse hos innbyggjarane. Prioriterte grupper får gratis behandling. Fylkeskommunen har ansvaret for den offentlege tannhelsetenesta.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

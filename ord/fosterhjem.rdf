@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fosterhjem">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Foster home</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fosterheim</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fosterhjem</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Beredskapsheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Beredskapshjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familieheim</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familiehjem</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fosterbarn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fosterbarn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fosterforeldre</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fosterforeldre</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilsynsførar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilsynsfører</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein fosterheim er ein privat heim som tek mot barn og unge til oppfostring i kortare eller lengre tid. Medrekna fosterheimsavtale, økonomiske vilkår m.m.</skos:note>
+      <skos:note xml:lang="nb">Et fosterhjem er et privat hjem som tar imot barn og unge til oppfostring i kortere eller lengre tid. Medregnet fosterhjemsavtale, økonomiske vilkår m.m.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

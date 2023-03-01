@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/samboerskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Cohabitation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Samboerskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sambuarskap</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Samboerkontrakt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sambuarkontrakt</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Det er inga generell likebehandling av sambuarar og ektepar i lovverket. Sambuarar blir behandla som ektefellar på enkelte område og som einslege på andre. Medrekna sambuarkontrakt.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/samliv"/>
+   </rdf:Description>
+</rdf:RDF>

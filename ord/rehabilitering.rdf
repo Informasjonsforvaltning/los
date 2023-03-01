@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rehabilitering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Rehabilitation</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rehabilitering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Rehabilitering</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Attføring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Attføring</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Hjelp til personar med samansette behov som har si årsak i nye skader, t.d. hjerneslag, trafikkskade o.l.</skos:note>
+      <skos:note xml:lang="nb">Hjelp til personer med sammensatte behov på grunn av nye skader, som hjerneslag, trafikkskade o.l.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avlastning-og-stotte"/>
+   </rdf:Description>
+</rdf:RDF>

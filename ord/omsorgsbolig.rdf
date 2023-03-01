@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/omsorgsbolig">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Omsorgsbolig</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Omsorgsbustad</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sheltererd housing</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Tilrettelagt bolig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tilrettelagt bustad</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ein omsorgsbustad er ein bustad som er tilpassa rørslehemma og lagt til rette slik at bebuaren skal kunne ta imot heildøgnsomsorg etter behov. Bustaden er bebuaren sin eigen heim. Bebuaren betalar husleige og får heimetenester på same vilkår som for andre heimebuande.</skos:note>
+      <skos:note xml:lang="nb">En omsorgsbolig er en bolig som er tilpasset bevegelseshemmede og tilrettelagt slik at beboeren skal kunne motta heldøgns omsorg etter behov. Boligen er beboerens eget hjem. Beboeren betaler husleie og mottar hjemmetjenester på samme vilkår som for andre hjemmeboende.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/botilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

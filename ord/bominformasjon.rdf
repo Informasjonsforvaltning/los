@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/bominformasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Bominformasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Bominformasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Toll information</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Autopass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Autopass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bompeng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bompenger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Bomstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bomstasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Trafikantbetaling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Trafikantbetaling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegprising</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veiprisning</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Bompengefinansiering er ein finansieringsmodell for vegprosjekt der ei vegstrekning blir bygd, eller utbetra, ved at brukarane av vegen betaler ei avgift kvar gong dei passerer eit betalingspunkt.</skos:note>
+      <skos:note xml:lang="nb">Bompengefinansiering er en finansieringsmodell for veiprosjekter der en veistrekning bygges, eller utbedres, ved at brukerne av veien betaler en avgift hver gang de passerer et betalingspunkt.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/eiendom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Eiendom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Eigedom</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Property</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygg-og-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/adressetildeling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/boplikt"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/bruksenhetsnummer"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/deling-av-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/eiendomsregister"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/feiing"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fredet-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/heftelser-pa-eiendom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kommunale-avgifter-og-gebyr"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/oppmaling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/privat-vei"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/renovasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/rettighetsregister"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/seksjonering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vann-og-avlop"/>
+   </rdf:Description>
+</rdf:RDF>

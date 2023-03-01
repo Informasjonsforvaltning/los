@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gebyr-for-byggesak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Fee for construction case</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Gebyr for byggesak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gebyr for byggjesak</skos:prefLabel>
+      <skos:note xml:lang="nb">Kommunens politisk vedtatte regulativ for fastsettelse av gebyr og betalingssatser.</skos:note>
+      <skos:note xml:lang="nn">Kommunens politisk vedtekne regulativ for fastsetjing av gebyr og betalingssatsar.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

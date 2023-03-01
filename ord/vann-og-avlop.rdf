@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vann-og-avlop">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Vann og avløp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vatn og avløp</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Water and drain</skos:prefLabel>
+      <skos:note xml:lang="nn">Kommunen sørger for tilkobling til det offentlige anlegget for vann og avløp.</skos:note>
+      <skos:note xml:lang="nb">Kommunen sørgjer for tilkopling til det offentlege anlegget for vatn og avløp.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

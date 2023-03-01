@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/piggdekk">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Piggdekk</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Piggdekk</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Studded tyres</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bildekk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bildekk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Dekk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Dekk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjetting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oblat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oblat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Piggdekkavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Piggdekkavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Piggdekkgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Piggdekkgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Piggdekkoblat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Piggdekkoblat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Piggdekkpant</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Piggdekkpant</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Piggdekkretur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Piggdekkretur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vinterdekk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vinterdekk</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen kan fastsetje gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarleg vegstøv.</skos:note>
+      <skos:note xml:lang="nb">Kommunen kan fastsette gebyr for bruk av piggdekk ettersom piggdekk skaper miljøfarlig veistøv.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/kjoretoy"/>
+   </rdf:Description>
+</rdf:RDF>

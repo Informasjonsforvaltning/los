@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fastsettelse-av-foreldreskap">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Determination of parenthood</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Fastsetjing av foreldreskap</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fastsettelse av foreldreskap</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Farskap</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Farskap</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Foreldreansvar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Foreldreansvar</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Foreldreskap omfattar fastsettelse av farskap og medmorskap.</skos:note>
+      <skos:note xml:lang="nb">Foreldreskap omfatter fastsettelse av farskap og medmorskap.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/farskapserklaring"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

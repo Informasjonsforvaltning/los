@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/akvakultur">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Akvakultur</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Akvakultur</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fish farming</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fiskeoppdrett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fiskeoppdrett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Havbruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Havbruk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Oppdrettsnæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Oppdrettsnæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skaldyroppdrett</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skalldyroppdrett</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Oppaling (oppdretting) av fisk eller skaldyr for sal, vanlegvis for å bli brukt som mat.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

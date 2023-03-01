@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/dyrehold">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Dyrehald</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Dyrehold</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pet keeping</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Husdyrhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husdyrhold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kjæledyr og sportsdyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kjæledyr og sportsdyr</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Dyr som menneska held for glede og trivsel, ikkje for å produsere mat eller utnytte arbeidskrafta frå.</skos:note>
+      <skos:note xml:lang="nb">Dyr som mennesker har for glede og trivsel, ikke for å produsere mat eller arbeidskraft.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/fritid"/>
+   </rdf:Description>
+</rdf:RDF>

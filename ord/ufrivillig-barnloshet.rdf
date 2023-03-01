@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ufrivillig-barnloshet">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Involuntary childlessness</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ufrivillig barnløshet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ufrivillig barnløyse</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Assistert befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Assistert befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">In vitro-befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">In vitro-befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kunstig befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kunstig befruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Prøverørsbefruktning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Prøverøyrsbefrukting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Prøverøyrsbefrukting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Prøverøyrsbefruktning</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Infertilitet hos ein eller begge partane i eit parforhold, eller kombinasjon av dårlege vilkår for å få barn hos begge to.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/adopsjon"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/svangerskap"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/badeplass">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Badeplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Badeplass</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Bathing area</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Bad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Bad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Badestrand</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Badestrand</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Badetemperaturar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Badetemperaturer</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Badevann</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Badevatn</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Basseng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Basseng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svømmeanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svømmebasseng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Svømmehall</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Symjeanlegg</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Symjebasseng</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Symjehall</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+   </rdf:Description>
+</rdf:RDF>

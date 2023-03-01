@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/personvern">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Personal data protection</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Personvern</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Personvern</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Kredittopplysningar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kredittopplysninger</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overvaking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overvaking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overvåking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overvåkning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Persondata</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Persondata</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Personregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Personregister</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tausheitserklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tausheitserklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Taushetserklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Taushetsplikt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teielovnad</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Teieplikt</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Personopplysningslova inneheld rettar om opplysninar om ein sjølv. Det er ikkje høve til å bruke informasjon om den einskilde utan at det vert gjeve samtykke til at opplysningane kan nyttast. Verksemder skal sikra opplysningane.</skos:note>
+      <skos:note xml:lang="nb">Personopplysningsloven inneholder rettigheter om personlige opplysninger. Det er ikke lov til å bruke informasjon om den enkelte uten at det blir gitt samtykke til at opplysningene kan brukes. Virksomheter skal sikre opplysningene.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/apenhet"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/personopplysninger"/>
+   </rdf:Description>
+</rdf:RDF>

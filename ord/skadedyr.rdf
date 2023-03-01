@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skadedyr">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Pests and vermin</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skadedyr</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skadedyr</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Flått</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Flått</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Hodelus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Hovudlus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Husbukk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Husbukk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kakerlakk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kakerlakk</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Lus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Maur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Maur</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Mus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Mus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Møll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Møll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rotter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rotter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadedyrbekjempelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadedyrbekjemping</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadedyrkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadedyrkontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadedyrsbekjempelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadedyrsbekjempelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skadedyrskontroll</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skadedyrskontroll</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Motarbeiding av skadedyr.</skos:note>
+      <skos:note xml:lang="nb">Motarbeiding av skadedyr.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/plantevern"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/folkehelse"/>
+   </rdf:Description>
+</rdf:RDF>

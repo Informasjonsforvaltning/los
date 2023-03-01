@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/parkering-og-hvileplasser">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Parkering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Parkering og hvileplasser</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Parking and rest area</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Avgiftsparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Avgiftsparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Innfartsparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Innfartsparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsavgift</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringsbot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsbot</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringsgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsgebyr</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringskort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringskort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsløyve</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Parkeringsplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Parkeringstillatelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Rasteplassar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Rasteplasser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utfartsparkering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utfartsparkering</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Det skal vere eitt felles regelverk for all parkeringsverksemd. Regelverket skal syte for lik skilting og like reaksjonar ved brot på føresegnene. Det er også ei obligatorisk godkjenningsordning som gjeld både for kommunar, private parkeringsselskap og andre.</skos:note>
+      <skos:note xml:lang="nb">Parkeringstillatelser, parkeringsgebyr, regelverk for gateparkering, parkering for forflytningshemmede, klage på parkeringsbot, betaling av parkeringsbot.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/yrkestransport"/>
+   </rdf:Description>
+</rdf:RDF>

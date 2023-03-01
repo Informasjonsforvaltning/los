@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/hendelse/fa-barn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/hendelse"/>
+      <skos:prefLabel xml:lang="en">To have children</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Å få barn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Å få barn</skos:prefLabel>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/barnehageplass"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/barnetrygd"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/farskapserklaring"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fastsettelse-av-foreldreskap"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fodselsattest"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fodselsnummer"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/foreldrepermisjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/helsestasjon"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/pass-og-visum"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/personnavn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/stonad-til-enslig-forsorger"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/svangerskapsomsorg"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/sykehus"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ufrivillig-barnloshet"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ytelser-ved-svangerskap-fodsel-og-adopsjon"/>
+   </rdf:Description>
+</rdf:RDF>

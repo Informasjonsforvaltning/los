@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kystforvaltning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Coastal management</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kystforvaltning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kystforvaltning</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fyrlys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fyrlys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Losteneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Lostjeneste</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Navigasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Navigasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Navigering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Navigering</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Administrasjon av lover og reglelverk som gjeld for kysten vår. Til dette høyrer trygg ferdsel på sjøen, fyr, merkjer og losteneste.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bat-havn-og-kyst"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/matlevering">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Matlevering</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Matlevering</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Meals on wheels</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Matombringing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Matombringning</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Tillbod til heimebuande eldre eller funksjonshemma som pga. alder eller andre årsaker ikkje er i stand til å lage mat.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/trygghet-i-hjemmet"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/omsorgstjenester"/>
+   </rdf:Description>
+</rdf:RDF>

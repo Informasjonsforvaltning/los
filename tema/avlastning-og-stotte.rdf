@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/avlastning-og-stotte">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Avlasting og støtte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Avlastning og støtte</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Care relief and support</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helse-og-omsorg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/korttidsopphold"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ledsagerbevis"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgsavlastning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgsstonad"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/personlig-assistent"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/radgivning-og-kurs"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/rehabilitering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stotte-til-familier"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/stottekontakt"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-arbeidstilbud"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tilrettelagt-fritid"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tolketjeneste"/>
+   </rdf:Description>
+</rdf:RDF>

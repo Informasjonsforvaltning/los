@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/oppsigelse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Oppseiing</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Oppsigelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Resignation</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Avskil</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Avskjed</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overflødig</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overtallig</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Oppseiing er den vanlegaste måten å avslutte eit arbeidsforhold på. Det finnast faste reglar for korleis ei oppseeing skal skje. Desse reglane finn ein i arbeidsmiljølova.</skos:note>
+      <skos:note xml:lang="nb">Oppsigelse er den vanligste måten å avslutte et arbeidsforhold på. Det finnes faste regler for hvordan en oppsigelse skal skje. Disse reglene finner man i arbeidsmiljøloven.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ventelonn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

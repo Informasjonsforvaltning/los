@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/naringsareal">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Business space</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Næringsareal</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Næringsareal</skos:prefLabel>
+      <skos:note xml:lang="nn">Offentleg eigd areal som kan tilbydast lokalt næringsliv.</skos:note>
+      <skos:note xml:lang="nb">Offentlig eid areal som kan tilbys lokalt næringsliv.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/private-reguleringsplaner"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/reguleringsplan"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/temaplan"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsutvikling"/>
+   </rdf:Description>
+</rdf:RDF>

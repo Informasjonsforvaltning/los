@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/gatelys">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Gatelys</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Gatelys</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Street lighting</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Gatebelysning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Gatelys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegbelysning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veglys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Veglys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Veglys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Veglys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Veglys</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veibelysning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veilys</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Henvendelsar til kommunen om feil på gatelys.</skos:note>
+      <skos:note xml:lang="nb">Henvendelser til kommunen om feil på gatelys.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/veg-og-vegregulering"/>
+   </rdf:Description>
+</rdf:RDF>

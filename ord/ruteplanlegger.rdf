@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/ruteplanlegger">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Route planner</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Ruteplanlegger</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Ruteplanleggjar</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vegkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegkart</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veikart</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Automatisert informasjon på Internett der ein kan få hjelp til val av transportmiddel og informasjon om reisetider mellom ulike reisemål.</skos:note>
+      <skos:note xml:lang="nb">Automatisert informasjon på Internett der en kan få hjelp til valg av transportmiddel og informasjon om reisetider mellom ulike reisemål.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/mobilitetstilbud"/>
+   </rdf:Description>
+</rdf:RDF>

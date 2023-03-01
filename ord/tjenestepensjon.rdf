@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tjenestepensjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Public service pension</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tenestepensjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tjenestepensjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Samordning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Samordning</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ei alderspensjons-opptening i tillegg til folketrygda. Arbeidsgjevarar har plikt til å oppretta ei pensjonsordning for tilsette og personar som utfører arbeid i foretaket.</skos:note>
+      <skos:note xml:lang="nb">En alderspensjons-opptening i tillegg til folketrygden. Arbeidsgivere har plikt til å opprette en pensjonsordning for tilsette og personer som utfører arbeid i foretaket.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

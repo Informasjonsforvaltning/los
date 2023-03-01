@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skolehelsetjeneste">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">School health service</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skolehelsetjeneste</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skulehelseteneste</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Helsesøster</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helsesøster</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skolelege</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skulelege</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Skulelækjar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Skulelækjar</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Tilbod om helsetenester til alle skuleelevar under 20 år. Gjev råd og rettleiing, gjennomfører helseundersøkingar og vaksinasjonar og kan, ved behov, vise vidare til anna helsepersonell som fastlege, tannlege eller til spesialist. Har også som oppgåve å fremje godt lærings- og arbeidsmiljø for elevane. Kommunen er ansvarleg for tenesta.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

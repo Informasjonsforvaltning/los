@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/hjelp-ved-overgrep">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Help-in-event-of-assault</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Hjelp ved overgrep</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Hjelp ved overgrep</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Barnehus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barnehus</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Barnemishandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barnemishandling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Familievald</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Familievold</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Incest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Incest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overgrepsmottak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overgrepsmottak</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Seksuelle overgrep</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Seksuelle overgrep</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Kommunen kan tilby beskyttelse og bistand ved vold og overgrep.</skos:note>
+      <skos:note xml:lang="nn">Kommunen kan tilby vern og hjelp ved vald og overgrep</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/akutt-hjelp"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/barnevern-og-foreldrestotte"/>
+   </rdf:Description>
+</rdf:RDF>

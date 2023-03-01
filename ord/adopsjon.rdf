@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/adopsjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Adopsjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Adopsjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Adoption</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Stebarnsadopsjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Stebarnsadopsjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Utanlandsadopsjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Utenlandsadopsjon</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Ta til seg eit barn som sitt eige.</skos:note>
+      <skos:note xml:lang="nb">Ta til seg et barn som sitt eget.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/ufrivillig-barnloshet"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

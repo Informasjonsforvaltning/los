@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/klimakvote">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Emission trading</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Klimakvote</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Klimakvote</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">CO2-kvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">CO2-kvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Klimaendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Klimaendring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Klimakalkulator</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Klimakalkulator</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Klimasårbarheit</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Klimasårbarhet</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Tillatelse til å sleppe ut eitt tonn CO2.</skos:note>
+      <skos:note xml:lang="nb">Tillatelse til å slippe ut ett tonn CO2.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/var-og-klima"/>
+   </rdf:Description>
+</rdf:RDF>

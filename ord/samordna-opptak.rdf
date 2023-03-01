@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/samordna-opptak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Norwegian Universities and Colleges Admissions Service (NUCAS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Samordna opptak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Samordna opptak</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Studieplass</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Studieplass</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Samordna opptak koordinerer opptak til høgskular og universitet i Noreg. Samordning av opptaket inneber at kvar søkjar berre får eitt tilbod om studieplass, og eventuelt tilbod om ventelisteplass.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hoyere-utdanning"/>
+   </rdf:Description>
+</rdf:RDF>

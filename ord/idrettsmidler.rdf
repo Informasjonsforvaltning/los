@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/idrettsmidler">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Idrettsmidlar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Idrettsmidler</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sports funding</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Aktivitetsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Arrangementsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Arrangementsstøtte</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Idrettsformål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Idrettsføremål</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Idrettsstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Idrettsstipend</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Spelemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Spillemidler</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tippemidlar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tippemidler</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Økonomisk stønad til idrettsføremål.</skos:note>
+      <skos:note xml:lang="nb">Økonomisk støtte til idrettsformål.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/starte-og-drive-bedrift"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/tilskudd-til-kultur-idrett-og-fritid"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/behandlingsreise">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Behandlingsreise</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Behandlingsreise</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Journey required to receive medical treatment</skos:prefLabel>
+      <skos:note xml:lang="nn">Utanlandsbehandling, dvs. behandling i utlandet ved manglande kompetanse i Noreg.</skos:note>
+      <skos:note xml:lang="nb">Utanlandsbehandling, dvs. behandling i utlandet ved manglende kompetanse i Norge.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/syketransport"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

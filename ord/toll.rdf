@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/toll">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Customs</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Toll</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Toll</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Fortolling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fortolling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grensepasseringsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grensepasseringsattest</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tolldeklarasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tolldeklarasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tollerklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tollerklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tollkreditt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tollkreditt</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tollkvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tollkvote</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tollsats</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tollsats</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tolltariff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tolltariff</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tollverdierklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tollverdierklæring</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Varefortegnelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vareoversikt</skos:hiddenLabel>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:note xml:lang="nn">Skatt på vareflaumen over ei grense. Ein skil mellom innførselstoll (skatt på importerte varer) og utførselstoll (skatt på eksporterte varer) og transittoll (skatt på gjennomførsel av utanlandske varer).</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/avgift"/>
+   </rdf:Description>
+</rdf:RDF>

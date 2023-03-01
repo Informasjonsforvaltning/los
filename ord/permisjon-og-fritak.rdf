@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/permisjon-og-fritak">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Leave of absence and exemptions</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Permisjon og fritak</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Permisjon og fritak</skos:prefLabel>
+      <skos:note xml:lang="nn">Permisjon er å gi eleven fri for ein periode etter søknad frå føresette eller elever over 18 år. Skulen kan gje fritak frå undervising eller vurdering i einskilde fag etter søknad frå føresette eller elever over 18 år.</skos:note>
+      <skos:note xml:lang="nb">Permisjon er å gi eleven fri for en periode etter søknad fra foresatte eller elever over 18 år. Fritak fra undervisning eller vurdering i enkelte fag kan gis etter søknad fra foresatte eller elever over 18 år.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

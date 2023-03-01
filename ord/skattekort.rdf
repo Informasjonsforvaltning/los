@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skattekort">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Skattekort</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skattekort</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Tax deduction card</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Frikort</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Frikort</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Skattekortet er eit elektronisk dokument som viser kor mykje skatt arbeidsgjevaren din skal trekkje før løna vert utbetalt til deg.</skos:note>
+      <skos:note xml:lang="nb">Skattekortet er et elektronisk dokument som viser hvor mye skatt arbeidsgiveren din skal trekke før lønnen blir utbetalt til deg.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/dodsfall-og-arv"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntekt"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skatt"/>
+   </rdf:Description>
+</rdf:RDF>

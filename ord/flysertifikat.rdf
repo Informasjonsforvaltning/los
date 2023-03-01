@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/flysertifikat">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Flysertifikat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Flysertifikat</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pilot's licence</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Helikopter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helikopter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helikoptersertifikat</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helikoptersertifikat</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Løyve til å føra fly og helikopter.</skos:note>
+      <skos:note xml:lang="nb">Tillatelse til å føre fly og helikopter.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forerkort-og-sertifikat"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/rettighetsregister">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Rettigheitsregister</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Rettighetsregister</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Rights registry</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnbok</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnbok</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnboka</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnboka</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Heftelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Heftelser</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Tinglysing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Tinglysing</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">Register over tinglyste rettigheter og heftelser i fast eiendom og borettslagsandeler. Ved tinglysing får man rettsvern etter prinsippet om "først i tid, best i rett". Grunnboken er et offentlig register over rettigheter og heftelser i Norge.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

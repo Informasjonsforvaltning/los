@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/foreldre-og-foresatte">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nn">Foreldre føresette</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Foreldre og foresatte</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Parents and guardians</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/familie-og-barn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/adopsjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/farskapserklaring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fastsettelse-av-foreldreskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/foreldrepermisjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/medmorskap"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/omsorgspermisjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/personnavn"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ytelser-til-foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

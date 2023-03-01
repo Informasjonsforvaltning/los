@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/vassdrag">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Vassdrag</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Vassdrag</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Waterways</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Eutrofiering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Eutrofiering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Fallrettar</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Fallrettigheter</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Kalking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Kalking</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Overgjødsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Overgjødsling</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Vassdragsforvaltning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vassdragsforvaltning</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunen sitt arbeid med forvalting av vassdrag og informasjon til grunneigarar.</skos:note>
+      <skos:note xml:lang="nb">Kommunens arbeid med forvaltning av vassdrag og informasjon til grunneiere.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

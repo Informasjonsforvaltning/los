@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/fredet-eiendom">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Culturally protected property</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Freda eigedom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Fredet eiendom</skos:prefLabel>
+      <skos:note xml:lang="nn">Kommunen kan avgjere at visse bygningar er bevaringsverdige, utan at dei er blitt freda av riksantikvaren. Sjølv om avgjerda ikkje gir formelt vern, vil det ha aktualitet for byggje- og rivesaker.</skos:note>
+      <skos:note xml:lang="nb">Kommunen kan beslutte at visse bygninger er bevaringsverdige, uten at de er blitt fredet av riksantikvaren. Selv om beslutningen ikke gir formelt vern, vil det ha betydning for bygge- og rivesaker.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

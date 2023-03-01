@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skolemiljo">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">School environment</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skolemiljø</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skulemiljø</skos:prefLabel>
+      <skos:note xml:lang="nb">Skolen har ansvar for å fremme elevenes helse, trivsel og læring. Ansvaret omfatter det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjelder også det psykososiale miljøet og problemer som mobbing, trakassering eller diskriminering.</skos:note>
+      <skos:note xml:lang="nn">Skulen har ansvar for å fremje helsa, trivselen og læringa til elevane. Ansvaret omfattar det fysiske miljøet, som bygning, uteareal og luftkvalitet. Det gjeld også det psykososiale miljøet og problema som mobbing, trakassering eller diskriminering.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+   </rdf:Description>
+</rdf:RDF>

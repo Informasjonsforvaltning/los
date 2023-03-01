@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/separasjon-og-skilsmisse">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Separasjon og skilsmisse</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Separasjon og skilsmisse</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Separation and divorce</skos:prefLabel>
+      <skos:note xml:lang="nn">Søknad om separasjon og skilsmisse skal sendast til fylkesmannen i det fylket de sist budde saman. De må først søkje om separasjon. Under separasjonstida er de fremdeles formelt gift. Ingen av kan difor inngå ekteskap på nytt i denne perioden. Etter eit år, kan ein eller begge søkje om skilsmisse.</skos:note>
+      <skos:note xml:lang="nb">Søknad om separasjon og skilsmisse skal sendes til fylkesmannen i det fylket dere sist bodde sammen. Dere må først søke om separasjon. Under separasjonstiden er dere fremdeles formelt gift. Ingen av kan derfor inngå ekteskap på nytt i denne perioden. Etter ett år, kan én eller begge søke om skilsmisse.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/ekteskap"/>
+   </rdf:Description>
+</rdf:RDF>

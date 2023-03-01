@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/helsetjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="en">Health services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Helsetenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Helsetjenester</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helse-og-omsorg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/alternativ-behandling"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/behandlingsreise"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/ergoterapi"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/europeisk-helsetrygdkort"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fengselshelsetjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/frikort-for-helsetjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/friskliv-og-mestring"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fysioterapi"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/helsestasjon"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/helsestasjon-for-ungdom"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/helsesykepleier"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/hjemmesykepleie"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/kiropraktikk"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/langvarige-helsetjenester"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/legehjelp"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/legemiddel"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/psykisk-helse"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/skolehelsetjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/svangerskapsomsorg"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sykehjem"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/sykehus"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/syketransport"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/tannhelsetjeneste"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/trygghet-i-hjemmet"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/vaksine"/>
+   </rdf:Description>
+</rdf:RDF>

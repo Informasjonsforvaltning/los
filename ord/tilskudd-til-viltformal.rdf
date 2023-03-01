@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilskudd-til-viltformal">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Funding for the wildlife</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilskot til viltformål</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Tilskudd til viltformål</skos:prefLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/friomrade"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/friluftsliv"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/miljotilskudd"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naturforvaltning"/>
+   </rdf:Description>
+</rdf:RDF>

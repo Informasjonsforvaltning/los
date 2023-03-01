@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/skattemelding-for-formue-og-inntektsskatt">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Skattemelding for formue- og inntektsskatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skattemelding for formue- og inntektsskatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Tax declaration for wealth tax and income tax</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Selvangivelse</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Sjølvmelding</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Melding om formue og inntekt som skal leverast som ledd i eigenfastsetting av skatt.</skos:note>
+      <skos:note xml:lang="nb">Melding om formue og inntekt som skal leveres som ledd i egenfastsetting av skatt.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/skatt"/>
+   </rdf:Description>
+</rdf:RDF>

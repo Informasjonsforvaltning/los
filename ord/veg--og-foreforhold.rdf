@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/veg--og-foreforhold">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Unexpected road events and conditions</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Veg- og føreforhold</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Veg- og føreforhold</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Brøyting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Brøyting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Glatt vegdekke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Glatt veidekke</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Salting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Salting</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Vegstandard</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Veistandard</skos:hiddenLabel>
+      <skos:note xml:lang="nn">**</skos:note>
+      <skos:note xml:lang="nb">**</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/trafikkinformasjon"/>
+   </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/boplikt">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Boplikt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Buplikt</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Residence obligation and concession</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Konsesjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Konsesjon</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Kommunen ønsker å legge til rette for levende lokalsamfunn og sikre bosettingen ved at boligeiendommer i størst mulig grad benyttes som helårsboliger. Ved kjøp av en bolig i et område med boplikt, er man forpliktet til å bo der. For å bli fritatt fra boplikten kan man søke om konsesjon.</skos:note>
+      <skos:note xml:lang="nn">Kommunen ønskjer å leggje til rette for levande lokalsamfunn og sikre busetjinga ved at bustadeigedomar i størst mogeleg grad blir nytta som heilårsbustader. Ved kjøp av ein bustad i eit område med buplikt, er ein forplikta til å bu der. For å bli friteke frå buplikta kan ein søkje om konsesjon.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/landbrukseiendom"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

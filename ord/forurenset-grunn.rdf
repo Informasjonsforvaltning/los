@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/forurenset-grunn">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Forureina grunn</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Forurenset grunn</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Polluted ground</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Deponi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Deponi</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Forureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Forurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnforureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Grunnforureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnforurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Grunnforurensning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordforureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordforurensing</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Jordforurensning</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Jordureining</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøvern</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøvern</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Den som skal bygge eller grave på en eiendom der det kan være forurenset grunn, har plikt til å sjekke omfanget av en eventuell forurensning. Kun fageksperter kan brukes til å foreta undersøkelsen. Der det finnes slik forurensning, skal det lages en egen tiltaksplan for hvordan grunnen skal sikres.</skos:note>
+      <skos:note xml:lang="nn">Den som skal byggje eller grave på ein eigedom der det kan vere forureina grunn, har plikt til å sjekke omfanget av ei eventuell forureining. Berre fagekspertar kan brukast til å gjennomføre undersøkinga. Der det finst slik forureining, skal det lagast ein eigen tiltaksplan for korleis grunnen skal sikrast.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/bygging"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/forurensning-og-straling"/>
+   </rdf:Description>
+</rdf:RDF>

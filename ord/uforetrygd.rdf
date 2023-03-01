@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/uforetrygd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Disability benefits</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Uføretrygd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Uføretrygd</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nn">Turistinformasjon</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Uførepensjon</skos:hiddenLabel>
+      <skos:note xml:lang="nb">Økonomisk yting som kan gis dersom det ikke er utsikt til bedring av inntekts- eller arbeidsevne.</skos:note>
+      <skos:note xml:lang="nn">Økonomisk yting som kan gjevast dersom det ikkje er utsikt til betring av inntekts- eller arbeidsevne.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/arbeidsavklaringspenger"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/inntektssikring"/>
+   </rdf:Description>
+</rdf:RDF>

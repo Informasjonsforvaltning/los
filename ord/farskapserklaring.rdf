@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/farskapserklaring">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Farskapserklæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Farskapserklæring</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Paternity declaration</skos:prefLabel>
+      <skos:note xml:lang="nn">Farskap til eit barn kan fastsetjast enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</skos:note>
+      <skos:note xml:lang="nb">Farskap til et barn kan fastsettes enten automatisk for barn født i ekteskap, ved erklæring eller ved dom. Far kan erklære farskap både før fødselen, i forbindelse med fødselen og etter fødselen.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/fastsettelse-av-foreldreskap"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/foreldre-og-foresatte"/>
+   </rdf:Description>
+</rdf:RDF>

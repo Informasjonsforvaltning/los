@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/betalingssatser-for-kommunale-tjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nn">Betalingssatsar for kommunale tenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Betalingssatser for kommunale tjenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Payment rates for municipal plans</skos:prefLabel>
+      <skos:note xml:lang="nn">Betaling for kommunale tenester, som feiing, vatn og avløpsgebyr, bostømming, osv.</skos:note>
+      <skos:note xml:lang="nb">Betaling for kommunale tjenester, som feiing, vann og avløpsgebyr, søppeltømming, osv.</skos:note>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/priser-og-gebyr-for-bygg-og-eiendom"/>
+   </rdf:Description>
+</rdf:RDF>

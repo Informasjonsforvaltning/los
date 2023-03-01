@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/kommunikasjon-og-kognisjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Commnication and cognition</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Kommunikasjon og kognisjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Kommunikasjon og kognisjon</skos:prefLabel>
+      <skos:note xml:lang="nn">Hjelpemiddel til personar med funksjonsnedsetting av tale og språk til personer som har skadar, er operert eller som har redusert funksjonsevne på grunn av sykdom.</skos:note>
+      <skos:note xml:lang="nb">Hjelpemidler til personer med funksjonsnedsettelse av tale og språk til personer som har skader, er operert eller som har redusert funksjonsevne på grunn av sykdom.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/hjelpemidler"/>
+   </rdf:Description>
+</rdf:RDF>

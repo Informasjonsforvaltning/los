@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/tilrettelegging-pa-arbeidsplassen">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="nb">Tilrettelegging på arbeidsplassen</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Tilrettelegging på arbeidsplassen</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Workplace facilitation</skos:prefLabel>
+      <skos:note xml:lang="nn">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</skos:note>
+      <skos:note xml:lang="nb">Dette omfatter brukeroppfølging og veiledning til de som trenger hjelp med å stå i arbeid eller være i aktivitet.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/miste-og-finne-jobb"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/arbeidsliv"/>
+   </rdf:Description>
+</rdf:RDF>

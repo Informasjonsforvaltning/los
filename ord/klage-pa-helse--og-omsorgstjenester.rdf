@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/klage-pa-helse--og-omsorgstjenester">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Complaint about medical care or health services</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Klage på helse- og omsorgstenester</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Klage på helse- og omsorgstjenester</skos:prefLabel>
+      <skos:note xml:lang="nn">Pasient eller pårørande har rett til å klage om dei er misfornøgd med utføringa av ein teneste eller om det er skjedd en feil. Om det er skjedd ei svært alvorleg hending, kan pårørande og/eller pasient melde det til Statens helsetilsyn.</skos:note>
+      <skos:note xml:lang="nb">Pasient eller pårørende har rett til å klage hvis de er misfornøyd med utførelsen av en tjeneste eller hvis det er skjedd en feil. Hvis det er skjedd en svært alvorlig hendelse, kan pårørende og/eller pasient melde det til Statens helsetilsyn.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/pasient-og-brukerombud"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/pasientrettigheter"/>
+   </rdf:Description>
+</rdf:RDF>

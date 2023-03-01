@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/energi">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:prefLabel xml:lang="nb">Energi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Energi</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Energy</skos:prefLabel>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/natur-klima-og-miljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/energibruk"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/energimerking"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/ord/fornybar-energi"/>
+      <skos:exactMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+   </rdf:Description>
+</rdf:RDF>

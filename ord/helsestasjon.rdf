@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/helsestasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Health clinic</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Helsestasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Helsestasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Barselgruppe</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Barselgruppe</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nb">Helsesøster</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Helsesøster</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Kommunalt tilbod om helsefremjande og førebyggjande helsearbeid.</skos:note>
+      <skos:note xml:lang="nb">Kommunalt tilbud om helsefremmende og forebyggende helsearbeid</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/alvorlig-sykt-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/hendelse/fa-barn"/>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/vaksine"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/helsetjenester"/>
+   </rdf:Description>
+</rdf:RDF>

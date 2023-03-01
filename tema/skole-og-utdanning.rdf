@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/tema/skole-og-utdanning">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/tema"/>
+      <skos:topConceptOf rdf:resource="https://psi.norge.no/los/struktur"/>
+      <skos:prefLabel xml:lang="en">Schools and education</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Skole og utdanning</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Skule og utdanning</skos:prefLabel>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/grunnskole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/hoyere-utdanning"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/skolehverdag"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/skolemiljo"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/studiefinansiering"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/videregaende-skole"/>
+      <skos:narrower rdf:resource="https://psi.norge.no/los/tema/voksenopplaring"/>
+      <skos:broadMatch rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+   </rdf:Description>
+</rdf:RDF>

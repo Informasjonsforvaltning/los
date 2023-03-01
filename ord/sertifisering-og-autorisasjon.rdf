@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="https://psi.norge.no/los/ord/sertifisering-og-autorisasjon">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="https://psi.norge.no/los/ontologi/ord"/>
+      <skos:prefLabel xml:lang="en">Certification and authorization</skos:prefLabel>
+      <skos:prefLabel xml:lang="nb">Sertifisering og autorisasjon</skos:prefLabel>
+      <skos:prefLabel xml:lang="nn">Sertifisering og autorisasjon</skos:prefLabel>
+      <skos:hiddenLabel xml:lang="nb">Miljøsertifisering</skos:hiddenLabel>
+      <skos:hiddenLabel xml:lang="nn">Miljøsertifisering</skos:hiddenLabel>
+      <skos:note xml:lang="nn">Sertifisering er ei ekstern verifisering av verksemda og blir kravd i nokre bransjar, for eksempel ISO-sertifisering. Ein autorisasjon provar ein kvalifikasjon og gir løyve til å drive eit yrke.</skos:note>
+      <skos:note xml:lang="nb">Sertifisering er en ekstern verifisering av virksomheten og kreves i noen bransjer, til dømes ISO-sertifisering. En autorisasjon beviser en kvalifikasjon og gir tillatelse til å drive et yrke.</skos:note>
+      <skos:related rdf:resource="https://psi.norge.no/los/ord/miljosertifisering"/>
+      <skos:broader rdf:resource="https://psi.norge.no/los/tema/naringsliv"/>
+   </rdf:Description>
+</rdf:RDF>
