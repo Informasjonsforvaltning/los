@@ -1,0 +1,26 @@
+name: Deploy LOS
+on:
+  push:
+    branches:
+    - master
+permissions:
+  contents: write  
+jobs:
+  build-and-deploy:                                             # a free machine-readable name for this job
+    runs-on: ubuntu-latest                                      # specify the base operating system  
+    steps:
+      - name: Checkout los repo                                 # fetch the contents of the repository
+        uses: actions/checkout@v3
+        
+      - name: Run skos-viewer
+        uses: docker://klakegg/skos-viewer:latest               # Always specify a version!
+
+      - name: Change permissions                                # Docker output files owned by root
+        run: sudo chown -R runner:docker target
+        shell: bash
+                        
+      - name: Deploy on github pages                            # Use a third-party plugin to upload the content
+        uses: JamesIves/github-pages-deploy-action@v4       
+        with:
+          branch: gh-pages
+          folder: target/site
