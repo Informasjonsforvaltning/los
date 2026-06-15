@@ -10,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest                                      # specify the base operating system  
     steps:
       - name: Checkout los repo                                 # fetch the contents of the repository
-        uses: actions/checkout@v3
-        
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
+
       - name: Run skos-viewer
-        uses: docker://klakegg/skos-viewer:latest               # Always specify a version!
+        uses: docker://klakegg/skos-viewer@sha256:d7cc906b97bc054613c6c43700506f2ace33cdba9f65ef7a7fb12161cd1758ae  # latest (no push since 2019-11, amd64 only)
 
       - name: Change permissions                                # Docker output files owned by root
         run: sudo chown -R runner:docker target
         shell: bash
                         
       - name: Deploy on github pages                            # Use a third-party plugin to upload the content
-        uses: JamesIves/github-pages-deploy-action@v4       
+        uses: JamesIves/github-pages-deploy-action@d92aa235d04922e8f08b40ce78cc5442fcfbfa2f  # v4.8.0
         with:
           branch: gh-pages
           folder: target/site
