@@ -1,0 +1,77 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix lossh: <https://id.norge.no/los/shapes/> .
+
+lossh:ConceptShape a sh:NodeShape ;
+  sh:targetClass skos:Concept ;
+  sh:nodeKind sh:IRI ;
+  sh:property [
+    sh:path skos:prefLabel ;
+    sh:minCount 2 ;
+    sh:uniqueLang true ;
+    sh:message "Et Los-begrep skal ha foretrukne etiketter på minst bokmål og nynorsk."@nb
+  ] ;
+  sh:property [
+    sh:path skos:inScheme ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    sh:class skos:ConceptScheme ;
+    sh:message "Et Los-begrep skal tilhøre nøyaktig ett begrepsskjema."@nb
+  ] ;
+  sh:property [ sh:path skos:broader ; sh:class skos:Concept ] ;
+  sh:property [ sh:path skos:narrower ; sh:class skos:Concept ] .
+
+lossh:ConceptSchemeShape a sh:NodeShape ;
+  sh:targetClass skos:ConceptScheme ;
+  sh:nodeKind sh:IRI ;
+  sh:property [
+    sh:path dct:title ;
+    sh:minCount 2 ;
+    sh:uniqueLang true
+  ] ;
+  sh:property [
+    sh:path skos:hasTopConcept ;
+    sh:minCount 1 ;
+    sh:class skos:Concept
+  ] .
+
+lossh:TopConceptShape a sh:NodeShape ;
+  sh:targetSubjectsOf skos:topConceptOf ;
+  sh:property [
+    sh:path skos:broader ;
+    sh:maxCount 0 ;
+    sh:message "Et toppbegrep skal ikke ha skos:broader."@nb
+  ] .
+
+lossh:CollectionShape a sh:NodeShape ;
+  sh:targetClass skos:Collection ;
+  sh:nodeKind sh:IRI ;
+  sh:property [
+    sh:path skos:prefLabel ;
+    sh:minCount 2 ;
+    sh:uniqueLang true
+  ] ;
+  sh:property [
+    sh:path skos:member ;
+    sh:minCount 1 ;
+    sh:class skos:Concept
+  ] .
+
+lossh:XkosInclusionNoteMetadataShape a sh:NodeShape ;
+  sh:targetNode xkos:inclusionNote ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Omfatter"@nb ] ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Omfattar"@nn ] ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Includes"@en ] ;
+  sh:property [ sh:path rdfs:comment ; sh:hasValue "Eksempler og presiseringer av hva begrepet omfatter."@nb ] ;
+  sh:property [ sh:path rdfs:comment ; sh:hasValue "Døme og presiseringar av kva omgrepet omfattar."@nn ] .
+
+lossh:XkosExclusionNoteMetadataShape a sh:NodeShape ;
+  sh:targetNode xkos:exclusionNote ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Omfatter ikke"@nb ] ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Omfattar ikkje"@nn ] ;
+  sh:property [ sh:path rdfs:label ; sh:hasValue "Excludes"@en ] ;
+  sh:property [ sh:path rdfs:comment ; sh:hasValue "Eksempler og presiseringer av hva begrepet ikke omfatter."@nb ] ;
+  sh:property [ sh:path rdfs:comment ; sh:hasValue "Døme og presiseringar av kva omgrepet ikkje omfattar."@nn ] .

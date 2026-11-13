@@ -1,0 +1,3 @@
+Validation Report
+Conforms: True
+Validation method: local checks equivalent to validation/los-shapes.ttl

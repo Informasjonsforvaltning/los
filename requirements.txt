@@ -1,0 +1,2 @@
+rdflib==7.1.4
+skosify==2.3.0
