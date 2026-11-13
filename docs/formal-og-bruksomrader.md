@@ -1,8 +1,8 @@
 # Formål verdi og bruksområder for Los 4
 
-**Status:** Redaktørens utkast  
-**Grunnlag:** Los 4.0 RC1  
-**Merknad:** Dokumentet er gjeldende arbeidsgrunnlag, men kan endres etter behandling av høringssvar.
+> **Status:** Redaktørens utkast<br>
+> **Grunnlag:** Los 4.0 RC1<br>
+> **Merknad:** Dokumentet er gjeldende arbeidsgrunnlag, men kan endres etter behandling av høringssvar.
 
 
 ## 1 Formål

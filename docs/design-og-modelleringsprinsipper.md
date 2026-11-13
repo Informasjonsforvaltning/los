@@ -1,8 +1,8 @@
 # Los 4 – design- og modelleringsprinsipper
 
-**Status:** Redaktørens utkast  
-**Grunnlag:** Los 4.0 RC1  
-**Merknad:** Dokumentet er gjeldende arbeidsgrunnlag, men kan endres etter behandling av høringssvar.
+> **Status:** Redaktørens utkast<br>
+> **Grunnlag:** Los 4.0 RC1<br>
+> **Merknad:** Dokumentet er gjeldende arbeidsgrunnlag, men kan endres etter behandling av høringssvar.
 
 *Styrende redaksjonelle og arkitektoniske prinsipper for utvikling og forvaltning av Los 4.*
 
