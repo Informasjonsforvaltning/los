@@ -27,6 +27,8 @@ Publiseringspakken ble satt sammen 6. august 2026 og sist oppdatert 24. august 2
 - `validation/los-skosified.ttl`: Turtle skrevet ut av Skosify
 - `validation/custom-quality-report.txt`: supplerende kvalitetskontroller
 - `docs/`: redigerbare Markdown-mastere og inngang til dokumentasjonen
+- `mkdocs.yml`: oppsett for HTML-utgaven av arbeidssiden og dokumentasjonen
+- `requirements-docs.txt`: låst versjon av verktøyet som bygger HTML
 - `documentation/CHANGELOG.md`: endringslogg for pakken
 - `documentation/VALIDATION.md`: valideringsmetode og resultater
 - `documentation/LICENSE.txt`: lisensinformasjon
@@ -45,6 +47,19 @@ De er merket «Redaktørens utkast» og kan endres etter behandling av høringss
 Høringsnotatet beholdes uendret og kun som Word-fil: [`documentation/source/horingsnotat-los-4-0.docx`](documentation/source/horingsnotat-los-4-0.docx). En samlet inngang til dokumentasjonen finnes i [`docs/`](docs/index.md).
 
 Historiske dokumentutkast er ikke lagt inn i arbeidsgrenen for Los 4.
+
+## HTML-publisering
+
+Den midlertidige arbeidssiden og dokumentasjonen bygges fra Markdown-filene med MkDocs. Den ferdige HTML-utgaven publiseres i mappen `los4/` på `gh-pages`. Dette gir en egen arbeidsside under `/los/los4/` uten å endre roten eller de eksisterende Los 3-sidene.
+
+Bygg lokalt slik:
+
+```bash
+python3 -m pip install --requirement requirements-docs.txt
+python3 -m mkdocs build --strict
+```
+
+Byggeresultatet legges i `site/` og skal ikke redigeres eller sjekkes inn manuelt. Arbeidsflyten `.github/workflows/publish-docs.yml` bygger dokumentasjonen i pull requests. Etter sammenslåing til `master` erstatter den bare mappen `los4/` på `gh-pages` og lar avviklingssiden og alt Los 3-innhold stå urørt.
 
 ## Nøkkeltall
 
@@ -95,7 +110,7 @@ Faglige endringer gjøres i `source/los-source.xlsx`. Deretter regenereres `data
 4. Opprett en pull request til `master` og knytt den til issuet.
 5. Slå sammen etter faglig kontroll og bestått automatisk validering.
 
-Grenen `gh-pages` forvaltes separat. Den inneholder avviklingssiden for Los 3 og oppdateres ikke automatisk fra `master`.
+Grenen `gh-pages` inneholder avviklingssiden og det historiske innholdet for Los 3. Disse filene forvaltes separat. Bare den avgrensede mappen `los4/` oppdateres automatisk fra `master` av dokumentasjonsjobben.
 
 Sluttføringen kontrollerer først at genererte `skos:altLabel` samsvarer én-til-én med Excel-kilden. Flere alternative termer i samme celle skal være skilt med semikolon, mens komma bevares som en del av termen. Ved avvik stoppes steget før Turtle-filen overskrives. Deretter flettes `source/xkos-property-labels.ttl` inn. Valideringen kontrollerer blant annet RDF-syntaks, reglene i SHACL-formene, nøyaktig samsvar med kildegrunnlaget, hierarkiet, språkparallellitet, etikettkollisjoner og Skosify-isomorfi.
 
