@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="nb" data-bs-theme="auto">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://informasjonsforvaltning.github.io/los/los4/design-og-modelleringsprinsipper/">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Design- og modelleringsprinsipper - Los 4 – arbeidsside</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../css/brands.min.css" rel="stylesheet">
+        <link href="../css/solid.min.css" rel="stylesheet">
+        <link href="../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link href="../stylesheets/los.css" rel="stylesheet"> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="..">Los 4 – arbeidsside</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href=".." class="nav-link">Arbeidsside</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../formal-og-bruksomrader/" class="nav-link">Formål og bruksområder</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="./" class="nav-link active" aria-current="page">Design- og modelleringsprinsipper</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../formal-og-bruksomrader/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" class="nav-link disabled">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/Informasjonsforvaltning/los/edit/master/docs/design-og-modelleringsprinsipper.md" class="nav-link">Edit on Informasjonsforvaltning/los
+                                    </a>
+                            </li>
+                            <li class="nav-item dropdown">
+                              <button id="theme-menu" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme" class="nav-link dropdown-toggle">
+                                <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                <span class="d-lg-none ms-2">Toggle theme</span>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                                    <i class="fa-solid fa-sun fa-fw"></i>
+                                    <span class="ms-2">Light</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                                    <i class="fa-solid fa-moon fa-fw"></i>
+                                    <span class="ms-2">Dark</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="true">
+                                    <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                    <span class="ms-2">Auto</span>
+                                    <i class="fa-solid fa-check ms-auto"></i>
+                                  </button>
+                                </li>
+                              </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script src="../js/darkmode.js"></script>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#los-4-design-og-modelleringsprinsipper" class="nav-link">Los 4 – design- og modelleringsprinsipper</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#1-formal-og-arkitektur" class="nav-link">1. Formål og arkitektur</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#2-entydig-plassering-i-hierarkiet" class="nav-link">2. Entydig plassering i hierarkiet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#3-hierarkiske-relasjoner" class="nav-link">3. Hierarkiske relasjoner</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#4-bruk-hierarkiet-aktivt" class="nav-link">4. Bruk hierarkiet aktivt</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#5-modeller-tema-ikke-organisering" class="nav-link">5. Modeller tema, ikke organisering</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#6-granularitet" class="nav-link">6. Granularitet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#7-begrepsnavn" class="nav-link">7. Begrepsnavn</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#8-faglig-forankring" class="nav-link">8. Faglig forankring</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#9-los-som-tematisk-overbygning" class="nav-link">9. Los som tematisk overbygning</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#10-krysstematiske-vurderinger" class="nav-link">10. Krysstematiske vurderinger</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#11-alternative-termer" class="nav-link">11. Alternative termer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#12-inklusjonsmerknader" class="nav-link">12. Inklusjonsmerknader</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#13-eksklusjonsmerknader" class="nav-link">13. Eksklusjonsmerknader</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#14-konsistens" class="nav-link">14. Konsistens</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#15-skos-collections" class="nav-link">15. SKOS Collections</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#16-stabil-identitet-og-endringshistorikk" class="nav-link">16. Stabil identitet og endringshistorikk</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#17-prinsipper-for-endringer" class="nav-link">17. Prinsipper for endringer</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#18-forvaltning-av-prinsippene" class="nav-link">18. Forvaltning av prinsippene</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#redaksjonell-arbeidsprosess" class="nav-link">Redaksjonell arbeidsprosess</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#anbefalt-arbeidsrekkeflge" class="nav-link">Anbefalt arbeidsrekkefølge</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#teknisk-kvalitetssikring" class="nav-link">Teknisk kvalitetssikring</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#apne-saker-som-kan-pavirke-dokumentet" class="nav-link">Åpne saker som kan påvirke dokumentet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="los-4-design-og-modelleringsprinsipper">Los 4 – design- og modelleringsprinsipper<a class="headerlink" href="#los-4-design-og-modelleringsprinsipper" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Status:</strong> Redaktørens utkast<br>
+<strong>Grunnlag:</strong> Los 4.0 RC1<br>
+<strong>Merknad:</strong> Dokumentet er gjeldende arbeidsgrunnlag, men kan endres etter behandling av høringssvar.</p>
+</blockquote>
+<p><em>Styrende redaksjonelle og arkitektoniske prinsipper for utvikling og forvaltning av Los 4.</em></p>
+<h2 id="1-formal-og-arkitektur">1. Formål og arkitektur<a class="headerlink" href="#1-formal-og-arkitektur" title="Permanent link">&para;</a></h2>
+<p>Los er et felles tematisk vokabular for offentlig sektor. Hierarkiet i Los skal gi en stabil tematisk klassifisering av offentlige tjenester, informasjon, datasett og andre ressurser på tvers av virksomheter, forvaltningsnivåer og anvendelser.</p>
+<p>En sentral funksjon for Los er å være en felles tematisk overbygning for standarder, vokabularer og klassifikasjoner som brukes i ulike deler av offentlig sektor. Sektorene kan beholde sin faglige struktur og detaljeringsgrad, mens koblinger til Los gjør det mulig å finne og sammenstille tjenester, data og informasjon på tvers.</p>
+<p>Strukturen skal bygge på stabile tema- og fagområder, ikke på hvordan den enkelte virksomhet er organisert. Offentlige virksomheter, og særlig kommunene, tilbyr mange av de samme tjenestene, men kan organisere ansvaret for dem ulikt. Los skal gi et felles tematisk lag på tvers av slike organisatoriske forskjeller.</p>
+<p>Innbyggerperspektivet er fortsatt viktig, men er ikke alene styrende for begrepsstrukturen. I Los 4 skal semantisk presisjon, stabilitet, gjenbruk og anvendbarhet på tvers av virksomheter og formål veie tungt.</p>
+<p>Dette skal blant annet gjøre Los egnet til tematisk oversikt over en virksomhets tjeneste-, informasjons- og ressursportefølje og til samhandling mellom virksomheter. En mer ensartet tematisk klassifisering kan på sikt også gi bedre grunnlag for sammenstilling og rapportering, men dette er ikke et selvstendig formål med Los 4.</p>
+<p>Organisasjonsstruktur, livshendelser, målgrupper, nettsteder, plattformer og andre konkrete anvendelser skal som hovedregel ikke være styrende for hierarkiet i Los.</p>
+<h2 id="2-entydig-plassering-i-hierarkiet">2. Entydig plassering i hierarkiet<a class="headerlink" href="#2-entydig-plassering-i-hierarkiet" title="Permanent link">&para;</a></h2>
+<p>Et begrep skal ha én entydig plassering i hierarkiet i Los.</p>
+<p>Alle begreper i hierarkiet, med unntak av toppbegrepene, skal ha nøyaktig ett direkte overordnet begrep. Toppbegrepene skal ikke ha skos:broader til et annet Los-begrep.</p>
+<p>Dette er en grunnleggende regel i Los 4.</p>
+<p>Entydig plassering gjør det mulig å bruke hierarkiet begge veier:</p>
+<ul>
+<li>ovenfra og ned, for å se hvilke underområder som inngår i et overordnet tema</li>
+<li>nedenfra og opp, for å fastslå hvilket overordnet tema et mer detaljert begrep tilhører</li>
+</ul>
+<p>Dette gjør strukturen bedre egnet til klassifisering, analyse, sammenstilling og tematisk oversikt.</p>
+<p>Behovet for å uttrykke at en tjeneste, informasjonsside, et datasett eller en annen ressurs berører flere tema, skal ikke løses ved å gi Los-begreper flere foreldre. Ressursen kan i stedet klassifiseres med flere relevante Los-begreper.</p>
+<p>Skillet er grunnleggende:</p>
+<p><strong>Et begrep skal ha én plass i vokabularet. En ressurs kan handle om flere tema.</strong></p>
+<p>Alternative innganger til vokabularet håndteres gjennom andre mekanismer, som SKOS Collections, alternative termer, søk eller supplerende metadata.</p>
+<h2 id="3-hierarkiske-relasjoner">3. Hierarkiske relasjoner<a class="headerlink" href="#3-hierarkiske-relasjoner" title="Permanent link">&para;</a></h2>
+<p>Hierarkiet i Los uttrykkes med skos:broader og skos:narrower.</p>
+<p>Los skiller ikke mellom generiske, partitive eller andre typer hierarkiske relasjoner i hovedmodellen. Den hierarkiske relasjonen uttrykker først og fremst begrepets entydige plass i den tematiske klassifikasjonen.</p>
+<p>Partitive relasjoner som xkos:isPartOf og xkos:hasPart inngår derfor ikke i hovedmodellen for Los 4.</p>
+<p>Mer spesifikke hierarkiske relasjoner skal bare innføres dersom framtidige og dokumenterte bruksbehov viser at det er nødvendig å kunne skille ulike relasjonstyper maskinelt.</p>
+<p>Semantisk presisjon skal ikke økes dersom den først og fremst øker kompleksiteten uten å gi tilsvarende verdi i anvendelsen.</p>
+<h2 id="4-bruk-hierarkiet-aktivt">4. Bruk hierarkiet aktivt<a class="headerlink" href="#4-bruk-hierarkiet-aktivt" title="Permanent link">&para;</a></h2>
+<p>Bruk eksisterende hierarki før nye begreper eller mellomnivåer opprettes.</p>
+<p>Hierarkiet kan ha flere nivåer når dette:</p>
+<ul>
+<li>tilfører semantisk verdi</li>
+<li>representerer en naturlig faglig struktur</li>
+<li>gjør etablerte begreper lettere å plassere</li>
+<li>reduserer behovet for begreper som først og fremst har en strukturerende funksjon</li>
+</ul>
+<p>Dybde er ikke et mål i seg selv. Los skal ikke utvikles til et finmasket klassifikasjonssystem.</p>
+<p>Nye nivåer bør bare innføres når de representerer stabile og gjenkjennelige tema- eller fagområder og gir dokumentert nytte.</p>
+<h2 id="5-modeller-tema-ikke-organisering">5. Modeller tema, ikke organisering<a class="headerlink" href="#5-modeller-tema-ikke-organisering" title="Permanent link">&para;</a></h2>
+<p>Los skal beskrive hva en tjeneste eller ressurs handler om, ikke hvilken virksomhet, etat, avdeling eller organisatorisk enhet som har ansvaret.</p>
+<p>Et tema skal kunne brukes uavhengig av hvordan ansvaret er organisert.</p>
+<p>Når flere virksomheter tilbyr sammenlignbare tjenester, skal Los så langt som mulig gi en felles tematisk klassifisering på tvers av organisatoriske forskjeller.</p>
+<p>Organisatorisk tilhørighet skal håndteres i andre metadata når dette er relevant.</p>
+<h2 id="6-granularitet">6. Granularitet<a class="headerlink" href="#6-granularitet" title="Permanent link">&para;</a></h2>
+<p>Modeller begreper som representerer stabile og gjenbrukbare tema- eller fagområder.</p>
+<p>Prosesser, hendelser, enkeltordninger, konkrete tjenester, produkter og plattformer skal normalt ikke modelleres som egne Los-begreper når behovet kan dekkes gjennom et mer stabilt tema.</p>
+<p>Behov for høyere detaljeringsgrad skal ikke automatisk føre til nye begreper. Inklusjonsmerknader, alternative termer, samlinger, flere klassifiseringer eller supplerende metadata kan være bedre virkemidler.</p>
+<p>Behov for større detaljgrad skal heller ikke automatisk betraktes som virksomhetsinterne. Dersom behovet er felles for flere virksomheter eller en sektor, skal det vurderes om det bør løses gjennom videreutvikling av Los eller gjennom et felles sektorvokabular som kan kobles til Los. Behov som er spesifikke for én virksomhet, kan i større grad håndteres lokalt.</p>
+<p>Dagens detaljeringsnivå i Los skal derfor ikke alene være styrende for grensen mellom felles og lokale klassifiseringsbehov. Felles behov bør så langt som mulig løses felles.</p>
+<p>Behov for tverrtematisk klassifisering skal normalt løses ved å klassifisere ressursen med flere relevante Los-begreper, ikke ved å endre hierarkiet i Los.</p>
+<h2 id="7-begrepsnavn">7. Begrepsnavn<a class="headerlink" href="#7-begrepsnavn" title="Permanent link">&para;</a></h2>
+<p>skos:prefLabel skal være entydig innen hele vokabularet.</p>
+<p>Begrepsnavn skal være:</p>
+<ul>
+<li>faglig presise</li>
+<li>gjenkjennelige</li>
+<li>så langt som mulig forståelige uten å kjenne den overordnede konteksten</li>
+<li>basert på etablert språkbruk når dette gir tilstrekkelig presisjon</li>
+</ul>
+<p>Etablerte og gjenkjennelige fagbegreper skal normalt foretrekkes framfor nye betegnelser som primært er etablert for å oppnå en mer systematisk struktur.</p>
+<p>Semantisk presisjon skal balanseres mot gjenkjennelighet og praktisk anvendbarhet.</p>
+<h2 id="8-faglig-forankring">8. Faglig forankring<a class="headerlink" href="#8-faglig-forankring" title="Permanent link">&para;</a></h2>
+<p>Når et temaområde har etablert terminologi, fagstandarder eller relevant regelverk, skal disse brukes som viktige kilder ved vurdering av begreper og struktur.</p>
+<p>Lovverk, sektorens terminologi eller etablerte klassifikasjoner skal likevel ikke automatisk kopieres inn i Los. Løsningen må også fungere som del av et sektorovergripende tematisk vokabular og være konsistent med de øvrige modelleringsprinsippene.</p>
+<p>Fagpersoner og relevante fagmiljøer bør involveres ved større revisjoner av etablerte temaområder.</p>
+<p>Andre vokabularer og klassifikasjoner kan brukes som referanser og sammenligningsgrunnlag, men er ikke i seg selv styrende for Los.</p>
+<h2 id="9-los-som-tematisk-overbygning">9. Los som tematisk overbygning<a class="headerlink" href="#9-los-som-tematisk-overbygning" title="Permanent link">&para;</a></h2>
+<p>Los skal fungere som en felles tematisk overbygning for vokabularer og klassifikasjoner som brukes i ulike deler av offentlig sektor.</p>
+<p>Virksomhetsinterne og sektorspesifikke vokabularer kan gi større detaljgrad, dekke et avgrenset fagområde eller være utviklet for andre formål. Slike vokabularer og klassifikasjoner kan kobles til Los når det finnes en faglig begrunnet semantisk sammenheng.</p>
+<p>Mapping skal bare etableres når det finnes reelt semantisk samsvar, og skal ikke uttrykke sterkere samsvar enn det er faglig grunnlag for.</p>
+<p>Los skal ikke utvides med begreper eller strukturer bare for å gjenskape et annet vokabular eller en annen klassifikasjon.</p>
+<p>Når slike koblinger er etablert, kan tjenester, data og informasjon finnes og sammenstilles tematisk på tvers av sektorer. Virksomheter og sektorer beholder samtidig den detaljgraden og faglige strukturen de har behov for.</p>
+<h2 id="10-krysstematiske-vurderinger">10. Krysstematiske vurderinger<a class="headerlink" href="#10-krysstematiske-vurderinger" title="Permanent link">&para;</a></h2>
+<p>Et begrep skal plasseres der det tematisk hører hjemme.</p>
+<p>En svak eller feilaktig plassering skal ikke opprettholdes ved hjelp av dokumentasjon, flere foreldre eller andre strukturelle omveier.</p>
+<p>Begrepet flyttes i stedet til den plasseringen som best uttrykker det primære temaet.</p>
+<p>Når en ressurs berører flere tema, klassifiseres ressursen med flere relevante begreper.</p>
+<h2 id="11-alternative-termer">11. Alternative termer<a class="headerlink" href="#11-alternative-termer" title="Permanent link">&para;</a></h2>
+<p>skos:altLabel brukes for relevante alternative betegnelser, blant annet:</p>
+<ul>
+<li>synonymer</li>
+<li>dagligtale</li>
+<li>historiske betegnelser</li>
+<li>alternative skrivemåter</li>
+<li>relevante lov- og sektortermer</li>
+</ul>
+<p>Alternative termer skal støtte søk, gjenfinning og gjenkjennelighet.</p>
+<p>skos:altLabel skal ikke brukes til å skjule uklarhet i valg av foretrukket begrep eller til å representere selvstendige fagbegreper som burde vært vurdert som egne Los-begreper.</p>
+<p>Når flere alternative termer registreres i samme celle i Excel-masteren, skal de skilles med semikolon etterfulgt av mellomrom. Komma kan inngå i en alternativ term og skal ikke tolkes som skilletegn.</p>
+<h2 id="12-inklusjonsmerknader">12. Inklusjonsmerknader<a class="headerlink" href="#12-inklusjonsmerknader" title="Permanent link">&para;</a></h2>
+<p>Inklusjonsmerknader brukes når de tilfører semantisk informasjon som ikke framgår tydelig av skos:prefLabel eller hierarkiet.</p>
+<p>De kan blant annet brukes til å:</p>
+<ul>
+<li>vise eksempler på hva begrepet omfatter</li>
+<li>tydeliggjøre avgrensningen av et tema</li>
+<li>synliggjøre mer detaljerte fenomener som ikke trenger egne begreper</li>
+<li>støtte klassifisering uten å øke detaljeringsgraden i hierarkiet i Los</li>
+</ul>
+<p>Inklusjonsmerknader er ikke obligatoriske og skal ikke gjenta informasjon som allerede framgår av begrepsnavnet eller hierarkiet.</p>
+<h2 id="13-eksklusjonsmerknader">13. Eksklusjonsmerknader<a class="headerlink" href="#13-eksklusjonsmerknader" title="Permanent link">&para;</a></h2>
+<p>Eksklusjonsmerknader brukes ved reelle semantiske grenseflater der det er fare for feilklassifisering.</p>
+<p>De skal så langt som mulig peke til konkrete Los-begreper eller forklare hvor ressursen i stedet bør klassifiseres.</p>
+<p>Eksklusjonsmerknader skal brukes restriktivt og ikke kompensere for en uklar begrepsstruktur.</p>
+<h2 id="14-konsistens">14. Konsistens<a class="headerlink" href="#14-konsistens" title="Permanent link">&para;</a></h2>
+<p>Samme type modelleringsproblem skal så langt som mulig løses på samme måte på tvers av temaområdene.</p>
+<p>Nye løsninger skal vurderes opp mot eksisterende struktur og tidligere redaksjonelle beslutninger før det etableres nye mønstre.</p>
+<p>Konsistens er et viktig hensyn, men skal ikke føre til at det etableres kunstige begreper, mellomnivåer eller strukturer bare for å oppnå symmetri.</p>
+<p>Faglige forskjeller mellom temaområder kan begrunne ulike løsninger når dette er dokumentert.</p>
+<h2 id="15-skos-collections">15. SKOS Collections<a class="headerlink" href="#15-skos-collections" title="Permanent link">&para;</a></h2>
+<p>SKOS Collections gir alternative innganger til vokabularet og skal ikke påvirke hierarkiet i Los.</p>
+<p>Samlinger grupperer Los-begreper uten å endre begrepenes entydige plassering i hierarkiet. Los bruker i dag samlinger blant annet for livshendelser og forvaltningsnivåer.</p>
+<p>Samlinger kan også brukes for andre tverrgående perspektiver eller bestemte anvendelser når det finnes et tydelig behov.</p>
+<p>Et begrep kan inngå i flere samlinger uten at dette påvirker plasseringen i hierarkiet.</p>
+<p>Samlinger modelleres etter at hierarkiet i Los er etablert.</p>
+<h2 id="16-stabil-identitet-og-endringshistorikk">16. Stabil identitet og endringshistorikk<a class="headerlink" href="#16-stabil-identitet-og-endringshistorikk" title="Permanent link">&para;</a></h2>
+<p>URI-en identifiserer begrepet og skal så langt som mulig være stabil over tid.</p>
+<p>Flytting av et begrep i hierarkiet skal normalt ikke føre til ny URI dersom begrepets identitet og betydning er uendret.</p>
+<p>Endring av begrepsnavn skal heller ikke i seg selv føre til ny URI dersom det fortsatt er det samme begrepet.</p>
+<p>Begreper som tas ut av aktiv bruk, skal ikke slettes uten at konsekvensene for eksisterende bruk er vurdert.</p>
+<p>Endringer som påvirker betydning, struktur eller bruk, skal dokumenteres slik at utviklingen kan forstås og etterprøves over tid.</p>
+<h2 id="17-prinsipper-for-endringer">17. Prinsipper for endringer<a class="headerlink" href="#17-prinsipper-for-endringer" title="Permanent link">&para;</a></h2>
+<p>Los skal utvikles gradvis og på grunnlag av dokumenterte behov.</p>
+<p>Innspill fra brukerne og erfaringer fra praktisk bruk av Los er sentrale kilder til endringsbehov. Nye versjoner og større endringer skal bygge på behov som er meldt inn, dokumentert eller på annen måte synliggjort gjennom bruk.</p>
+<p>Nye begreper, nye nivåer eller større strukturelle endringer skal ha en tydelig begrunnelse og vurderes opp mot eksisterende struktur.</p>
+<p>Et klassifiseringsproblem innebærer likevel ikke nødvendigvis at vokabularet må endres.</p>
+<p>Før strukturen endres, skal det vurderes om behovet heller kan løses gjennom:</p>
+<ul>
+<li>klassifisering med flere Los-begreper</li>
+<li>alternative termer</li>
+<li>inklusjons- eller eksklusjonsmerknader</li>
+<li>SKOS Collections</li>
+<li>søk</li>
+<li>supplerende metadata</li>
+<li>kobling til et annet vokabular eller en annen klassifikasjon</li>
+</ul>
+<p>Behov som går igjen på tvers av flere virksomheter eller innen en sektor, skal vurderes som mulige felles behov. Det skal da vurderes om behovet bør løses i Los eller gjennom en annen felles løsning.</p>
+<p>Stabilitet og forutsigbarhet skal veie tungt ved vurdering av endringer.</p>
+<h2 id="18-forvaltning-av-prinsippene">18. Forvaltning av prinsippene<a class="headerlink" href="#18-forvaltning-av-prinsippene" title="Permanent link">&para;</a></h2>
+<p>Design- og modelleringsprinsippene skal støtte redaksjonelle beslutninger og bidra til konsistent utvikling av Los.</p>
+<p>De erstatter ikke faglig skjønn.</p>
+<p>Prinsippene skal kunne videreutvikles når innspill fra brukerne og erfaringer fra praktisk bruk gir grunnlag for det. Endringer i prinsippene skal dokumenteres og begrunnes.</p>
+<p>Den viktigste testen på både prinsippene og vokabularet er om Los oppleves som relevant, kan anvendes på en konsistent måte og faktisk tas i bruk.</p>
+<h2 id="redaksjonell-arbeidsprosess">Redaksjonell arbeidsprosess<a class="headerlink" href="#redaksjonell-arbeidsprosess" title="Permanent link">&para;</a></h2>
+<p>Arbeidsprosessen er skilt fra de varige design- og modelleringsprinsippene. Prosessen kan derfor videreutvikles uten at selve prinsippene må endres.</p>
+<h3 id="anbefalt-arbeidsrekkeflge">Anbefalt arbeidsrekkefølge<a class="headerlink" href="#anbefalt-arbeidsrekkeflge" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Avklar behovet og hvilket klassifiseringsproblem som skal løses.</li>
+<li>Vurder om behovet kan løses innenfor eksisterende struktur eller gjennom andre mekanismer.</li>
+<li>Vurder om behovet er virksomhetsspesifikt eller felles for flere virksomheter eller en sektor.</li>
+<li>Vurder behov for kobling eller mapping til andre vokabularer og klassifikasjoner.</li>
+<li>Avklar arkitektur og plassering i hierarkiet i Los.</li>
+<li>Kontroller at alle begreper unntatt toppbegrepene har ett og bare ett direkte overordnet begrep.</li>
+<li>Vurder begrepsnavn og faglig forankring.</li>
+<li>Legg til alternative termer der dette gir verdi.</li>
+<li>Utarbeid inklusjonsmerknader der de bidrar til avgrensning eller klassifisering.</li>
+<li>Utarbeid eksklusjonsmerknader ved reelle semantiske grenseflater.</li>
+<li>Gjennomfør språklig kvalitetssikring på bokmål og nynorsk.</li>
+<li>Etabler eller oppdater SKOS Collections.</li>
+<li>Gjennomfør teknisk validering.</li>
+<li>Dokumenter vesentlige endringer og begrunnelser.</li>
+<li>Publiser ny versjon eller Release Candidate.</li>
+</ol>
+<p>Strukturen bør være tilstrekkelig avklart før dokumentasjonen perfeksjoneres.</p>
+<p>Etter arkitekturfrys bør strukturendringer bare gjennomføres når det er identifisert en dokumentert feil eller et behov som ikke kan løses tilfredsstillende innenfor den etablerte modellen.</p>
+<h2 id="teknisk-kvalitetssikring">Teknisk kvalitetssikring<a class="headerlink" href="#teknisk-kvalitetssikring" title="Permanent link">&para;</a></h2>
+<p>Den tekniske valideringen bør som minimum kontrollere at:</p>
+<ul>
+<li>hvert aktivt begrep har en stabil URI</li>
+<li>hvert begrep har nødvendige foretrukne termer</li>
+<li>skos:prefLabel er entydige i henhold til modellreglene</li>
+<li>genererte skos:altLabel samsvarer én-til-én med alternative termer i Excel-masteren, og at komma i termen er bevart</li>
+<li>alle aktive begreper unntatt toppbegrepene har nøyaktig ett direkte skos:broader</li>
+<li>toppbegrepene ikke har skos:broader til andre Los-begreper</li>
+<li>hierarkiet ikke inneholder sirkulære relasjoner</li>
+<li>skos:broader og skos:narrower brukes konsistent</li>
+<li>partitive XKOS-relasjoner ikke brukes i hierarkiet i Los</li>
+<li>referanser til begreper og samlinger peker til eksisterende ressurser</li>
+<li>SKOS Collections ikke påvirker hierarkiet i Los</li>
+<li>eventuelle mappingrelasjoner peker til gyldige ressurser og bruker riktig relasjonstype</li>
+<li>begrepsstrukturen er konsistent før publisering</li>
+</ul>
+<h2 id="apne-saker-som-kan-pavirke-dokumentet">Åpne saker som kan påvirke dokumentet<a class="headerlink" href="#apne-saker-som-kan-pavirke-dokumentet" title="Permanent link">&para;</a></h2>
+<p>Sakene nedenfor beskriver forslag og avklaringer. De er ikke vedtatte endringer i dokumentet.</p>
+<ul>
+<li><a href="https://github.com/Informasjonsforvaltning/los/issues/415">#415 – Utarbeide språklege retningslinjer og kvalitetssikre Los 4</a></li>
+<li><a href="https://github.com/Informasjonsforvaltning/los/issues/479">#479 – Avklare bruk av tema og begrep i dokumentasjonen for Los 4</a></li>
+<li><a href="https://github.com/Informasjonsforvaltning/los/issues/474">#474 – Etablere Digdir-forvaltet mapping mellom Los 4 og EUs Data Theme</a></li>
+</ul></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>Digitaliseringsdirektoratet – innholdet er tilgjengelig under CC BY 4.0</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js"></script>
+        <script src="../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
