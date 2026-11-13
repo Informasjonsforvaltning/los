@@ -7,7 +7,7 @@ Los er et felles tematisk vokabular for offentlig sektor. Denne siden samler det
 ## Utforsk Los 4
 
 - [Åpne Los 4.0 RC1 i Skosmos](https://skosmos.demo.fellesdatakatalog.digdir.no/los/nb/)
-- [Se alle åpne saker for Los 4](https://github.com/Informasjonsforvaltning/los/issues?q=is%3Aissue%20state%3Aopen%20label%3ALos4)
+- [Se alle åpne saker i repoet](https://github.com/Informasjonsforvaltning/los/issues?q=is%3Aissue%20state%3Aopen)
 - [Gå til GitHub-repoet](https://github.com/Informasjonsforvaltning/los)
 
 Skosmos-adressen er midlertidig. Endelig publiseringsadresse blir oppgitt når den er avklart.
@@ -25,7 +25,7 @@ Dokumentene er merket «Redaktørens utkast». De enkelte dokumentene lenker til
 
 ## Delta i arbeidet
 
-Endringsforslag, feil og behov behandles som saker i GitHub. Se [åpne Los 4-saker](https://github.com/Informasjonsforvaltning/los/issues?q=is%3Aissue%20state%3Aopen%20label%3ALos4), eller [opprett en ny sak](https://github.com/Informasjonsforvaltning/los/issues/new/choose).
+Endringsforslag, feil og behov behandles som saker i GitHub. Se [åpne saker i repoet](https://github.com/Informasjonsforvaltning/los/issues?q=is%3Aissue%20state%3Aopen), eller [opprett en ny sak](https://github.com/Informasjonsforvaltning/los/issues/new/choose).
 
 Praktisk veiledning for bruk av Los 4 utvikles i [sak #450](https://github.com/Informasjonsforvaltning/los/issues/450).
 
