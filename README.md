@@ -26,21 +26,25 @@ Publiseringspakken ble satt sammen 6. august 2026 og sist oppdatert 24. august 2
 - `validation/skosify.log`: meldinger fra Skosify
 - `validation/los-skosified.ttl`: Turtle skrevet ut av Skosify
 - `validation/custom-quality-report.txt`: supplerende kvalitetskontroller
+- `docs/`: redigerbare Markdown-mastere og inngang til dokumentasjonen
 - `documentation/CHANGELOG.md`: endringslogg for pakken
 - `documentation/VALIDATION.md`: valideringsmetode og resultater
 - `documentation/LICENSE.txt`: lisensinformasjon
-- `documentation/source/`: gjeldende dokumentgrunnlag for Los 4
+- `documentation/source/`: Word-kilder fra RC1 og det uendrede høringsnotatet
 - `SHA256SUMS.txt`: kontrollsummer for alle filer i pakken
 
 ## Gjeldende dokumentgrunnlag
 
-Disse dokumentene i `documentation/source/` er gjeldende inntil de erstattes gjennom en godkjent pull request:
+Følgende dokumenter er redigerbare mastere og gjeldende arbeidsgrunnlag:
 
-- `formal-og-bruksomrader-los4.docx`
-- `horingsnotat-los-4-0.docx`
-- `los-4-design-og-modelleringsprinsipper.docx`
+- [`docs/formal-og-bruksomrader.md`](docs/formal-og-bruksomrader.md)
+- [`docs/design-og-modelleringsprinsipper.md`](docs/design-og-modelleringsprinsipper.md)
 
-Historiske dokumentutkast er ikke lagt inn i arbeidsgrenen for Los 4. Høringsnotatet skal ikke endres som del av ordinær dokumentrevisjon uten en uttrykkelig beslutning.
+De er merket «Redaktørens utkast» og kan endres etter behandling av høringssvar. Word-utgavene i `documentation/source/` beholdes som kildekopier fra RC1, men skal ikke redigeres parallelt med Markdown-filene.
+
+Høringsnotatet beholdes uendret og kun som Word-fil: [`documentation/source/horingsnotat-los-4-0.docx`](documentation/source/horingsnotat-los-4-0.docx). En samlet inngang til dokumentasjonen finnes i [`docs/`](docs/index.md).
+
+Historiske dokumentutkast er ikke lagt inn i arbeidsgrenen for Los 4.
 
 ## Nøkkeltall
 

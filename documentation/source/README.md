@@ -1,11 +1,16 @@
-# Gjeldende Los 4-dokumenter
+# Word-kilder for Los 4.0 RC1
 
-Dokumentene i denne mappen er det gjeldende faglige og redaksjonelle grunnlaget for Los 4:
+Denne mappen inneholder Word-filene som lå til grunn for Los 4.0 RC1:
 
 - `formal-og-bruksomrader-los4.docx`
 - `horingsnotat-los-4-0.docx`
 - `los-4-design-og-modelleringsprinsipper.docx`
 
-Nye revisjoner skal bygge på disse filene og erstatte dem gjennom en godkjent pull request. Eldre utkast og arkiverte dokumenter skal ikke brukes som grunnlag med mindre dette er uttrykkelig besluttet.
+De redigerbare masterne for formålsdokumentet og design- og modelleringsprinsippene er nå Markdown-filene:
 
-Høringsnotatet skal ikke endres som del av oppfølgingen av dokumentasjonssaker uten en egen beslutning.
+- [`../../docs/formal-og-bruksomrader.md`](../../docs/formal-og-bruksomrader.md)
+- [`../../docs/design-og-modelleringsprinsipper.md`](../../docs/design-og-modelleringsprinsipper.md)
+
+Word-utgavene av disse to dokumentene beholdes som kildekopier fra RC1 og skal ikke redigeres parallelt med Markdown-filene.
+
+Høringsnotatet er et fast høringsgrunnlag. Det beholdes uendret som Word-fil og skal ikke endres som del av oppfølgingen av dokumentasjonssaker uten en egen beslutning.
