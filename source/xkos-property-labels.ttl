@@ -1,0 +1,19 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+
+# ========== Labels for XKOS properties ==========
+# ---------- These are displayed in the GUI ------
+
+xkos:inclusionNote
+    rdfs:label "Omfatter"@nb,
+        "Omfattar"@nn,
+        "Includes"@en ;
+    rdfs:comment "Eksempler og presiseringer av hva begrepet omfatter."@nb,
+        "Døme og presiseringar av kva omgrepet omfattar."@nn .
+
+xkos:exclusionNote
+    rdfs:label "Omfatter ikke"@nb,
+        "Omfattar ikkje"@nn,
+        "Excludes"@en ;
+    rdfs:comment "Eksempler og presiseringer av hva begrepet ikke omfatter."@nb,
+        "Døme og presiseringar av kva omgrepet ikkje omfattar."@nn .

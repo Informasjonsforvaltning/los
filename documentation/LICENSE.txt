@@ -1,0 +1,9 @@
+Los er merket med Creative Commons Navngivelse 4.0 internasjonal (CC BY 4.0).
+
+Lisens-URI i RDF:
+https://creativecommons.org/licenses/by/4.0/
+
+Du kan dele og bearbeide materialet, også kommersielt, så lenge korrekt kreditering gis og endringer opplyses. Se lisens-URI-en for fullstendige og juridisk bindende vilkår.
+
+Utgiver oppgitt i RDF:
+Digitaliseringsdirektoratet

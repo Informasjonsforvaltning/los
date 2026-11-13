@@ -1,4 +1,0 @@
-language: bash
-
-install:
-- docker run --rm -i -v $(pwd):/src klakegg/skos-viewer

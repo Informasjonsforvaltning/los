@@ -1,23 +1,100 @@
-# Los
+# Los publiseringspakke
 
-Dette Git-repoet blir brukt til å forvalte og versjonere Los.  
+Denne pakken inneholder en publiseringsklar kandidat av Los som SKOS-vokabular, kildegrunnlag og valideringsressurser.
 
-Los er et felles vokabular som er temainndelt for å kategorisere og beskrive offentlige tjenester og ressurser.
+## Versjon
 
-Vokabularet er på nynorsk, bokmål og engelsk og er tilrettelagt for bruk i lenkede data-miljøer i tråd med SKOS-standarden. Produktet består av en nedlastbar RDF/XML-fil, et API som gjør det mulig å gjøre enkeltoppslag mot rdf-informasjon om hver enkelt term, og en tjeneste som viser innholdet på en nettside. Los blir forvaltet av Digitaliseringsdirektoratet. 
+Metadata i vokabularet angir:
 
-Mer info finner du på [Digdir.no](https://www.digdir.no/informasjonsforvaltning/los-felles-vokabular-klassifisering-av-offentlige-tjenester-og-ressurser/2434)
+- `dct:hasVersion`: `4.0.0-rc.1`
+- `owl:versionInfo`: `Los 4.0 RC1`
+- `dct:issued`: `2026-08-06`
 
-Los is versioned using this repository.
-Los is a vocabulary in Norwegian Nynorsk, Norwegian Bokmål and English and is made for use in linked data environments in accordance with the SKOS standard. The product consists of a downloadable RDF / XML file, an API that makes it possible to make individual lookups against rdf information about each term, and a service that shows the content on a web page. Los is maintained by the Norwegian Digitalisation Agency.  
+Publiseringspakken ble satt sammen 6. august 2026 og sist oppdatert 24. august 2026. Oppdateringen omfatter revidert struktur for drikkevanns-, spillvanns- og overvannsinfrastruktur, utvidet medlemskap i samlingen «Kommune» og en samlet kvalitetssikring av etiketter og inklusjonsmerknader på bokmål, nynorsk og engelsk. Versjonsnummer og utgivelsesdato er beholdt.
 
+## Innhold
 
-## Explore Los
+- `data/los.ttl`: autoritativ Turtle-fil for publisering
+- `source/los-source.xlsx`: Excel-kilden som Turtle-filen er basert på
+- `source/xkos-property-labels.ttl`: obligatoriske etiketter og beskrivelser for XKOS-egenskaper i brukergrensesnittet
+- `scripts/generate_turtle.py`: genererer Los-grafen fra Excel-kilden
+- `scripts/finalize_turtle.py`: fletter obligatorisk statisk RDF inn i en regenerert Turtle-fil
+- `scripts/validate_release.py`: validerer publiseringsfilen og oppdaterer valideringsartefaktene
+- `validation/los-shapes.ttl`: komplette SHACL-regler for Los
+- `validation/los-shapes-core.ttl`: kjerneutgave av SHACL-reglene
+- `validation/shacl-report.txt`: resultat fra SHACL-kontrollen
+- `validation/skosify.log`: meldinger fra Skosify
+- `validation/los-skosified.ttl`: Turtle skrevet ut av Skosify
+- `validation/custom-quality-report.txt`: supplerende kvalitetskontroller
+- `documentation/CHANGELOG.md`: endringslogg for pakken
+- `documentation/VALIDATION.md`: valideringsmetode og resultater
+- `documentation/LICENSE.txt`: lisensinformasjon
+- `documentation/source/`: gjeldende dokumentgrunnlag for Los 4
+- `SHA256SUMS.txt`: kontrollsummer for alle filer i pakken
 
-* [Complete RDF](https://psi.norge.no/los/all.rdf)
-* [List view in English (html)](https://psi.norge.no/los/view/table-en)
+## Gjeldende dokumentgrunnlag
 
+Disse dokumentene i `documentation/source/` er gjeldende inntil de erstattes gjennom en godkjent pull request:
 
-## Los 2 (Deprecated)
+- `formal-og-bruksomrader-los4.docx`
+- `horingsnotat-los-4-0.docx`
+- `los-4-design-og-modelleringsprinsipper.docx`
 
-* [Complete RDF](https://psi.norge.no/los/2/all.rdf)
+Historiske dokumentutkast er ikke lagt inn i arbeidsgrenen for Los 4. Høringsnotatet skal ikke endres som del av ordinær dokumentrevisjon uten en uttrykkelig beslutning.
+
+## Nøkkeltall
+
+- 638 `skos:Concept`
+- 10 `skos:Collection`
+- 15 toppbegreper
+- 623 `skos:broader`
+- 623 inverse `skos:narrower`
+- 7 022 RDF-tripler
+
+`xkos:belongsTo` er ikke tatt med i denne utgaven.
+
+## Valideringsstatus
+
+- RDF/Turtle-parsing: bestått
+- SHACL: `Conforms: True`
+- Hierarkiske sykler: ingen funnet
+- Manglende inverse `skos:narrower`: ingen
+- Manglende bokmåls- eller nynorsketiketter på begreper: ingen
+- Obligatoriske etiketter og beskrivelser for `xkos:inclusionNote` og `xkos:exclusionNote`: til stede
+- Begrepsidentiteten for de reviderte begrepene under «Arbeid» er samordnet på bokmål, nynorsk og engelsk
+- Samsvar med Excel-kilden og statisk RDF: identisk graf
+- `skos:prefLabel`/`skos:altLabel`-kollisjoner: ingen
+- Inklusjons- og eksklusjonsmerknader uten parallelltekst på bokmål og nynorsk: ingen
+- Skosify: fullført, 7 022 tripler inn og ut; resultatet er isomorft med publiseringsfilen
+
+Skosify-loggen inneholder informative meldinger om at verktøyet ikke transformerer enkelte XKOS- og EUVoc-egenskaper. Egenskapene er beholdt.
+
+## Bruk
+
+Autoritativ publiseringsfil er `data/los.ttl`. `validation/los-skosified.ttl` er et valideringsartefakt og skal ikke erstatte den autoritative filen uten en eksplisitt beslutning.
+
+Hele byggingen og valideringen kjøres slik:
+
+```bash
+python3 scripts/generate_turtle.py
+python3 scripts/finalize_turtle.py
+python3 scripts/validate_release.py
+```
+
+Faglige endringer gjøres i `source/los-source.xlsx`. Deretter regenereres `data/los.ttl`, statisk RDF flettes inn og hele pakken valideres. Pull requests skal inneholde både kildeendringen og de regenererte artefaktene.
+
+## Arbeidsflyt i GitHub
+
+1. Opprett eller bruk et issue som beskriver behovet og ønsket resultat.
+2. Gjør endringen i en egen gren.
+3. Kjør generering og validering lokalt.
+4. Opprett en pull request til `master` og knytt den til issuet.
+5. Slå sammen etter faglig kontroll og bestått automatisk validering.
+
+Grenen `gh-pages` forvaltes separat. Den inneholder avviklingssiden for Los 3 og oppdateres ikke automatisk fra `master`.
+
+Sluttføringen kontrollerer først at genererte `skos:altLabel` samsvarer én-til-én med Excel-kilden. Flere alternative termer i samme celle skal være skilt med semikolon, mens komma bevares som en del av termen. Ved avvik stoppes steget før Turtle-filen overskrives. Deretter flettes `source/xkos-property-labels.ttl` inn. Valideringen kontrollerer blant annet RDF-syntaks, reglene i SHACL-formene, nøyaktig samsvar med kildegrunnlaget, hierarkiet, språkparallellitet, etikettkollisjoner og Skosify-isomorfi.
+
+## Lisens
+
+Vokabularet angir Creative Commons Navngivelse 4.0 internasjonal, CC BY 4.0, i `dct:license`.
