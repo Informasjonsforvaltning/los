@@ -21,6 +21,8 @@ Dokumentene er merket «Redaktørens utkast». De enkelte dokumentene lenker til
 
 ## Høringsgrunnlag
 
+[Les oppsummeringen av høringen om Los 4.0 RC1](oppsummering-horing-los-4-0-rc1.md). Oppsummeringen beskriver hovedtrekkene i innspillene uten å ta stilling til de enkelte endringsforslagene.
+
 [Last ned høringsnotatet for Los 4.0](https://github.com/Informasjonsforvaltning/los/raw/refs/heads/master/documentation/source/horingsnotat-los-4-0.docx). Høringsnotatet beholdes uendret som Word-fil og revideres ikke som del av den ordinære dokumentforvaltningen.
 
 ## Delta i arbeidet
