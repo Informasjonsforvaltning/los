@@ -1,6 +1,6 @@
 name: Meld inn behov, feil eller forslag
 description: Bruk dette skjemaet for alle innspill til Los.
-title: ""
+title: "Innspill: "
 labels: []
 body:
   - type: markdown
