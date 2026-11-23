@@ -13,6 +13,7 @@ use_directory_urls: true
 
 nav:
   - Arbeidsside: index.md
+  - Oppsummering av høringen: oppsummering-horing-los-4-0-rc1.md
   - Formål og bruksområder: formal-og-bruksomrader.md
   - Design- og modelleringsprinsipper: design-og-modelleringsprinsipper.md
 
