@@ -1,0 +1,32 @@
+name: Meld inn behov, feil eller forslag
+description: Bruk dette skjemaet for alle innspill til Los.
+title: ""
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Takk for innspillet. Du trenger ikke kjenne Los-modellen eller vite hvordan saken skal klassifiseres.
+
+  - type: textarea
+    id: beskrivelse
+    attributes:
+      label: Beskriv saken med egne ord
+      description: Fortell kort hva du har behov for, har oppdaget eller mener bør vurderes.
+      placeholder: Skriv beskrivelsen her.
+    validations:
+      required: true
+
+  - type: textarea
+    id: onsket-resultat
+    attributes:
+      label: Hva ønsker du skal skje?
+      description: Dette er valgfritt. Du kan melde inn et behov uten å foreslå en løsning.
+      placeholder: Beskriv ønsket resultat dersom du har et forslag.
+
+  - type: textarea
+    id: referanse
+    attributes:
+      label: Eksempel eller referanse
+      description: Oppgi betegnelse, lokal ID, skjermbilde eller lenke dersom dette er kjent.
+      placeholder: Legg inn eventuell tilleggsinformasjon her.
