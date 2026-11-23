@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://informasjonsforvaltning.github.io/los/los4/</loc>
-         <lastmod>2026-11-13</lastmod>
+         <lastmod>2026-11-23</lastmod>
     </url>
     <url>
          <loc>https://informasjonsforvaltning.github.io/los/los4/design-og-modelleringsprinsipper/</loc>
-         <lastmod>2026-11-13</lastmod>
+         <lastmod>2026-11-23</lastmod>
     </url>
     <url>
          <loc>https://informasjonsforvaltning.github.io/los/los4/formal-og-bruksomrader/</loc>
-         <lastmod>2026-11-13</lastmod>
+         <lastmod>2026-11-23</lastmod>
+    </url>
+    <url>
+         <loc>https://informasjonsforvaltning.github.io/los/los4/oppsummering-horing-los-4-0-rc1/</loc>
+         <lastmod>2026-11-23</lastmod>
     </url>
 </urlset>
