@@ -10,7 +10,9 @@ Metadata i vokabularet angir:
 - `owl:versionInfo`: `Los 4.0 RC1`
 - `dct:issued`: `2026-08-06`
 
-Publiseringspakken ble satt sammen 6. august 2026 og sist oppdatert 24. august 2026. Oppdateringen omfatter revidert struktur for drikkevanns-, spillvanns- og overvannsinfrastruktur, utvidet medlemskap i samlingen «Kommune» og en samlet kvalitetssikring av etiketter og inklusjonsmerknader på bokmål, nynorsk og engelsk. Versjonsnummer og utgivelsesdato er beholdt.
+Høringspakken for RC1 ble satt sammen 6. august 2026 og oppdatert 24. august 2026. Oppdateringen omfattet revidert struktur for drikkevanns-, spillvanns- og overvannsinfrastruktur, utvidet medlemskap i samlingen «Kommune» og en samlet kvalitetssikring av etiketter og inklusjonsmerknader på bokmål, nynorsk og engelsk.
+
+Etter høringen samles vedtatte endringer i arbeidsgrunnlaget. Versjonen og publiseringsdatoen oppdateres ved neste publisering til Skosmos.
 
 ## Innhold
 
@@ -68,7 +70,8 @@ Byggeresultatet legges i `site/` og skal ikke redigeres eller sjekkes inn manuel
 - 15 toppbegreper
 - 623 `skos:broader`
 - 623 inverse `skos:narrower`
-- 7 022 RDF-tripler
+- 3 «Se også»-koblinger, publisert som 6 `skos:related`-tripler
+- 7 026 RDF-tripler
 
 `xkos:belongsTo` er ikke tatt med i denne utgaven.
 
@@ -84,7 +87,7 @@ Byggeresultatet legges i `site/` og skal ikke redigeres eller sjekkes inn manuel
 - Samsvar med Excel-kilden og statisk RDF: identisk graf
 - `skos:prefLabel`/`skos:altLabel`-kollisjoner: ingen
 - Inklusjons- og eksklusjonsmerknader uten parallelltekst på bokmål og nynorsk: ingen
-- Skosify: fullført, 7 022 tripler inn og ut; resultatet er isomorft med publiseringsfilen
+- Skosify: fullført, 7 026 tripler inn og ut; resultatet er isomorft med publiseringsfilen
 
 Skosify-loggen inneholder informative meldinger om at verktøyet ikke transformerer enkelte XKOS- og EUVoc-egenskaper. Egenskapene er beholdt.
 
@@ -101,6 +104,8 @@ python3 scripts/validate_release.py
 ```
 
 Faglige endringer gjøres i `source/los-source.xlsx`. Deretter regenereres `data/los.ttl`, statisk RDF flettes inn og hele pakken valideres. Pull requests skal inneholde både kildeendringen og de regenererte artefaktene.
+
+Registrer en «Se også»-kobling én gang i kolonnen `skos:related` i Excel. Bruk temaets referanse, for eksempel `los:150004` for «Vegnett». Flere referanser i én celle kan skilles med semikolon. Generatoren legger inn begge retningene. Valideringen kontrollerer at koblingen går mellom to ulike Los-temaer på hver sin gren i hierarkiet.
 
 ## Arbeidsflyt i GitHub
 

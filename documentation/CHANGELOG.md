@@ -1,5 +1,10 @@
 # Endringslogg
 
+## Endringer etter RC1 til neste arbeidsutgave
+
+- «Transportinfrastruktur» er flyttet til «Trafikk og transport». «Kollektivknutepunkt» ligger under «Kollektivtransport». «Vegnett» ligger fortsatt under «Veginfrastruktur».
+- Tre gjensidige «Se også»-koblinger gir innganger fra «Infrastruktur» til «Transportinfrastruktur», fra «Transportinfrastruktur» til «Kollektivknutepunkt» og fra «Vegtrafikk» til «Vegnett». Merknader på bokmål og nynorsk viser til de nye plasseringene.
+
 ## Release Candidate 1 – språk- og etikettkvalitet, 2026-08-24
 
 - Kvalitetssikret foretrukne etiketter på bokmål, nynorsk og engelsk tema for tema og samordnet den semantiske betydningen der det var behov.
