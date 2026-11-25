@@ -1752,8 +1752,8 @@ los:100011 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100012 a skos:Concept ;
-    xkos:exclusionNote "Feilretting, drift og utbygging av de aktuelle infrastruktursystemene hører til Infrastruktur."@nb,
-        "Feilretting, drift og utbygging av dei aktuelle infrastruktursystema høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Feilretting, drift og utbygging av de aktuelle infrastruktursystemene hører til Transportinfrastruktur for transportanlegg og til Infrastruktur for øvrige anlegg."@nb,
+        "Feilretting, drift og utbygging av dei aktuelle infrastruktursystema høyrer til Transportinfrastruktur for transportanlegg og til Infrastruktur for andre anlegg."@nn ;
     xkos:inclusionNote "strømbrudd, bortfall av vann, mobilnett, internett, betalingsløsninger og transport"@nb,
         "straumbrot, bortfall av vatn, mobilnett, internett, betalingsløysingar og transport"@nn ;
     skos:broader los:100002 ;
@@ -1836,8 +1836,8 @@ los:100018 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100019 a skos:Concept ;
-    xkos:exclusionNote "Teknisk reparasjon og fornyelse av infrastrukturanlegg hører til Infrastruktur."@nb,
-        "Teknisk reparasjon og fornying av infrastrukturanlegg høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Teknisk reparasjon og fornyelse av infrastrukturanlegg hører til Transportinfrastruktur for transportanlegg og til Infrastruktur for øvrige anlegg."@nb,
+        "Teknisk reparasjon og fornying av infrastrukturanlegg høyrer til Transportinfrastruktur for transportanlegg og til Infrastruktur for andre anlegg."@nn ;
     xkos:inclusionNote "normalisering, gjenoppbygging, evaluering, læring og tilbakeføring av tjenester etter krise"@nb,
         "normalisering, gjenoppbygging, evaluering, læring og tilbakeføring av tenester etter krise"@nn ;
     skos:broader los:100003 ;
@@ -2088,8 +2088,8 @@ los:100042 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100043 a skos:Concept ;
-    xkos:exclusionNote "Produksjon, distribusjon og fysiske anlegg for vann, energi, transport og digital kommunikasjon hører til Infrastruktur."@nb,
-        "Produksjon, distribusjon og fysiske anlegg for vatn, energi, transport og digital kommunikasjon høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Produksjon, distribusjon og fysiske anlegg for vann, energi og digital kommunikasjon hører til Infrastruktur. Fysiske transportanlegg hører til Transportinfrastruktur."@nb,
+        "Produksjon, distribusjon og fysiske anlegg for vatn, energi og digital kommunikasjon høyrer til Infrastruktur. Fysiske transportanlegg høyrer til Transportinfrastruktur."@nn ;
     xkos:inclusionNote "sikker tilgang til mat, vann, energi, legemidler, drivstoff, transport og andre kritiske leveranser"@nb,
         "trygg tilgang til mat, vatn, energi, legemiddel, drivstoff, transport og andre kritiske leveransar"@nn ;
     skos:broader los:100009 ;
@@ -2100,8 +2100,8 @@ los:100043 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100044 a skos:Concept ;
-    xkos:exclusionNote "Feilretting og teknisk drift av infrastrukturen hører til Infrastruktur. Praktiske råd til husholdninger hører til Egenberedskap."@nb,
-        "Feilretting og teknisk drift av infrastrukturen høyrer til Infrastruktur. Praktiske råd til hushald høyrer til Eigenberedskap."@nn ;
+    xkos:exclusionNote "Feilretting og teknisk drift av infrastrukturen hører til Transportinfrastruktur for transportanlegg og til Infrastruktur for øvrige anlegg. Praktiske råd til husholdninger hører til Egenberedskap."@nb,
+        "Feilretting og teknisk drift av infrastrukturen høyrer til Transportinfrastruktur for transportanlegg og til Infrastruktur for andre anlegg. Praktiske råd til hushald høyrer til Eigenberedskap."@nn ;
     xkos:inclusionNote "langvarig strømbrudd, bortfall av vannforsyning, transport, kommunikasjon, betaling og andre samfunnskritiske tjenester"@nb,
         "langvarig straumbrot, bortfall av vassforsyning, transport, kommunikasjon, betaling og andre samfunnskritiske tenester"@nn ;
     skos:broader los:100009 ;
@@ -2395,8 +2395,8 @@ los:130010 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:130011 a skos:Concept ;
-    xkos:exclusionNote "Fysiske skilt, signalanlegg og veimerking hører til Infrastruktur når hovedinnholdet gjelder anlegget."@nb,
-        "Fysiske skilt, signalanlegg og vegmerking høyrer til Infrastruktur når hovudinnhaldet gjeld anlegget."@nn ;
+    xkos:exclusionNote "Fysiske skilt, signalanlegg og veimerking hører til Veginfrastruktur når hovedinnholdet gjelder anlegget."@nb,
+        "Fysiske skilt, signalanlegg og vegmerking høyrer til Veginfrastruktur når hovudinnhaldet gjeld anlegget."@nn ;
     xkos:inclusionNote "trafikkregler, skiltregulering, fart, parkering, kjøreretning, forbud og påbud i trafikken"@nb,
         "trafikkreglar, skiltregulering, fart, parkering, køyreretning, forbod og påbod i trafikken"@nn ;
     skos:altLabel "Trafikkregler"@nb,
@@ -2547,8 +2547,8 @@ los:130036 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:130037 a skos:Concept ;
-    xkos:exclusionNote "Fysisk vedlikehold av vei som infrastrukturobjekt hører til Infrastruktur."@nb,
-        "Fysisk vedlikehald av veg som infrastrukturobjekt høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Fysisk vedlikehold av vei som infrastrukturobjekt hører til Vegvedlikehold."@nb,
+        "Fysisk vedlikehald av veg som infrastrukturobjekt høyrer til Vegvedlikehald."@nn ;
     xkos:inclusionNote "veistenging, omkjøring, arbeid på vei og midlertidige trafikktiltak"@nb,
         "vegstenging, omkøyring, arbeid på veg og midlertidige trafikktiltak"@nn ;
     skos:altLabel "Veiarbeid"@nb ;
@@ -2684,16 +2684,6 @@ los:150014 a skos:Concept ;
     skos:prefLabel "Small craft harbour"@en,
         "Småbåthavn"@nb,
         "Småbåthamn"@nn ;
-    euvoc:status concept-status:CURRENT .
-
-los:150016 a skos:Concept ;
-    xkos:inclusionNote "bussterminal, holdeplass, stasjon, terminal og overgangspunkt"@nb,
-        "bussterminal, haldeplass, stasjon, terminal og overgangpunkt"@nn ;
-    skos:broader los:150002 ;
-    skos:inScheme <https://id.norge.no/los> ;
-    skos:prefLabel "Public transport hub"@en,
-        "Kollektivknutepunkt"@nb,
-        "Kollektivknutepunkt"@nn ;
     euvoc:status concept-status:CURRENT .
 
 los:150030 a skos:Concept ;
@@ -4808,6 +4798,17 @@ los:150015 a skos:Concept ;
         "Lufthamnanlegg"@nn ;
     euvoc:status concept-status:CURRENT .
 
+los:150016 a skos:Concept ;
+    xkos:inclusionNote "bussterminal, holdeplass, stasjon, terminal og overgangspunkt"@nb,
+        "bussterminal, haldeplass, stasjon, terminal og overgangpunkt"@nn ;
+    skos:broader los:130025 ;
+    skos:inScheme <https://id.norge.no/los> ;
+    skos:prefLabel "Public transport hub"@en,
+        "Kollektivknutepunkt"@nb,
+        "Kollektivknutepunkt"@nn ;
+    skos:related los:150002 ;
+    euvoc:status concept-status:CURRENT .
+
 los:150018 a skos:Concept ;
     xkos:inclusionNote "grunnvann, overflatevann, brønn, råvannsmagasin og andre kilder som brukes til drikkevannsproduksjon"@nb,
         "grunnvatn, overflatevatn, brønn, råvassmagasin og andre kjelder som blir brukte til drikkevassproduksjon"@nn ;
@@ -5489,8 +5490,8 @@ los:130009 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:130016 a skos:Concept ;
-    xkos:exclusionNote "Havner, kaier og farleder hører til Infrastruktur."@nb,
-        "Hamner, kaiar og farleier høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Havner, kaier og farleder hører til Havneanlegg og farleder."@nb,
+        "Hamner, kaiar og farleier høyrer til Hamneanlegg og farleier."@nn ;
     xkos:inclusionNote "fartøy, skipstrafikk, fritidsbåt, sjøtransport og tillatelse til å føre fartøy"@nb,
         "fartøy, skipstrafikk, fritidsbåt, sjøtransport og løyve til å føre fartøy"@nn ;
     skos:altLabel "Sjøtransport"@nb,
@@ -5506,8 +5507,8 @@ los:130016 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:130021 a skos:Concept ;
-    xkos:exclusionNote "Lufthavner, rullebaner og landingsplasser hører til Infrastruktur."@nb,
-        "Lufthamner, rullebanar og landingsplassar høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Lufthavner, rullebaner og landingsplasser hører til Lufthavnanlegg."@nb,
+        "Lufthamner, rullebanar og landingsplassar høyrer til Lufthamnanlegg."@nn ;
     xkos:inclusionNote "luftfartøy, flyging, drone, flysertifikat og lufttransport"@nb,
         "luftfartøy, flyging, drone, flysertifikat og lufttransport"@nn ;
     skos:altLabel "Flytrafikk"@nb,
@@ -5656,19 +5657,6 @@ los:140034 a skos:Concept ;
     skos:prefLabel "Grants for voluntary and non-profit organisations"@en,
         "Tilskudd til frivillige og ideelle organisasjoner"@nb,
         "Tilskot til frivillige og ideelle organisasjonar"@nn ;
-    euvoc:status concept-status:CURRENT .
-
-los:150004 a skos:Concept ;
-    xkos:inclusionNote "europavei, riksvei, fylkesvei, kommunal vei og privat vei"@nb,
-        "europaveg, riksveg, fylkesveg, kommunal veg og privat veg"@nn ;
-    skos:altLabel "Vegsystem"@nb,
-        "Veinett"@nb,
-        "Vegsystem"@nn ;
-    skos:broader los:150003 ;
-    skos:inScheme <https://id.norge.no/los> ;
-    skos:prefLabel "Road network"@en,
-        "Vegnett"@nb,
-        "Vegnett"@nn ;
     euvoc:status concept-status:CURRENT .
 
 los:010002 a skos:Concept ;
@@ -6011,8 +5999,8 @@ los:130003 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:130013 a skos:Concept ;
-    xkos:exclusionNote "Jernbanespor, stasjoner og signalanlegg hører til Infrastruktur."@nb,
-        "Jernbanespor, stasjonar og signalanlegg høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Jernbanespor, stasjoner og signalanlegg hører til Jernbaneinfrastruktur."@nb,
+        "Jernbanespor, stasjonar og signalanlegg høyrer til Jernbaneinfrastruktur."@nn ;
     xkos:inclusionNote "togtrafikk, trikk, T-bane, skinnegående kjøretøy og passasjerrettigheter i jernbanetrafikk"@nb,
         "togtrafikk, trikk, T-bane, skinnegåande køyretøy og passasjerrettar i jernbanetrafikk"@nn ;
     skos:broader los:130001 ;
@@ -6132,6 +6120,20 @@ los:140021 a skos:Concept ;
     skos:prefLabel "Organisation number and organisation details"@en,
         "Organisasjonsnummer og virksomhetsopplysninger"@nb,
         "Organisasjonsnummer og verksemdsopplysningar"@nn ;
+    euvoc:status concept-status:CURRENT .
+
+los:150004 a skos:Concept ;
+    xkos:inclusionNote "europavei, riksvei, fylkesvei, kommunal vei og privat vei"@nb,
+        "europaveg, riksveg, fylkesveg, kommunal veg og privat veg"@nn ;
+    skos:altLabel "Vegsystem"@nb,
+        "Veinett"@nb,
+        "Vegsystem"@nn ;
+    skos:broader los:150003 ;
+    skos:inScheme <https://id.norge.no/los> ;
+    skos:prefLabel "Road network"@en,
+        "Vegnett"@nb,
+        "Vegnett"@nn ;
+    skos:related los:130002 ;
     euvoc:status concept-status:CURRENT .
 
 los:150041 a skos:Concept ;
@@ -6352,8 +6354,8 @@ los:100007 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100009 a skos:Concept ;
-    xkos:exclusionNote "Produksjonsanlegg, ledningsnett, transportnett og digital infrastruktur som system, anlegg og ordinær teknisk drift hører til Infrastruktur."@nb,
-        "Produksjonsanlegg, leidningsnett, transportnett og digital infrastruktur som system, anlegg og ordinær teknisk drift høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Produksjonsanlegg, ledningsnett og digital infrastruktur som system, anlegg og ordinær teknisk drift hører til Infrastruktur. For transportnett, se Transportinfrastruktur."@nb,
+        "Produksjonsanlegg, leidningsnett og digital infrastruktur som system, anlegg og ordinær teknisk drift høyrer til Infrastruktur. For transportnett, sjå Transportinfrastruktur."@nn ;
     xkos:inclusionNote "beredskap for å opprettholde kritiske samfunnsfunksjoner, leveranser og tjenester ved bortfall"@nb,
         "beredskap for å oppretthalde kritiske samfunnsfunksjonar, leveransar og tenester ved bortfall"@nn ;
     skos:broader los:100001 ;
@@ -6895,43 +6897,6 @@ los:120001 a skos:Concept ;
     skos:topConceptOf <https://id.norge.no/los> ;
     euvoc:status concept-status:CURRENT .
 
-los:130002 a skos:Concept ;
-    xkos:exclusionNote "Fysisk veinett og veirelatert infrastruktur hører til Infrastruktur."@nb,
-        "Fysisk vegnett og vegrelatert infrastruktur høyrer til Infrastruktur."@nn ;
-    xkos:inclusionNote "trafikk på vei, kjøretøy, førerkort, trafikkregulering og trafikksikkerhet"@nb,
-        "trafikk på veg, køyretøy, førarkort, trafikkregulering og trafikktryggleik"@nn ;
-    skos:altLabel "Veitrafikk"@nb ;
-    skos:broader los:130001 ;
-    skos:inScheme <https://id.norge.no/los> ;
-    skos:narrower los:130003,
-        los:130007,
-        los:130008,
-        los:130009,
-        los:130011,
-        los:130012 ;
-    skos:prefLabel "Road traffic"@en,
-        "Vegtrafikk"@nb,
-        "Vegtrafikk"@nn ;
-    euvoc:status concept-status:CURRENT .
-
-los:130025 a skos:Concept ;
-    xkos:exclusionNote "Fysiske kollektivknutepunkt, holdeplasser og terminaler hører til Infrastruktur."@nb,
-        "Fysiske kollektivknutepunkt, haldeplassar og terminalar høyrer til Infrastruktur."@nn ;
-    xkos:inclusionNote "rutesatt persontransport, reisebillett, ruteinformasjon, takster og reisegaranti"@nb,
-        "rutesett persontransport, reisebillett, ruteinformasjon, takstar og reisegaranti"@nn ;
-    skos:altLabel "Kollektivtrafikk"@nb,
-        "Kollektivtrafikk"@nn ;
-    skos:broader los:130001 ;
-    skos:inScheme <https://id.norge.no/los> ;
-    skos:narrower los:130026,
-        los:130027,
-        los:130028,
-        los:130029 ;
-    skos:prefLabel "Public transport"@en,
-        "Kollektivtransport"@nb,
-        "Kollektivtransport"@nn ;
-    euvoc:status concept-status:CURRENT .
-
 los:140011 a skos:Concept ;
     xkos:exclusionNote "Omfatter ikke mattrygghet, ernæring, forbrukerrettigheter, naturvern eller næringsutvikling generelt."@nb,
         "Omfattar ikkje mattryggleik, ernæring, forbrukarrettar, naturvern eller næringsutvikling generelt."@nn ;
@@ -7168,6 +7133,43 @@ los:120005 a skos:Concept ;
         "Bustadsosial støtte"@nn ;
     euvoc:status concept-status:CURRENT .
 
+los:130002 a skos:Concept ;
+    xkos:exclusionNote "Fysisk vegnett hører til Vegnett. Annen fysisk infrastruktur for vegtrafikk hører til Veginfrastruktur."@nb,
+        "Fysisk vegnett høyrer til Vegnett. Annan fysisk infrastruktur for vegtrafikk høyrer til Veginfrastruktur."@nn ;
+    xkos:inclusionNote "trafikk på vei, kjøretøy, førerkort, trafikkregulering og trafikksikkerhet"@nb,
+        "trafikk på veg, køyretøy, førarkort, trafikkregulering og trafikktryggleik"@nn ;
+    skos:altLabel "Veitrafikk"@nb ;
+    skos:broader los:130001 ;
+    skos:inScheme <https://id.norge.no/los> ;
+    skos:narrower los:130003,
+        los:130007,
+        los:130008,
+        los:130009,
+        los:130011,
+        los:130012 ;
+    skos:prefLabel "Road traffic"@en,
+        "Vegtrafikk"@nb,
+        "Vegtrafikk"@nn ;
+    skos:related los:150004 ;
+    euvoc:status concept-status:CURRENT .
+
+los:130025 a skos:Concept ;
+    xkos:inclusionNote "rutesatt persontransport, reisebillett, ruteinformasjon, takster, reisegaranti og kollektivknutepunkt"@nb,
+        "rutesett persontransport, reisebillett, ruteinformasjon, takstar, reisegaranti og kollektivknutepunkt"@nn ;
+    skos:altLabel "Kollektivtrafikk"@nb,
+        "Kollektivtrafikk"@nn ;
+    skos:broader los:130001 ;
+    skos:inScheme <https://id.norge.no/los> ;
+    skos:narrower los:130026,
+        los:130027,
+        los:130028,
+        los:130029,
+        los:150016 ;
+    skos:prefLabel "Public transport"@en,
+        "Kollektivtransport"@nb,
+        "Kollektivtransport"@nn ;
+    euvoc:status concept-status:CURRENT .
+
 los:140002 a skos:Concept ;
     xkos:inclusionNote "oppstart, registrering, organisasjonsform, virksomhetsopplysninger, endringer, avvikling og sletting"@nb,
         "oppstart, registrering, organisasjonsform, verksemdsopplysningar, endringar, avvikling og sletting"@nn ;
@@ -7182,22 +7184,6 @@ los:140002 a skos:Concept ;
     skos:prefLabel "Establishing, changing and closing a business or organisation"@en,
         "Etablering, endring og avvikling av virksomhet"@nb,
         "Etablering, endring og avvikling av verksemd"@nn ;
-    euvoc:status concept-status:CURRENT .
-
-los:150002 a skos:Concept ;
-    xkos:inclusionNote "veginfrastruktur, gang- og sykkelinfrastruktur, jernbaneinfrastruktur, havneanlegg og farleder, lufthavnanlegg og kollektivknutepunkt"@nb,
-        "veginfrastruktur, gang- og sykkelinfrastruktur, jernbaneinfrastruktur, hamneanlegg og farleier, lufthamnanlegg og kollektivknutepunkt"@nn ;
-    skos:broader los:150001 ;
-    skos:inScheme <https://id.norge.no/los> ;
-    skos:narrower los:150003,
-        los:150009,
-        los:150010,
-        los:150011,
-        los:150015,
-        los:150016 ;
-    skos:prefLabel "Transport infrastructure"@en,
-        "Transportinfrastruktur"@nb,
-        "Transportinfrastruktur"@nn ;
     euvoc:status concept-status:CURRENT .
 
 los:150017 a skos:Concept ;
@@ -7331,20 +7317,21 @@ los:100010 a skos:Concept ;
         "Digital tryggleik og beredskap"@nn ;
     euvoc:status concept-status:CURRENT .
 
-los:130001 a skos:Concept ;
+los:150002 a skos:Concept ;
+    xkos:inclusionNote "veginfrastruktur, gang- og sykkelinfrastruktur, jernbaneinfrastruktur, havneanlegg og farleder og lufthavnanlegg"@nb,
+        "veginfrastruktur, gang- og sykkelinfrastruktur, jernbaneinfrastruktur, hamneanlegg og farleier og lufthamnanlegg"@nn ;
+    skos:broader los:130001 ;
     skos:inScheme <https://id.norge.no/los> ;
-    skos:narrower los:130002,
-        los:130013,
-        los:130016,
-        los:130021,
-        los:130025,
-        los:130030,
-        los:130031,
-        los:130034 ;
-    skos:prefLabel "Traffic and transport"@en,
-        "Trafikk og transport"@nb,
-        "Trafikk og transport"@nn ;
-    skos:topConceptOf <https://id.norge.no/los> ;
+    skos:narrower los:150003,
+        los:150009,
+        los:150010,
+        los:150011,
+        los:150015 ;
+    skos:prefLabel "Transport infrastructure"@en,
+        "Transportinfrastruktur"@nb,
+        "Transportinfrastruktur"@nn ;
+    skos:related los:150001,
+        los:150016 ;
     euvoc:status concept-status:CURRENT .
 
 los:150065 a skos:Concept ;
@@ -7414,8 +7401,8 @@ los:080003 a skos:Concept ;
     euvoc:status concept-status:CURRENT .
 
 los:100001 a skos:Concept ;
-    xkos:exclusionNote "Utbygging, egenskaper og ordinær teknisk drift av fysiske og digitale infrastruktursystem hører til Infrastruktur."@nb,
-        "Utbygging, eigenskapar og ordinær teknisk drift av fysiske og digitale infrastruktursystem høyrer til Infrastruktur."@nn ;
+    xkos:exclusionNote "Utbygging, egenskaper og ordinær teknisk drift av fysiske og digitale infrastruktursystem hører til Transportinfrastruktur for transportanlegg og til Infrastruktur for øvrige anlegg."@nb,
+        "Utbygging, eigenskapar og ordinær teknisk drift av fysiske og digitale infrastruktursystem høyrer til Transportinfrastruktur for transportanlegg og til Infrastruktur for andre anlegg."@nn ;
     skos:inScheme <https://id.norge.no/los> ;
     skos:narrower los:100002,
         los:100003,
@@ -7474,10 +7461,26 @@ los:120002 a skos:Concept ;
         "Økonomiske ytingar og inntektssikring"@nn ;
     euvoc:status concept-status:CURRENT .
 
+los:130001 a skos:Concept ;
+    skos:inScheme <https://id.norge.no/los> ;
+    skos:narrower los:130002,
+        los:130013,
+        los:130016,
+        los:130021,
+        los:130025,
+        los:130030,
+        los:130031,
+        los:130034,
+        los:150002 ;
+    skos:prefLabel "Traffic and transport"@en,
+        "Trafikk og transport"@nb,
+        "Trafikk og transport"@nn ;
+    skos:topConceptOf <https://id.norge.no/los> ;
+    euvoc:status concept-status:CURRENT .
+
 los:150001 a skos:Concept ;
     skos:inScheme <https://id.norge.no/los> ;
-    skos:narrower los:150002,
-        los:150017,
+    skos:narrower los:150017,
         los:150022,
         los:150029,
         los:150033,
@@ -7488,6 +7491,7 @@ los:150001 a skos:Concept ;
     skos:prefLabel "Infrastructure"@en,
         "Infrastruktur"@nb,
         "Infrastruktur"@nn ;
+    skos:related los:150002 ;
     skos:topConceptOf <https://id.norge.no/los> ;
     euvoc:status concept-status:CURRENT .
 

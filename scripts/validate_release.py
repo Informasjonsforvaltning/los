@@ -133,6 +133,13 @@ def _validate_quality(graph):
     cycles = _hierarchy_cycles(graph, concepts)
     _require(not cycles, f"Fant {len(cycles)} hierarkiske sykler", errors)
 
+    related = set(graph.subject_objects(SKOS.related))
+    for subject, target in related:
+        _require(subject in concepts and target in concepts, f"Se også må koble to Los-temaer: {subject} -> {target}", errors)
+        _require((target, subject) in related, f"Mangler motsatt Se også-henvisning: {subject} -> {target}", errors)
+        ancestors = graph.transitive_objects(subject, SKOS.broader)
+        _require(target not in ancestors, f"Se også viser til samme tema eller et overordnet tema: {subject} -> {target}", errors)
+
     missing_nb_nn = []
     label_collisions = []
     for concept in concepts:
@@ -191,6 +198,7 @@ def _validate_quality(graph):
         "top_concepts": len(set(graph.subjects(SKOS.topConceptOf, None))),
         "broader": len(broader),
         "narrower": len(narrower),
+        "related": len(related),
         "alt_labels": len(set(graph.triples((None, SKOS.altLabel, None)))),
         "inclusion_notes": len(set(graph.triples((None, XKOS.inclusionNote, None)))),
         "exclusion_notes": len(set(graph.triples((None, XKOS.exclusionNote, None)))),
@@ -225,6 +233,7 @@ def _write_reports(errors, counts=None, source_matches=None, skosified=None):
         f"Collections: {counts['collections']}",
         f"Top concepts: {counts['top_concepts']}",
         f"broader relations: {counts['broader']}",
+        f"related relations (both directions): {counts['related']}",
         f"narrower relations: {counts['narrower']}",
         f"altLabel values: {counts['alt_labels']}",
         f"inclusionNote values: {counts['inclusion_notes']}",

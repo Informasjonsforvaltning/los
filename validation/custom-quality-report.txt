@@ -1,16 +1,17 @@
 Los custom quality report
 =========================
-Source SHA-256: eecda5a816b36b7dfcf251c59404fe31547fa5b3bed7c535497ce15dcac2fb03
+Source SHA-256: 46a726f787d16ba3f81867ddef1d29952c2c186479eb9801784885d5f0abfaaf
 Published graph exactly matches Excel source plus static RDF: yes
-Triples: 7022
+Triples: 7026
 Concepts: 638
 Collections: 10
 Top concepts: 15
 broader relations: 623
+related relations (both directions): 6
 narrower relations: 623
 altLabel values: 435
 inclusionNote values: 790
-exclusionNote values: 190
+exclusionNote values: 188
 euvoc:comment values: 3
 Missing inverse narrower: 0
 Hierarchy cycles: 0
@@ -23,5 +24,5 @@ xkos:belongsTo relations: 0
 Theme 14 euvoc:comment values containing 3235: 0
 Mandatory XKOS GUI metadata: present
 Work hierarchy checks: passed
-Skosify triples: 7022
+Skosify triples: 7026
 Skosify graph isomorphic with input: yes

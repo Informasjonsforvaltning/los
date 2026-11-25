@@ -165,6 +165,11 @@ def _add_source_rows(graph, sheets, scheme, prefixes):
                         graph.add((subject, SKOS.broader, broader))
                         graph.add((broader, SKOS.narrower, subject))
                         concept_broader[subject].add(broader)
+                elif header_name == "skos:related":
+                    for reference in _split_references(raw_value):
+                        target = _resource(reference, prefixes)
+                        graph.add((subject, SKOS.related, target))
+                        graph.add((target, SKOS.related, subject))
                 elif header_name == "^skos:member":
                     for reference in _split_references(raw_value):
                         collection = _resource(reference, prefixes)
